@@ -67,12 +67,12 @@
         <mark key="." line="156" column="0" />
         <mark key="^" line="163" column="20" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/js/app/minigrant.js" timestamp="1461617952547">
-        <mark key="'" line="255" column="51" />
-        <mark key="[" line="234" column="39" />
-        <mark key="]" line="235" column="28" />
-        <mark key="." line="235" column="28" />
-        <mark key="^" line="235" column="28" />
+      <file name="$USER_HOME$/Sites/Rescue/helix/js/app/minigrant.js" timestamp="1461621178110">
+        <mark key="'" line="257" column="51" />
+        <mark key="[" line="238" column="21" />
+        <mark key="]" line="238" column="34" />
+        <mark key="." line="238" column="34" />
+        <mark key="^" line="238" column="34" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/controllers/reports.php" timestamp="1460584971536">
         <mark key="'" line="553" column="54" />
@@ -176,12 +176,12 @@
         <mark key="." line="441" column="97" />
         <mark key="^" line="441" column="97" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/views/minigrant/ystreet_2016/info.php" timestamp="1461617133195">
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/views/minigrant/ystreet_2016/info.php" timestamp="1461621026298">
         <mark key="'" line="220" column="13" />
-        <mark key="[" line="307" column="11" />
-        <mark key="]" line="309" column="11" />
-        <mark key="^" line="309" column="11" />
-        <mark key="." line="309" column="11" />
+        <mark key="[" line="205" column="43" />
+        <mark key="]" line="205" column="47" />
+        <mark key="^" line="205" column="47" />
+        <mark key="." line="205" column="47" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/survey-admin/public/js/app/tracker.js" timestamp="1461286490703">
         <mark key="'" line="10" column="8" />
@@ -410,7 +410,7 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>Other</text>
+        <text>('.applicant-other')</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -464,7 +464,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Other</text>
+        <text>('.applicant-other')</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjb0Fkdmlzb3JEaXNwbGF5XD4=</text>
@@ -473,25 +473,25 @@
         <text encoding="base64">ICAgICAgICAgICAgPGJyPgo=</text>
       </register>
       <register name="1" type="4">
-        <text>Other</text>
+        <text>('.applicant-other')</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA7Cg==</text>
+      <register name="2" type="4">
+        <text>('.applicant-other')</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>)</text>
       </register>
       <register name="5" type="4">
-        <text>.</text>
+        <text>('.applicant-other'</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
+      <register name="6" type="4">
+        <text>;</text>
       </register>
       <register name="7" type="4">
-        <text>$advisorSelect.</text>
+        <text>emoveClass</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -500,10 +500,10 @@
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>w;:w</text>
       </register>
     </registers>
     <search>
@@ -539,7 +539,6 @@
         <entry encoding="base64">XDxjb0Fkdmlzb3JEaXNwbGF5XD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>Lw</entry>
         <entry>W</entry>
         <entry>314</entry>
         <entry>ww</entry>
@@ -559,6 +558,7 @@
         <entry>w:w</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
+        <entry>w;:w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
