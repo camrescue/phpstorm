@@ -1,0 +1,17 @@
+<keymap version="1" name="Default copy" parent="Mac OS X 10.5+">
+  <action id="Console.Execute" />
+  <action id="Console.TableResult.EditValue">
+    <keyboard-shortcut first-keystroke="f2" />
+    <keyboard-shortcut first-keystroke="alt enter" />
+  </action>
+  <action id="EditorChooseLookupItem" />
+  <action id="EditorEnter" />
+  <action id="GotoFile">
+    <keyboard-shortcut first-keystroke="shift meta n" />
+  </action>
+  <action id="Images.Thumbnails.EnterAction" />
+  <action id="NewScratchFile" />
+  <action id="NextTemplateVariable">
+    <keyboard-shortcut first-keystroke="tab" />
+  </action>
+</keymap>

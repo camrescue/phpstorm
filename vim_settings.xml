@@ -54,6 +54,7 @@
         <mark key="." line="940" column="43" />
         <mark key="^" line="940" column="43" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/views/minigrant/header.php" timestamp="1461612488909" />
       <file name="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/shared/fluidField.js" timestamp="1461178066098">
         <mark key="'" line="46" column="31" />
       </file>
@@ -142,6 +143,11 @@
       </file>
       <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/Reminder.php" timestamp="1461194643378">
         <mark key="'" line="32" column="31" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/views/minigrant/application/sidebar.php" timestamp="1461613510352">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/DashboardData.php" timestamp="1461103924228">
         <mark key="'" line="138" column="21" />
@@ -238,12 +244,20 @@
         <mark key="." line="65" column="60" />
         <mark key="^" line="65" column="60" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/views/minigrant/ystreet_2015/info.php" timestamp="1461612383791">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/lgbt_minnesota/src/main.js" timestamp="1461258085590">
         <mark key="'" line="185" column="16" />
         <mark key="[" line="198" column="56" />
         <mark key="]" line="198" column="56" />
         <mark key="^" line="198" column="56" />
         <mark key="." line="198" column="56" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/controllers/minigrants.php" timestamp="1461612594437">
+        <mark key="'" line="367" column="4" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/Log.php" timestamp="1461196277834">
         <mark key="'" line="13" column="12" />
@@ -254,8 +268,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="60" column="25" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/gulpfile.js" />
-      <jump line="5" column="25" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/gulpfile.js" />
       <jump line="46" column="13" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/gulpfile.js" />
       <jump line="48" column="16" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/gulpfile.js" />
       <jump line="103" column="11" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/gulpfile.js" />
@@ -354,13 +366,15 @@
       <jump line="214" column="36" filename="$USER_HOME$/Sites/Rescue/survey-admin/resources/views/surveys/tracker.blade.php" />
       <jump line="343" column="63" filename="$USER_HOME$/Sites/Rescue/survey-admin/resources/views/surveys/tracker.blade.php" />
       <jump line="342" column="36" filename="$USER_HOME$/Sites/Rescue/survey-admin/resources/views/surveys/tracker.blade.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/minigrants.php" />
+      <jump line="367" column="4" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/minigrants.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">PC9zcGFuPg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -414,52 +428,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PC9zcGFuPg==</text>
+        <text encoding="base64">PHBocG8+PC9waHBvPg==</text>
       </register>
       <register name="/" type="4">
-        <text>zip</text>
+        <text>function appl</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJ2FnZScgICAgICAgICAgICAgICAgICAgICAgICAgICA9PiAnYWdlJywK</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">PC9zcGFuPg==</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ3F1ZXN0aW9ubmFpcmVfY29tcGxldGlvbl90aW1lJyA9PiAncXVlc3Rpb25uYWlyZV9jb21wbGV0aW9uX3RpbWUnLAo=</text>
+        <text encoding="base64">PD9waHAgbygpID8+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2FnZScgICAgICAgICAgICAgICAgICAgICAgICAgICA9PiAnYWdlJywK</text>
+        <text encoding="base64">PD9waHAgID8+Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>screener_ip</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICA8cGhwbz48L3BocG8+Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJ2VtYWlsJyAgICAgICAgICAgICAgICAgICAgICAgICA9PiAnZW1haWwnLAo=</text>
+      <register name="5" type="4">
+        <text encoding="base64">PHBocG8+PC9waHBvPg==</text>
       </register>
       <register name="6" type="4">
-        <text>age</text>
+        <text encoding="base64">PD9waHAgbyg=</text>
       </register>
       <register name="7" type="4">
-        <text>age</text>
+        <text>p</text>
       </register>
       <register name="8" type="4">
-        <text>newDuplicateValues</text>
+        <text>h</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB3aWR0aCAgOiA5OCU7Cg==</text>
+      <register name="9" type="4">
+        <text>p</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>zip</last-search>
+      <last-search>function appl</last-search>
       <last-offset />
-      <last-pattern>zip</last-pattern>
+      <last-pattern>function appl</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute>94117</last-substitute>
       <last-dir>1</last-dir>
@@ -467,7 +481,6 @@
     </search>
     <history>
       <history-search>
-        <entry>get</entry>
         <entry encoding="base64">XDxSZWNydWl0bWVudE1ldGhvZFw+</entry>
         <entry>ut_</entry>
         <entry encoding="base64">XDxDT05TRU5UX0NPTkZJUk1FRFw+</entry>
@@ -487,6 +500,7 @@
         <entry>Sort</entry>
         <entry encoding="base64">XDxnZXRTb3J0RmllbGRzXD4=</entry>
         <entry>zip</entry>
+        <entry>function appl</entry>
       </history-search>
       <history-cmd>
         <entry>Lw</entry>
