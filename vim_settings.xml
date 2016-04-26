@@ -10,13 +10,19 @@
         <mark key="^" line="202" column="0" />
         <mark key="." line="202" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1461654439615">
+      <file name="/a.dummy" timestamp="1461655803458">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/shared/fluidField.js" timestamp="1461178066098">
         <mark key="'" line="46" column="31" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/js/app/survey.js" timestamp="1461617530314" />
+      <file name="$USER_HOME$/Sites/Rescue/rscg/.htaccess" timestamp="1461655691058">
+        <mark key="[" line="6" column="30" />
+        <mark key="]" line="6" column="41" />
+        <mark key="." line="6" column="41" />
+        <mark key="^" line="6" column="41" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/survey-data-merge/js/main.js" timestamp="1461366007352">
         <mark key="'" line="19" column="24" />
       </file>
@@ -206,7 +212,7 @@
         <mark key="." line="0" column="27" />
         <mark key="^" line="0" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1461654473026">
+      <file name="/Dummy.txt" timestamp="1461655803451">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/shared/debugger.js" timestamp="1461360666670">
@@ -433,7 +439,7 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>quest</text>
+        <text>rescuescg</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -487,43 +493,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>quest</text>
+        <text>rescuescg</text>
       </register>
       <register name="/" type="4">
         <text>generateUnique</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGJyPgo=</text>
+        <text encoding="base64">UmV3cml0ZUNvbmQgJXtIVFRQX0hPU1R9IF53d3cucmVzY3Vlc2NnLmNvbSBbTkNdClJld3JpdGVSdWxlIF4oLiopJCBodHRwOi8vcmVzY3VlYWdlbmN5LmNvbS8kMSBbUj0zMDEsTF0K</text>
       </register>
       <register name="1" type="4">
-        <text>quest</text>
+        <text>rescuescg</text>
       </register>
       <register name="2" type="4">
+        <text>quest</text>
+      </register>
+      <register name="3" type="4">
         <text>'surveyIdFe3rt',</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgIHN1cnZleUlkS2V5ICAgICAgICAgICAgPSAnc3VydmV5SWRGZTNydCcsCg==</text>
-      </register>
-      <register name="4" type="4">
-        <text>/</text>
       </register>
       <register name="5" type="4">
         <text>/</text>
       </register>
       <register name="6" type="4">
-        <text>surveyIdFe3rt</text>
+        <text>/</text>
       </register>
       <register name="7" type="4">
-        <text>_sent_date</text>
+        <text>surveyIdFe3rt</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRyb3ctPnRpbWVzdGFtcCgicGFyZW50X2VtYWlsX3NlbnRfZGF0ZSIpOwo=</text>
+      <register name="8" type="4">
+        <text>_sent_date</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRyb3ctPnRpbWVzdGFtcCgicGFyZW50X2VtYWlsX3NlbnRfZGF0ZSIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
