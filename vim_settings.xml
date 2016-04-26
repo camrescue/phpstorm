@@ -13,7 +13,9 @@
       <file name="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/shared/fluidField.js" timestamp="1461178066098">
         <mark key="'" line="46" column="31" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/js/app/survey.js" timestamp="1461617530314" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/PageScroll.js" timestamp="1461657372298">
+        <mark key="'" line="12" column="105" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/rscg/.htaccess" timestamp="1461655691058">
         <mark key="[" line="6" column="30" />
         <mark key="]" line="6" column="41" />
@@ -23,7 +25,6 @@
       <file name="$USER_HOME$/Sites/Rescue/survey-data-merge/js/main.js" timestamp="1461366007352">
         <mark key="'" line="19" column="24" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/libraries/minigrants/MiniGrantApplication2014.php" timestamp="1461616361242" />
       <file name="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/index.php" timestamp="1461360463991">
         <mark key="'" line="28" column="0" />
       </file>
@@ -108,7 +109,6 @@
         <mark key="^" line="10" column="31" />
         <mark key="." line="10" column="31" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/libraries/minigrants/MiniGrantApplicationYstreet2015.php" timestamp="1461615408801" />
       <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/DataFormat.php" timestamp="1461262419536">
         <mark key="'" line="537" column="9" />
       </file>
@@ -330,9 +330,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="294" column="58" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
-      <jump line="358" column="80" filename="$USER_HOME$/Sites/Rescue/survey-admin/resources/views/surveys/tracker.blade.php" />
-      <jump line="214" column="36" filename="$USER_HOME$/Sites/Rescue/survey-admin/resources/views/surveys/tracker.blade.php" />
       <jump line="343" column="63" filename="$USER_HOME$/Sites/Rescue/survey-admin/resources/views/surveys/tracker.blade.php" />
       <jump line="342" column="36" filename="$USER_HOME$/Sites/Rescue/survey-admin/resources/views/surveys/tracker.blade.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/minigrants.php" />
@@ -430,6 +427,9 @@
       <jump line="363" column="0" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_quest/main-with-admin.html" />
       <jump line="1073" column="8" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_quest/main-with-admin.html" />
       <jump line="1211" column="29" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_quest/main-with-admin.html" />
+      <jump line="5" column="39" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/PageScroll.js" />
+      <jump line="11" column="115" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/PageScroll.js" />
+      <jump line="12" column="105" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/PageScroll.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -493,7 +493,7 @@
         <text>rescuescg</text>
       </register>
       <register name="/" type="4">
-        <text>run(</text>
+        <text>sr-only</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">UmV3cml0ZUNvbmQgJXtIVFRQX0hPU1R9IF53d3cucmVzY3Vlc2NnLmNvbSBbTkNdClJld3JpdGVSdWxlIF4oLiopJCBodHRwOi8vcmVzY3VlYWdlbmN5LmNvbS8kMSBbUj0zMDEsTF0K</text>
@@ -533,9 +533,9 @@
       </register>
     </registers>
     <search>
-      <last-search>run(</last-search>
+      <last-search>sr-only</last-search>
       <last-offset />
-      <last-pattern>run(</last-pattern>
+      <last-pattern>sr-only</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute>94117</last-substitute>
       <last-dir>1</last-dir>
@@ -543,7 +543,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Email</entry>
         <entry>getEmail</entry>
         <entry>screener_complete</entry>
         <entry encoding="base64">XDxwYXJlbnRFbWFpbFw+</entry>
@@ -563,6 +562,7 @@
         <entry>generate</entry>
         <entry>generateUnique</entry>
         <entry>run(</entry>
+        <entry>sr-only</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
