@@ -276,12 +276,12 @@
       <file name="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_screen/main-with-admin.html" timestamp="1461345143838">
         <mark key="'" line="1364" column="6" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/survey-data-merge/fe/ibase.php" timestamp="1461699327228">
+      <file name="$USER_HOME$/Sites/Rescue/survey-data-merge/fe/ibase.php" timestamp="1461701440288">
         <mark key="'" line="32" column="27" />
-        <mark key="[" line="235" column="27" />
-        <mark key="]" line="235" column="27" />
-        <mark key="." line="235" column="27" />
-        <mark key="^" line="235" column="27" />
+        <mark key="[" line="257" column="25" />
+        <mark key="]" line="257" column="29" />
+        <mark key="." line="257" column="29" />
+        <mark key="^" line="257" column="29" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/rscg/wp-config.php" timestamp="1461654224809">
         <mark key="[" line="43" column="98" />
@@ -445,7 +445,7 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>valueCache = {};</text>
+        <text>wchange</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -499,7 +499,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>valueCache = {};</text>
+        <text>wchange</text>
       </register>
       <register name="/" type="4">
         <text>ibaseBuil</text>
@@ -508,34 +508,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHNldEVycm9yKCdJbnZhbGlkIGliYXNlIHZhbHVlJyk7Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>valueCache = {};</text>
+        <text>wchange</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="2" type="4">
+        <text />
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2V0RXJyb3IoJ0ludmFsaWQgaWJhc2UgdmFsdWUnKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PGRpdiBjbGFzcz0iYWxlcnQgYWxlcnQtZGFuZ2VyIiBpZD0iZXJyb3JNZXNzYWdlIiByb2xlPSJhbGVydCI+PC9kaXY+Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
+        <text>resetInputValues();</text>
       </register>
       <register name="6" type="4">
-        <text>('#errorMessage')</text>
+        <text>valueCache</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkKCcjZXInKQo=</text>
+      <register name="7" type="4">
+        <text>valueCache</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>resetInputValues</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
-      <register name="9" type="4">
-        <text>.</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
