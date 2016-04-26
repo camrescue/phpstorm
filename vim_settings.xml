@@ -10,9 +10,6 @@
         <mark key="^" line="202" column="0" />
         <mark key="." line="202" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1461655803458">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/shared/fluidField.js" timestamp="1461178066098">
         <mark key="'" line="46" column="31" />
       </file>
@@ -496,7 +493,7 @@
         <text>rescuescg</text>
       </register>
       <register name="/" type="4">
-        <text>generateUnique</text>
+        <text>run(</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">UmV3cml0ZUNvbmQgJXtIVFRQX0hPU1R9IF53d3cucmVzY3Vlc2NnLmNvbSBbTkNdClJld3JpdGVSdWxlIF4oLiopJCBodHRwOi8vcmVzY3VlYWdlbmN5LmNvbS8kMSBbUj0zMDEsTF0K</text>
@@ -536,9 +533,9 @@
       </register>
     </registers>
     <search>
-      <last-search>generateUnique</last-search>
+      <last-search>run(</last-search>
       <last-offset />
-      <last-pattern>generateUnique</last-pattern>
+      <last-pattern>run(</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute>94117</last-substitute>
       <last-dir>1</last-dir>
@@ -546,7 +543,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Export</entry>
         <entry>Email</entry>
         <entry>getEmail</entry>
         <entry>screener_complete</entry>
@@ -566,6 +562,7 @@
         <entry>reset</entry>
         <entry>generate</entry>
         <entry>generateUnique</entry>
+        <entry>run(</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
