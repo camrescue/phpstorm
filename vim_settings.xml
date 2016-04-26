@@ -3,8 +3,8 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_quest/main-with-admin.html" timestamp="1461634460692">
-        <mark key="'" line="203" column="9" />
+      <file name="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_quest/main-with-admin.html" timestamp="1461635059027">
+        <mark key="'" line="1211" column="29" />
         <mark key="[" line="201" column="6" />
         <mark key="]" line="202" column="0" />
         <mark key="^" line="202" column="0" />
@@ -115,6 +115,13 @@
         <mark key="]" line="413" column="0" />
         <mark key="^" line="411" column="73" />
         <mark key="." line="413" column="0" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/shared/adminController.js" timestamp="1461634937082">
+        <mark key="'" line="110" column="8" />
+        <mark key="[" line="61" column="44" />
+        <mark key="]" line="61" column="52" />
+        <mark key="^" line="61" column="52" />
+        <mark key="." line="61" column="52" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/Http/Controllers/SurveyController.php" timestamp="1461628716508">
         <mark key="'" line="7" column="8" />
@@ -228,14 +235,14 @@
         <mark key="." line="24" column="109" />
         <mark key="^" line="24" column="109" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_quest/src/main.js" timestamp="1461634437300">
-        <mark key="'" line="259" column="30" />
-        <mark key="[" line="160" column="29" />
-        <mark key="]" line="160" column="47" />
-        <mark key="." line="160" column="47" />
-        <mark key="^" line="160" column="47" />
+      <file name="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_quest/src/main.js" timestamp="1461634968868">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="15" column="47" />
+        <mark key="]" line="15" column="52" />
+        <mark key="." line="15" column="52" />
+        <mark key="^" line="15" column="52" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_quest/src/feConfig.js" timestamp="1461632381130">
+      <file name="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_quest/src/feConfig.js" timestamp="1461634951209">
         <mark key="[" line="2" column="19" />
         <mark key="]" line="2" column="31" />
         <mark key="." line="2" column="31" />
@@ -308,17 +315,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="461" column="43" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
-      <jump line="544" column="31" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
-      <jump line="101" column="160" filename="$USER_HOME$/Sites/Rescue/survey-admin/resources/views/surveys/tracker.blade.php" />
-      <jump line="761" column="0" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
-      <jump line="1632" column="22" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
-      <jump line="1640" column="22" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
-      <jump line="467" column="20" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
-      <jump line="404" column="43" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
-      <jump line="385" column="36" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
-      <jump line="561" column="38" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
-      <jump line="265" column="21" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
       <jump line="294" column="58" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
       <jump line="358" column="80" filename="$USER_HOME$/Sites/Rescue/survey-admin/resources/views/surveys/tracker.blade.php" />
       <jump line="214" column="36" filename="$USER_HOME$/Sites/Rescue/survey-admin/resources/views/surveys/tracker.blade.php" />
@@ -400,7 +396,6 @@
       <jump line="259" column="30" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_quest/src/main.js" />
       <jump line="291" column="15" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_quest/src/main.js" />
       <jump line="296" column="59" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_quest/src/main.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_quest/src/main.js" />
       <jump line="378" column="17" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_screen/src/main.js" />
       <jump line="131" column="32" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_screen/src/main.js" />
       <jump line="137" column="35" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_screen/src/main.js" />
@@ -408,13 +403,25 @@
       <jump line="155" column="0" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_quest/src/main.js" />
       <jump line="258" column="30" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_quest/src/main.js" />
       <jump line="203" column="9" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_quest/main-with-admin.html" />
+      <jump line="157" column="36" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_quest/src/main.js" />
+      <jump line="649" column="28" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_quest/src/main.js" />
+      <jump line="595" column="41" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_quest/src/main.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_quest/src/main.js" />
+      <jump line="55" column="14" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/shared/adminController.js" />
+      <jump line="174" column="7" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/shared/adminController.js" />
+      <jump line="14" column="29" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/shared/adminController.js" />
+      <jump line="61" column="28" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/shared/adminController.js" />
+      <jump line="110" column="8" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/shared/adminController.js" />
+      <jump line="363" column="0" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_quest/main-with-admin.html" />
+      <jump line="1073" column="8" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_quest/main-with-admin.html" />
+      <jump line="1211" column="29" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_quest/main-with-admin.html" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>'surveyIdFe3rt',</text>
+        <text>quest</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -468,52 +475,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>'surveyIdFe3rt',</text>
+        <text>quest</text>
       </register>
       <register name="/" type="4">
-        <text>surveyIdKey</text>
+        <text>generateUnique</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPGJyPgo=</text>
       </register>
       <register name="1" type="4">
+        <text>quest</text>
+      </register>
+      <register name="2" type="4">
         <text>'surveyIdFe3rt',</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">ICAgIHN1cnZleUlkS2V5ICAgICAgICAgICAgPSAnc3VydmV5SWRGZTNydCcsCg==</text>
-      </register>
-      <register name="3" type="4">
-        <text>/</text>
       </register>
       <register name="4" type="4">
         <text>/</text>
       </register>
       <register name="5" type="4">
-        <text>surveyIdFe3rt</text>
+        <text>/</text>
       </register>
       <register name="6" type="4">
+        <text>surveyIdFe3rt</text>
+      </register>
+      <register name="7" type="4">
         <text>_sent_date</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRyb3ctPnRpbWVzdGFtcCgicGFyZW50X2VtYWlsX3NlbnRfZGF0ZSIpOwo=</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRyb3ctPnRpbWVzdGFtcCgicGFyZW50X2VtYWlsX3NlbnRfZGF0ZSIpOwo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>surveyIdKey</last-search>
+      <last-search>generateUnique</last-search>
       <last-offset />
-      <last-pattern>surveyIdKey</last-pattern>
+      <last-pattern>generateUnique</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute>94117</last-substitute>
       <last-dir>1</last-dir>
@@ -521,12 +528,6 @@
     </search>
     <history>
       <history-search>
-        <entry>drop</entry>
-        <entry>advisor</entry>
-        <entry encoding="base64">XDxjb0Fkdmlzb3JEaXNwbGF5XD4=</entry>
-        <entry>ParentEmail</entry>
-        <entry>sendParent</entry>
-        <entry>export</entry>
         <entry>Export</entry>
         <entry>Email</entry>
         <entry>getEmail</entry>
@@ -541,6 +542,12 @@
         <entry encoding="base64">XDxzdXJ2ZXlJZEtleVw+</entry>
         <entry>surveyKey</entry>
         <entry>surveyIdKey</entry>
+        <entry>adminController</entry>
+        <entry encoding="base64">XDxjb25maWdcPg==</entry>
+        <entry>config</entry>
+        <entry>reset</entry>
+        <entry>generate</entry>
+        <entry>generateUnique</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
