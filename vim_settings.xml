@@ -11,6 +11,19 @@
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/PageScroll.js" timestamp="1461657372298">
         <mark key="'" line="12" column="105" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/helix/js/app/survey.js" timestamp="1461870870357">
+        <mark key="'" line="531" column="20" />
+        <mark key="[" line="536" column="28" />
+        <mark key="]" line="536" column="37" />
+        <mark key="^" line="536" column="37" />
+        <mark key="." line="536" column="37" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/rscg/.htaccess" timestamp="1461655691058">
+        <mark key="[" line="6" column="30" />
+        <mark key="]" line="6" column="41" />
+        <mark key="." line="6" column="41" />
+        <mark key="^" line="6" column="41" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/survey-data-merge/js/main.js" timestamp="1461366007352">
         <mark key="'" line="19" column="24" />
       </file>
@@ -18,6 +31,12 @@
         <mark key="[" line="1184" column="34" />
         <mark key="]" line="1184" column="35" />
         <mark key="." line="1184" column="35" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/helix/.env.custom.php" timestamp="1461776552416">
+        <mark key="[" line="46" column="20" />
+        <mark key="]" line="46" column="34" />
+        <mark key="." line="46" column="34" />
+        <mark key="^" line="46" column="34" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/index.php" timestamp="1461360463991">
         <mark key="'" line="28" column="0" />
@@ -36,7 +55,7 @@
         <mark key="]" line="60" column="0" />
         <mark key="." line="60" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/libraries/minigrants/MiniGrantApplication.php" timestamp="1461617334145">
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/libraries/minigrants/MiniGrantApplication.php" timestamp="1461869422911">
         <mark key="'" line="232" column="22" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/Reminder.php" timestamp="1461194643378">
@@ -76,6 +95,19 @@
       <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/Http/Controllers/SurveyController.php" timestamp="1461780550300">
         <mark key="'" line="32" column="18" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/current_survey" timestamp="1461632414155">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="1" />
+        <mark key="." line="2" column="1" />
+        <mark key="^" line="2" column="1" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/helix/files/surveys/2016_ystreet_minigrant_app.json" timestamp="1461870404536">
+        <mark key="'" line="144" column="32" />
+        <mark key="[" line="144" column="32" />
+        <mark key="]" line="144" column="32" />
+        <mark key="." line="144" column="32" />
+        <mark key="^" line="144" column="31" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/minigrant_repo.php" timestamp="1461614725033">
         <mark key="[" line="25" column="27" />
         <mark key="]" line="25" column="28" />
@@ -83,6 +115,12 @@
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/Gruntfile.js" timestamp="1461863195733">
         <mark key="'" line="30" column="18" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/config/config.php" timestamp="1461695012288">
+        <mark key="[" line="15" column="55" />
+        <mark key="]" line="15" column="55" />
+        <mark key="." line="15" column="55" />
+        <mark key="^" line="15" column="55" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/shortlinks-builder.php" timestamp="1461822905506">
         <mark key="[" line="3" column="25" />
@@ -114,48 +152,53 @@
       <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/FluidApi.php" timestamp="1461268195971">
         <mark key="'" line="428" column="20" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/survey/survey_repo.php" timestamp="1461868537091" />
       <file name="$USER_HOME$/Sites/Rescue/surveys/app/Http/routes.php" timestamp="1461361559944">
         <mark key="[" line="26" column="41" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/views/minigrant/application/sidebar.php" timestamp="1461777120264">
+        <mark key="[" line="15" column="122" />
+        <mark key="]" line="15" column="128" />
+        <mark key="." line="15" column="128" />
+        <mark key="^" line="15" column="128" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/shortlinks-apache.txt" timestamp="1461822944408" />
+      <file name="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_quest/src/feConfig.js" timestamp="1461634951209">
+        <mark key="[" line="2" column="19" />
+        <mark key="]" line="2" column="31" />
+        <mark key="." line="2" column="31" />
+        <mark key="^" line="2" column="31" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/helix/files/surveys/2016_evolvement_minigrant_app.json" timestamp="1461866532863">
+        <mark key="[" line="13" column="34" />
+        <mark key="]" line="13" column="36" />
+        <mark key="^" line="13" column="36" />
+        <mark key="." line="13" column="36" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/routes.js" timestamp="1461790307945">
         <mark key="'" line="15" column="16" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_screen/main-with-admin.html" timestamp="1461345143838">
         <mark key="'" line="1364" column="6" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/Preloader.js" timestamp="1461864595279" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/Preloader.js" timestamp="1461866299386" />
+      <file name="$USER_HOME$/Sites/Rescue/helix/files/surveys/2015_ystreet_minigrant_app.json" timestamp="1461867935328">
+        <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/rscg/wp-config.php" timestamp="1461654224809">
+        <mark key="[" line="43" column="98" />
+        <mark key="]" line="43" column="98" />
+        <mark key="^" line="43" column="98" />
+        <mark key="." line="43" column="98" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/access_login_settings.php" timestamp="1461652091890">
+        <mark key="[" line="8" column="15" />
+        <mark key="]" line="8" column="20" />
+        <mark key="^" line="8" column="20" />
+        <mark key="." line="8" column="20" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="1434" column="19" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
-      <jump line="1406" column="19" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
-      <jump line="125" column="13" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
-      <jump line="126" column="52" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
-      <jump line="127" column="52" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
-      <jump line="169" column="50" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
-      <jump line="679" column="22" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
-      <jump line="775" column="31" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
-      <jump line="1048" column="8" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
-      <jump line="1295" column="21" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
-      <jump line="1428" column="19" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
-      <jump line="1400" column="19" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
-      <jump line="1372" column="19" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
-      <jump line="1334" column="30" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
-      <jump line="1146" column="21" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
-      <jump line="160" column="4" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_quest/src/main.js" />
-      <jump line="259" column="30" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_quest/src/main.js" />
-      <jump line="291" column="15" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_quest/src/main.js" />
-      <jump line="296" column="59" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_quest/src/main.js" />
-      <jump line="378" column="17" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_screen/src/main.js" />
-      <jump line="131" column="32" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_screen/src/main.js" />
-      <jump line="137" column="35" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_screen/src/main.js" />
-      <jump line="155" column="37" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_screen/src/main.js" />
-      <jump line="155" column="0" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_quest/src/main.js" />
-      <jump line="258" column="30" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_quest/src/main.js" />
-      <jump line="203" column="9" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_quest/main-with-admin.html" />
-      <jump line="157" column="36" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_quest/src/main.js" />
-      <jump line="649" column="28" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_quest/src/main.js" />
-      <jump line="595" column="41" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_quest/src/main.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_quest/src/main.js" />
       <jump line="55" column="14" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/shared/adminController.js" />
       <jump line="174" column="7" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/shared/adminController.js" />
@@ -227,13 +270,42 @@
       <jump line="35" column="28" filename="$USER_HOME$/Sites/Rescue/helix/application/views/minigrant/ystreet_2016/info.php" />
       <jump line="298" column="45" filename="$USER_HOME$/Sites/Rescue/helix/application/views/minigrant/ystreet_2016/info.php" />
       <jump line="6" column="0" filename="$USER_HOME$/Sites/Rescue/helix/application/views/minigrant/ystreet_2016/info.php" />
+      <jump line="132" column="55" filename="$USER_HOME$/Sites/Rescue/helix/files/surveys/2016_ystreet_minigrant_app.json" />
+      <jump line="179" column="281" filename="$USER_HOME$/Sites/Rescue/helix/files/surveys/2016_ystreet_minigrant_app.json" />
+      <jump line="233" column="31" filename="$USER_HOME$/Sites/Rescue/helix/files/surveys/2016_ystreet_minigrant_app.json" />
+      <jump line="234" column="35" filename="$USER_HOME$/Sites/Rescue/helix/files/surveys/2016_ystreet_minigrant_app.json" />
+      <jump line="28" column="32" filename="$USER_HOME$/Sites/Rescue/helix/files/surveys/2016_ystreet_minigrant_app.json" />
+      <jump line="63" column="31" filename="$USER_HOME$/Sites/Rescue/helix/files/surveys/2016_ystreet_minigrant_app.json" />
+      <jump line="229" column="21" filename="$USER_HOME$/Sites/Rescue/helix/files/surveys/2016_ystreet_minigrant_app.json" />
+      <jump line="70" column="17" filename="$USER_HOME$/Sites/Rescue/helix/files/surveys/2016_ystreet_minigrant_app.json" />
+      <jump line="200" column="43" filename="$USER_HOME$/Sites/Rescue/helix/files/surveys/2016_ystreet_minigrant_app.json" />
+      <jump line="160" column="233" filename="$USER_HOME$/Sites/Rescue/helix/files/surveys/2016_ystreet_minigrant_app.json" />
+      <jump line="0" column="0" filename="$USER_HOME$/Sites/Rescue/helix/files/surveys/2015_ystreet_minigrant_app.json" />
+      <jump line="281" column="14" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/minigrants/MiniGrantApplication.php" />
+      <jump line="163" column="8" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/minigrants/MiniGrantApplication.php" />
+      <jump line="333" column="55" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/minigrants/MiniGrantApplication.php" />
+      <jump line="275" column="57" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/minigrants/MiniGrantApplication.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/minigrants/MiniGrantApplication.php" />
+      <jump line="9" column="42" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/minigrants/MiniGrantApplication.php" />
+      <jump line="16" column="15" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/minigrants/MiniGrantApplication.php" />
+      <jump line="20" column="15" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/minigrants/MiniGrantApplication.php" />
+      <jump line="154" column="19" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/minigrants/MiniGrantApplication.php" />
+      <jump line="22" column="15" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/minigrants/MiniGrantApplication.php" />
+      <jump line="232" column="22" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/minigrants/MiniGrantApplication.php" />
+      <jump line="28" column="32" filename="$USER_HOME$/Sites/Rescue/helix/js/app/survey.js" />
+      <jump line="245" column="30" filename="$USER_HOME$/Sites/Rescue/helix/js/app/survey.js" />
+      <jump line="150" column="31" filename="$USER_HOME$/Sites/Rescue/helix/js/app/survey.js" />
+      <jump line="478" column="13" filename="$USER_HOME$/Sites/Rescue/helix/js/app/survey.js" />
+      <jump line="57" column="49" filename="$USER_HOME$/Sites/Rescue/helix/files/surveys/2016_ystreet_minigrant_app.json" />
+      <jump line="144" column="32" filename="$USER_HOME$/Sites/Rescue/helix/files/surveys/2016_ystreet_minigrant_app.json" />
+      <jump line="532" column="20" filename="$USER_HOME$/Sites/Rescue/helix/js/app/survey.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>removeClass</text>
+        <text>selected.length</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -287,79 +359,79 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>removeClass</text>
+        <text>selected.length</text>
       </register>
       <register name="/" type="4">
-        <text>angular-aria</text>
+        <text encoding="base64">XDxkZWJ1Z2dlclw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRhcHBsaWNhbnRPdGhlclRleHRhcmVhLnJlbW92ZUNsYXNzKCdyZXF1aXJlJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiNiI6ICJSZXYgWW91ciBCZXYgRGF5Igo=</text>
       </register>
       <register name="1" type="4">
-        <text>removeClass</text>
+        <text>selected.length</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
       </register>
+      <register name="3" type="4">
+        <text>selected =  || $(this).find(':selected'),</text>
+      </register>
       <register name="4" type="4">
-        <text>Textarea</text>
+        <text>$(this).filter(':checked')</text>
       </register>
       <register name="5" type="4">
-        <text>.addClass('require');</text>
+        <text>]</text>
       </register>
       <register name="6" type="4">
-        <text>.removeClass('require');</text>
+        <text>[</text>
       </register>
       <register name="7" type="4">
-        <text>Textarea</text>
+        <text>effectiveMotivate</text>
       </register>
       <register name="8" type="4">
-        <text>applicantOther</text>
+        <text>find</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
-      <register name="9" type="4">
-        <text>applicantOther</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJyZXF1aXJlX3J1bGVzIjogInJlcXVpcmVkIiwK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>angular-aria</last-search>
+      <last-search encoding="base64">XDxkZWJ1Z2dlclw+</last-search>
       <last-offset />
-      <last-pattern>angular-aria</last-pattern>
+      <last-pattern encoding="base64">XDxkZWJ1Z2dlclw+</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute>94117</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0aGlzX2ZyZWVfbGlmZV9kZXZcPg==</entry>
-        <entry>bootstrap</entry>
-        <entry>ibaseBuil</entry>
-        <entry>h2</entry>
-        <entry encoding="base64">XDxpc1ZhbGlkVmFsdWVcPg==</entry>
-        <entry encoding="base64">XDxoMlw+</entry>
-        <entry>Except</entry>
-        <entry>Exce</entry>
-        <entry>Exc</entry>
-        <entry>function login</entry>
-        <entry>new_</entry>
-        <entry>url_minigrant_create</entry>
-        <entry>new_applica</entry>
-        <entry>Factory</entry>
-        <entry>getView</entry>
-        <entry>api-response</entry>
         <entry encoding="base64">XDxwcmludF9hcGlfcmVzcG9uc2VcPg==</entry>
         <entry>our-stor</entry>
         <entry>aria</entry>
         <entry>angular-aria</entry>
+        <entry>other</entry>
+        <entry encoding="base64">XDxob3dEaWRZb3VIZWFyXD4=</entry>
+        <entry encoding="base64">XDxkZXBlbmRlbmN5XD4=</entry>
+        <entry>How long</entry>
+        <entry encoding="base64">XDxTeXN0ZW1cPg==</entry>
+        <entry>jSon</entry>
+        <entry>json</entry>
+        <entry>JSON</entry>
+        <entry>questionnaire</entry>
+        <entry>persist</entry>
+        <entry encoding="base64">XDxqc0NvbnRyb2xsZXJcPg==</entry>
+        <entry>checkbox</entry>
+        <entry>depend</entry>
+        <entry encoding="base64">XDxkZXBlbmRlbmNpZXNcPg==</entry>
+        <entry>contactTime</entry>
+        <entry encoding="base64">XDxkZWJ1Z2dlclw+</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
@@ -377,10 +449,10 @@
         <entry>57</entry>
         <entry>199</entry>
         <entry>355</entry>
-        <entry>we</entry>
         <entry>w:w</entry>
         <entry>w;:w</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>we</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
