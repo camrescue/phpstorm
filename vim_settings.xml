@@ -8,6 +8,12 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/views/minigrant/login.php" timestamp="1461776290352" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/.htaccess" timestamp="1461803988894">
+        <mark key="[" line="12" column="15" />
+        <mark key="]" line="12" column="15" />
+        <mark key="." line="12" column="15" />
+        <mark key="^" line="12" column="15" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/shared/fluidField.js" timestamp="1461178066098">
         <mark key="'" line="46" column="31" />
       </file>
@@ -111,6 +117,7 @@
       <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/Http/Controllers/SurveyController.php" timestamp="1461780550300">
         <mark key="'" line="32" column="18" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/redirect-htaccess.txt" timestamp="1461803755644" />
       <file name="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/current_survey" timestamp="1461632414155">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="1" />
@@ -149,11 +156,11 @@
       <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/SurveyTracking.php" timestamp="1461775822826">
         <mark key="'" line="98" column="40" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/apache-redirect-map.php" timestamp="1461803649191">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="^" line="4" column="33" />
-        <mark key="." line="7" column="0" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/apache-redirect-map.php" timestamp="1461804005886">
+        <mark key="[" line="22" column="31" />
+        <mark key="]" line="22" column="31" />
+        <mark key="^" line="22" column="31" />
+        <mark key="." line="22" column="31" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/FluidApi.php" timestamp="1461268195971">
         <mark key="'" line="428" column="20" />
@@ -336,7 +343,7 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">JG91dHB1dCAuPSAiXHIiOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -399,28 +406,28 @@
         <text encoding="base64">ICAgIGVjaG8gIlxyIjsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">JG91dHB1dCAuPSAiXHIiOwo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">JG91dHB1dCAuPSAiT3B0aW9ucyArRm9sbG93U3ltTGlua3MiOwo=</text>
-      </register>
-      <register name="3" type="4">
-        <text>p</text>
-      </register>
-      <register name="4" type="4">
-        <text>t</text>
-      </register>
-      <register name="5" type="4">
-        <text>test</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>echo</text>
+      <register name="2" type="2">
+        <text encoding="base64">UmV3cml0ZUVuZ2luZSBvbgo=</text>
       </register>
-      <register name="8" type="4">
-        <text>echo</text>
+      <register name="3" type="2">
+        <text encoding="base64">JG91dHB1dCAuPSAiXHIiOwo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">JG91dHB1dCAuPSAiT3B0aW9ucyArRm9sbG93U3ltTGlua3MiOwo=</text>
+      </register>
+      <register name="5" type="4">
+        <text>p</text>
+      </register>
+      <register name="6" type="4">
+        <text>t</text>
+      </register>
+      <register name="7" type="4">
+        <text>test</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
