@@ -11,12 +11,11 @@
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/PageScroll.js" timestamp="1461657372298">
         <mark key="'" line="12" column="105" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/js/app/survey.js" timestamp="1461870870357">
-        <mark key="'" line="531" column="20" />
-        <mark key="[" line="536" column="28" />
-        <mark key="]" line="536" column="37" />
-        <mark key="^" line="536" column="37" />
-        <mark key="." line="536" column="37" />
+      <file name="$USER_HOME$/Sites/Rescue/helix/js/app/survey.js" timestamp="1461872094190">
+        <mark key="[" line="533" column="33" />
+        <mark key="]" line="533" column="40" />
+        <mark key="." line="533" column="40" />
+        <mark key="^" line="533" column="40" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/rscg/.htaccess" timestamp="1461655691058">
         <mark key="[" line="6" column="30" />
@@ -305,7 +304,7 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>selected.length</text>
+        <text>actualSelected</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -359,7 +358,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>selected.length</text>
+        <text>actualSelected</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkZWJ1Z2dlclw+</text>
@@ -368,34 +367,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAiNiI6ICJSZXYgWW91ciBCZXYgRGF5Igo=</text>
       </register>
       <register name="1" type="4">
-        <text>selected.length</text>
+        <text>actualSelected</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
+      <register name="2" type="4">
+        <text>$(this)</text>
       </register>
-      <register name="3" type="4">
-        <text>selected =  || $(this).find(':selected'),</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJGFjdHVhbFNlbGVjdGVkID0gJGNoZWNrZWQubGVuZ3RoID8gJGNoZWNrZWQgOiAkc2VsZWN0ZWQsCg==</text>
       </register>
       <register name="4" type="4">
-        <text>$(this).filter(':checked')</text>
+        <text>actualSelected</text>
       </register>
       <register name="5" type="4">
-        <text>]</text>
+        <text>text</text>
       </register>
-      <register name="6" type="4">
-        <text>[</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name="7" type="4">
-        <text>effectiveMotivate</text>
+        <text>text</text>
       </register>
-      <register name="8" type="4">
-        <text>find</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGV4dCA9ICRhY3R1YWxTZWxlY3RlZC50ZXh0KCk7Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJyZXF1aXJlX3J1bGVzIjogInJlcXVpcmVkIiwK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbmFtZSA9ICQodGhpcykuYXR0cignbmFtZScpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
