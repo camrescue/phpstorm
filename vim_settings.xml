@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/.htaccess" timestamp="1461822949496" />
       <file name="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/shared/fluidField.js" timestamp="1461178066098">
         <mark key="'" line="46" column="31" />
       </file>
@@ -120,11 +121,11 @@
         <mark key="." line="15" column="55" />
         <mark key="^" line="15" column="55" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/shortlinks-builder.php" timestamp="1461820492579">
-        <mark key="[" line="7" column="21" />
-        <mark key="]" line="7" column="24" />
-        <mark key="^" line="7" column="24" />
-        <mark key="." line="7" column="24" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/shortlinks-builder.php" timestamp="1461822905506">
+        <mark key="[" line="3" column="25" />
+        <mark key="]" line="3" column="31" />
+        <mark key="^" line="3" column="31" />
+        <mark key="." line="3" column="31" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_screen/src/main.js" timestamp="1461634416651">
         <mark key="'" line="155" column="37" />
@@ -174,6 +175,7 @@
         <mark key="." line="15" column="52" />
         <mark key="^" line="15" column="52" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/shortlinks-apache.txt" timestamp="1461822944408" />
       <file name="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_quest/src/feConfig.js" timestamp="1461634951209">
         <mark key="[" line="2" column="19" />
         <mark key="]" line="2" column="31" />
@@ -327,7 +329,7 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>Path</text>
+        <text>apache-</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -381,7 +383,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Path</text>
+        <text>apache-</text>
       </register>
       <register name="/" type="4">
         <text>our-stor</text>
@@ -390,37 +392,37 @@
         <text encoding="base64">ICAgIGVjaG8gIlxyIjsK</text>
       </register>
       <register name="1" type="4">
-        <text>Path</text>
+        <text>apache-</text>
       </register>
       <register name="2" type="4">
         <text>Path</text>
       </register>
       <register name="3" type="4">
-        <text>/</text>
+        <text>Path</text>
       </register>
       <register name="4" type="4">
-        <text>.</text>
+        <text>/</text>
       </register>
       <register name="5" type="4">
-        <text>&quot;redirect-htaccess.txt&quot;</text>
+        <text>.</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">X19ESVJfXyAuIA==</text>
+        <text>&quot;redirect-htaccess.txt&quot;</text>
       </register>
       <register name="7" type="4">
-        <text>__DIR__ . '/shortlinks.csv');</text>
+        <text encoding="base64">X19ESVJfXyAuIA==</text>
       </register>
       <register name="8" type="4">
-        <text>DIR__</text>
+        <text>__DIR__ . '/shortlinks.csv');</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="4">
-        <text>File</text>
+        <text>DIR__</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz53</text>
       </register>
     </registers>
     <search>
@@ -474,8 +476,8 @@
         <entry>we</entry>
         <entry>w:w</entry>
         <entry>w;:w</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz53</entry>
       </history-cmd>
       <history-expr />
       <history-input />
