@@ -73,11 +73,11 @@
         <mark key="^" line="2" column="62" />
         <mark key="." line="2" column="62" />
       </file>
-      <file name="$USER_HOME$/Shared/Config/environment/Scripts/test/apache-redirect-map.php" timestamp="1461797849246">
-        <mark key="[" line="12" column="67" />
-        <mark key="]" line="12" column="67" />
-        <mark key="." line="12" column="67" />
-        <mark key="^" line="12" column="67" />
+      <file name="$USER_HOME$/Shared/Config/environment/Scripts/test/apache-redirect-map.php" timestamp="1461801152999">
+        <mark key="[" line="29" column="20" />
+        <mark key="]" line="29" column="21" />
+        <mark key="." line="29" column="21" />
+        <mark key="^" line="29" column="20" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/survey-admin/resources/views/surveys/view.blade.php" timestamp="1461780882085">
         <mark key="'" line="124" column="28" />
@@ -89,19 +89,9 @@
         <mark key="." line="238" column="34" />
         <mark key="^" line="238" column="34" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/shared/ibaseTest.js" timestamp="1461697334341">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/libraries/minigrants/MiniGrantApplicationYstreet2015.php" timestamp="1461615408801" />
       <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/DataFormat.php" timestamp="1461262419536">
         <mark key="'" line="537" column="9" />
-      </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/views/minigrant/ystreet_2015/info.php" timestamp="1461612383791">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/controllers/minigrants.php" timestamp="1461776486292">
         <mark key="'" line="352" column="49" />
@@ -118,11 +108,7 @@
         <mark key="." line="2" column="1" />
         <mark key="^" line="2" column="1" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/minigrant_repo.php" timestamp="1461614725033">
-        <mark key="[" line="25" column="27" />
-        <mark key="]" line="25" column="28" />
-        <mark key="." line="25" column="28" />
-      </file>
+      <file name="$USER_HOME$/Shared/Config/environment/Scripts/test/test.txt" timestamp="1461799644724" />
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/config/config.php" timestamp="1461695012288">
         <mark key="[" line="15" column="55" />
         <mark key="]" line="15" column="55" />
@@ -187,6 +173,7 @@
       <file name="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_screen/main-with-admin.html" timestamp="1461345143838">
         <mark key="'" line="1364" column="6" />
       </file>
+      <file name="$USER_HOME$/Shared/Config/environment/Scripts/test/uri-redirect.csv" timestamp="1461799315994" />
       <file name="$USER_HOME$/Sites/Rescue/survey-data-merge/fe/ibase.php" timestamp="1461717369347">
         <mark key="'" line="126" column="19" />
         <mark key="[" line="18" column="25" />
@@ -220,7 +207,7 @@
         <mark key="^" line="8" column="20" />
         <mark key="." line="8" column="20" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/survey-admin/database/seeds/UserUpdateSeeder.php" timestamp="1461797596212" />
+      <file name="$USER_HOME$/Sites/Rescue/survey-admin/database/seeds/UserUpdateSeeder.php" timestamp="1461800762038" />
     </filemarks>
     <jumps>
       <jump line="1024" column="24" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Http/Controllers/SurveyController.php" />
@@ -329,7 +316,7 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>/hurts-our-community</text>
+        <text encoding="base64">XiA=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -383,43 +370,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/hurts-our-community</text>
+        <text encoding="base64">XiA=</text>
       </register>
       <register name="/" type="4">
         <text>our-stor</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxicj4K</text>
+        <text encoding="base64">ICAgIGVjaG8gIlxyIjsK</text>
       </register>
       <register name="1" type="4">
-        <text>/hurts-our-community</text>
+        <text encoding="base64">XiA=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>http://test.lcl</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">JAo=</text>
+        <text encoding="base64">ZWNobyAiUmVkaXJlY3RNYXRjaCIK</text>
       </register>
       <register name="4" type="4">
-        <text>);</text>
+        <text>l</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IHZhcl9kdW1wKA==</text>
+        <text>c</text>
       </register>
       <register name="6" type="4">
-        <text>fn</text>
+        <text>l</text>
       </register>
       <register name="7" type="4">
-        <text>, $email</text>
+        <text>.</text>
       </register>
       <register name="8" type="4">
-        <text>ln</text>
+        <text>test</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
-      <register name="9" type="4">
-        <text>fn</text>
+      <register name="9" type="2">
+        <text encoding="base64">ZWNobyAiXG4iOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
