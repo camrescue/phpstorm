@@ -3,6 +3,15 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="/a.dummy" timestamp="1461970573864">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/views/minigrant/login.php" timestamp="1461949393604">
+        <mark key="[" line="69" column="29" />
+        <mark key="]" line="69" column="33" />
+        <mark key="^" line="69" column="33" />
+        <mark key="." line="69" column="33" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/sass/_settings.scss" timestamp="1461949328974">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="726" column="28" />
@@ -22,6 +31,12 @@
         <mark key="]" line="530" column="0" />
         <mark key="." line="530" column="0" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/rscg/.htaccess" timestamp="1461655691058">
+        <mark key="[" line="6" column="30" />
+        <mark key="]" line="6" column="41" />
+        <mark key="." line="6" column="41" />
+        <mark key="^" line="6" column="41" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/survey-data-merge/js/main.js" timestamp="1461366007352">
         <mark key="'" line="19" column="24" />
       </file>
@@ -29,6 +44,12 @@
         <mark key="[" line="1184" column="34" />
         <mark key="]" line="1184" column="35" />
         <mark key="." line="1184" column="35" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/helix/.env.custom.php" timestamp="1461776552416">
+        <mark key="[" line="46" column="20" />
+        <mark key="]" line="46" column="34" />
+        <mark key="." line="46" column="34" />
+        <mark key="^" line="46" column="34" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/libraries/minigrants/MiniGrantApplication2014.php" timestamp="1461950964162">
         <mark key="'" line="4" column="6" />
@@ -66,12 +87,12 @@
         <mark key="]" line="61" column="0" />
         <mark key="." line="61" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/libraries/minigrants/MiniGrantApplication.php" timestamp="1461951057531">
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/libraries/minigrants/MiniGrantApplication.php" timestamp="1461970526916">
         <mark key="'" line="206" column="24" />
-        <mark key="[" line="554" column="0" />
-        <mark key="]" line="554" column="0" />
-        <mark key="." line="554" column="0" />
-        <mark key="^" line="30" column="12" />
+        <mark key="[" line="566" column="49" />
+        <mark key="]" line="566" column="50" />
+        <mark key="." line="566" column="50" />
+        <mark key="^" line="566" column="50" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/libraries/SurveyManifest.php" timestamp="1461952069002">
         <mark key="'" line="37" column="31" />
@@ -81,12 +102,6 @@
       </file>
       <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/Reminder.php" timestamp="1461194643378">
         <mark key="'" line="32" column="31" />
-      </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/sass/_panel.scss" timestamp="1461948541505">
-        <mark key="[" line="11" column="0" />
-        <mark key="]" line="11" column="0" />
-        <mark key="." line="11" column="0" />
-        <mark key="^" line="6" column="26" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/libraries/minigrants/MiniGrantApplicationYstreet2016.php" timestamp="1461950166523">
         <mark key="'" line="2" column="0" />
@@ -106,14 +121,20 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/language/english/branded_evolvement_lang.php" timestamp="1461902567702">
+        <mark key="[" line="8" column="28" />
+        <mark key="]" line="8" column="31" />
+        <mark key="." line="8" column="31" />
+        <mark key="^" line="8" column="31" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/models/core/system_m.php" timestamp="1461970115430">
+        <mark key="[" line="40" column="39" />
+        <mark key="]" line="40" column="44" />
+        <mark key="." line="40" column="44" />
+        <mark key="^" line="40" column="44" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/survey-admin/resources/views/surveys/view.blade.php" timestamp="1461780882085">
         <mark key="'" line="124" column="28" />
-      </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/libraries/minigrants/MiniGrantApplicationEvolvement2016.php" timestamp="1461950163937">
-        <mark key="[" line="7" column="37" />
-        <mark key="]" line="7" column="62" />
-        <mark key="^" line="7" column="62" />
-        <mark key="." line="7" column="62" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/js/app/minigrant.js" timestamp="1461865927179">
         <mark key="'" line="260" column="51" />
@@ -121,12 +142,6 @@
         <mark key="]" line="242" column="51" />
         <mark key="^" line="242" column="51" />
         <mark key="." line="242" column="51" />
-      </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/views/minigrant/evolvement_2016/finalize.php" timestamp="1461947584899">
-        <mark key="[" line="8" column="34" />
-        <mark key="]" line="8" column="34" />
-        <mark key="." line="8" column="34" />
-        <mark key="^" line="8" column="47" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/shared/ibaseTest.js" timestamp="1461697334341">
         <mark key="[" line="3" column="0" />
@@ -169,17 +184,17 @@
       <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/Http/Controllers/SurveyController.php" timestamp="1461780550300">
         <mark key="'" line="32" column="18" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/views/minigrant/module/status.php" timestamp="1461949879339">
-        <mark key="[" line="32" column="58" />
-        <mark key="]" line="32" column="61" />
-        <mark key="." line="32" column="61" />
-        <mark key="^" line="32" column="61" />
-      </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/views/minigrant/application/main.php" timestamp="1461945157139">
         <mark key="'" line="26" column="110" />
         <mark key="[" line="39" column="46" />
         <mark key="]" line="39" column="46" />
         <mark key="." line="39" column="46" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/current_survey" timestamp="1461632414155">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="1" />
+        <mark key="." line="2" column="1" />
+        <mark key="^" line="2" column="1" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/files/surveys/2016_ystreet_minigrant_app.json" timestamp="1461951631784">
         <mark key="'" line="71" column="17" />
@@ -187,7 +202,8 @@
         <mark key="]" line="67" column="0" />
         <mark key="." line="67" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/minigrant_repo.php" timestamp="1461614725033">
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/minigrant_repo.php" timestamp="1461970592162">
+        <mark key="'" line="147" column="37" />
         <mark key="[" line="25" column="27" />
         <mark key="]" line="25" column="28" />
         <mark key="." line="25" column="28" />
@@ -195,11 +211,11 @@
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/Gruntfile.js" timestamp="1461863195733">
         <mark key="'" line="30" column="18" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/shortlinks-builder.php" timestamp="1461822905506">
-        <mark key="[" line="3" column="25" />
-        <mark key="]" line="3" column="31" />
-        <mark key="^" line="3" column="31" />
-        <mark key="." line="3" column="31" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/config/config.php" timestamp="1461695012288">
+        <mark key="[" line="15" column="55" />
+        <mark key="]" line="15" column="55" />
+        <mark key="." line="15" column="55" />
+        <mark key="^" line="15" column="55" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_screen/src/main.js" timestamp="1461634416651">
         <mark key="'" line="155" column="37" />
@@ -227,17 +243,11 @@
         <mark key="]" line="139" column="0" />
         <mark key="." line="139" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/models/entities/MiniGrant.php" timestamp="1461966624067">
-        <mark key="'" line="41" column="16" />
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/models/entities/MiniGrant.php" timestamp="1461970600754">
+        <mark key="'" line="39" column="12" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/SurveyTracking.php" timestamp="1461775822826">
         <mark key="'" line="98" column="40" />
-      </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/apache-redirect-map.php" timestamp="1461820152880">
-        <mark key="[" line="2" column="51" />
-        <mark key="]" line="2" column="51" />
-        <mark key="^" line="2" column="50" />
-        <mark key="." line="2" column="51" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/views/minigrant/evolvement_2016/info.php" timestamp="1461950679350">
         <mark key="'" line="307" column="44" />
@@ -256,6 +266,9 @@
         <mark key="." line="715" column="27" />
         <mark key="^" line="715" column="27" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/surveys/app/Http/routes.php" timestamp="1461361559944">
+        <mark key="[" line="26" column="41" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/sass/_custom.scss" timestamp="1461902637975">
         <mark key="'" line="290" column="0" />
         <mark key="[" line="294" column="18" />
@@ -263,12 +276,18 @@
         <mark key="." line="294" column="19" />
         <mark key="^" line="294" column="19" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/helpers/core_helper.php" timestamp="1461968929040">
-        <mark key="'" line="42" column="9" />
-        <mark key="[" line="2463" column="20" />
-        <mark key="]" line="2463" column="25" />
-        <mark key="." line="2463" column="25" />
-        <mark key="^" line="2463" column="25" />
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/helpers/core_helper.php" timestamp="1461970418379">
+        <mark key="'" line="2464" column="9" />
+        <mark key="[" line="2457" column="5" />
+        <mark key="]" line="2458" column="15" />
+        <mark key="." line="2458" column="15" />
+        <mark key="^" line="2458" column="15" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/views/minigrant/application/sidebar.php" timestamp="1461777120264">
+        <mark key="[" line="15" column="122" />
+        <mark key="]" line="15" column="128" />
+        <mark key="." line="15" column="128" />
+        <mark key="^" line="15" column="128" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_quest/src/main.js" timestamp="1461634968868">
         <mark key="'" line="0" column="0" />
@@ -276,6 +295,12 @@
         <mark key="]" line="15" column="52" />
         <mark key="." line="15" column="52" />
         <mark key="^" line="15" column="52" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_quest/src/feConfig.js" timestamp="1461634951209">
+        <mark key="[" line="2" column="19" />
+        <mark key="]" line="2" column="31" />
+        <mark key="." line="2" column="31" />
+        <mark key="^" line="2" column="31" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/files/surveys/2016_evolvement_minigrant_app.json" timestamp="1461951548033">
         <mark key="'" line="99" column="26" />
@@ -290,18 +315,18 @@
       <file name="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_screen/main-with-admin.html" timestamp="1461345143838">
         <mark key="'" line="1364" column="6" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/views/survey/question_manifest/question.php" timestamp="1461902018524">
-        <mark key="[" line="3" column="18" />
-        <mark key="]" line="3" column="18" />
-        <mark key="." line="3" column="18" />
-        <mark key="^" line="1" column="33" />
-      </file>
       <file name="$USER_HOME$/Sites/Rescue/survey-data-merge/fe/ibase.php" timestamp="1461717369347">
         <mark key="'" line="126" column="19" />
         <mark key="[" line="18" column="25" />
         <mark key="]" line="18" column="26" />
         <mark key="^" line="18" column="30" />
         <mark key="." line="18" column="26" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/rscg/wp-config.php" timestamp="1461654224809">
+        <mark key="[" line="43" column="98" />
+        <mark key="]" line="43" column="98" />
+        <mark key="^" line="43" column="98" />
+        <mark key="." line="43" column="98" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" timestamp="1461965773426">
         <mark key="'" line="1320" column="0" />
@@ -324,22 +349,14 @@
         <mark key="." line="157" column="31" />
         <mark key="^" line="157" column="31" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/access_login_settings.php" timestamp="1461652091890">
+        <mark key="[" line="8" column="15" />
+        <mark key="]" line="8" column="20" />
+        <mark key="^" line="8" column="20" />
+        <mark key="." line="8" column="20" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="767" column="24" filename="$USER_HOME$/Sites/Rescue/helix/sass/_settings.scss" />
-      <jump line="794" column="13" filename="$USER_HOME$/Sites/Rescue/helix/sass/_settings.scss" />
-      <jump line="845" column="16" filename="$USER_HOME$/Sites/Rescue/helix/sass/_settings.scss" />
-      <jump line="871" column="14" filename="$USER_HOME$/Sites/Rescue/helix/sass/_settings.scss" />
-      <jump line="944" column="21" filename="$USER_HOME$/Sites/Rescue/helix/sass/_settings.scss" />
-      <jump line="994" column="18" filename="$USER_HOME$/Sites/Rescue/helix/sass/_settings.scss" />
-      <jump line="1041" column="18" filename="$USER_HOME$/Sites/Rescue/helix/sass/_settings.scss" />
-      <jump line="1122" column="15" filename="$USER_HOME$/Sites/Rescue/helix/sass/_settings.scss" />
-      <jump line="1131" column="15" filename="$USER_HOME$/Sites/Rescue/helix/sass/_settings.scss" />
-      <jump line="1219" column="17" filename="$USER_HOME$/Sites/Rescue/helix/sass/_settings.scss" />
-      <jump line="1257" column="13" filename="$USER_HOME$/Sites/Rescue/helix/sass/_settings.scss" />
-      <jump line="1265" column="42" filename="$USER_HOME$/Sites/Rescue/helix/sass/_settings.scss" />
-      <jump line="1325" column="12" filename="$USER_HOME$/Sites/Rescue/helix/sass/_settings.scss" />
-      <jump line="1383" column="15" filename="$USER_HOME$/Sites/Rescue/helix/sass/_settings.scss" />
       <jump line="1390" column="38" filename="$USER_HOME$/Sites/Rescue/helix/sass/_settings.scss" />
       <jump line="1398" column="18" filename="$USER_HOME$/Sites/Rescue/helix/sass/_settings.scss" />
       <jump line="1403" column="14" filename="$USER_HOME$/Sites/Rescue/helix/sass/_settings.scss" />
@@ -426,13 +443,27 @@
       <jump line="810" column="31" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/minigrants.php" />
       <jump line="817" column="29" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/minigrants.php" />
       <jump line="42" column="9" filename="$USER_HOME$/Sites/Rescue/helix/application/helpers/core_helper.php" />
+      <jump line="2464" column="9" filename="$USER_HOME$/Sites/Rescue/helix/application/helpers/core_helper.php" />
+      <jump line="345" column="58" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/minigrant_repo.php" />
+      <jump line="388" column="34" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/minigrant_repo.php" />
+      <jump line="390" column="20" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/minigrant_repo.php" />
+      <jump line="46" column="122" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/minigrant_repo.php" />
+      <jump line="49" column="57" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/minigrant_repo.php" />
+      <jump line="60" column="13" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/minigrant_repo.php" />
+      <jump line="70" column="23" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/minigrant_repo.php" />
+      <jump line="89" column="13" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/minigrant_repo.php" />
+      <jump line="137" column="31" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/minigrant_repo.php" />
+      <jump line="147" column="37" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/minigrant_repo.php" />
+      <jump line="360" column="23" filename="$USER_HOME$/Sites/Rescue/helix/application/models/entities/MiniGrant.php" />
+      <jump line="40" column="12" filename="$USER_HOME$/Sites/Rescue/helix/application/models/entities/MiniGrant.php" />
+      <jump line="39" column="12" filename="$USER_HOME$/Sites/Rescue/helix/application/models/entities/MiniGrant.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>las vegas</text>
+        <text encoding="base64">Jg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -486,63 +517,59 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>las vegas</text>
+        <text encoding="base64">Jg==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpc0V2b2x2ZW1lbnRcPg==</text>
+        <text>org_region</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICByZXF1aXJlX2xpYnJhcnkoJ21pbmlncmFudHMvTWluaUdyYW50QXBwbGljYXRpb25Fdm9sdmVtZW50MjAxNScpOwo=</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgJGV2b2x2ZW1lbnRTdGF0ZXMgPSBbJ3ZpcmdpbmlhJ107Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>las vegas</text>
+        <text encoding="base64">Jg==</text>
       </register>
       <register name="2" type="4">
-        <text>u</text>
+        <text encoding="base64">Jg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>return</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="5" type="4">
-        <text>,</text>
+        <text>['nevada'];</text>
       </register>
       <register name="6" type="4">
-        <text>,</text>
+        <text>['virginia'];</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAnbmV2YWRhJywKICAgICAgICAnYWxiZXJ0YScsCg==</text>
+      <register name="7" type="4">
+        <text>['new mexico'];</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAnY29sb3JhZG8nLAo=</text>
+        <text encoding="base64">ICAgICAgICAkc3RhdGVzID0gWyduZXcgbWV4aWNvJ107Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkZmlsZUxpc3QpOwo=</text>
+      <register name="9" type="4">
+        <text>['new mexico'];</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpc0V2b2x2ZW1lbnRcPg==</last-search>
+      <last-search>org_region</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpc0V2b2x2ZW1lbnRcPg==</last-pattern>
+      <last-pattern>org_region</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute>94117</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>dark</entry>
-        <entry>When is the</entry>
-        <entry encoding="base64">XDxsb2NhdGlvblJlcG9cPg==</entry>
-        <entry>dd</entry>
         <entry>Other</entry>
         <entry encoding="base64">SG93IG11Y2gg</entry>
         <entry>motivate</entry>
@@ -559,6 +586,10 @@
         <entry>zip</entry>
         <entry>unsupported</entry>
         <entry encoding="base64">XDxpc0V2b2x2ZW1lbnRcPg==</entry>
+        <entry encoding="base64">XDxpc1N1cHBvcnRlZFN5c3RlbVppcFw+</entry>
+        <entry>Virginia</entry>
+        <entry>virginia</entry>
+        <entry>org_region</entry>
       </history-search>
       <history-cmd>
         <entry>ww</entry>
