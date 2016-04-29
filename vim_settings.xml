@@ -263,6 +263,13 @@
         <mark key="." line="294" column="19" />
         <mark key="^" line="294" column="19" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/helpers/core_helper.php" timestamp="1461968929040">
+        <mark key="'" line="42" column="9" />
+        <mark key="[" line="2463" column="20" />
+        <mark key="]" line="2463" column="25" />
+        <mark key="." line="2463" column="25" />
+        <mark key="^" line="2463" column="25" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_quest/src/main.js" timestamp="1461634968868">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="15" column="47" />
@@ -319,7 +326,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="730" column="4" filename="$USER_HOME$/Sites/Rescue/helix/sass/_settings.scss" />
       <jump line="767" column="24" filename="$USER_HOME$/Sites/Rescue/helix/sass/_settings.scss" />
       <jump line="794" column="13" filename="$USER_HOME$/Sites/Rescue/helix/sass/_settings.scss" />
       <jump line="845" column="16" filename="$USER_HOME$/Sites/Rescue/helix/sass/_settings.scss" />
@@ -419,13 +425,14 @@
       <jump line="565" column="76" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/minigrants.php" />
       <jump line="810" column="31" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/minigrants.php" />
       <jump line="817" column="29" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/minigrants.php" />
+      <jump line="42" column="9" filename="$USER_HOME$/Sites/Rescue/helix/application/helpers/core_helper.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkZmlsZUxpc3QpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>las vegas</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -479,60 +486,59 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JGZpbGVMaXN0ID0g</text>
+        <text>las vegas</text>
       </register>
       <register name="/" type="4">
-        <text>unsupported</text>
+        <text encoding="base64">XDxpc0V2b2x2ZW1lbnRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICByZXF1aXJlX2xpYnJhcnkoJ21pbmlncmFudHMvTWluaUdyYW50QXBwbGljYXRpb25Fdm9sdmVtZW50MjAxNScpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkZmlsZUxpc3QpOwo=</text>
+      <register name="1" type="4">
+        <text>las vegas</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkZmlsZUxpc3QpOwo=</text>
+      <register name="2" type="4">
+        <text>u</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">JGZpbGVMaXN0ID0g</text>
-      </register>
-      <register name="4" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkZmlsZUxpc3QpOwo=</text>
+      <register name="4" type="4">
+        <text>return</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>,</text>
+      </register>
+      <register name="6" type="4">
+        <text>,</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">ICAgICAgICAnbmV2YWRhJywKICAgICAgICAnYWxiZXJ0YScsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">ICAgICAgICAnY29sb3JhZG8nLAo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGJnKCRkZXBlbmRlbmN5KTsK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkZmlsZUxpc3QpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>unsupported</last-search>
+      <last-search encoding="base64">XDxpc0V2b2x2ZW1lbnRcPg==</last-search>
       <last-offset />
-      <last-pattern>unsupported</last-pattern>
+      <last-pattern encoding="base64">XDxpc0V2b2x2ZW1lbnRcPg==</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute>94117</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZXF1aXJlZFw+</entry>
         <entry>dark</entry>
         <entry>When is the</entry>
         <entry encoding="base64">XDxsb2NhdGlvblJlcG9cPg==</entry>
@@ -552,6 +558,7 @@
         <entry>persist</entry>
         <entry>zip</entry>
         <entry>unsupported</entry>
+        <entry encoding="base64">XDxpc0V2b2x2ZW1lbnRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>ww</entry>
