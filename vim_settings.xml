@@ -22,6 +22,12 @@
         <mark key="." line="726" column="29" />
         <mark key="^" line="726" column="29" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/main.php" timestamp="1462216409487">
+        <mark key="[" line="6" column="138" />
+        <mark key="]" line="6" column="35" />
+        <mark key="^" line="6" column="35" />
+        <mark key="." line="6" column="137" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/shared/fluidField.js" timestamp="1461178066098">
         <mark key="'" line="46" column="31" />
       </file>
@@ -102,7 +108,7 @@
       <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/Reminder.php" timestamp="1461194643378">
         <mark key="'" line="32" column="31" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/bower.json" timestamp="1462214127597">
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/bower.json" timestamp="1462216036793">
         <mark key="[" line="25" column="25" />
         <mark key="]" line="25" column="25" />
         <mark key="." line="25" column="25" />
@@ -145,6 +151,13 @@
         <mark key="^" line="242" column="51" />
         <mark key="." line="242" column="51" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/index.php" timestamp="1462217153759">
+        <mark key="'" line="34" column="54" />
+        <mark key="[" line="67" column="160" />
+        <mark key="]" line="67" column="160" />
+        <mark key="^" line="67" column="161" />
+        <mark key="." line="67" column="160" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/sass/_form.scss" timestamp="1461950437761">
         <mark key="'" line="136" column="0" />
         <mark key="[" line="137" column="0" />
@@ -174,6 +187,9 @@
         <mark key="]" line="1" column="26" />
         <mark key="." line="1" column="26" />
         <mark key="^" line="1" column="26" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/bower_components/angulartics-scroll/lib/angulartics-scroll.js" timestamp="1462217323044">
+        <mark key="'" line="21" column="77" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/Http/Controllers/SurveyController.php" timestamp="1461780550300">
         <mark key="'" line="32" column="18" />
@@ -346,9 +362,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="208" column="34" filename="$USER_HOME$/Sites/Rescue/helix/files/surveys/2016_ystreet_minigrant_app.json" />
-      <jump line="227" column="17" filename="$USER_HOME$/Sites/Rescue/helix/files/surveys/2016_ystreet_minigrant_app.json" />
-      <jump line="214" column="34" filename="$USER_HOME$/Sites/Rescue/helix/files/surveys/2016_ystreet_minigrant_app.json" />
       <jump line="11" column="15" filename="$USER_HOME$/Sites/Rescue/helix/sass/_form.scss" />
       <jump line="41" column="12" filename="$USER_HOME$/Sites/Rescue/helix/sass/_form.scss" />
       <jump line="45" column="12" filename="$USER_HOME$/Sites/Rescue/helix/sass/_form.scss" />
@@ -446,13 +459,16 @@
       <jump line="18" column="35" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/js/libs.js" />
       <jump line="55709" column="79" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/js/libs.js" />
       <jump line="742" column="1" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/js/libs.js" />
+      <jump line="34" column="54" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/index.php" />
+      <jump line="13" column="35" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/bower_components/angulartics-scroll/lib/angulartics-scroll.js" />
+      <jump line="21" column="77" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/bower_components/angulartics-scroll/lib/angulartics-scroll.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>jquery.waypoints.min.js</text>
+        <text>x</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -506,52 +522,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>jquery.waypoints.min.js</text>
+        <text>x</text>
       </register>
       <register name="/" type="4">
-        <text>google</text>
+        <text encoding="base64">XDx3YXlwb2ludFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnYm93ZXJfY29tcG9uZW50cy93YXlwb2ludHMvbGliL2pxdWVyeS53YXlwb2ludHMubWluLmpzJywK</text>
       </register>
       <register name="1" type="4">
-        <text>jquery.waypoints.min.js</text>
+        <text>x</text>
       </register>
       <register name="2" type="4">
-        <text>lib</text>
+        <text>p</text>
       </register>
       <register name="3" type="4">
-        <text>waypoints</text>
+        <text>50%</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      <register name="4" type="4">
+        <text>jquery.waypoints.min.js</text>
       </register>
       <register name="5" type="4">
-        <text>,</text>
+        <text>lib</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+        <text>waypoints</text>
       </register>
-      <register name="7" type="4">
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      </register>
+      <register name="8" type="4">
         <text>,</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICJhbmd1bGFydGljcy1zY3JvbGwiOiAiaHR0cHM6Ly9naXRodWIuY29tL2FuZ3VsYXJ0aWNzL2FuZ3VsYXJ0aWNzLXNjcm9sbCIK</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="4">
-        <text>,</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>google</last-search>
+      <last-search encoding="base64">XDx3YXlwb2ludFw+</last-search>
       <last-offset />
-      <last-pattern>google</last-pattern>
+      <last-pattern encoding="base64">XDx3YXlwb2ludFw+</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute>94117</last-substitute>
       <last-dir>1</last-dir>
@@ -559,9 +575,6 @@
     </search>
     <history>
       <history-search>
-        <entry>manage_</entry>
-        <entry>apply(</entry>
-        <entry>persist</entry>
         <entry>zip</entry>
         <entry>unsupported</entry>
         <entry encoding="base64">XDxpc0V2b2x2ZW1lbnRcPg==</entry>
@@ -579,6 +592,9 @@
         <entry encoding="base64">XDxhbmd1bGFydGljc1w+</entry>
         <entry>getEmailRe</entry>
         <entry>google</entry>
+        <entry>body</entry>
+        <entry encoding="base64">XDxhbmFseXRpY3NcPg==</entry>
+        <entry encoding="base64">XDx3YXlwb2ludFw+</entry>
       </history-search>
       <history-cmd>
         <entry>ww</entry>
