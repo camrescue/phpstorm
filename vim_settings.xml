@@ -3,9 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1462211272367">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/views/minigrant/login.php" timestamp="1461949393604">
         <mark key="[" line="69" column="29" />
         <mark key="]" line="69" column="33" />
@@ -67,11 +64,11 @@
       <file name="$USER_HOME$/Sites/Rescue/survey-admin/public/css/app.css" timestamp="1461717632924">
         <mark key="'" line="114" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/main.js" timestamp="1462212923129">
-        <mark key="[" line="38" column="156" />
-        <mark key="]" line="38" column="177" />
-        <mark key="^" line="38" column="177" />
-        <mark key="." line="38" column="177" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/main.js" timestamp="1462213787259">
+        <mark key="[" line="38" column="178" />
+        <mark key="]" line="38" column="178" />
+        <mark key="^" line="38" column="176" />
+        <mark key="." line="38" column="178" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/shared/ibaseModel.js" timestamp="1461343227334">
         <mark key="'" line="7" column="7" />
@@ -105,7 +102,7 @@
       <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/Reminder.php" timestamp="1461194643378">
         <mark key="'" line="32" column="31" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/bower.json" timestamp="1462212606293">
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/bower.json" timestamp="1462214127597">
         <mark key="[" line="25" column="25" />
         <mark key="]" line="25" column="25" />
         <mark key="." line="25" column="25" />
@@ -205,10 +202,11 @@
         <mark key="]" line="25" column="28" />
         <mark key="." line="25" column="28" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/Gruntfile.js" timestamp="1462212878862">
-        <mark key="[" line="32" column="76" />
-        <mark key="]" line="32" column="76" />
-        <mark key="." line="32" column="76" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/Gruntfile.js" timestamp="1462214024784">
+        <mark key="[" line="33" column="39" />
+        <mark key="]" line="33" column="40" />
+        <mark key="." line="33" column="40" />
+        <mark key="^" line="33" column="86" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/config/config.php" timestamp="1461695012288">
         <mark key="[" line="15" column="55" />
@@ -245,7 +243,7 @@
         <mark key="^" line="191" column="94" />
         <mark key="." line="191" column="94" />
       </file>
-      <file name="/Dummy.txt" timestamp="1462211272358">
+      <file name="/Dummy.txt" timestamp="1462214262128">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/FluidApi.php" timestamp="1461268195971">
@@ -454,7 +452,7 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>jquery.waypoints.min.js</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -508,25 +506,25 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>jquery.waypoints.min.js</text>
       </register>
       <register name="/" type="4">
         <text>google</text>
       </register>
-      <register name="0" type="4">
-        <text>bower_components/waypoints/lib/jquery.waypoints.min.js</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnYm93ZXJfY29tcG9uZW50cy93YXlwb2ludHMvbGliL2pxdWVyeS53YXlwb2ludHMubWluLmpzJywK</text>
       </register>
       <register name="1" type="4">
-        <text>,</text>
+        <text>jquery.waypoints.min.js</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnYm93ZXJfY29tcG9uZW50cy93YXlwb2ludHMvbGliL2pxdWVyeS53YXlwb2ludHMubWluLmpzJwo=</text>
+      <register name="2" type="4">
+        <text>lib</text>
       </register>
       <register name="3" type="4">
-        <text>,</text>
+        <text>waypoints</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICJhbmd1bGFydGljcy1zY3JvbGwiOiAiaHR0cHM6Ly9naXRodWIuY29tL2FuZ3VsYXJ0aWNzL2FuZ3VsYXJ0aWNzLXNjcm9sbCIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="5" type="4">
         <text>,</text>
@@ -537,14 +535,14 @@
       <register name="7" type="4">
         <text>,</text>
       </register>
-      <register name="8" type="4">
-        <text>,</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICJhbmd1bGFydGljcy1zY3JvbGwiOiAiaHR0cHM6Ly9naXRodWIuY29tL2FuZ3VsYXJ0aWNzL2FuZ3VsYXJ0aWNzLXNjcm9sbCIK</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnYm93ZXJfY29tcG9uZW50cy9hbmd1bGFydGljcy1nb29nbGUtYW5hbHl0aWNzL2Rpc3QvYW5ndWxhcnRpY3MtZ29vZ2xlLWFuYWx5dGljcy5taW4uanMnLAo=</text>
+      <register name="9" type="4">
+        <text>,</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
