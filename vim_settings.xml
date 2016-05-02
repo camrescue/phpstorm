@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1461974367422">
+      <file name="/a.dummy" timestamp="1462206939375">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/views/minigrant/login.php" timestamp="1461949393604">
@@ -11,6 +11,12 @@
         <mark key="]" line="69" column="33" />
         <mark key="^" line="69" column="33" />
         <mark key="." line="69" column="33" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/.htaccess" timestamp="1462205820378">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+        <mark key="^" line="17" column="21" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/sass/_settings.scss" timestamp="1461949328974">
         <mark key="'" line="0" column="0" />
@@ -66,6 +72,7 @@
       <file name="$USER_HOME$/Sites/Rescue/survey-admin/public/css/app.css" timestamp="1461717632924">
         <mark key="'" line="114" column="0" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/main.js" timestamp="1462207288482" />
       <file name="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/shared/ibaseModel.js" timestamp="1461343227334">
         <mark key="'" line="7" column="7" />
       </file>
@@ -102,6 +109,9 @@
       </file>
       <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/Reminder.php" timestamp="1461194643378">
         <mark key="'" line="32" column="31" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/bower.json" timestamp="1462207077996">
+        <mark key="'" line="24" column="5" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/libraries/minigrants/MiniGrantApplicationYstreet2016.php" timestamp="1461950166523">
         <mark key="'" line="2" column="0" />
@@ -215,8 +225,8 @@
         <mark key="]" line="25" column="28" />
         <mark key="." line="25" column="28" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/Gruntfile.js" timestamp="1461863195733">
-        <mark key="'" line="30" column="18" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/Gruntfile.js" timestamp="1462206071933">
+        <mark key="'" line="31" column="72" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/config/config.php" timestamp="1461695012288">
         <mark key="[" line="15" column="55" />
@@ -263,7 +273,7 @@
         <mark key="^" line="191" column="94" />
         <mark key="." line="191" column="94" />
       </file>
-      <file name="/Dummy.txt" timestamp="1461974421524">
+      <file name="/Dummy.txt" timestamp="1462204776809">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/FluidApi.php" timestamp="1461268195971">
@@ -366,10 +376,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="85" column="46" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/minigrants.php" />
-      <jump line="226" column="36" filename="$USER_HOME$/Sites/Rescue/helix/files/surveys/2016_ystreet_minigrant_app.json" />
-      <jump line="241" column="31" filename="$USER_HOME$/Sites/Rescue/helix/files/surveys/2016_ystreet_minigrant_app.json" />
-      <jump line="9" column="34" filename="$USER_HOME$/Sites/Rescue/helix/files/surveys/2016_ystreet_minigrant_app.json" />
       <jump line="65" column="31" filename="$USER_HOME$/Sites/Rescue/helix/files/surveys/2016_ystreet_minigrant_app.json" />
       <jump line="85" column="34" filename="$USER_HOME$/Sites/Rescue/helix/files/surveys/2016_ystreet_minigrant_app.json" />
       <jump line="137" column="31" filename="$USER_HOME$/Sites/Rescue/helix/files/surveys/2016_ystreet_minigrant_app.json" />
@@ -466,13 +472,17 @@
       <jump line="95" column="4" filename="$USER_HOME$/Shared/Config/environment/Scripts/python/clone-site.py" />
       <jump line="162" column="4" filename="$USER_HOME$/Shared/Config/environment/Scripts/python/clone-site.py" />
       <jump line="101" column="4" filename="$USER_HOME$/Shared/Config/environment/Scripts/python/clone-site.py" />
+      <jump line="30" column="55" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/Gruntfile.js" />
+      <jump line="31" column="72" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/Gruntfile.js" />
+      <jump line="8" column="15" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/bower.json" />
+      <jump line="24" column="5" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/bower.json" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRkKCRzdGF0ZXMpOwo=</text>
+        <text encoding="base64">I1JlZGlyZWN0TWF0Y2ggXi9hYm91dCguKikkIC9hYm91dC10aGlzLWZyZWUtbGlmZSQxCg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -526,61 +536,59 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgIA==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsb2NhbER1bXBEaXJcPg==</text>
+        <text encoding="base64">XDxhbmd1bGFydGljc1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgJGV2b2x2ZW1lbnRTdGF0ZXMgPSBbJ3ZpcmdpbmlhJ107Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRkKCRzdGF0ZXMpOwo=</text>
+        <text encoding="base64">I1JlZGlyZWN0TWF0Y2ggXi9hYm91dCguKikkIC9hYm91dC10aGlzLWZyZWUtbGlmZSQxCg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgIA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBkZXZlbG9wCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGRkKCRzdGF0ZXMpOwo=</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkbWluaUdyYW50KTsK</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">Jg==</text>
+        <text>)</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">Jg==</text>
+        <text>*</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>.</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cgo=</text>
+      <register name="8" type="4">
+        <text>(</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="4">
-        <text>['nevada'];</text>
+        <text>/</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsb2NhbER1bXBEaXJcPg==</last-search>
+      <last-search encoding="base64">XDxhbmd1bGFydGljc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsb2NhbER1bXBEaXJcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxhbmd1bGFydGljc1w+</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute>94117</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>dd(</entry>
-        <entry>dbg</entry>
         <entry>debugg</entry>
         <entry encoding="base64">XDxmaWxlTGlzdFw+</entry>
         <entry>manage_</entry>
@@ -599,6 +607,8 @@
         <entry encoding="base64">XDxkdW1wRmlsZVw+</entry>
         <entry encoding="base64">XDxkdW1wRGF0YWJhc2VcPg==</entry>
         <entry encoding="base64">XDxsb2NhbER1bXBEaXJcPg==</entry>
+        <entry>angulartics</entry>
+        <entry encoding="base64">XDxhbmd1bGFydGljc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>ww</entry>
