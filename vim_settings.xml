@@ -159,8 +159,11 @@
         <mark key="." line="31" column="111" />
         <mark key="^" line="31" column="111" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/full-fact.ctrl.js" timestamp="1462495589181">
-        <mark key="'" line="329" column="0" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/full-fact.ctrl.js" timestamp="1462567187556">
+        <mark key="'" line="269" column="8" />
+        <mark key="[" line="261" column="0" />
+        <mark key="]" line="261" column="0" />
+        <mark key="." line="261" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/js/app.js" timestamp="1462493955835">
         <mark key="'" line="3234" column="57" />
@@ -216,12 +219,13 @@
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/FactAnimationVideo.js" timestamp="1462494522140">
         <mark key="'" line="502" column="51" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/surveys/app/Http/routes.php" timestamp="1462473458240">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="27" column="37" />
-        <mark key="." line="27" column="0" />
-      </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/tobacco-affects.php" timestamp="1462495205596" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/routes.js" timestamp="1462566515765">
+        <mark key="[" line="79" column="10" />
+        <mark key="]" line="79" column="9" />
+        <mark key="^" line="79" column="9" />
+        <mark key="." line="79" column="9" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/bower_components/angulartics-scroll/dist/angulartics-scroll.min.js" timestamp="1462227597348">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
@@ -258,18 +262,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="122" column="13" filename="$USER_HOME$/Sites/Rescue/surveys/app/Libraries/Survey.php" />
-      <jump line="130" column="13" filename="$USER_HOME$/Sites/Rescue/surveys/app/Libraries/Survey.php" />
-      <jump line="115" column="22" filename="$USER_HOME$/Sites/Rescue/helix/js/ng/providers/social-post.js" />
-      <jump line="50" column="18" filename="$USER_HOME$/Sites/Rescue/helix/js/ng/directives/social-grid.drt.js" />
-      <jump line="49" column="21" filename="$USER_HOME$/Sites/Rescue/helix/js/ng/directives/social-grid.drt.js" />
-      <jump line="72" column="21" filename="$USER_HOME$/Sites/Rescue/helix/js/ng/directives/social-grid.drt.js" />
-      <jump line="75" column="21" filename="$USER_HOME$/Sites/Rescue/helix/js/ng/directives/social-grid.drt.js" />
-      <jump line="41" column="18" filename="$USER_HOME$/Sites/Rescue/helix/js/ng/directives/social-grid.drt.js" />
-      <jump line="85" column="21" filename="$USER_HOME$/Sites/Rescue/helix/js/ng/directives/social-grid.drt.js" />
-      <jump line="852" column="30" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Http/Controllers/Api.php" />
-      <jump line="894" column="20" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Http/Controllers/Api.php" />
-      <jump line="693" column="0" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Http/Controllers/SurveyController.php" />
       <jump line="971" column="8" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Http/Controllers/SurveyController.php" />
       <jump line="151" column="23" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/abstracts/OrganizationMilestone.php" />
       <jump line="16" column="15" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/milestones/MilestoneOne.php" />
@@ -340,7 +332,6 @@
       <jump line="320" column="11" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/full-fact.ctrl.js" />
       <jump line="293" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/full-fact.ctrl.js" />
       <jump line="4" column="26" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/full-fact.ctrl.js" />
-      <jump line="329" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/full-fact.ctrl.js" />
       <jump line="26" column="8" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/drupal_translators/TobaccoAffectsTranslator.js" />
       <jump line="125" column="12" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/drupal_translators/TobaccoAffectsTranslator.js" />
       <jump line="7" column="8" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/drupal_translators/TobaccoAffectsTranslator.js" />
@@ -358,13 +349,26 @@
       <jump line="148" column="30" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/menu.js" />
       <jump line="47" column="62" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/menu.js" />
       <jump line="212" column="16" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/menu.js" />
+      <jump line="5" column="31" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/full-fact.ctrl.js" />
+      <jump line="329" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/full-fact.ctrl.js" />
+      <jump line="1" column="30" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/full-fact.ctrl.js" />
+      <jump line="235" column="8" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/full-fact.ctrl.js" />
+      <jump line="21" column="8" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/full-fact.ctrl.js" />
+      <jump line="77" column="8" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/full-fact.ctrl.js" />
+      <jump line="253" column="33" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/full-fact.ctrl.js" />
+      <jump line="70" column="8" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/full-fact.ctrl.js" />
+      <jump line="262" column="8" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/full-fact.ctrl.js" />
+      <jump line="261" column="8" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/full-fact.ctrl.js" />
+      <jump line="232" column="8" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/full-fact.ctrl.js" />
+      <jump line="239" column="8" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/full-fact.ctrl.js" />
+      <jump line="269" column="8" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/full-fact.ctrl.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdyZWxvYWQnKTsK</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -421,49 +425,49 @@
         <text>d</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0cmlnZ2VyXD4=</text>
+        <text encoding="base64">XDxsb2FkSW5pdGlhbEZhY3RcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyRncmlkQ29udGFpbmVyID0gJCgnLmdyaWQnKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdyZWxvYWQnKTsK</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnYXBwZW5kJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdyZWxvYWQnKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdpbml0IG1hc29ucnknKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnYXBwZW5kJyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coJ2VuYWJsZWQgdHJpZ2dlcicpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdpbml0IG1hc29ucnknKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdkaXNhYmxlZCB0cmlnZ2VyJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coJ2VuYWJsZWQgdHJpZ2dlcicpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdkaXNhYmxlZCB0cmlnZ2VyJyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coJHNjb3BlKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdpbml0Jyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coJHNjb3BlKTsK</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
-      <register name="9" type="4">
-        <text>d</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKCdpbml0Jyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0cmlnZ2VyXD4=</last-search>
+      <last-search encoding="base64">XDxsb2FkSW5pdGlhbEZhY3RcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0cmlnZ2VyXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxsb2FkSW5pdGlhbEZhY3RcPg==</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxhcGlWYWx1ZXNFbmFibGVkXD4=</last-substitute>
       <last-dir>-1</last-dir>
@@ -471,14 +475,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwYWRMZWZ0XD4=</entry>
-        <entry encoding="base64">XDxBbmltYXRpb25cPg==</entry>
-        <entry encoding="base64">XDxlbGVtZW50XD4=</entry>
-        <entry encoding="base64">XDxsb2FkQ29uZmlnXD4=</entry>
-        <entry encoding="base64">XDxpbml0aWFsaXplXD4=</entry>
-        <entry encoding="base64">XDxnbG9iYWxCaW5kXD4=</entry>
-        <entry encoding="base64">XDxjaGVja05lZWRzTG9hZGluZ1w+</entry>
-        <entry encoding="base64">XDxhbmltYXRpb25GaW5pc2hlZExvYWRpbmdcPg==</entry>
         <entry>renderHtml</entry>
         <entry encoding="base64">XDxyZW5kZXJIdG1sXD4=</entry>
         <entry>fetch</entry>
@@ -491,6 +487,14 @@
         <entry encoding="base64">XDxtZXRhX2RhdGFcPg==</entry>
         <entry encoding="base64">XDxzaG93TWVudVw+</entry>
         <entry encoding="base64">XDx0cmlnZ2VyXD4=</entry>
+        <entry>f</entry>
+        <entry encoding="base64">XDxyb3V0ZVBhcmFtc1w+</entry>
+        <entry>routeParams</entry>
+        <entry encoding="base64">XDxzd2l0Y2hTZWN0aW9uc1w+</entry>
+        <entry>debugger</entry>
+        <entry encoding="base64">XDxzZXRGYWN0QWN0aXZlXD4=</entry>
+        <entry encoding="base64">XDxsb2FkRmFjdFw+</entry>
+        <entry encoding="base64">XDxsb2FkSW5pdGlhbEZhY3RcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>442</entry>
