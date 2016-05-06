@@ -9,9 +9,6 @@
         <mark key="]" line="209" column="0" />
         <mark key="." line="209" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1462493385415">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/.htaccess" timestamp="1462318703371" />
       <file name="$USER_HOME$/Sites/Rescue/survey-admin/public/js/app/responses.js" timestamp="1462237874637">
         <mark key="[" line="97" column="0" />
@@ -32,6 +29,9 @@
         <mark key="]" line="1" column="21" />
         <mark key="." line="1" column="21" />
         <mark key="^" line="1" column="26" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/menu.js" timestamp="1462496415856">
+        <mark key="'" line="212" column="16" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/helpers/sitelink_helper.php" timestamp="1461776342125">
         <mark key="[" line="1184" column="34" />
@@ -159,8 +159,11 @@
         <mark key="." line="31" column="111" />
         <mark key="^" line="31" column="111" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/full-fact.ctrl.js" timestamp="1462493384521">
-        <mark key="'" line="290" column="36" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/full-fact.ctrl.js" timestamp="1462495589181">
+        <mark key="'" line="329" column="0" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/js/app.js" timestamp="1462493955835">
+        <mark key="'" line="3234" column="57" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/js/ng/providers/social-post.js" timestamp="1462484087285">
         <mark key="'" line="253" column="18" />
@@ -177,6 +180,7 @@
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/bower_components/angular-route/angular-route.min.js" timestamp="1462227155029">
         <mark key="'" line="6" column="251" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/AnimationState.js" timestamp="1462494726070" />
       <file name="$USER_HOME$/Sites/Rescue/helix/application/models/questionnaire_m.php" timestamp="1461908475999">
         <mark key="[" line="212" column="0" />
         <mark key="]" line="212" column="0" />
@@ -209,15 +213,22 @@
         <mark key="]" line="121" column="8" />
         <mark key="." line="121" column="8" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/FactAnimationVideo.js" timestamp="1462494522140">
+        <mark key="'" line="502" column="51" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/surveys/app/Http/routes.php" timestamp="1462473458240">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="37" />
         <mark key="." line="27" column="0" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/tobacco-affects.php" timestamp="1462495205596" />
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/bower_components/angulartics-scroll/dist/angulartics-scroll.min.js" timestamp="1462227597348">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/drupal_translators/TobaccoAffectsTranslator.js" timestamp="1462495913633">
+        <mark key="'" line="157" column="8" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/survey-data-merge/fe/ibase.php" timestamp="1462320867818">
         <mark key="'" line="86" column="65" />
@@ -247,47 +258,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="194" column="17" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/fe/ibase.php" />
-      <jump line="196" column="35" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/fe/ibase.php" />
-      <jump line="51" column="0" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/fe/ibase.php" />
-      <jump line="226" column="32" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/fe/ibase.php" />
-      <jump line="21" column="9" filename="$USER_HOME$/Sites/Rescue/survey-admin/resources/views/surveys/view.blade.php" />
-      <jump line="130" column="36" filename="$USER_HOME$/Sites/Rescue/survey-admin/resources/views/surveys/view.blade.php" />
-      <jump line="114" column="32" filename="$USER_HOME$/Sites/Rescue/survey-admin/resources/views/surveys/view.blade.php" />
-      <jump line="92" column="32" filename="$USER_HOME$/Sites/Rescue/survey-admin/resources/views/surveys/view.blade.php" />
-      <jump line="827" column="0" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/Variables.php" />
-      <jump line="214" column="27" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/shared/ibaseScore.js" />
-      <jump line="86" column="65" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/fe/ibase.php" />
-      <jump line="86" column="34" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/shared/ibaseService.js" />
-      <jump line="117" column="4" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/shared/ibaseBuild.js" />
-      <jump line="1737" column="16" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/shared/ibaseBuild.js" />
-      <jump line="117" column="26" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/shared/ibaseScore.js" />
-      <jump line="210" column="27" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/shared/ibaseScore.js" />
-      <jump line="342" column="24" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/minigrants.php" />
-      <jump line="235" column="13" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/minigrants.php" />
-      <jump line="247" column="29" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/minigrants.php" />
-      <jump line="330" column="35" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/minigrants.php" />
-      <jump line="336" column="30" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/minigrants.php" />
-      <jump line="30" column="31" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/minigrants.php" />
-      <jump line="33" column="13" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/minigrants.php" />
-      <jump line="227" column="21" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/minigrants.php" />
-      <jump line="719" column="13" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/minigrants.php" />
-      <jump line="22" column="33" filename="$USER_HOME$/Sites/Rescue/helix/application/views/minigrant/view.php" />
-      <jump line="207" column="10" filename="$USER_HOME$/Sites/Rescue/helix/application/views/minigrant/view.php" />
-      <jump line="198" column="9" filename="$USER_HOME$/Sites/Rescue/helix/application/views/minigrant/view.php" />
-      <jump line="202" column="4" filename="$USER_HOME$/Sites/Rescue/surveys/app/Libraries/Survey.php" />
-      <jump line="29" column="13" filename="$USER_HOME$/Sites/Rescue/surveys/app/Libraries/Survey.php" />
-      <jump line="36" column="13" filename="$USER_HOME$/Sites/Rescue/surveys/app/Libraries/Survey.php" />
-      <jump line="43" column="13" filename="$USER_HOME$/Sites/Rescue/surveys/app/Libraries/Survey.php" />
-      <jump line="50" column="13" filename="$USER_HOME$/Sites/Rescue/surveys/app/Libraries/Survey.php" />
-      <jump line="57" column="13" filename="$USER_HOME$/Sites/Rescue/surveys/app/Libraries/Survey.php" />
-      <jump line="65" column="13" filename="$USER_HOME$/Sites/Rescue/surveys/app/Libraries/Survey.php" />
-      <jump line="72" column="13" filename="$USER_HOME$/Sites/Rescue/surveys/app/Libraries/Survey.php" />
-      <jump line="79" column="13" filename="$USER_HOME$/Sites/Rescue/surveys/app/Libraries/Survey.php" />
-      <jump line="88" column="13" filename="$USER_HOME$/Sites/Rescue/surveys/app/Libraries/Survey.php" />
-      <jump line="97" column="13" filename="$USER_HOME$/Sites/Rescue/surveys/app/Libraries/Survey.php" />
-      <jump line="106" column="13" filename="$USER_HOME$/Sites/Rescue/surveys/app/Libraries/Survey.php" />
-      <jump line="114" column="13" filename="$USER_HOME$/Sites/Rescue/surveys/app/Libraries/Survey.php" />
       <jump line="122" column="13" filename="$USER_HOME$/Sites/Rescue/surveys/app/Libraries/Survey.php" />
       <jump line="130" column="13" filename="$USER_HOME$/Sites/Rescue/surveys/app/Libraries/Survey.php" />
       <jump line="115" column="22" filename="$USER_HOME$/Sites/Rescue/helix/js/ng/providers/social-post.js" />
@@ -347,6 +317,47 @@
       <jump line="18" column="0" filename="$USER_HOME$/Sites/Rescue/helix/js/ng/directives/social-grid.drt.js" />
       <jump line="27" column="0" filename="$USER_HOME$/Sites/Rescue/helix/js/ng/directives/social-grid.drt.js" />
       <jump line="290" column="36" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/full-fact.ctrl.js" />
+      <jump line="3234" column="57" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/js/app.js" />
+      <jump line="97" column="12" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/FactAnimationVideo.js" />
+      <jump line="55" column="18" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/FactAnimationVideo.js" />
+      <jump line="245" column="25" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/FactAnimationVideo.js" />
+      <jump line="2" column="31" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/FactAnimationVideo.js" />
+      <jump line="64" column="56" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/FactAnimationVideo.js" />
+      <jump line="151" column="47" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/FactAnimationVideo.js" />
+      <jump line="152" column="17" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/FactAnimationVideo.js" />
+      <jump line="228" column="17" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/FactAnimationVideo.js" />
+      <jump line="249" column="55" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/FactAnimationVideo.js" />
+      <jump line="262" column="25" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/FactAnimationVideo.js" />
+      <jump line="606" column="22" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/FactAnimationVideo.js" />
+      <jump line="576" column="13" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/FactAnimationVideo.js" />
+      <jump line="580" column="58" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/FactAnimationVideo.js" />
+      <jump line="13" column="29" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/FactAnimationVideo.js" />
+      <jump line="599" column="17" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/FactAnimationVideo.js" />
+      <jump line="516" column="25" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/FactAnimationVideo.js" />
+      <jump line="502" column="51" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/FactAnimationVideo.js" />
+      <jump line="31" column="53" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/full-fact.ctrl.js" />
+      <jump line="8" column="24" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/full-fact.ctrl.js" />
+      <jump line="320" column="11" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/full-fact.ctrl.js" />
+      <jump line="293" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/full-fact.ctrl.js" />
+      <jump line="4" column="26" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/full-fact.ctrl.js" />
+      <jump line="329" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/full-fact.ctrl.js" />
+      <jump line="26" column="8" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/drupal_translators/TobaccoAffectsTranslator.js" />
+      <jump line="125" column="12" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/drupal_translators/TobaccoAffectsTranslator.js" />
+      <jump line="7" column="8" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/drupal_translators/TobaccoAffectsTranslator.js" />
+      <jump line="15" column="8" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/drupal_translators/TobaccoAffectsTranslator.js" />
+      <jump line="213" column="27" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/drupal_translators/TobaccoAffectsTranslator.js" />
+      <jump line="221" column="16" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/drupal_translators/TobaccoAffectsTranslator.js" />
+      <jump line="257" column="34" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/drupal_translators/TobaccoAffectsTranslator.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/drupal_translators/TobaccoAffectsTranslator.js" />
+      <jump line="130" column="14" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/drupal_translators/TobaccoAffectsTranslator.js" />
+      <jump line="132" column="16" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/drupal_translators/TobaccoAffectsTranslator.js" />
+      <jump line="142" column="57" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/drupal_translators/TobaccoAffectsTranslator.js" />
+      <jump line="157" column="8" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/drupal_translators/TobaccoAffectsTranslator.js" />
+      <jump line="197" column="38" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/menu.js" />
+      <jump line="185" column="42" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/menu.js" />
+      <jump line="148" column="30" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/menu.js" />
+      <jump line="47" column="62" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/menu.js" />
+      <jump line="212" column="16" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/menu.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -410,7 +421,7 @@
         <text>d</text>
       </register>
       <register name="/" type="4">
-        <text>console.log</text>
+        <text encoding="base64">XDx0cmlnZ2VyXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvLyRncmlkQ29udGFpbmVyID0gJCgnLmdyaWQnKTsK</text>
@@ -450,36 +461,36 @@
       </register>
     </registers>
     <search>
-      <last-search>console.log</last-search>
+      <last-search encoding="base64">XDx0cmlnZ2VyXD4=</last-search>
       <last-offset />
-      <last-pattern>console.log</last-pattern>
+      <last-pattern encoding="base64">XDx0cmlnZ2VyXD4=</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxhcGlWYWx1ZXNFbmFibGVkXD4=</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhZGRNaWxlc3RvbmVUZXN0XD4=</entry>
-        <entry>passed</entry>
-        <entry encoding="base64">XDx0ZXN0TWVtYmVyUGVyY2VudFw+</entry>
-        <entry encoding="base64">XDx0ZXN0TWVtYmVyQ291bnRcPg==</entry>
-        <entry encoding="base64">XDx0ZXN0VHJhaW5pbmdQZXJjZW50XD4=</entry>
-        <entry encoding="base64">XDx0cmFpbmluZ1Byb2plY3RQZXJjZW50XD4=</entry>
-        <entry encoding="base64">XDxNRU1CRVJfQ1VSUkVOVFw+</entry>
-        <entry encoding="base64">XDxnZXRNZW1iZXJzaGlwUmVzdWx0XD4=</entry>
-        <entry>populate</entry>
-        <entry encoding="base64">XDxwb3B1bGF0ZVJlc3BvbnNlc1w+</entry>
-        <entry>grid-item</entry>
-        <entry>debugger</entry>
-        <entry>console</entry>
-        <entry encoding="base64">XDxzY3JvbGxGaXJlXD4=</entry>
-        <entry encoding="base64">XDxtYXNvbnJ5SW5pdFw+</entry>
-        <entry encoding="base64">XDxtYXNvbnJ5UmVsb2FkXD4=</entry>
-        <entry encoding="base64">XDxpdGVtc1w+</entry>
-        <entry>gridDataLoaded</entry>
-        <entry encoding="base64">XDxncmlkRGF0YUxvYWRlZFw+</entry>
-        <entry>console.log</entry>
+        <entry encoding="base64">XDxwYWRMZWZ0XD4=</entry>
+        <entry encoding="base64">XDxBbmltYXRpb25cPg==</entry>
+        <entry encoding="base64">XDxlbGVtZW50XD4=</entry>
+        <entry encoding="base64">XDxsb2FkQ29uZmlnXD4=</entry>
+        <entry encoding="base64">XDxpbml0aWFsaXplXD4=</entry>
+        <entry encoding="base64">XDxnbG9iYWxCaW5kXD4=</entry>
+        <entry encoding="base64">XDxjaGVja05lZWRzTG9hZGluZ1w+</entry>
+        <entry encoding="base64">XDxhbmltYXRpb25GaW5pc2hlZExvYWRpbmdcPg==</entry>
+        <entry>renderHtml</entry>
+        <entry encoding="base64">XDxyZW5kZXJIdG1sXD4=</entry>
+        <entry>fetch</entry>
+        <entry encoding="base64">XDxmaWx0ZXJcPg==</entry>
+        <entry encoding="base64">XDxnZXRCb2R5Q2xhc3NcPg==</entry>
+        <entry encoding="base64">XDxnZXRfaXRlbV90eXBlXD4=</entry>
+        <entry encoding="base64">XDxpc19mYWN0XD4=</entry>
+        <entry encoding="base64">XDxwYXJzZV9tZXRhX2RhdGFcPg==</entry>
+        <entry>meta_data</entry>
+        <entry encoding="base64">XDxtZXRhX2RhdGFcPg==</entry>
+        <entry encoding="base64">XDxzaG93TWVudVw+</entry>
+        <entry encoding="base64">XDx0cmlnZ2VyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>442</entry>
