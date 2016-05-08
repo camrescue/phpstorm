@@ -9,7 +9,7 @@
         <mark key="]" line="209" column="0" />
         <mark key="." line="209" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1462599304654">
+      <file name="/a.dummy" timestamp="1462674521020">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/.htaccess" timestamp="1462318703371" />
@@ -25,11 +25,17 @@
         <mark key="^" line="6" column="35" />
         <mark key="." line="6" column="137" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/shared/ibaseScore.js" timestamp="1462321342362">
+        <mark key="'" line="210" column="27" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/bower_components/angulartics-google-analytics/dist/angulartics-google-analytics.min.js" timestamp="1462227438324">
         <mark key="[" line="1" column="21" />
         <mark key="]" line="1" column="21" />
         <mark key="." line="1" column="21" />
         <mark key="^" line="1" column="26" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/menu.js" timestamp="1462496415856">
+        <mark key="'" line="212" column="16" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/surveys/resources/assets/js/trackers.js" timestamp="1462575142930">
         <mark key="'" line="16" column="9" />
@@ -114,12 +120,15 @@
         <mark key="^" line="329" column="63" />
         <mark key="." line="329" column="63" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/Http/Controllers/SurveyController.php" timestamp="1462671837080">
-        <mark key="'" line="903" column="66" />
-        <mark key="[" line="179" column="33" />
-        <mark key="]" line="179" column="35" />
-        <mark key="^" line="179" column="35" />
-        <mark key="." line="179" column="35" />
+      <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/Survey.php" timestamp="1462674594050">
+        <mark key="'" line="625" column="32" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/Http/Controllers/SurveyController.php" timestamp="1462674267209">
+        <mark key="'" line="137" column="11" />
+        <mark key="[" line="195" column="25" />
+        <mark key="]" line="195" column="41" />
+        <mark key="." line="195" column="41" />
+        <mark key="^" line="195" column="41" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/js/lib/scrollFire.js" timestamp="1462484130552" />
       <file name="$USER_HOME$/Sites/Rescue/surveys/app/Libraries/Survey.php" timestamp="1462575156887">
@@ -222,7 +231,8 @@
         <mark key="." line="253" column="0" />
         <mark key="^" line="227" column="41" />
       </file>
-      <file name="/Dummy.txt" timestamp="1462599324080">
+      <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/utils.php" timestamp="1462674251268" />
+      <file name="/Dummy.txt" timestamp="1462674532408">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/FluidApi.php" timestamp="1462574440123">
@@ -230,6 +240,9 @@
         <mark key="[" line="121" column="8" />
         <mark key="]" line="121" column="8" />
         <mark key="." line="121" column="8" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/FactAnimationVideo.js" timestamp="1462494522140">
+        <mark key="'" line="502" column="51" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/surveys/app/Http/routes.php" timestamp="1462572308284">
         <mark key="[" line="38" column="50" />
@@ -257,8 +270,15 @@
         <mark key="^" line="79" column="9" />
         <mark key="." line="108" column="10" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/survey-admin/resources/views/surveys/tracker.blade.php" timestamp="1462670702941">
-        <mark key="'" line="114" column="87" />
+      <file name="$USER_HOME$/Sites/Rescue/survey-admin/resources/views/surveys/tracker.blade.php" timestamp="1462674323113">
+        <mark key="'" line="331" column="48" />
+        <mark key="[" line="139" column="29" />
+        <mark key="]" line="139" column="29" />
+        <mark key="." line="139" column="29" />
+        <mark key="^" line="139" column="29" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/drupal_translators/TobaccoAffectsTranslator.js" timestamp="1462495913633">
+        <mark key="'" line="157" column="8" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/survey-data-merge/fe/ibase.php" timestamp="1462320867818">
         <mark key="'" line="86" column="65" />
@@ -267,12 +287,12 @@
         <mark key="^" line="204" column="46" />
         <mark key="." line="204" column="46" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" timestamp="1462671570701">
-        <mark key="'" line="745" column="4" />
-        <mark key="[" line="754" column="40" />
-        <mark key="]" line="754" column="40" />
-        <mark key="." line="754" column="40" />
-        <mark key="^" line="754" column="40" />
+      <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" timestamp="1462673931744">
+        <mark key="'" line="1641" column="22" />
+        <mark key="[" line="522" column="0" />
+        <mark key="]" line="522" column="0" />
+        <mark key="." line="522" column="0" />
+        <mark key="^" line="523" column="34" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/surveys/app/Http/Controllers/CountryLifeControllerVerTwo.php" timestamp="1462572459173">
         <mark key="[" line="9" column="0" />
@@ -294,22 +314,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="3234" column="57" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/js/app.js" />
-      <jump line="97" column="12" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/FactAnimationVideo.js" />
-      <jump line="55" column="18" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/FactAnimationVideo.js" />
-      <jump line="245" column="25" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/FactAnimationVideo.js" />
-      <jump line="2" column="31" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/FactAnimationVideo.js" />
-      <jump line="64" column="56" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/FactAnimationVideo.js" />
-      <jump line="151" column="47" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/FactAnimationVideo.js" />
-      <jump line="152" column="17" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/FactAnimationVideo.js" />
-      <jump line="228" column="17" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/FactAnimationVideo.js" />
-      <jump line="249" column="55" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/FactAnimationVideo.js" />
-      <jump line="262" column="25" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/FactAnimationVideo.js" />
-      <jump line="606" column="22" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/FactAnimationVideo.js" />
-      <jump line="576" column="13" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/FactAnimationVideo.js" />
-      <jump line="580" column="58" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/FactAnimationVideo.js" />
-      <jump line="13" column="29" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/FactAnimationVideo.js" />
-      <jump line="599" column="17" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/FactAnimationVideo.js" />
       <jump line="516" column="25" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/FactAnimationVideo.js" />
       <jump line="502" column="51" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/FactAnimationVideo.js" />
       <jump line="31" column="53" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/full-fact.ctrl.js" />
@@ -394,13 +398,29 @@
       <jump line="704" column="22" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
       <jump line="745" column="4" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
       <jump line="896" column="66" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Http/Controllers/SurveyController.php" />
+      <jump line="355" column="56" filename="$USER_HOME$/Sites/Rescue/survey-admin/resources/views/surveys/tracker.blade.php" />
+      <jump line="332" column="51" filename="$USER_HOME$/Sites/Rescue/survey-admin/resources/views/surveys/tracker.blade.php" />
+      <jump line="128" column="24" filename="$USER_HOME$/Sites/Rescue/survey-admin/resources/views/surveys/tracker.blade.php" />
+      <jump line="139" column="18" filename="$USER_HOME$/Sites/Rescue/survey-admin/resources/views/surveys/tracker.blade.php" />
+      <jump line="333" column="48" filename="$USER_HOME$/Sites/Rescue/survey-admin/resources/views/surveys/tracker.blade.php" />
+      <jump line="527" column="0" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
+      <jump line="725" column="23" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
+      <jump line="673" column="23" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
+      <jump line="716" column="18" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
+      <jump line="1650" column="22" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
+      <jump line="498" column="20" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
+      <jump line="1642" column="22" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
+      <jump line="195" column="34" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Http/Controllers/SurveyController.php" />
+      <jump line="137" column="11" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Http/Controllers/SurveyController.php" />
+      <jump line="614" column="55" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Survey.php" />
+      <jump line="625" column="32" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Survey.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>StartIndex</text>
+        <text>getVar(),</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -454,52 +474,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>StartIndex</text>
+        <text>getVar(),</text>
       </register>
       <register name="/" type="4">
-        <text>getTrack</text>
+        <text encoding="base64">XDxwb3B1bGF0ZVJlc3BvbnNlc1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAxMDE5NzE5ICAvLyBjb3VudHJ5dnQK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8YSBocmVmPSIiPlByZXY8L2E+Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>StartIndex</text>
+        <text>getVar(),</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkcGFnZSA9IDA7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygncmVhZHknKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHBhZ2UgPSAkZmlsdGVyWydwYWdlJ107Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>.</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>d</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJHJlc3BvbnNlcyk7Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>tracker-select</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgkcm93cyk7Cgo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJG9wdGlvbnNbJ2NsYXNzJ10gPSAnJzsK</text>
+      <register name="7" type="4">
+        <text>result</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkb3B0aW9uc1snY2xhc3MnXSA9ICd0cmFja2VyLXNlbGVjdCc7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHJlc3VsdFtdID0gJHRyYWNraW5nUm93Owo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJG9wdGlvbnNbImRpc2FibGVkIl0gPSAidHJ1ZSI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkcmVzdWx0ID0gW107Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>getTrack</last-search>
+      <last-search encoding="base64">XDxwb3B1bGF0ZVJlc3BvbnNlc1w+</last-search>
       <last-offset />
-      <last-pattern>getTrack</last-pattern>
+      <last-pattern encoding="base64">XDxwb3B1bGF0ZVJlc3BvbnNlc1w+</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxhcGlWYWx1ZXNFbmFibGVkXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -507,14 +527,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Duplicate</entry>
-        <entry>getEmailTest</entry>
-        <entry>whiteList</entry>
-        <entry>white</entry>
-        <entry encoding="base64">XDx2YWxpZFN1cnZleXNcPg==</entry>
-        <entry>duplicate</entry>
-        <entry>fake</entry>
-        <entry encoding="base64">XDxmYWtlU3VibWl0XD4=</entry>
         <entry>console.oog</entry>
         <entry>console.log</entry>
         <entry encoding="base64">XDxJTkNFTlRJVkVfUEFJRFw+</entry>
@@ -527,6 +539,14 @@
         <entry encoding="base64">XDxhZGREcm9wRG93bkZpZWxkXD4=</entry>
         <entry>limit</entry>
         <entry>getTrack</entry>
+        <entry>rows</entry>
+        <entry encoding="base64">XDxsaW1pdFw+</entry>
+        <entry encoding="base64">XDxhZGRTY3JlZW5lckFuc3dlcnNcPg==</entry>
+        <entry encoding="base64">XDxhZGREeW5hbWljRmllbGRzXD4=</entry>
+        <entry>fetch(</entry>
+        <entry encoding="base64">XDxpbnB1dFw+</entry>
+        <entry>populateResponses</entry>
+        <entry encoding="base64">XDxwb3B1bGF0ZVJlc3BvbnNlc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>442</entry>
