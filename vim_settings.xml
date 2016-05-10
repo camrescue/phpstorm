@@ -49,7 +49,7 @@
       <file name="$USER_HOME$/Sites/Rescue/survey-data-merge/gulpfile.js" timestamp="1462304521692">
         <mark key="'" line="325" column="25" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/survey-data-merge/fe/ibase-fix.php" timestamp="1462837583564">
+      <file name="$USER_HOME$/Sites/Rescue/survey-data-merge/fe/ibase-fix.php" timestamp="1462838376625">
         <mark key="'" line="10" column="3" />
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
@@ -114,6 +114,12 @@
         <mark key="[" line="1094" column="0" />
         <mark key="]" line="1094" column="0" />
         <mark key="." line="1094" column="0" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/survey-data-merge/fe/ibase-scoring.php" timestamp="1462838419612">
+        <mark key="[" line="6" column="18" />
+        <mark key="]" line="6" column="25" />
+        <mark key="^" line="6" column="25" />
+        <mark key="." line="6" column="25" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/survey-data-merge/helpers/utils.php" timestamp="1462835134891">
         <mark key="'" line="47" column="22" />
@@ -313,8 +319,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRkKCRpYmFzZURhdGEpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>inputPath</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -368,7 +374,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>inputPath</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjc3ZcPg==</text>
@@ -376,35 +382,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAnbWFsZUJlc3QnID0+ICRtYWxlQmVzdCwK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIGRkKCRpYmFzZURhdGEpOwo=</text>
+      <register name="1" type="4">
+        <text>inputPath</text>
       </register>
       <register name="2" type="4">
-        <text>,</text>
+        <text>/responses_ibase_fix.tsv';</text>
       </register>
       <register name="3" type="4">
-        <text>csv</text>
+        <text>File</text>
       </register>
       <register name="4" type="4">
+        <text>inputPath</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGRkKCRpYmFzZURhdGEpOwo=</text>
+      </register>
+      <register name="6" type="4">
+        <text>,</text>
+      </register>
+      <register name="7" type="4">
         <text>csv</text>
-      </register>
-      <register name="5" type="4">
-        <text>csv</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="4">
-        <text>'</text>
+        <text>csv</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="4">
-        <text>&quot;</text>
+        <text>csv</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
