@@ -3,26 +3,73 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Sites/Rescue/survey-admin/storage/logs/edited_data.log" timestamp="1462927677641">
-        <mark key="'" line="58" column="66" />
+      <file name="$USER_HOME$/Sites/Rescue/survey-admin/config/compile.php" timestamp="1463009334002" />
+      <file name="$USER_HOME$/Sites/Rescue/survey-admin/database/migrations/2016_05_10_115554_create_survey_logs.php" timestamp="1463001509467">
+        <mark key="[" line="23" column="28" />
+        <mark key="]" line="23" column="35" />
+        <mark key="." line="23" column="35" />
+        <mark key="^" line="23" column="35" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/Http/Controllers/SurveyController.php" timestamp="1462992789070">
-        <mark key="'" line="7" column="8" />
-        <mark key="[" line="193" column="0" />
-        <mark key="]" line="193" column="0" />
-        <mark key="." line="193" column="0" />
+      <file name="$USER_HOME$/Sites/Rescue/survey-admin/bootstrap/autoload.php" timestamp="1463010523303" />
+      <file name="$USER_HOME$/Sites/Rescue/survey-admin/resources/views/logs/tracker.blade.php" timestamp="1463000709847">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/survey-admin/scripts/ibase-scoring.php" timestamp="1462858181570">
-        <mark key="'" line="105" column="16" />
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="106" column="14" />
-        <mark key="." line="105" column="0" />
+      <file name="$USER_HOME$/Sites/Rescue/survey-admin/resources/views/surveys/payments.blade.php" timestamp="1463003619056">
+        <mark key="'" line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_quest/main-with-admin.html" timestamp="1462923184186">
-        <mark key="'" line="1265" column="25" />
+      <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/IbaseFix.php" timestamp="1462980821624">
+        <mark key="'" line="129" column="58" />
+        <mark key="[" line="139" column="0" />
+        <mark key="]" line="139" column="0" />
+        <mark key="^" line="115" column="24" />
+        <mark key="." line="139" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/survey-admin/tests/LgbtCodebookTest.php" timestamp="1462864907812">
-        <mark key="'" line="8" column="31" />
+      <file name="$USER_HOME$/Sites/Rescue/survey-admin/.gitignore" timestamp="1462992695556" />
+      <file name="$USER_HOME$/Sites/Rescue/survey-admin/resources/views/surveys/view.blade.php" timestamp="1462825790320">
+        <mark key="'" line="66" column="34" />
+        <mark key="[" line="92" column="0" />
+        <mark key="]" line="92" column="0" />
+        <mark key="." line="92" column="0" />
+        <mark key="^" line="91" column="23" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/Logger.php" timestamp="1462906331682">
+        <mark key="[" line="18" column="31" />
+        <mark key="]" line="18" column="33" />
+        <mark key="^" line="18" column="33" />
+        <mark key="." line="18" column="33" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/survey-admin/database/migrations/2016_05_09_141145_create_survey_log.php" timestamp="1462906377734">
+        <mark key="[" line="35" column="31" />
+        <mark key="]" line="35" column="32" />
+        <mark key="^" line="35" column="32" />
+        <mark key="." line="35" column="32" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/SurveyLogger.php" timestamp="1463009758850">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/Survey.php" timestamp="1462825775909">
+        <mark key="'" line="529" column="21" />
+        <mark key="[" line="562" column="0" />
+        <mark key="]" line="562" column="0" />
+        <mark key="^" line="540" column="44" />
+        <mark key="." line="562" column="0" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/Http/Controllers/SurveyController.php" timestamp="1463003599805">
+        <mark key="'" line="196" column="16" />
+        <mark key="[" line="240" column="0" />
+        <mark key="]" line="240" column="0" />
+        <mark key="." line="240" column="0" />
+        <mark key="^" line="239" column="33" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/survey-admin/resources/views/surveys/log.blade.php" timestamp="1463003787878">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/survey-data-merge/fe/ibase-utils.php" timestamp="1462842876573">
         <mark key="'" line="56" column="49" />
@@ -31,18 +78,12 @@
         <mark key="^" line="59" column="9" />
         <mark key="." line="59" column="9" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/helpers/utils_helper.php" timestamp="1462835072719">
-        <mark key="'" line="8" column="25" />
-      </file>
-      <file name="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/shared/ibaseService.js" timestamp="1462832878852">
-        <mark key="'" line="74" column="0" />
-      </file>
-      <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/Http/Controllers/Api.php" timestamp="1462993648134">
-        <mark key="'" line="1325" column="0" />
-        <mark key="[" line="1314" column="8" />
-        <mark key="]" line="1314" column="14" />
-        <mark key="." line="1314" column="14" />
-        <mark key="^" line="1314" column="14" />
+      <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/Http/Controllers/Api.php" timestamp="1463004623445">
+        <mark key="'" line="419" column="20" />
+        <mark key="[" line="1318" column="0" />
+        <mark key="]" line="1318" column="0" />
+        <mark key="." line="1318" column="0" />
+        <mark key="^" line="1317" column="34" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/Variables.php" timestamp="1462909334199">
         <mark key="'" line="433" column="19" />
@@ -65,18 +106,21 @@
         <mark key="." line="59" column="28" />
         <mark key="^" line="59" column="28" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/survey-admin/public/js/app/tracker.js" timestamp="1462993717687">
-        <mark key="'" line="161" column="12" />
-        <mark key="[" line="360" column="11" />
-        <mark key="]" line="360" column="10" />
-        <mark key="." line="360" column="10" />
-        <mark key="^" line="360" column="10" />
+      <file name="$USER_HOME$/Sites/Rescue/survey-admin/public/js/app/tracker.js" timestamp="1463010369598">
+        <mark key="'" line="231" column="8" />
+        <mark key="[" line="249" column="42" />
+        <mark key="]" line="249" column="57" />
+        <mark key="." line="249" column="57" />
+        <mark key="^" line="249" column="57" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/SurveyTracking.php" timestamp="1462909412394">
-        <mark key="'" line="57" column="4" />
-        <mark key="[" line="59" column="0" />
-        <mark key="]" line="59" column="0" />
-        <mark key="." line="59" column="0" />
+      <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/SurveyLog.php" timestamp="1463001660217">
+        <mark key="[" line="15" column="20" />
+        <mark key="]" line="15" column="26" />
+        <mark key="^" line="15" column="26" />
+        <mark key="." line="15" column="26" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1463009966756">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/FluidApi.php" timestamp="1462927695220">
         <mark key="'" line="112" column="79" />
@@ -84,9 +128,6 @@
         <mark key="]" line="102" column="15" />
         <mark key="." line="102" column="15" />
         <mark key="^" line="102" column="15" />
-      </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/FactAnimationVideo.js" timestamp="1462831768614">
-        <mark key="'" line="500" column="44" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/Scripts/ibase-scoring.php" timestamp="1462858972594">
         <mark key="'" line="10" column="0" />
@@ -101,17 +142,13 @@
         <mark key="." line="5" column="15" />
         <mark key="^" line="5" column="15" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/helpers/core_helper.php" timestamp="1462835068149">
-        <mark key="'" line="1570" column="24" />
+      <file name="$USER_HOME$/Sites/Rescue/survey-admin/resources/views/app.blade.php" timestamp="1463007425343">
+        <mark key="'" line="76" column="38" />
+        <mark key="[" line="75" column="32" />
+        <mark key="]" line="75" column="40" />
+        <mark key="^" line="75" column="40" />
+        <mark key="." line="75" column="40" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/IbaseFix.php" timestamp="1462980821624">
-        <mark key="'" line="129" column="58" />
-        <mark key="[" line="139" column="0" />
-        <mark key="]" line="139" column="0" />
-        <mark key="^" line="115" column="24" />
-        <mark key="." line="139" column="0" />
-      </file>
-      <file name="$USER_HOME$/Sites/Rescue/survey-admin/.gitignore" timestamp="1462992695556" />
       <file name="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_quest/src/main.js" timestamp="1462923188079">
         <mark key="'" line="44" column="22" />
         <mark key="[" line="83" column="0" />
@@ -119,36 +156,12 @@
         <mark key="^" line="81" column="0" />
         <mark key="." line="83" column="4" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/survey-admin/resources/views/surveys/view.blade.php" timestamp="1462825790320">
-        <mark key="'" line="66" column="34" />
-        <mark key="[" line="92" column="0" />
-        <mark key="]" line="92" column="0" />
-        <mark key="." line="92" column="0" />
-        <mark key="^" line="91" column="23" />
-      </file>
-      <file name="$USER_HOME$/Sites/Rescue/survey-admin/resources/views/surveys/tracker.blade.php" timestamp="1462993787543">
-        <mark key="'" line="49" column="12" />
-        <mark key="[" line="53" column="74" />
-        <mark key="]" line="53" column="85" />
-        <mark key="." line="53" column="85" />
-        <mark key="^" line="53" column="85" />
-      </file>
-      <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/Logger.php" timestamp="1462906331682">
-        <mark key="[" line="18" column="31" />
-        <mark key="]" line="18" column="33" />
-        <mark key="^" line="18" column="33" />
-        <mark key="." line="18" column="33" />
-      </file>
-      <file name="$USER_HOME$/Sites/Rescue/survey-admin/database/migrations/2016_05_09_141145_create_survey_log.php" timestamp="1462906377734">
-        <mark key="[" line="35" column="31" />
-        <mark key="]" line="35" column="32" />
-        <mark key="^" line="35" column="32" />
-        <mark key="." line="35" column="32" />
-      </file>
-      <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/SurveyLogger.php" timestamp="1462993589310">
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="." line="33" column="0" />
+      <file name="$USER_HOME$/Sites/Rescue/survey-admin/resources/views/surveys/tracker.blade.php" timestamp="1463006339434">
+        <mark key="'" line="15" column="53" />
+        <mark key="[" line="15" column="121" />
+        <mark key="]" line="15" column="125" />
+        <mark key="." line="15" column="125" />
+        <mark key="^" line="15" column="125" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/survey-data-merge/fe/ibase.php" timestamp="1462922816670">
         <mark key="'" line="200" column="0" />
@@ -157,67 +170,30 @@
         <mark key="." line="17" column="23" />
         <mark key="^" line="17" column="23" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" timestamp="1462991433996">
-        <mark key="'" line="503" column="21" />
-        <mark key="[" line="550" column="21" />
-        <mark key="]" line="550" column="21" />
-        <mark key="^" line="550" column="21" />
-        <mark key="." line="550" column="21" />
+      <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" timestamp="1463003804607">
+        <mark key="'" line="571" column="41" />
+        <mark key="[" line="593" column="109" />
+        <mark key="]" line="593" column="109" />
+        <mark key="^" line="593" column="109" />
+        <mark key="." line="593" column="109" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/Providers/AppServiceProvider.php" timestamp="1462907205860">
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="^" line="46" column="35" />
-        <mark key="." line="37" column="0" />
+      <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/Providers/AppServiceProvider.php" timestamp="1463009747479">
+        <mark key="'" line="8" column="8" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/survey-admin/storage/ibase/responses_ibase_fix.tsv" timestamp="1462926463822">
-        <mark key="'" line="96" column="20" />
-        <mark key="[" line="109" column="0" />
-        <mark key="]" line="109" column="0" />
-        <mark key="." line="109" column="0" />
+      <file name="$USER_HOME$/Sites/Rescue/survey-admin/database/migrations/2016_05_11_142331_add_previous_and_current_to_logs.php" timestamp="1463001898699">
+        <mark key="[" line="34" column="20" />
+        <mark key="]" line="34" column="20" />
+        <mark key="^" line="33" column="30" />
+        <mark key="." line="34" column="23" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/Survey.php" timestamp="1462825775909">
-        <mark key="'" line="529" column="21" />
-        <mark key="[" line="562" column="0" />
-        <mark key="]" line="562" column="0" />
-        <mark key="^" line="540" column="44" />
-        <mark key="." line="562" column="0" />
+      <file name="$USER_HOME$/Sites/Rescue/survey-admin/resources/views/surveys/ibase-fix.blade.php" timestamp="1462856294261">
+        <mark key="[" line="119" column="11" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="4" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_quest/src/main.js" />
-      <jump line="473" column="4" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_quest/src/main.js" />
-      <jump line="514" column="6" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_quest/src/main.js" />
-      <jump line="509" column="6" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_quest/src/main.js" />
-      <jump line="474" column="20" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_quest/src/main.js" />
-      <jump line="72" column="4" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_quest/src/main.js" />
-      <jump line="59" column="4" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_quest/src/main.js" />
-      <jump line="75" column="6" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_quest/src/main.js" />
-      <jump line="438" column="29" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_quest/src/main.js" />
-      <jump line="441" column="20" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_quest/src/main.js" />
-      <jump line="44" column="22" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_quest/src/main.js" />
-      <jump line="587" column="49" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Http/Controllers/Api.php" />
-      <jump line="633" column="20" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Http/Controllers/Api.php" />
-      <jump line="683" column="36" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Http/Controllers/Api.php" />
-      <jump line="837" column="13" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Http/Controllers/Api.php" />
-      <jump line="839" column="15" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Http/Controllers/Api.php" />
-      <jump line="937" column="13" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Http/Controllers/Api.php" />
-      <jump line="938" column="13" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Http/Controllers/Api.php" />
-      <jump line="209" column="58" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Http/Controllers/SurveyController.php" />
-      <jump line="100" column="21" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/IbaseFix.php" />
-      <jump line="998" column="35" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Http/Controllers/Api.php" />
-      <jump line="9" column="13" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/IbaseFix.php" />
-      <jump line="141" column="23" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/IbaseFix.php" />
-      <jump line="77" column="19" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/IbaseFix.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Sites/Rescue/survey-admin/storage/logs/edited_data.log" />
-      <jump line="119" column="55" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/FluidApi.php" />
-      <jump line="229" column="18" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/FluidApi.php" />
-      <jump line="66" column="13" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/IbaseFix.php" />
-      <jump line="145" column="32" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/IbaseFix.php" />
-      <jump line="58" column="66" filename="$USER_HOME$/Sites/Rescue/survey-admin/storage/logs/edited_data.log" />
-      <jump line="112" column="79" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/FluidApi.php" />
-      <jump line="96" column="20" filename="$USER_HOME$/Sites/Rescue/survey-admin/storage/ibase/responses_ibase_fix.tsv" />
-      <jump line="143" column="21" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/IbaseFix.php" />
       <jump line="164" column="39" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/IbaseFix.php" />
       <jump line="134" column="13" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/IbaseFix.php" />
       <jump line="123" column="58" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/IbaseFix.php" />
@@ -227,7 +203,6 @@
       <jump line="0" column="0" filename="$USER_HOME$/Sites/Rescue/survey-admin/resources/views/surveys/tracker.blade.php" />
       <jump line="25" column="12" filename="$USER_HOME$/Sites/Rescue/survey-admin/resources/views/surveys/tracker.blade.php" />
       <jump line="157" column="54" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
-      <jump line="49" column="12" filename="$USER_HOME$/Sites/Rescue/survey-admin/resources/views/surveys/tracker.blade.php" />
       <jump line="729" column="20" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Http/Controllers/SurveyController.php" />
       <jump line="307" column="46" filename="$USER_HOME$/Sites/Rescue/survey-admin/public/js/app/tracker.js" />
       <jump line="89" column="8" filename="$USER_HOME$/Sites/Rescue/survey-admin/public/js/app/tracker.js" />
@@ -282,16 +257,50 @@
       <jump line="418" column="27" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Http/Controllers/Api.php" />
       <jump line="6" column="16" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Http/Controllers/Api.php" />
       <jump line="1303" column="14" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Http/Controllers/Api.php" />
-      <jump line="419" column="20" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Http/Controllers/Api.php" />
       <jump line="1302" column="4" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Http/Controllers/Api.php" />
-      <jump line="1317" column="0" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Http/Controllers/Api.php" />
+      <jump line="418" column="21" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
+      <jump line="361" column="20" filename="$USER_HOME$/Sites/Rescue/survey-admin/public/js/app/tracker.js" />
+      <jump line="169" column="0" filename="$USER_HOME$/Sites/Rescue/survey-admin/public/js/app/tracker.js" />
+      <jump line="93" column="21" filename="$USER_HOME$/Sites/Rescue/survey-admin/public/js/app/tracker.js" />
+      <jump line="1317" column="9" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Http/Controllers/Api.php" />
+      <jump line="25" column="28" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/SurveyLog.php" />
+      <jump line="1324" column="3" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Http/Controllers/Api.php" />
+      <jump line="369" column="19" filename="$USER_HOME$/Sites/Rescue/survey-admin/public/js/app/tracker.js" />
+      <jump line="8" column="4" filename="$USER_HOME$/Sites/Rescue/survey-admin/public/js/app/tracker.js" />
+      <jump line="314" column="26" filename="$USER_HOME$/Sites/Rescue/survey-admin/public/js/app/tracker.js" />
+      <jump line="298" column="12" filename="$USER_HOME$/Sites/Rescue/survey-admin/public/js/app/tracker.js" />
+      <jump line="285" column="25" filename="$USER_HOME$/Sites/Rescue/survey-admin/public/js/app/tracker.js" />
+      <jump line="187" column="56" filename="$USER_HOME$/Sites/Rescue/survey-admin/public/js/app/tracker.js" />
+      <jump line="364" column="50" filename="$USER_HOME$/Sites/Rescue/survey-admin/public/js/app/tracker.js" />
+      <jump line="370" column="26" filename="$USER_HOME$/Sites/Rescue/survey-admin/public/js/app/tracker.js" />
+      <jump line="1315" column="9" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Http/Controllers/Api.php" />
+      <jump line="419" column="20" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Http/Controllers/Api.php" />
+      <jump line="196" column="16" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Http/Controllers/SurveyController.php" />
+      <jump line="273" column="65" filename="$USER_HOME$/Sites/Rescue/survey-admin/resources/views/surveys/tracker.blade.php" />
+      <jump line="1" column="0" filename="$USER_HOME$/Sites/Rescue/survey-admin/resources/views/surveys/payments.blade.php" />
+      <jump line="571" column="41" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
+      <jump line="49" column="12" filename="$USER_HOME$/Sites/Rescue/survey-admin/resources/views/surveys/tracker.blade.php" />
+      <jump line="46" column="56" filename="$USER_HOME$/Sites/Rescue/survey-admin/resources/views/surveys/tracker.blade.php" />
+      <jump line="338" column="0" filename="$USER_HOME$/Sites/Rescue/survey-admin/resources/views/surveys/tracker.blade.php" />
+      <jump line="382" column="14" filename="$USER_HOME$/Sites/Rescue/survey-admin/public/js/app/tracker.js" />
+      <jump line="190" column="24" filename="$USER_HOME$/Sites/Rescue/survey-admin/public/js/app/tracker.js" />
+      <jump line="232" column="20" filename="$USER_HOME$/Sites/Rescue/survey-admin/public/js/app/tracker.js" />
+      <jump line="219" column="36" filename="$USER_HOME$/Sites/Rescue/survey-admin/public/js/app/tracker.js" />
+      <jump line="231" column="8" filename="$USER_HOME$/Sites/Rescue/survey-admin/public/js/app/tracker.js" />
+      <jump line="24" column="64" filename="$USER_HOME$/Sites/Rescue/survey-admin/resources/views/app.blade.php" />
+      <jump line="189" column="0" filename="$USER_HOME$/Sites/Rescue/survey-admin/resources/views/app.blade.php" />
+      <jump line="15" column="53" filename="$USER_HOME$/Sites/Rescue/survey-admin/resources/views/surveys/tracker.blade.php" />
+      <jump line="76" column="38" filename="$USER_HOME$/Sites/Rescue/survey-admin/resources/views/app.blade.php" />
+      <jump line="41" column="13" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Providers/AppServiceProvider.php" />
+      <jump line="50" column="17" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Providers/AppServiceProvider.php" />
+      <jump line="8" column="8" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Providers/AppServiceProvider.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>button</text>
+        <text>creenerId</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -345,52 +354,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>button</text>
+        <text>creenerId</text>
       </register>
       <register name="/" type="4">
-        <text>slug</text>
+        <text>Provider</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">dXNlIEFwcFxFbWFpbDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsaW5lcy5wdXNoKGxpbmUpOwo=</text>
       </register>
       <register name="1" type="4">
-        <text>button</text>
+        <text>creenerId</text>
       </register>
       <register name="2" type="4">
-        <text>erId</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="3" type="4">
-        <text>erId</text>
+        <text encoding="base64">ICAg</text>
       </register>
       <register name="4" type="4">
-        <text>er</text>
+        <text encoding="base64">dmFyIA==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkc2x1ZyAgID0gJ2ZlLXcyLWRldic7Cg==</text>
+      <register name="5" type="4">
+        <text>;</text>
       </register>
       <register name="6" type="4">
-        <text>ublic</text>
+        <text>screenerId</text>
       </register>
       <register name="7" type="4">
-        <text>log</text>
+        <text encoding="base64">c2NyZWVuZXJJZCA9IA==</text>
       </register>
-      <register name="8" type="4">
-        <text>;</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoJHRoaXMtPnVzZXJJZCA9PT0gMikgewogICAgICAgICAgICBkYmcoJGxvZ2dlcik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>slug</last-search>
+      <last-search>Provider</last-search>
       <last-offset />
-      <last-pattern>slug</last-pattern>
+      <last-pattern>Provider</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxhcGlWYWx1ZXNFbmFibGVkXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -398,26 +407,26 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwYXltZW50TW9kYWxcPg==</entry>
-        <entry encoding="base64">XDxwYXlRdWVzdGlvbm5haXJlc1w+</entry>
-        <entry>postPay</entry>
-        <entry>payScr</entry>
-        <entry encoding="base64">XDxtaW5fYWdlXD4=</entry>
-        <entry encoding="base64">XDxzY3JlZW5lcklkc1w+</entry>
-        <entry encoding="base64">XDxwYXlTY3JlZW5lcnNcPg==</entry>
-        <entry encoding="base64">XDxwYXlNZXRob2RcPg==</entry>
-        <entry>method</entry>
-        <entry>screener_id</entry>
-        <entry encoding="base64">XDxwcmVwRmlsdGVyRGF0YVw+</entry>
-        <entry>paginate</entry>
-        <entry encoding="base64">XDxzb3J0UXVlcnlcPg==</entry>
-        <entry>any</entry>
-        <entry>Email</entry>
         <entry>showE</entry>
         <entry>show</entry>
         <entry>EmailBody</entry>
-        <entry>getShow</entry>
         <entry>slug</entry>
+        <entry encoding="base64">XDxnZXREdXBsaWNhdGVGaWx0ZXJGZXRjaFw+</entry>
+        <entry>closest</entry>
+        <entry encoding="base64">XDx0aGlzXD4=</entry>
+        <entry>modal</entry>
+        <entry>alert</entry>
+        <entry>getShow</entry>
+        <entry>View</entry>
+        <entry>view</entry>
+        <entry>showLog</entry>
+        <entry encoding="base64">XDx0cmFja2VyXD4=</entry>
+        <entry encoding="base64">XDxzaG93TG9nXD4=</entry>
+        <entry>mainModal</entry>
+        <entry>Show</entry>
+        <entry encoding="base64">XDxzdXJ2ZXlMb2dnZXJcPg==</entry>
+        <entry encoding="base64">XDxTdXJ2ZXlMb2dnZXJcPg==</entry>
+        <entry>Provider</entry>
       </history-search>
       <history-cmd>
         <entry>355</entry>
@@ -435,10 +444,10 @@
         <entry>170</entry>
         <entry>:w</entry>
         <entry>qw</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>sw</entry>
         <entry>w:w</entry>
         <entry>$:w</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
