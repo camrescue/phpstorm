@@ -105,12 +105,12 @@
         <mark key="." line="249" column="57" />
         <mark key="^" line="249" column="57" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" timestamp="1463089302690">
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" timestamp="1463090091051">
         <mark key="'" line="66" column="19" />
-        <mark key="[" line="6" column="29" />
-        <mark key="]" line="7" column="16" />
-        <mark key="." line="7" column="16" />
-        <mark key="^" line="7" column="16" />
+        <mark key="[" line="11" column="46" />
+        <mark key="]" line="11" column="56" />
+        <mark key="." line="11" column="56" />
+        <mark key="^" line="11" column="56" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/SurveyLog.php" timestamp="1463001660217">
         <mark key="[" line="15" column="20" />
@@ -138,6 +138,12 @@
         <mark key="^" line="3" column="25" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/config.js" timestamp="1463090074369">
+        <mark key="[" line="33" column="25" />
+        <mark key="]" line="33" column="60" />
+        <mark key="^" line="33" column="60" />
+        <mark key="." line="33" column="60" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/survey-admin/resources/views/app.blade.php" timestamp="1463007425343">
         <mark key="'" line="76" column="38" />
         <mark key="[" line="75" column="32" />
@@ -155,6 +161,7 @@
         <mark key="^" line="81" column="0" />
         <mark key="." line="83" column="4" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/providers/PageData.js" timestamp="1463089895416" />
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/routes.js" timestamp="1463082488702">
         <mark key="[" line="113" column="39" />
         <mark key="]" line="113" column="42" />
@@ -306,7 +313,7 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>st</text>
+        <text>wiChallenge</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -360,7 +367,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>st</text>
+        <text>wiChallenge</text>
       </register>
       <register name="/" type="4">
         <text>emojiChallenge</text>
@@ -369,34 +376,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsaW5lcy5wdXNoKGxpbmUpOwo=</text>
       </register>
       <register name="1" type="4">
-        <text>st</text>
+        <text>wiChallenge</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
+      <register name="2" type="4">
+        <text />
       </register>
       <register name="3" type="4">
-        <text>ag</text>
+        <text>st</text>
       </register>
-      <register name="4" type="4">
-        <text>92</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name="5" type="4">
-        <text>93</text>
+        <text>ag</text>
       </register>
       <register name="6" type="4">
-        <text>99</text>
+        <text>92</text>
       </register>
       <register name="7" type="4">
-        <text>emojiChallengeController</text>
+        <text>93</text>
       </register>
       <register name="8" type="4">
-        <text>ourStoryController</text>
+        <text>99</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="4">
-        <text>ourStory</text>
+        <text>emojiChallengeController</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
