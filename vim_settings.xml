@@ -6,10 +6,11 @@
       <file name="$USER_HOME$/Sites/Rescue/survey-admin/storage/logs/edited_data.log" timestamp="1462927677641">
         <mark key="'" line="58" column="66" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/views/questionnaire/footer.php" timestamp="1463157626381">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/models/core/import_m.php" timestamp="1463174568670">
+        <mark key="[" line="28" column="86" />
+        <mark key="]" line="28" column="112" />
+        <mark key="^" line="28" column="112" />
+        <mark key="." line="28" column="112" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_quest/main-with-admin.html" timestamp="1462923184186">
         <mark key="'" line="1265" column="25" />
@@ -31,12 +32,12 @@
         <mark key="^" line="23" column="35" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/survey-admin/bootstrap/autoload.php" timestamp="1463010523303" />
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/controllers/questionnaires.php" timestamp="1463171007947">
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/controllers/questionnaires.php" timestamp="1463174833635">
         <mark key="'" line="134" column="27" />
-        <mark key="[" line="280" column="5" />
-        <mark key="]" line="283" column="33" />
-        <mark key="^" line="283" column="33" />
-        <mark key="." line="283" column="33" />
+        <mark key="[" line="300" column="49" />
+        <mark key="]" line="300" column="49" />
+        <mark key="^" line="300" column="49" />
+        <mark key="." line="300" column="49" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/api-stub/event-list.json" timestamp="1463098886286" />
       <file name="$USER_HOME$/Sites/Rescue/survey-admin/resources/views/logs/tracker.blade.php" timestamp="1463000709847">
@@ -92,11 +93,6 @@
         <mark key="]" line="35" column="32" />
         <mark key="^" line="35" column="32" />
         <mark key="." line="35" column="32" />
-      </file>
-      <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/SurveyLogger.php" timestamp="1463009758850">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/gulpfile.js" timestamp="1463158497848">
         <mark key="'" line="11" column="0" />
@@ -160,11 +156,23 @@
         <mark key="^" line="5" column="56" />
         <mark key="." line="5" column="56" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/SurveyLog.php" timestamp="1463001660217">
+        <mark key="[" line="15" column="20" />
+        <mark key="]" line="15" column="26" />
+        <mark key="^" line="15" column="26" />
+        <mark key="." line="15" column="26" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/drupal_translators/EventTranslator.js" timestamp="1463098947216">
         <mark key="'" line="6" column="16" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/FactAnimationVideo.js" timestamp="1462831768614">
         <mark key="'" line="500" column="44" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/models/entities/QuestionnaireResponseFile.php" timestamp="1463174643391">
+        <mark key="[" line="20" column="17" />
+        <mark key="]" line="21" column="21" />
+        <mark key="^" line="21" column="21" />
+        <mark key="." line="21" column="21" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/survey-admin/tests/IbaseFixTest.php" timestamp="1462865361857">
         <mark key="[" line="5" column="11" />
@@ -183,12 +191,12 @@
         <mark key="^" line="65" column="54" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/files/surveys/2016_evolvement_minigrant_app.json" timestamp="1463159445185" />
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/libraries/QuestionnaireLib.php" timestamp="1463171021797">
-        <mark key="'" line="23" column="10" />
-        <mark key="[" line="24" column="27" />
-        <mark key="]" line="24" column="28" />
-        <mark key="." line="24" column="28" />
-        <mark key="^" line="24" column="23" />
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/libraries/QuestionnaireLib.php" timestamp="1463175268935">
+        <mark key="'" line="49" column="4" />
+        <mark key="[" line="237" column="5" />
+        <mark key="]" line="237" column="3" />
+        <mark key="." line="237" column="3" />
+        <mark key="^" line="237" column="3" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/routes.js" timestamp="1463100846138">
         <mark key="[" line="116" column="47" />
@@ -215,7 +223,7 @@
       <file name="$USER_HOME$/Sites/Rescue/helix/application/views/minigrant/application/upload.php" timestamp="1463170840243">
         <mark key="'" line="25" column="42" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/helpers/image_helper.php" timestamp="1463171204850">
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/helpers/image_helper.php" timestamp="1463174719671">
         <mark key="'" line="318" column="9" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/survey-data-merge/fe/ibase.php" timestamp="1463073536702">
@@ -225,12 +233,14 @@
         <mark key="." line="17" column="24" />
         <mark key="^" line="17" column="24" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/survey-admin/database/migrations/2016_05_11_142331_add_previous_and_current_to_logs.php" timestamp="1463001898699">
+        <mark key="[" line="34" column="20" />
+        <mark key="]" line="34" column="20" />
+        <mark key="^" line="33" column="30" />
+        <mark key="." line="34" column="23" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="196" column="16" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Http/Controllers/SurveyController.php" />
-      <jump line="273" column="65" filename="$USER_HOME$/Sites/Rescue/survey-admin/resources/views/surveys/tracker.blade.php" />
-      <jump line="1" column="0" filename="$USER_HOME$/Sites/Rescue/survey-admin/resources/views/surveys/payments.blade.php" />
-      <jump line="571" column="41" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
       <jump line="49" column="12" filename="$USER_HOME$/Sites/Rescue/survey-admin/resources/views/surveys/tracker.blade.php" />
       <jump line="46" column="56" filename="$USER_HOME$/Sites/Rescue/survey-admin/resources/views/surveys/tracker.blade.php" />
       <jump line="338" column="0" filename="$USER_HOME$/Sites/Rescue/survey-admin/resources/views/surveys/tracker.blade.php" />
@@ -326,14 +336,18 @@
       <jump line="12" column="77" filename="$USER_HOME$/Sites/Rescue/helix/application/views/minigrant/application/upload.php" />
       <jump line="25" column="42" filename="$USER_HOME$/Sites/Rescue/helix/application/views/minigrant/application/upload.php" />
       <jump line="23" column="10" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/QuestionnaireLib.php" />
+      <jump line="24" column="28" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/QuestionnaireLib.php" />
+      <jump line="46" column="24" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/QuestionnaireLib.php" />
       <jump line="318" column="9" filename="$USER_HOME$/Sites/Rescue/helix/application/helpers/image_helper.php" />
+      <jump line="261" column="32" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/QuestionnaireLib.php" />
+      <jump line="49" column="4" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/QuestionnaireLib.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>VIDEO</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -387,62 +401,59 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>VIDEO</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxxdWlja1Jlc2l6ZVw+</text>
+        <text>saveFile</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGNvbnN0IEZJTEVfVFlQRV9WSURFTyA9IDI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkdGhpcy0+YWRkT3BlcmF0aW9uKCJTY2hlbWE6IDIwMTUtMDItMDQgOiBDb3VudGVyQmFsYW5jZSBTeXN0ZW0gU2V0dXAiLCAibXlDb3VudGVyQmFsYW5jZVNldHVwIik7Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>VIDEO</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">JHJlc3VsdCA9IA==</text>
+        <text>)</text>
       </register>
       <register name="3" type="4">
-        <text>return</text>
+        <text>d</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAkcmVzdWx0Cg==</text>
+      <register name="4" type="4">
+        <text>get_mim</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+Cg==</text>
+      <register name="5" type="4">
+        <text>myCounterBalanceSetup</text>
       </register>
       <register name="6" type="4">
-        <text>ormType</text>
+        <text>CounterBalance System Setup</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>04</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>FileType</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="4">
-        <text>getPage()</text>
+        <text>VIDEO</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxxdWlja1Jlc2l6ZVw+</last-search>
+      <last-search>saveFile</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxxdWlja1Jlc2l6ZVw+</last-pattern>
+      <last-pattern>saveFile</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxhcGlWYWx1ZXNFbmFibGVkXD4=</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRQYWdlUmVzcG9uc2VKc29uXD4=</entry>
-        <entry encoding="base64">XDxnZXRQYWdlXD4=</entry>
-        <entry>dd(</entry>
         <entry encoding="base64">XDxkZFw+</entry>
         <entry encoding="base64">XDxZU1RSRUVUXzIwMTVcPg==</entry>
         <entry encoding="base64">XDxnZXRFdm9sdmVtZW50XD4=</entry>
@@ -459,7 +470,10 @@
         <entry encoding="base64">XDx1cGxvYWRcPg==</entry>
         <entry>url</entry>
         <entry encoding="base64">XDxGSUxFX1RZUEVfVklERU9cPg==</entry>
+        <entry>File</entry>
+        <entry>close</entry>
         <entry encoding="base64">XDxxdWlja1Jlc2l6ZVw+</entry>
+        <entry>saveFile</entry>
       </history-search>
       <history-cmd>
         <entry>we</entry>
