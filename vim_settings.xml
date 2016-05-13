@@ -34,6 +34,9 @@
       <file name="$USER_HOME$/Sites/Rescue/survey-admin/resources/views/surveys/payments.blade.php" timestamp="1463003619056">
         <mark key="'" line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/fact.ctrl.js" timestamp="1463100790132">
+        <mark key="'" line="1" column="30" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/IbaseFix.php" timestamp="1463084886039">
         <mark key="'" line="141" column="19" />
         <mark key="[" line="106" column="17" />
@@ -135,17 +138,12 @@
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/events.ctrl.js" timestamp="1463099050536">
         <mark key="'" line="82" column="17" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" timestamp="1463099189483">
-        <mark key="'" line="41" column="13" />
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
-      </file>
-      <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/SurveyLog.php" timestamp="1463001660217">
-        <mark key="[" line="15" column="20" />
-        <mark key="]" line="15" column="26" />
-        <mark key="^" line="15" column="26" />
-        <mark key="." line="15" column="26" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" timestamp="1463101082551">
+        <mark key="'" line="79" column="24" />
+        <mark key="[" line="5" column="52" />
+        <mark key="]" line="5" column="56" />
+        <mark key="^" line="5" column="56" />
+        <mark key="." line="5" column="56" />
       </file>
       <file name="/Dummy.txt" timestamp="1463097404824">
         <mark key="[" line="0" column="0" />
@@ -205,11 +203,11 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/routes.js" timestamp="1463082488702">
-        <mark key="[" line="113" column="39" />
-        <mark key="]" line="113" column="42" />
-        <mark key="." line="113" column="42" />
-        <mark key="^" line="113" column="42" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/routes.js" timestamp="1463100846138">
+        <mark key="[" line="116" column="47" />
+        <mark key="]" line="116" column="49" />
+        <mark key="^" line="116" column="49" />
+        <mark key="." line="116" column="49" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/survey-admin/resources/views/surveys/tracker.blade.php" timestamp="1463006339434">
         <mark key="'" line="15" column="53" />
@@ -240,23 +238,11 @@
         <mark key="]" line="41" column="0" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/survey-admin/database/migrations/2016_05_11_142331_add_previous_and_current_to_logs.php" timestamp="1463001898699">
-        <mark key="[" line="34" column="20" />
-        <mark key="]" line="34" column="20" />
-        <mark key="^" line="33" column="30" />
-        <mark key="." line="34" column="23" />
-      </file>
       <file name="$USER_HOME$/Sites/Rescue/survey-admin/resources/views/surveys/ibase-fix.blade.php" timestamp="1462856294261">
         <mark key="[" line="119" column="11" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="1009" column="61" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Http/Controllers/Api.php" />
-      <jump line="1023" column="65" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Http/Controllers/Api.php" />
-      <jump line="964" column="72" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Http/Controllers/Api.php" />
-      <jump line="1659" column="35" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
-      <jump line="1660" column="13" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
-      <jump line="1669" column="13" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
       <jump line="1676" column="76" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
       <jump line="540" column="35" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
       <jump line="407" column="21" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
@@ -351,6 +337,12 @@
       <jump line="102" column="20" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/drupal_translators/EventTranslator.js" />
       <jump line="6" column="16" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/drupal_translators/EventTranslator.js" />
       <jump line="82" column="17" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/events.ctrl.js" />
+      <jump line="1" column="30" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/fact.ctrl.js" />
+      <jump line="62" column="10" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
+      <jump line="6" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
+      <jump line="93" column="17" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
+      <jump line="83" column="24" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
+      <jump line="79" column="24" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -411,10 +403,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>process</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwYXN0RXZlbnRzV2l0aEFsYnVtXD4=</text>
+        <text encoding="base64">XDxwYWdlTnVtXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">JFRGTF9DT05GSUdbImFwaUJhc2VVcmwiXSA9ICJodHRwOi8vdGZsLmxjbC9kcnVwYWwtYXBpIjsK</text>
@@ -423,40 +415,40 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGZ1bmN0aW9uIHBhcnNlCg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="3" type="4">
-        <text>process</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="4" type="4">
-        <text>find</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHNob3dGaWVsZCgnc2hvd1RlYXNlcicpOwogICAgbG9hZFBhZ2UocGFnZU51bSk7Cg==</text>
       </register>
       <register name="5" type="4">
-        <text>find</text>
+        <text>0</text>
       </register>
       <register name="6" type="4">
-        <text>where</text>
+        <text>pageNum</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
+      <register name="7" type="4">
+        <text>pageNum</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
+      <register name="8" type="4">
+        <text>;</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">JFRGTF9DT05GSUdbImFwaUJhc2VVcmwiXSA9ICJodHRwOi8vdGZsLmxjbC9kcnVwYWwtYXBpIjsK</text>
+      <register name="9" type="4">
+        <text>_</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwYXN0RXZlbnRzV2l0aEFsYnVtXD4=</last-search>
+      <last-search encoding="base64">XDxwYWdlTnVtXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwYXN0RXZlbnRzV2l0aEFsYnVtXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxwYWdlTnVtXD4=</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxhcGlWYWx1ZXNFbmFibGVkXD4=</last-substitute>
       <last-dir>-1</last-dir>
@@ -464,13 +456,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxTdXJ2ZXlMb2dnZXJcPg==</entry>
-        <entry>Provider</entry>
-        <entry>Illum</entry>
-        <entry>vendor</entry>
-        <entry encoding="base64">XDxzbGVlcFNlY29uZHNcPg==</entry>
-        <entry>scroll</entry>
-        <entry encoding="base64">XDxzaG93VGVhc2VyXD4=</entry>
         <entry>emoji</entry>
         <entry>emojiChallange</entry>
         <entry>emojiChallenge</entry>
@@ -484,6 +469,13 @@
         <entry>events</entry>
         <entry>venue</entry>
         <entry encoding="base64">XDxwYXN0RXZlbnRzV2l0aEFsYnVtXD4=</entry>
+        <entry encoding="base64">XDxsb2FkUGFnZVw+</entry>
+        <entry>params</entry>
+        <entry>Params</entry>
+        <entry>route</entry>
+        <entry encoding="base64">XDxyb3V0ZVw+</entry>
+        <entry encoding="base64">XDxyb3V0ZVBhcmFtc1w+</entry>
+        <entry encoding="base64">XDxwYWdlTnVtXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>355</entry>
