@@ -15,6 +15,9 @@
       <file name="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_quest/main-with-admin.html" timestamp="1462923184186">
         <mark key="'" line="1265" column="25" />
       </file>
+      <file name="/a.dummy" timestamp="1463187111049">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/survey-admin/tests/LgbtCodebookTest.php" timestamp="1462864907812">
         <mark key="'" line="8" column="31" />
       </file>
@@ -163,6 +166,9 @@
         <mark key="^" line="15" column="26" />
         <mark key="." line="15" column="26" />
       </file>
+      <file name="/Dummy.txt" timestamp="1463187202866">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/drupal_translators/EventTranslator.js" timestamp="1463098947216">
         <mark key="'" line="6" column="16" />
       </file>
@@ -238,49 +244,24 @@
         <mark key="." line="17" column="24" />
         <mark key="^" line="17" column="24" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" timestamp="1463186867948">
+        <mark key="'" line="857" column="12" />
+        <mark key="[" line="916" column="0" />
+        <mark key="]" line="916" column="0" />
+        <mark key="^" line="915" column="65" />
+        <mark key="." line="916" column="0" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/survey-admin/database/migrations/2016_05_11_142331_add_previous_and_current_to_logs.php" timestamp="1463001898699">
         <mark key="[" line="34" column="20" />
         <mark key="]" line="34" column="20" />
         <mark key="^" line="33" column="30" />
         <mark key="." line="34" column="23" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/survey-admin/resources/views/surveys/ibase-fix.blade.php" timestamp="1462856294261">
+        <mark key="[" line="119" column="11" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="8" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Providers/AppServiceProvider.php" />
-      <jump line="257" column="24" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/fe/ibase.php" />
-      <jump line="240" column="4" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Http/Controllers/SurveyController.php" />
-      <jump line="1313" column="46" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Http/Controllers/Api.php" />
-      <jump line="141" column="19" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/IbaseFix.php" />
-      <jump line="176" column="47" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/index.php" />
-      <jump line="57" column="42" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/index.php" />
-      <jump line="68" column="131" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/index.php" />
-      <jump line="13" column="29" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
-      <jump line="26" column="19" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
-      <jump line="65" column="19" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
-      <jump line="35" column="2" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/js/app.js" />
-      <jump line="151" column="21" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/js/app.js" />
-      <jump line="152" column="26" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/js/app.js" />
-      <jump line="154" column="25" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/js/app.js" />
-      <jump line="275" column="31" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/config.js" />
-      <jump line="21" column="41" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/config.js" />
-      <jump line="19" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/providers/PageData.js" />
-      <jump line="29" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/providers/PageData.js" />
-      <jump line="14" column="29" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
-      <jump line="30" column="4" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
-      <jump line="41" column="13" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
-      <jump line="4" column="28" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/drupal_translators/EventTranslator.js" />
-      <jump line="68" column="44" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/drupal_translators/EventTranslator.js" />
-      <jump line="102" column="20" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/drupal_translators/EventTranslator.js" />
-      <jump line="6" column="16" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/drupal_translators/EventTranslator.js" />
-      <jump line="82" column="17" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/events.ctrl.js" />
-      <jump line="1" column="30" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/fact.ctrl.js" />
-      <jump line="62" column="10" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
-      <jump line="6" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
-      <jump line="93" column="17" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
-      <jump line="83" column="24" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
-      <jump line="79" column="24" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
-      <jump line="19" column="1" filename="$USER_HOME$/Sites/Rescue/helix/gulpfile.js" />
-      <jump line="11" column="0" filename="$USER_HOME$/Sites/Rescue/helix/gulpfile.js" />
       <jump line="20" column="71" filename="$USER_HOME$/Sites/Rescue/helix/files/surveys/2016_yslt_application.json" />
       <jump line="9" column="29" filename="$USER_HOME$/Sites/Rescue/helix/files/surveys/2016_yslt_application.json" />
       <jump line="114" column="13" filename="$USER_HOME$/Sites/Rescue/helix/files/surveys/2016_yslt_application.json" />
@@ -346,13 +327,48 @@
       <jump line="179" column="9" filename="$USER_HOME$/Sites/Rescue/helix/application/helpers/image_helper.php" />
       <jump line="236" column="21" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/QuestionnaireLib.php" />
       <jump line="344" column="23" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/QuestionnaireLib.php" />
+      <jump line="27" column="0" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
+      <jump line="44" column="28" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
+      <jump line="45" column="20" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
+      <jump line="46" column="20" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
+      <jump line="47" column="20" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
+      <jump line="48" column="20" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
+      <jump line="50" column="17" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
+      <jump line="55" column="20" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
+      <jump line="61" column="18" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
+      <jump line="83" column="31" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
+      <jump line="84" column="26" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
+      <jump line="87" column="24" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
+      <jump line="149" column="28" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
+      <jump line="150" column="28" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
+      <jump line="151" column="28" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
+      <jump line="152" column="28" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
+      <jump line="159" column="28" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
+      <jump line="165" column="25" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
+      <jump line="174" column="26" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
+      <jump line="404" column="134" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
+      <jump line="833" column="84" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
+      <jump line="834" column="84" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
+      <jump line="835" column="84" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
+      <jump line="836" column="84" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
+      <jump line="860" column="38" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
+      <jump line="861" column="38" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
+      <jump line="862" column="38" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
+      <jump line="863" column="38" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
+      <jump line="871" column="69" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
+      <jump line="913" column="34" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
+      <jump line="916" column="27" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
+      <jump line="896" column="43" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
+      <jump line="892" column="28" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
+      <jump line="867" column="30" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
+      <jump line="857" column="12" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGRkKCRtaW1lVHlwZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRiZygkdmFsdWUpOwo=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -406,62 +422,59 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text />
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzYXZlUmVzcG9uc2VcPg==</text>
+        <text>addIncentive</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkdGhpcy0+YWRkT3BlcmF0aW9uKCJTY2hlbWE6IDIwMTUtMDItMDQgOiBDb3VudGVyQmFsYW5jZSBTeXN0ZW0gU2V0dXAiLCAibXlDb3VudGVyQmFsYW5jZVNldHVwIik7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGRkKCRtaW1lVHlwZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRiZygkdmFsdWUpOwo=</text>
       </register>
-      <register name="2" type="4">
-        <text>t</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
       <register name="3" type="4">
-        <text>s</text>
+        <text />
       </register>
-      <register name="4" type="4">
-        <text>o</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGRkKCRtaW1lVHlwZSk7Cg==</text>
       </register>
       <register name="5" type="4">
-        <text>p</text>
-      </register>
-      <register name="6" type="4">
         <text>t</text>
       </register>
-      <register name="7" type="4">
+      <register name="6" type="4">
         <text>s</text>
       </register>
-      <register name="8" type="4">
+      <register name="7" type="4">
         <text>o</text>
+      </register>
+      <register name="8" type="4">
+        <text>p</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="4">
-        <text>p</text>
+        <text>t</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzYXZlUmVzcG9uc2VcPg==</last-search>
+      <last-search>addIncentive</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzYXZlUmVzcG9uc2VcPg==</last-pattern>
+      <last-pattern>addIncentive</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxhcGlWYWx1ZXNFbmFibGVkXD4=</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjbG9zZUZpbGVzXD4=</entry>
-        <entry>files</entry>
-        <entry>save</entry>
         <entry>saveFiles</entry>
         <entry>addFile</entry>
         <entry>addRe</entry>
@@ -479,6 +492,9 @@
         <entry encoding="base64">XDxwb3N0RmlsZU1pbWVUeXBlXD4=</entry>
         <entry encoding="base64">XDx1cGxvYWRGaWxlc1w+</entry>
         <entry encoding="base64">XDxzYXZlUmVzcG9uc2VcPg==</entry>
+        <entry encoding="base64">XDxOQVw+</entry>
+        <entry>NA</entry>
+        <entry>addIncentive</entry>
       </history-search>
       <history-cmd>
         <entry>we</entry>
