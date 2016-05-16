@@ -18,7 +18,7 @@
       <file name="$USER_HOME$/Sites/Rescue/survey-admin/tests/LgbtCodebookTest.php" timestamp="1462864907812">
         <mark key="'" line="8" column="31" />
       </file>
-      <file name="/a.dummy" timestamp="1463425753764">
+      <file name="/a.dummy" timestamp="1463427708570">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/js/controllers/survey_view.js" timestamp="1463170751726">
@@ -217,9 +217,6 @@
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/drupal_translators/EventTranslator.js" timestamp="1463098947216">
         <mark key="'" line="6" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1463425788078">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/FactAnimationVideo.js" timestamp="1462831768614">
         <mark key="'" line="500" column="44" />
       </file>
@@ -300,12 +297,12 @@
         <mark key="." line="242" column="115" />
         <mark key="^" line="243" column="38" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/survey-data-merge/fe/ibase.php" timestamp="1463073536702">
-        <mark key="'" line="257" column="24" />
-        <mark key="[" line="17" column="20" />
-        <mark key="]" line="17" column="24" />
-        <mark key="." line="17" column="24" />
-        <mark key="^" line="17" column="24" />
+      <file name="$USER_HOME$/Sites/Rescue/survey-data-merge/fe/ibase.php" timestamp="1463427692268">
+        <mark key="'" line="256" column="24" />
+        <mark key="[" line="18" column="38" />
+        <mark key="]" line="18" column="38" />
+        <mark key="." line="18" column="38" />
+        <mark key="^" line="18" column="38" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" timestamp="1463186867948">
         <mark key="'" line="857" column="12" />
@@ -438,7 +435,7 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>INCOMPLETE</text>
+        <text>false</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -492,7 +489,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>INCOMPLETE</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>delete</text>
@@ -501,34 +498,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8b3B0aW9uIHZhbHVlPSItMSIgPD9waHAgb3B0aW9uU2VsZWN0ZWQoJHF1ZXN0aW9ubmFpcmUtPmdldFN0YXR1cygpLCAtMSkgPz4+RGVuaWVkPC9vcHRpb24+Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>INCOMPLETE</text>
+        <text>false</text>
       </register>
-      <register name="2" type="4">
-        <text>INCOMPLETE</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="4">
+        <text>INCOMPLETE</text>
+      </register>
+      <register name="4" type="4">
+        <text>INCOMPLETE</text>
+      </register>
+      <register name="5" type="4">
         <text>DIncomplete</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text />
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="4">
-        <text>N</text>
+        <text />
       </register>
       <register name=":" type="4">
         <text>w</text>
