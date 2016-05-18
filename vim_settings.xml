@@ -18,18 +18,15 @@
       <file name="$USER_HOME$/Sites/Rescue/survey-admin/tests/LgbtCodebookTest.php" timestamp="1462864907812">
         <mark key="'" line="8" column="31" />
       </file>
-      <file name="/a.dummy" timestamp="1463517941752">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/js/controllers/survey_view.js" timestamp="1463170751726">
         <mark key="'" line="3" column="85" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/app.js" timestamp="1463534358068">
-        <mark key="'" line="123" column="9" />
-        <mark key="[" line="573" column="0" />
-        <mark key="]" line="573" column="0" />
-        <mark key="." line="573" column="0" />
-        <mark key="^" line="574" column="48" />
+      <file name="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/app.js" timestamp="1463538505131">
+        <mark key="'" line="13" column="13" />
+        <mark key="[" line="503" column="16" />
+        <mark key="]" line="503" column="16" />
+        <mark key="." line="503" column="16" />
+        <mark key="^" line="505" column="27" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/helpers/utils_helper.php" timestamp="1462835072719">
         <mark key="'" line="8" column="25" />
@@ -192,11 +189,11 @@
       <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/Variables.php" timestamp="1463429145013">
         <mark key="'" line="374" column="9" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/styles/swap.css" timestamp="1463517093106">
-        <mark key="[" line="7" column="20" />
-        <mark key="]" line="7" column="21" />
-        <mark key="^" line="7" column="20" />
-        <mark key="." line="7" column="21" />
+      <file name="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/styles/swap.css" timestamp="1463537852248">
+        <mark key="[" line="13" column="21" />
+        <mark key="]" line="14" column="16" />
+        <mark key="^" line="14" column="16" />
+        <mark key="." line="14" column="16" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/models/entities/QuestionnaireResponse.php" timestamp="1463444246255">
         <mark key="'" line="41" column="33" />
@@ -216,11 +213,12 @@
         <mark key="." line="2" column="29" />
         <mark key="^" line="4" column="29" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/styles/pledge.css" timestamp="1463516193808">
-        <mark key="'" line="178" column="0" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+      <file name="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/styles/pledge.css" timestamp="1463538840939">
+        <mark key="'" line="278" column="15" />
+        <mark key="[" line="8" column="25" />
+        <mark key="]" line="8" column="25" />
+        <mark key="." line="8" column="25" />
+        <mark key="^" line="8" column="25" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/SurveyTracking.php" timestamp="1462909412394">
         <mark key="'" line="57" column="4" />
@@ -233,6 +231,9 @@
         <mark key="]" line="15" column="26" />
         <mark key="^" line="15" column="26" />
         <mark key="." line="15" column="26" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/scss/app.scss" timestamp="1463537683467">
+        <mark key="'" line="624" column="10" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/drupal_translators/EventTranslator.js" timestamp="1463098947216">
         <mark key="'" line="6" column="16" />
@@ -296,12 +297,12 @@
       <file name="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/core/base_repo.php" timestamp="1463335458522">
         <mark key="'" line="7" column="44" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/index.html" timestamp="1463531303092">
-        <mark key="'" line="1794" column="64" />
-        <mark key="[" line="2078" column="59" />
-        <mark key="]" line="2078" column="59" />
-        <mark key="^" line="2200" column="64" />
-        <mark key="." line="2078" column="59" />
+      <file name="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/index.html" timestamp="1463538412594">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="1581" column="0" />
+        <mark key="]" line="1581" column="0" />
+        <mark key="^" line="1585" column="29" />
+        <mark key="." line="1581" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/views/minigrant/application/upload.php" timestamp="1463170840243">
         <mark key="'" line="25" column="42" />
@@ -342,35 +343,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="9" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/app.js" />
-      <jump line="39" column="4" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/app.js" />
-      <jump line="40" column="4" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/app.js" />
-      <jump line="41" column="4" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/app.js" />
-      <jump line="44" column="4" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/app.js" />
-      <jump line="45" column="4" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/app.js" />
-      <jump line="48" column="4" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/app.js" />
-      <jump line="53" column="19" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/app.js" />
-      <jump line="586" column="0" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/app.js" />
-      <jump line="20" column="19" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/app.js" />
-      <jump line="511" column="10" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/app.js" />
-      <jump line="115" column="9" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/app.js" />
-      <jump line="112" column="16" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/app.js" />
-      <jump line="106" column="24" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/app.js" />
-      <jump line="13" column="43" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/jquery.modal.js" />
-      <jump line="205" column="10" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/jquery.modal.js" />
-      <jump line="83" column="19" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/jquery.modal.js" />
-      <jump line="2124" column="34" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/index.html" />
-      <jump line="2129" column="23" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/index.html" />
-      <jump line="2123" column="23" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/index.html" />
-      <jump line="2122" column="21" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/index.html" />
-      <jump line="2045" column="23" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/index.html" />
-      <jump line="507" column="92" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/app.js" />
-      <jump line="300" column="3" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/app.js" />
-      <jump line="506" column="42" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/app.js" />
-      <jump line="88" column="17" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/app.js" />
-      <jump line="221" column="37" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/app.js" />
-      <jump line="631" column="0" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/app.js" />
-      <jump line="299" column="9" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/app.js" />
       <jump line="530" column="33" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/app.js" />
       <jump line="1590" column="42" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/index.html" />
       <jump line="14" column="56" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/index.html" />
@@ -403,7 +375,6 @@
       <jump line="229" column="56" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/app.js" />
       <jump line="536" column="34" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/app.js" />
       <jump line="537" column="35" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/app.js" />
-      <jump line="2135" column="88" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/index.html" />
       <jump line="2089" column="71" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/index.html" />
       <jump line="2095" column="45" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/index.html" />
       <jump line="1771" column="59" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/index.html" />
@@ -442,13 +413,43 @@
       <jump line="349" column="0" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/app.js" />
       <jump line="310" column="0" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/app.js" />
       <jump line="123" column="9" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/app.js" />
+      <jump line="2122" column="33" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/index.html" />
+      <jump line="1647" column="172" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/index.html" />
+      <jump line="1642" column="173" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/index.html" />
+      <jump line="1631" column="130" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/index.html" />
+      <jump line="1630" column="134" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/index.html" />
+      <jump line="1626" column="112" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/index.html" />
+      <jump line="1617" column="171" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/index.html" />
+      <jump line="1616" column="168" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/index.html" />
+      <jump line="1578" column="147" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/index.html" />
+      <jump line="2159" column="43" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/index.html" />
+      <jump line="2153" column="43" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/index.html" />
+      <jump line="2147" column="43" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/index.html" />
+      <jump line="2141" column="43" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/index.html" />
+      <jump line="2135" column="43" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/index.html" />
+      <jump line="2129" column="43" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/index.html" />
+      <jump line="2123" column="52" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/index.html" />
+      <jump line="1665" column="172" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/index.html" />
+      <jump line="1660" column="50" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/index.html" />
+      <jump line="102" column="45" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/styles/pledge.css" />
+      <jump line="180" column="1" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/styles/pledge.css" />
+      <jump line="624" column="10" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/scss/app.scss" />
+      <jump line="13" column="13" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/app.js" />
+      <jump line="1575" column="54" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/index.html" />
+      <jump line="1698" column="0" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/index.html" />
+      <jump line="1700" column="42" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/index.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/index.html" />
+      <jump line="170" column="49" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/styles/pledge.css" />
+      <jump line="0" column="0" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/styles/pledge.css" />
+      <jump line="80" column="7" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/styles/pledge.css" />
+      <jump line="279" column="15" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/styles/pledge.css" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBzZWxlY3RlZEJldmVyYWdlID0gZmlsdGVyQmV2ZXJhZ2VCeURhdGFJZChkYXRhSWQpOwo=</text>
+        <text encoding="base64">YnV0dG9uLAo=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -502,34 +503,34 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>newSavings</text>
+        <text encoding="base64">ID4gLmJldmVyYWdlLW5hbWU=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1cGRhdGVTdWdhclNhdmluZ3NcPg==</text>
+        <text>selector</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8gICAgJCgnI3NhdmluZ3MtdG90YWwnKS5hdHRyKCdkYXRhLXNhdmluZ3MnLCBuZXdTYXZpbmdzKS50ZXh0KG5ld1NhdmluZ3MpOwo=</text>
+        <text encoding="base64">ICAgIC8vJCgnLnNlbGVjdG9yID4gLmJldmVyYWdlLW5hbWUnKS5jbGljayhmdW5jdGlvbihlKSB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBzZWxlY3RlZEJldmVyYWdlID0gZmlsdGVyQmV2ZXJhZ2VCeURhdGFJZChkYXRhSWQpOwo=</text>
+        <text encoding="base64">YnV0dG9uLAo=</text>
       </register>
       <register name="2" type="4">
-        <text>newSavings</text>
+        <text encoding="base64">ID4gLmJldmVyYWdlLW5hbWU=</text>
       </register>
       <register name="3" type="4">
-        <text>ug</text>
+        <text>.parent();</text>
       </register>
       <register name="4" type="4">
-        <text>sugarSavingsTotal</text>
+        <text>/</text>
       </register>
       <register name="5" type="4">
-        <text>newSavings</text>
+        <text>/</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>.parent();</text>
       </register>
       <register name="7" type="4">
-        <text>/</text>
+        <text encoding="base64">ID4gLmJldmVyYWdlLW5hbWU=</text>
       </register>
       <register name="8" type="4">
         <text>/</text>
@@ -537,17 +538,17 @@
       <register name="x" type="4">
         <text />
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>/</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1cGRhdGVTdWdhclNhdmluZ3NcPg==</last-search>
+      <last-search>selector</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1cGRhdGVTdWdhclNhdmluZ3NcPg==</last-pattern>
+      <last-pattern>selector</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxhcGlWYWx1ZXNFbmFibGVkXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -555,16 +556,6 @@
     </search>
     <history>
       <history-search>
-        <entry>swap</entry>
-        <entry encoding="base64">XDxzd2FwQmV2ZXJhZ2VSZWNvbW1lbmRhdGlvblw+</entry>
-        <entry>selected</entry>
-        <entry>addClass</entry>
-        <entry>this</entry>
-        <entry>small</entry>
-        <entry>smaller</entry>
-        <entry>Plain Water</entry>
-        <entry>savings-total</entry>
-        <entry encoding="base64">XDxnZXRUb3RhbFN1Z2FyXD4=</entry>
         <entry encoding="base64">XDxnZXRUb3RhbFN1Z2FyU2F2aW5nc1w+</entry>
         <entry encoding="base64">XDxjYWxjdWxhdGVTdWdhclRvdGFsXD4=</entry>
         <entry encoding="base64">XDxyZWNvbW1lbmRhdGlvbkJldmVyYWdlc1w+</entry>
@@ -575,6 +566,16 @@
         <entry encoding="base64">XDxhZGRCZXZlcmFnZVNhdmVkXD4=</entry>
         <entry>getSugar</entry>
         <entry encoding="base64">XDx1cGRhdGVTdWdhclNhdmluZ3NcPg==</entry>
+        <entry>healthier</entry>
+        <entry encoding="base64">WU9VUiBTRUxFQ1RJT05TICA=</entry>
+        <entry>your selections</entry>
+        <entry>Your Selections</entry>
+        <entry>selection-text</entry>
+        <entry>beverage-name</entry>
+        <entry>coffee-modal</entry>
+        <entry>section6</entry>
+        <entry>section5</entry>
+        <entry>selector</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
