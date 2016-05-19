@@ -242,6 +242,12 @@
         <mark key="]" line="59" column="0" />
         <mark key="." line="59" column="0" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" timestamp="1463694320540">
+        <mark key="'" line="23" column="16" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/SurveyLog.php" timestamp="1463001660217">
         <mark key="[" line="15" column="20" />
         <mark key="]" line="15" column="26" />
@@ -374,8 +380,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2334" column="83" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/index.html" />
-      <jump line="2338" column="90" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/index.html" />
       <jump line="2339" column="52" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/index.html" />
       <jump line="2346" column="81" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/index.html" />
       <jump line="2349" column="104" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/index.html" />
@@ -474,13 +478,15 @@
       <jump line="350" column="107" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/projects.php" />
       <jump line="2715" column="13" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/projects.php" />
       <jump line="301" column="37" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/config.js" />
+      <jump line="19" column="16" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
+      <jump line="25" column="16" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ZGllKCd0ZXN0Jyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -537,49 +543,49 @@
         <text />
       </register>
       <register name="/" type="4">
-        <text>approval</text>
+        <text>debugger</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZGllKCd0ZXN0Jyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZGllKCd0ZXN0Jyk7Cg==</text>
+        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ZGllKCd0ZXN0Jyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGllKCd0ZXN0Jyk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZGllKCdoZXJlJykK</text>
+        <text encoding="base64">ZGllKCd0ZXN0Jyk7Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text />
+      <register name="6" type="2">
+        <text encoding="base64">ZGllKCd0ZXN0Jyk7Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>;</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZGllKCdoZXJlJykK</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ZGllKCdoZXJlJyk7Cg==</text>
+      <register name="9" type="4">
+        <text />
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>approval</last-search>
+      <last-search>debugger</last-search>
       <last-offset />
-      <last-pattern>approval</last-pattern>
+      <last-pattern>debugger</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxhcGlWYWx1ZXNFbmFibGVkXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -587,7 +593,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Peach</entry>
         <entry>subhead</entry>
         <entry>Peach Ice</entry>
         <entry>Water</entry>
@@ -607,6 +612,7 @@
         <entry>function create</entry>
         <entry>leadership</entry>
         <entry>approval</entry>
+        <entry>debugger</entry>
       </history-search>
       <history-cmd>
         <entry>453</entry>
