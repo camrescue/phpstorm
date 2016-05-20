@@ -18,7 +18,7 @@
       <file name="$USER_HOME$/Sites/Rescue/survey-admin/tests/LgbtCodebookTest.php" timestamp="1462864907812">
         <mark key="'" line="8" column="31" />
       </file>
-      <file name="/a.dummy" timestamp="1463771535991">
+      <file name="/a.dummy" timestamp="1463784502441">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/js/controllers/survey_view.js" timestamp="1463170751726">
@@ -129,13 +129,13 @@
         <mark key="^" line="35" column="32" />
         <mark key="." line="35" column="32" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/DataFormat.php" timestamp="1463771522009">
+      <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/DataFormat.php" timestamp="1463784434155">
         <mark key="a" line="1221" column="45" />
-        <mark key="'" line="1944" column="31" />
-        <mark key="[" line="1221" column="59" />
-        <mark key="]" line="1221" column="65" />
-        <mark key="." line="1221" column="65" />
-        <mark key="^" line="1221" column="65" />
+        <mark key="'" line="1961" column="0" />
+        <mark key="[" line="1362" column="46" />
+        <mark key="]" line="1363" column="26" />
+        <mark key="." line="1363" column="26" />
+        <mark key="^" line="1363" column="26" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/survey-admin/storage/ibase/responses_ibase_fix.tsv" timestamp="1462926463822">
         <mark key="'" line="96" column="20" />
@@ -212,8 +212,8 @@
         <mark key="^" line="97" column="77" />
         <mark key="." line="117" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/Variables.php" timestamp="1463761879230">
-        <mark key="'" line="50" column="45" />
+      <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/Variables.php" timestamp="1463784285614">
+        <mark key="'" line="104" column="31" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/styles/swap.css" timestamp="1463586825399">
         <mark key="'" line="21" column="26" />
@@ -399,29 +399,11 @@
         <mark key="^" line="33" column="30" />
         <mark key="." line="34" column="23" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/SurveyResponse.php" timestamp="1463784501805">
+        <mark key="'" line="96" column="20" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="1051" column="31" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
-      <jump line="1080" column="25" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
-      <jump line="1174" column="0" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
-      <jump line="880" column="53" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
-      <jump line="906" column="21" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
-      <jump line="1263" column="21" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
-      <jump line="907" column="21" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
-      <jump line="877" column="23" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
-      <jump line="709" column="19" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
-      <jump line="253" column="24" filename="$USER_HOME$/Sites/Rescue/survey-admin/public/js/app/tracker.js" />
-      <jump line="280" column="5" filename="$USER_HOME$/Sites/Rescue/survey-admin/public/js/app/tracker.js" />
-      <jump line="283" column="43" filename="$USER_HOME$/Sites/Rescue/survey-admin/public/js/app/tracker.js" />
-      <jump line="889" column="21" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
-      <jump line="782" column="33" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
-      <jump line="859" column="66" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
-      <jump line="780" column="0" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
-      <jump line="817" column="33" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
-      <jump line="849" column="4" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
-      <jump line="1023" column="9" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
-      <jump line="1065" column="36" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
-      <jump line="308" column="38" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
       <jump line="305" column="22" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
       <jump line="971" column="21" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
       <jump line="942" column="0" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
@@ -501,6 +483,27 @@
       <jump line="381" column="8" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_screen/src/main.js" />
       <jump line="396" column="8" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_screen/src/main.js" />
       <jump line="407" column="12" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_screen/src/main.js" />
+      <jump line="1212" column="0" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/DataFormat.php" />
+      <jump line="241" column="59" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/DataFormat.php" />
+      <jump line="522" column="9" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/DataFormat.php" />
+      <jump line="1414" column="25" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/DataFormat.php" />
+      <jump line="1401" column="25" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/DataFormat.php" />
+      <jump line="1392" column="0" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/DataFormat.php" />
+      <jump line="1398" column="34" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/DataFormat.php" />
+      <jump line="1100" column="0" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/DataFormat.php" />
+      <jump line="1095" column="21" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/DataFormat.php" />
+      <jump line="1427" column="12" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/DataFormat.php" />
+      <jump line="539" column="9" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/DataFormat.php" />
+      <jump line="1358" column="26" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/DataFormat.php" />
+      <jump line="1097" column="36" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/DataFormat.php" />
+      <jump line="1096" column="4" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/DataFormat.php" />
+      <jump line="581" column="13" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/Variables.php" />
+      <jump line="89" column="9" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/Variables.php" />
+      <jump line="580" column="32" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/Variables.php" />
+      <jump line="104" column="31" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/Variables.php" />
+      <jump line="541" column="66" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/DataFormat.php" />
+      <jump line="1961" column="0" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/DataFormat.php" />
+      <jump line="96" column="20" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/SurveyResponse.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -564,7 +567,7 @@
         <text>;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpYmFzZUhpcEhvcFNjb3JlXD4=</text>
+        <text encoding="base64">XDx1cGRhdGVBbnN3ZXJzXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICRsYW5nW3NlbGY6OlNDUkVFTkVSX0FOQUxZU0lTX0VYQ0xVREVfQ09OU0VOVF9ERU5JRURdLAo=</text>
@@ -604,36 +607,36 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpYmFzZUhpcEhvcFNjb3JlXD4=</last-search>
+      <last-search encoding="base64">XDx1cGRhdGVBbnN3ZXJzXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpYmFzZUhpcEhvcFNjb3JlXD4=</last-pattern>
+      <last-pattern encoding="base64">XDx1cGRhdGVBbnN3ZXJzXD4=</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxhcGlWYWx1ZXNFbmFibGVkXD4=</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhZGRDb25zZW50U3RhdHVzXD4=</entry>
-        <entry>Qualified</entry>
-        <entry encoding="base64">XDxnZXRCb29sZWFuU2VsZWN0RmlsdGVyXD4=</entry>
-        <entry>Condition</entry>
-        <entry>School</entry>
-        <entry>Consent</entry>
-        <entry>Filter</entry>
-        <entry>Questionnaire</entry>
-        <entry>questionnaire_ince</entry>
-        <entry encoding="base64">XDxxdWVzdGlvbm5haXJlX2luY2VudGl2ZVw+</entry>
-        <entry encoding="base64">XDxpbmNlbnRpdmVcPg==</entry>
-        <entry>Bounce</entry>
-        <entry>complete</entry>
-        <entry>CT_IN</entry>
         <entry encoding="base64">XDxDVF9JTkNMVURFXD4=</entry>
         <entry encoding="base64">XDxjb21wbGV0ZVw+</entry>
         <entry>CT_INCLU</entry>
         <entry>ibase</entry>
         <entry encoding="base64">XDxzY29yaW5nXD4=</entry>
         <entry encoding="base64">XDxpYmFzZUhpcEhvcFNjb3JlXD4=</entry>
+        <entry>RSCG</entry>
+        <entry>DQ_HH</entry>
+        <entry encoding="base64">XDxoaERxRnVuY3Rpb25cPg==</entry>
+        <entry>Qualifies</entry>
+        <entry encoding="base64">XDxnZXREcVw+</entry>
+        <entry>SCREEN_QU</entry>
+        <entry encoding="base64">XDxTQ1JFRU5fUVVBTElGSUVEXD4=</entry>
+        <entry>RSCG_QUAL_INFO</entry>
+        <entry>RSCG_QU</entry>
+        <entry encoding="base64">XDxTY3JlZW5fUXVhbGlmaWNhdGlvbkluZm9cPg==</entry>
+        <entry encoding="base64">XDxyQ1o1ZEZvc0JNXD4=</entry>
+        <entry>Screener</entry>
+        <entry>ScreenerRe</entry>
+        <entry encoding="base64">XDx1cGRhdGVBbnN3ZXJzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>453</entry>
