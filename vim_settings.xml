@@ -18,6 +18,9 @@
       <file name="$USER_HOME$/Sites/Rescue/survey-admin/tests/LgbtCodebookTest.php" timestamp="1462864907812">
         <mark key="'" line="8" column="31" />
       </file>
+      <file name="/a.dummy" timestamp="1463763116308">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/js/controllers/survey_view.js" timestamp="1463170751726">
         <mark key="'" line="3" column="85" />
       </file>
@@ -201,8 +204,8 @@
         <mark key="^" line="97" column="77" />
         <mark key="." line="117" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/Variables.php" timestamp="1463760907616">
-        <mark key="'" line="426" column="26" />
+      <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/Variables.php" timestamp="1463761879230">
+        <mark key="'" line="50" column="45" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/styles/swap.css" timestamp="1463586825399">
         <mark key="'" line="21" column="26" />
@@ -236,8 +239,8 @@
         <mark key="." line="362" column="24" />
         <mark key="^" line="362" column="24" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/SurveyTracking.php" timestamp="1462909412394">
-        <mark key="'" line="57" column="4" />
+      <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/SurveyTracking.php" timestamp="1463763095764">
+        <mark key="'" line="117" column="34" />
         <mark key="[" line="59" column="0" />
         <mark key="]" line="59" column="0" />
         <mark key="." line="59" column="0" />
@@ -266,7 +269,7 @@
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/drupal_translators/EventTranslator.js" timestamp="1463098947216">
         <mark key="'" line="6" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1463607444966">
+      <file name="/Dummy.txt" timestamp="1463763116282">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/FactAnimationVideo.js" timestamp="1462831768614">
@@ -356,12 +359,12 @@
         <mark key="]" line="161" column="28" />
         <mark key="." line="161" column="28" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" timestamp="1463436928917">
-        <mark key="'" line="1233" column="21" />
-        <mark key="[" line="916" column="0" />
-        <mark key="]" line="916" column="0" />
-        <mark key="^" line="915" column="65" />
-        <mark key="." line="916" column="0" />
+      <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" timestamp="1463763179832">
+        <mark key="'" line="148" column="9" />
+        <mark key="[" line="838" column="54" />
+        <mark key="]" line="838" column="73" />
+        <mark key="." line="838" column="73" />
+        <mark key="^" line="838" column="73" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/helpers/MY_file_helper.php" timestamp="1463432388044">
         <mark key="'" line="82" column="18" />
@@ -385,15 +388,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2775" column="0" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/index.html" />
-      <jump line="75" column="0" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/styles/swap.css" />
-      <jump line="21" column="25" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/app.js" />
-      <jump line="203" column="18" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/app.js" />
-      <jump line="279" column="18" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/app.js" />
-      <jump line="418" column="28" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/app.js" />
-      <jump line="468" column="16" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/app.js" />
-      <jump line="490" column="16" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/app.js" />
-      <jump line="557" column="15" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/app.js" />
       <jump line="641" column="20" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/app.js" />
       <jump line="645" column="48" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/app.js" />
       <jump line="646" column="42" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/app.js" />
@@ -485,13 +479,22 @@
       <jump line="43" column="16" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/drupal_translators/AboutTranslator.js" />
       <jump line="426" column="26" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/Variables.php" />
       <jump line="1175" column="21" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/DataFormat.php" />
+      <jump line="50" column="45" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/Variables.php" />
+      <jump line="1527" column="4" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
+      <jump line="160" column="18" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
+      <jump line="894" column="9" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
+      <jump line="785" column="8" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
+      <jump line="886" column="21" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
+      <jump line="117" column="34" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/SurveyTracking.php" />
+      <jump line="1017" column="23" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
+      <jump line="148" column="9" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>body</text>
+        <text>SCREENER_ANALYSIS_EXCLUDE_CONSENT_DENIED</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -545,65 +548,59 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>body</text>
+        <text>SCREENER_ANALYSIS_EXCLUDE_CONSENT_DENIED</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0cmFja2luZ0xhbmdcPg==</text>
+        <text encoding="base64">XDxzdXJ2ZXlfYW5hbHlzaXNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2VsZjo6U0NSRUVORVJfQU5BTFlTSVNfRVhDTFVERV9DT05TRU5UX0RFTklFRCA9PiAkbGFuZ1tzZWxmOjpTQ1JFRU5FUl9BTkFMWVNJU19FWENMVURFX0NPTlNFTlRfREVOSUVEXSwK</text>
       </register>
       <register name="1" type="4">
-        <text>body</text>
+        <text>SCREENER_ANALYSIS_EXCLUDE_CONSENT_DENIED</text>
       </register>
       <register name="2" type="4">
-        <text>teaser</text>
+        <text>EXCLUDE_CONSENT_DENIED</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkb3B0aW9ucyk7Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">JHRoaXMtPmdldEluY2VudGl2ZU9wdGlvbnMoJGxhbmcpKTs=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+Z2V0SW5jZW50aXZlT3B0aW9ucygkbGFuZykpOwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ZGllKCd0ZXN0Jyk7Cg==</text>
+      <register name="6" type="4">
+        <text encoding="base64">LCAkdGhpcy0+Z2V0SW5jZW50aXZlT3B0aW9ucygkbGFuZykpOw==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ZGllKCd0ZXN0Jyk7Cg==</text>
+      <register name="7" type="4">
+        <text>(</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ZGllKCd0ZXN0Jyk7Cg==</text>
+      <register name="8" type="4">
+        <text>i</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>h</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0cmFja2luZ0xhbmdcPg==</last-search>
+      <last-search encoding="base64">XDxzdXJ2ZXlfYW5hbHlzaXNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0cmFja2luZ0xhbmdcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxzdXJ2ZXlfYW5hbHlzaXNcPg==</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxhcGlWYWx1ZXNFbmFibGVkXD4=</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzdWdhclNhdmluZ3NcPg==</entry>
-        <entry encoding="base64">XDxuZXdJdGVtXD4=</entry>
-        <entry>debu</entry>
-        <entry>Plain</entry>
-        <entry>section12</entry>
-        <entry>selection</entry>
         <entry>select</entry>
         <entry>o(</entry>
         <entry encoding="base64">XDxub3JtVGV4dFw+</entry>
@@ -618,6 +615,12 @@
         <entry>Ct_Includ</entry>
         <entry>Include</entry>
         <entry encoding="base64">XDx0cmFja2luZ0xhbmdcPg==</entry>
+        <entry>Ensure</entry>
+        <entry>ensure</entry>
+        <entry encoding="base64">XDxJTkNFTlRJVkVfTkFcPg==</entry>
+        <entry>Select</entry>
+        <entry encoding="base64">XDxnZXRJbmNlbnRpdmVPcHRpb25zXD4=</entry>
+        <entry encoding="base64">XDxzdXJ2ZXlfYW5hbHlzaXNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>453</entry>
