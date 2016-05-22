@@ -89,11 +89,12 @@
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/drupal_translators/AboutTranslator.js" timestamp="1463696735862">
         <mark key="'" line="43" column="16" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/emoji-challenge.php" timestamp="1463937506943">
-        <mark key="[" line="15" column="20" />
-        <mark key="]" line="15" column="20" />
-        <mark key="." line="15" column="20" />
-        <mark key="^" line="14" column="30" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/emoji-challenge.php" timestamp="1463938243933">
+        <mark key="a" line="27" column="21" />
+        <mark key="'" line="34" column="24" />
+        <mark key="[" line="59" column="0" />
+        <mark key="]" line="59" column="0" />
+        <mark key="." line="59" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/index.php" timestamp="1463693654235">
         <mark key="'" line="62" column="131" />
@@ -334,7 +335,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="934" column="23" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
       <jump line="894" column="44" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
       <jump line="937" column="4" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
       <jump line="87" column="43" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
@@ -434,13 +434,14 @@
       <jump line="52" column="24" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
       <jump line="90" column="20" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/routes.js" />
+      <jump line="34" column="24" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/emoji-challenge.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">PHAgY2xhc3M9ImgyIj4=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -494,43 +495,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PHAgY2xhc3M9ImgyIj4=</text>
+        <text>ou had a holiday romance and your next step will be..</text>
       </register>
       <register name="/" type="4">
         <text>why-care</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8cCBjbGFzcz0iaDIiPllvdSBoYWQgYSBob2xpZGF5IHJvbWFuY2UgYW5kIHlvdXIgbmV4dCBzdGVwIHdpbGwgYmUuLjwvcD4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJhbnN3ZXIiPgogICAgICAgICAgICAgICAgICAgICAgICA8dWw+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bGk+QW5zd2VyIDE8L2xpPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxpPkFuc3dlciAyPC9saT4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxsaT5BbnN3ZXIgMzwvbGk+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bGk+QW5zd2VyIDQ8L2xpPgogICAgICAgICAgICAgICAgICAgICAgICA8L3VsPgogICAgICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">PHAgY2xhc3M9ImgyIj4=</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">PHAgY2xhc3M9ImgyIj4=</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">MiI+b3UgaGFkIGEgaG9saWRheSByb21hbmNlIGFuZCB5b3VyIG5leHQgc3RlcCB3aWxsIGJlLi4=</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cgo=</text>
       </register>
-      <register name="4" type="4">
-        <text>ou had a holiday romance and your next step will be..</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>https://chekhov.withgoogle.com/alive/CDN_PATH/img/test/1.png</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>https://chekhov.withgoogle.com/alive/CDN_PATH/img/test/1.png</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cgo=</text>
       </register>
-      <register name="7" type="4">
-        <text>https://chekhov.withgoogle.com/alive/CDN_PATH/img/test/1.png</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>ou had a holiday romance and your next step will be..</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
-      <register name="9" type="4">
-        <text>Y</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
