@@ -24,7 +24,6 @@
         <mark key="]" line="641" column="0" />
         <mark key="." line="641" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/drupal-api/api/main.json" timestamp="1463886133805" />
       <file name="$USER_HOME$/Sites/Rescue/helix/application/helpers/utils_helper.php" timestamp="1462835072719">
         <mark key="'" line="8" column="25" />
       </file>
@@ -35,7 +34,6 @@
         <mark key="." line="303" column="37" />
         <mark key="^" line="303" column="37" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/drupal-api/api/event-images.json" timestamp="1463882768016" />
       <file name="$USER_HOME$/Sites/Rescue/helix/application/helpers/sitelink_helper.php" timestamp="1463440431955">
         <mark key="'" line="97" column="9" />
         <mark key="[" line="291" column="0" />
@@ -220,7 +218,7 @@
       <file name="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/scss/app.scss" timestamp="1463537683467">
         <mark key="'" line="624" column="10" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/drupal-api/api/emoji-challenge.json" timestamp="1463886338850">
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/drupal-api/api/emoji-challenge.json" timestamp="1463930460831">
         <mark key="a" line="16" column="4" />
         <mark key="'" line="11" column="16" />
         <mark key="[" line="125" column="19" />
@@ -485,7 +483,7 @@
         <text>/emoji-challenge</text>
       </register>
       <register name="/" type="4">
-        <text>link</text>
+        <text>image</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICJ0ZXh0IjogIk5leHQgUXVlc3Rpb24iCg==</text>
@@ -525,9 +523,9 @@
       </register>
     </registers>
     <search>
-      <last-search>link</last-search>
+      <last-search>image</last-search>
       <last-offset />
-      <last-pattern>link</last-pattern>
+      <last-pattern>image</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxhcGlWYWx1ZXNFbmFibGVkXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -535,8 +533,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxTQ1JFRU5fUVVBTElGSUVEXD4=</entry>
-        <entry>RSCG_QUAL_INFO</entry>
         <entry>RSCG_QU</entry>
         <entry encoding="base64">XDxyQ1o1ZEZvc0JNXD4=</entry>
         <entry>Screener</entry>
@@ -555,6 +551,8 @@
         <entry>button</entry>
         <entry>cta_link</entry>
         <entry>link</entry>
+        <entry>imae</entry>
+        <entry>image</entry>
       </history-search>
       <history-cmd>
         <entry>453</entry>
