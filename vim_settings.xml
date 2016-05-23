@@ -254,12 +254,11 @@
         <mark key="]" line="59" column="0" />
         <mark key="." line="59" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" timestamp="1463995275197">
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" timestamp="1464018852365">
         <mark key="'" line="5" column="22" />
-        <mark key="[" line="95" column="0" />
-        <mark key="]" line="95" column="0" />
-        <mark key="." line="95" column="0" />
-        <mark key="^" line="97" column="25" />
+        <mark key="[" line="114" column="0" />
+        <mark key="]" line="114" column="0" />
+        <mark key="." line="114" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/scss/app.scss" timestamp="1463537683467">
         <mark key="'" line="624" column="10" />
@@ -468,7 +467,7 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9wYWdlID0gZ2V0UHJvZ3Jlc3MoKSB8fCAwOwo=</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICByZXR1cm4K</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -528,37 +527,37 @@
         <text>restart</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy90ZW1wbGF0ZVVybDogdGVtcGxhdGVCYXNlICsgJ2Vtb2ppLWNoYWxsZW5nZS5waHA/dD0nICsgZCwK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy9wYWdlID0gZ2V0UHJvZ3Jlc3MoKSB8fCAwOwo=</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICByZXR1cm4K</text>
       </register>
-      <register name="2" type="4">
-        <text>page</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRydWU7Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>parseInt($routeParams.pageNum || 0, 10),</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>pageNum</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIC8vfTsK</text>
       </register>
-      <register name="5" type="4">
-        <text>pageNum = parseInt($routeParams.pageNum || 0, 10),</text>
+      <register name="5" type="2">
+        <text encoding="base64">YWdlJywgaWQpOwo=</text>
       </register>
       <register name="6" type="4">
-        <text>/</text>
+        <text encoding="base64">CiAgICAgICAgLy9oaWRlRmllbGQoJ3Nob3dUZWFzZXInKTsKICAgICAgICAvLyRzY29wZS5pdGVtID0gY2FjaGUuaXRlbXNbcGFnZV07CiAgICAgICAgLy9jb25zb2xlLmxvZygkc2NvcGUuaXRlbSk7CiAgICB9CgogICAgLy9mdW5jdGlvbiByZXNldFF1ZXN0aW9uKCkgewogICAgLy8gICAgaGlkZUZpZWxkKCduZXh0QnV0dG9uJywgJ3JlcGVhdEJ1dHRvbicsICdzaG93SW52YWxpZCcsICdzaG93VmFsaWQnKTsKICAgIC8vICAgIHNob3dGaWVsZCgnc2hvd1F1ZXN0aW9uJyk7CiAgICAvL30KCiAgICAvL2Z1bmN0aW9uIHBhcnNlUGFnZShkYXRhKSB7CiAgICAvLyAgICByZXR1cm4gXy5maWx0ZXIoZGF0YSwgeyJjb250ZW50X3R5cGUiOiAicGFnZSJ9KTsKICAgIC8vfQogICAgLy8KICAgIC8vZnVuY3Rpb24gcGFyc2VRdWl6KGRhdGEpIHsKICAgIC8vICAgIHJldHVybiBfLmZpbHRlcihkYXRhLCB7ImNvbnRlbnRfdHlwZSI6ICJxdWl6In0pOwogICAgLy99CiAgICAvLwoKCiAgICAvLyRzY29wZS4kb24oJ25leHRQYWdlJywgZnVuY3Rpb24gKF8sIHBhZ2UpIHsKICAgIC8vICAgIGRlYnVnZ2VyOwogICAgLy8gICAgbG9hZFBhZ2UocGFnZSk7CiAgICAvL30pOwoKICAgIC8vZnVuY3Rpb24gc2hvd0ZpZWxkKCkgewogICAgLy8gICAgdmFyIGFyZ3MgPSBbXS5zbGljZS5jYWxsKGFyZ3VtZW50cyk7CiAgICAvLyAgICBjb25zb2xlLmxvZyhhcmdzKTsKICAgIC8vICAgIGFyZ3MuZm9yRWFjaChmdW5jdGlvbiAobikgewogICAgLy8gICAgICAgICRzY29wZVtuXSA9IHRydWU7CiAgICAvLyAgICB9KTsKICAgIC8vfQogICAgLy8KICAgIC8vZnVuY3Rpb24gaGlkZUZpZWxkKCkgewogICAgLy8gICAgdmFyIGFyZ3MgPSBbXS5zbGljZS5jYWxsKGFyZ3VtZW50cyk7CiAgICAvLyAgICBhcmdzLmZvckVhY2goZnVuY3Rpb24gKG4pIHsKICAgIC8vICAgICAgICAkc2NvcGVbbl0gPSBmYWxzZTsKICAgIC8vICAgIH0pOwogICAgLy99CiAgICAvLwogICAgLy9mdW5jdGlvbiBzaG93UmVzcG9uc2UodmFsaWQpIHsKICAgIC8vICAgIGhpZGVGaWVsZCgnc2hvd1RlYXNlcicsICdzaG93VmFsaWQnLCAnc2hvd0ludmFsaWQnLCAnc2hvd1F1ZXN0aW9uJyk7CiAgICAvLyAgICBpZiAodmFsaWQpIHsKICAgIC8vICAgICAgICBzaG93RmllbGQoJ3Nob3dWYWxpZCcsICduZXh0QnV0dG9uJyk7CiAgICAvLyAgICB9IGVsc2UgewogICAgLy8gICAgICAgIHNob3dGaWVsZCgnc2hvd0ludmFsaWQnLCAncmVwZWF0QnV0dG9uJyk7CiAgICAvLyAgICB9CiAgICAvL30KCiAgICAvLyRzY29wZS5uZXh0UXVlc3Rpb24gPSBmdW5jdGlvbiAoKSB7CiAgICAvLyAgICBsb2FkUGFnZSgkc2NvcGUucGFnZU51bSArIDEpOwogICAgLy99OwogICAgLy8KICAgIC8vJHNjb3BlLnJlcGVhdFF1ZXN0aW9uID0gZnVuY3Rpb24gKCkgewogICAgLy8gICAgbG9hZFBhZ2UoJHNjb3BlLnBhZ2VOdW0pOwogICAgLy99OwogICAgLy8KICAgIC8vJHNjb3BlLnNlbGVjdEFuc3dlciA9IGZ1bmN0aW9uIChpZCwgdmFsaWQpIHsKICAgIC8vICAgIHNob3dSZXNwb25zZSh2YWxpZCk7CiAgICAvLyAgICAvLyRzY29wZS4kZW1pdCgnbmV4dFA=</text>
       </register>
-      <register name="7" type="4">
-        <text>question</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy9wYWdlID0gZ2V0UHJvZ3Jlc3MoKSB8fCAwOwo=</text>
       </register>
       <register name="8" type="4">
-        <text>/</text>
+        <text>page</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="4">
-        <text>question</text>
+        <text>parseInt($routeParams.pageNum || 0, 10),</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
