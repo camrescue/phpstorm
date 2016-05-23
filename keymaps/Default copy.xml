@@ -1,4 +1,7 @@
 <keymap version="1" name="Default copy" parent="Mac OS X 10.5+">
+  <action id="$SearchWeb">
+    <keyboard-shortcut first-keystroke="alt g" />
+  </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="meta back_slash" />
   </action>
@@ -7,9 +10,16 @@
     <keyboard-shortcut first-keystroke="f2" />
     <keyboard-shortcut first-keystroke="alt enter" />
   </action>
+  <action id="Editor SearchWeb">
+    <keyboard-shortcut first-keystroke="alt g" />
+  </action>
   <action id="EditorChooseLookupItem">
     <keyboard-shortcut first-keystroke="enter" />
     <keyboard-shortcut first-keystroke="tab" />
+  </action>
+  <action id="FindUsages">
+    <keyboard-shortcut first-keystroke="alt f7" />
+    <keyboard-shortcut first-keystroke="ctrl meta u" />
   </action>
   <action id="GotoFile">
     <keyboard-shortcut first-keystroke="shift meta n" />
@@ -18,6 +28,13 @@
   <action id="NewScratchFile" />
   <action id="NextTemplateVariable">
     <keyboard-shortcut first-keystroke="tab" />
+  </action>
+  <action id="QuickImplementations">
+    <keyboard-shortcut first-keystroke="ctrl slash" />
+    <mouse-shortcut keystroke="control alt button1" />
+  </action>
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="alt f" />
   </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />

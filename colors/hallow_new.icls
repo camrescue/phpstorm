@@ -4,12 +4,14 @@
   <option name="EDITOR_QUICK_DOC_FONT_SIZE" value="MEDIUM" />
   <option name="EDITOR_FONT_NAME" value="Monaco" />
   <colors>
-    <option name="CARET_COLOR" value="e016ff" />
-    <option name="CARET_ROW_COLOR" value="1b1b1b" />
+    <option name="ADDED_LINES_COLOR" value="24ede" />
+    <option name="CARET_COLOR" value="7854ee" />
+    <option name="CARET_ROW_COLOR" value="101010" />
     <option name="CONSOLE_BACKGROUND_KEY" value="0" />
     <option name="GUTTER_BACKGROUND" value="1b1b1b" />
     <option name="INDENT_GUIDE" value="404040" />
     <option name="LINE_NUMBERS_COLOR" value="ffffff" />
+    <option name="MODIFIED_LINES_COLOR" value="700062" />
     <option name="SELECTED_INDENT_GUIDE" value="404040" />
     <option name="SELECTION_BACKGROUND" value="e016ff" />
     <option name="SELECTION_FOREGROUND" value="0" />
@@ -41,12 +43,6 @@
       <value>
         <option name="FOREGROUND" value="ffe70c" />
         <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
-    <option name="BASH.EXTERNAL_COMMAND">
-      <value>
-        <option name="FOREGROUND" value="c57633" />
-        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="BASH.HERE_DOC_START">
@@ -769,8 +765,7 @@
     </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="3c3c57" />
-        <option name="ERROR_STRIPE_COLOR" value="ccccff" />
+        <option name="EFFECT_TYPE" value="4" />
       </value>
     </option>
     <option name="IMPLICIT_ANONYMOUS_CLASS_PARAMETER_ATTRIBUTES">
@@ -1536,8 +1531,8 @@
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="0" />
-        <option name="BACKGROUND" value="ffe70c" />
+        <option name="FOREGROUND" value="fffdf1" />
+        <option name="BACKGROUND" value="ff00cc" />
       </value>
     </option>
     <option name="SLIM_BAD_CHARACTER">
@@ -1749,7 +1744,8 @@
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="472c47" />
+        <option name="FOREGROUND" value="ebf7ff" />
+        <option name="BACKGROUND" value="9b" />
         <option name="ERROR_STRIPE_COLOR" value="ffcdff" />
       </value>
     </option>
