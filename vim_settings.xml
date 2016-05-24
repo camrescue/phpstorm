@@ -12,7 +12,7 @@
       <file name="$USER_HOME$/Sites/Rescue/survey-admin/tests/LgbtCodebookTest.php" timestamp="1462864907812">
         <mark key="'" line="8" column="31" />
       </file>
-      <file name="/a.dummy" timestamp="1464067143710">
+      <file name="/a.dummy" timestamp="1464110505277">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/js/controllers/survey_view.js" timestamp="1463170751726">
@@ -126,6 +126,13 @@
         <mark key="^" line="99" column="23" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/surveys/app/Http/Controllers/SurveyController.php" timestamp="1464025140374" />
+      <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/DataFormat.php" timestamp="1464111134464">
+        <mark key="'" line="1167" column="37" />
+        <mark key="[" line="1348" column="0" />
+        <mark key="]" line="1348" column="0" />
+        <mark key="^" line="1349" column="47" />
+        <mark key="." line="1348" column="0" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/survey-admin/storage/ibase/responses_ibase_fix.tsv" timestamp="1462926463822">
         <mark key="'" line="96" column="20" />
         <mark key="[" line="109" column="0" />
@@ -222,8 +229,8 @@
         <mark key="^" line="97" column="77" />
         <mark key="." line="117" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/Variables.php" timestamp="1464038072979">
-        <mark key="'" line="634" column="9" />
+      <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/Variables.php" timestamp="1464108962708">
+        <mark key="'" line="749" column="36" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/styles/swap.css" timestamp="1463586825399">
         <mark key="'" line="21" column="26" />
@@ -265,8 +272,8 @@
         <mark key="]" line="59" column="0" />
         <mark key="." line="59" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" timestamp="1464070305147">
-        <mark key="'" line="62" column="15" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" timestamp="1464106273188">
+        <mark key="'" line="38" column="13" />
         <mark key="[" line="8" column="22" />
         <mark key="]" line="8" column="25" />
         <mark key="." line="8" column="25" />
@@ -275,16 +282,18 @@
       <file name="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/scss/app.scss" timestamp="1463537683467">
         <mark key="'" line="624" column="10" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/drupal-api/api/emoji-challenge.json" timestamp="1463974845296">
-        <mark key="a" line="16" column="4" />
-        <mark key="'" line="11" column="16" />
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="133" />
-        <mark key="^" line="51" column="16" />
-        <mark key="." line="51" column="16" />
-      </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/drupal_translators/EventTranslator.js" timestamp="1463098947216">
         <mark key="'" line="6" column="16" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1464110507514">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/survey-admin/tests/DeviceTypeTest.php" timestamp="1464111208361">
+        <mark key="'" line="9" column="21" />
+        <mark key="[" line="208" column="14" />
+        <mark key="]" line="217" column="13" />
+        <mark key="." line="217" column="13" />
+        <mark key="^" line="217" column="13" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/FactAnimationVideo.js" timestamp="1462831768614">
         <mark key="'" line="500" column="44" />
@@ -373,50 +382,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="30" column="20" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
-      <jump line="35" column="13" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
-      <jump line="50" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
-      <jump line="136" column="13" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
-      <jump line="67" column="40" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
-      <jump line="105" column="15" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
-      <jump line="48" column="8" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
-      <jump line="22" column="41" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
-      <jump line="69" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
-      <jump line="640" column="25" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/app.js" />
-      <jump line="31" column="22" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/app.js" />
-      <jump line="37" column="14" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
-      <jump line="92" column="13" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
-      <jump line="180" column="8" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
-      <jump line="170" column="10" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
-      <jump line="166" column="10" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
-      <jump line="138" column="10" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
-      <jump line="97" column="17" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
-      <jump line="178" column="40" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
-      <jump line="176" column="29" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
-      <jump line="60" column="28" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
-      <jump line="6" column="19" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
-      <jump line="5" column="22" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
-      <jump line="83" column="8" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
-      <jump line="71" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
-      <jump line="87" column="15" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
-      <jump line="90" column="15" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
-      <jump line="111" column="16" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
-      <jump line="20" column="13" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
-      <jump line="34" column="8" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
-      <jump line="81" column="15" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
-      <jump line="51" column="13" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
-      <jump line="104" column="16" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
-      <jump line="64" column="13" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
-      <jump line="93" column="13" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
-      <jump line="14" column="13" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
-      <jump line="66" column="43" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/index.php" />
-      <jump line="256" column="13" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/index.php" />
-      <jump line="27" column="29" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/emoji-challenge.php" />
-      <jump line="17" column="10" filename="$USER_HOME$/Sites/Rescue/surveys/app/Libraries/Survey.php" />
-      <jump line="7" column="10" filename="$USER_HOME$/Sites/Rescue/surveys/app/Libraries/Survey.php" />
-      <jump line="37" column="13" filename="$USER_HOME$/Sites/Rescue/surveys/app/Libraries/Survey.php" />
-      <jump line="44" column="13" filename="$USER_HOME$/Sites/Rescue/surveys/app/Libraries/Survey.php" />
-      <jump line="51" column="13" filename="$USER_HOME$/Sites/Rescue/surveys/app/Libraries/Survey.php" />
       <jump line="58" column="13" filename="$USER_HOME$/Sites/Rescue/surveys/app/Libraries/Survey.php" />
       <jump line="66" column="13" filename="$USER_HOME$/Sites/Rescue/surveys/app/Libraries/Survey.php" />
       <jump line="73" column="13" filename="$USER_HOME$/Sites/Rescue/surveys/app/Libraries/Survey.php" />
@@ -460,7 +425,6 @@
       <jump line="95" column="16" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
       <jump line="42" column="22" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
       <jump line="94" column="16" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
-      <jump line="38" column="13" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
       <jump line="74" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
       <jump line="98" column="12" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
       <jump line="4" column="8" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
@@ -473,13 +437,58 @@
       <jump line="96" column="13" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
       <jump line="117" column="13" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
       <jump line="62" column="15" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
+      <jump line="91" column="8" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
+      <jump line="38" column="13" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
+      <jump line="625" column="65" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/Variables.php" />
+      <jump line="1399" column="46" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/DataFormat.php" />
+      <jump line="749" column="36" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/Variables.php" />
+      <jump line="117" column="42" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/DataFormat.php" />
+      <jump line="174" column="50" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/DataFormat.php" />
+      <jump line="237" column="9" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/DataFormat.php" />
+      <jump line="896" column="13" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/DataFormat.php" />
+      <jump line="238" column="9" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/DataFormat.php" />
+      <jump line="917" column="13" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/DataFormat.php" />
+      <jump line="1726" column="25" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/DataFormat.php" />
+      <jump line="1527" column="23" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/DataFormat.php" />
+      <jump line="1524" column="11" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/DataFormat.php" />
+      <jump line="1097" column="36" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/DataFormat.php" />
+      <jump line="541" column="43" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/DataFormat.php" />
+      <jump line="1095" column="21" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/DataFormat.php" />
+      <jump line="1428" column="25" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/DataFormat.php" />
+      <jump line="1415" column="25" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/DataFormat.php" />
+      <jump line="1402" column="25" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/DataFormat.php" />
+      <jump line="1388" column="25" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/DataFormat.php" />
+      <jump line="1362" column="32" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/DataFormat.php" />
+      <jump line="172" column="15" filename="$USER_HOME$/Sites/Rescue/survey-admin/tests/DeviceTypeTest.php" />
+      <jump line="9" column="21" filename="$USER_HOME$/Sites/Rescue/survey-admin/tests/DeviceTypeTest.php" />
+      <jump line="1126" column="38" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/DataFormat.php" />
+      <jump line="1125" column="36" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/DataFormat.php" />
+      <jump line="799" column="43" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/DataFormat.php" />
+      <jump line="1542" column="23" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/DataFormat.php" />
+      <jump line="1127" column="26" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/DataFormat.php" />
+      <jump line="1140" column="21" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/DataFormat.php" />
+      <jump line="1481" column="32" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/DataFormat.php" />
+      <jump line="1555" column="53" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/DataFormat.php" />
+      <jump line="1129" column="40" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/DataFormat.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/DataFormat.php" />
+      <jump line="261" column="9" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/DataFormat.php" />
+      <jump line="592" column="13" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/DataFormat.php" />
+      <jump line="263" column="22" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/DataFormat.php" />
+      <jump line="1341" column="29" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/DataFormat.php" />
+      <jump line="1123" column="21" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/DataFormat.php" />
+      <jump line="1157" column="42" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/DataFormat.php" />
+      <jump line="1544" column="62" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/DataFormat.php" />
+      <jump line="1153" column="34" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/DataFormat.php" />
+      <jump line="1159" column="42" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/DataFormat.php" />
+      <jump line="1347" column="41" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/DataFormat.php" />
+      <jump line="1167" column="37" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/DataFormat.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>t Applicable</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -533,52 +542,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>t Applicable</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxxdWVzdGlvblJlYWR5XD4=</text>
+        <text>DQ_AGE</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAuZmFkZS5uZy1lbnRlciB7CiAgICBvcGFjaXR5OiAwOwogIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgWwogICAgICAgICAgICAgICAgInJvdyIgICAgICA9PiBbInJlY3J1aXRtZW50X21ldGhvZCIgPT4gIm9uc2l0ZSIsICJxdWVzdGlvbm5haXJlX3JlY3J1aXRtZW50X21ldGhvZCIgPT4gIm9uc2l0ZSIsICdzY3JlZW5lcl9jb21wbGV0ZScgPT4gMF0sCiAgICAgICAgICAgICAgICAiZXhwZWN0ZWQiID0+ICJOb3QgQXBwbGljYWJsZSIKICAgICAgICAgICAgXSwK</text>
       </register>
       <register name="1" type="4">
-        <text>0</text>
+        <text>t Applicable</text>
       </register>
-      <register name="2" type="4">
-        <text>questionReady</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgkcm93KTsK</text>
       </register>
       <register name="3" type="4">
-        <text>questionReady</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>0&quot;</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="5" type="4">
+        <text>&quot;</text>
       </register>
       <register name="6" type="4">
-        <text />
+        <text>SCREEN_BB_YOUTH</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>CREEN_BB_PARENT</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgCg==</text>
+      <register name="8" type="4">
+        <text>BounceBacks</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
-      <register name="9" type="4">
-        <text />
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxxdWVzdGlvblJlYWR5XD4=</last-search>
+      <last-search>DQ_AGE</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxxdWVzdGlvblJlYWR5XD4=</last-pattern>
+      <last-pattern>DQ_AGE</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxhcGlWYWx1ZXNFbmFibGVkXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -586,29 +595,28 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxmaXhBcnJheVw+</entry>
-        <entry>ng-show</entry>
-        <entry encoding="base64">XDxjaGFuZ2VQYWdlXD4=</entry>
-        <entry encoding="base64">XDxuZXh0UXVlc3Rpb25cPg==</entry>
-        <entry>debugger</entry>
-        <entry>delay</entry>
-        <entry encoding="base64">XDxzY29wZVw+</entry>
-        <entry encoding="base64">XDxzaG93UGFnZVw+</entry>
-        <entry encoding="base64">XDxzZWxlY3RBbnN3ZXJcPg==</entry>
-        <entry encoding="base64">XDxwYXJzZUFuc3dlcnNcPg==</entry>
-        <entry encoding="base64">XDxwYXJzZVF1ZXN0aW9uc1w+</entry>
-        <entry encoding="base64">XDxzZXRRdWVzdGlvbnNcPg==</entry>
-        <entry encoding="base64">XDxzZXRRdWl6UXVlc3Rpb25zXD4=</entry>
-        <entry encoding="base64">XDxyZW5kZXJRdWVzdGlvbnNcPg==</entry>
-        <entry encoding="base64">XDxsb2FkZWRcPg==</entry>
-        <entry encoding="base64">XDxhbnN3ZXJEaXNwbGF5XD4=</entry>
-        <entry encoding="base64">XDxhbnN3ZXJJZFw+</entry>
-        <entry encoding="base64">XDxzZXRQYWdlXD4=</entry>
         <entry encoding="base64">XDxyZXNldFBhZ2VcPg==</entry>
         <entry encoding="base64">XDxxdWVzdGlvblJlYWR5XD4=</entry>
+        <entry encoding="base64">XDxjaGFuZ2VQYWdlXD4=</entry>
+        <entry>RSCG_QUAL</entry>
+        <entry encoding="base64">XDxTY3JlZW5lcl9EUV9BZ2VcPg==</entry>
+        <entry encoding="base64">XDxBZ2VfQ29kZWRcPg==</entry>
+        <entry encoding="base64">XDxDT05DRVBUMV9WSUVXXD4=</entry>
+        <entry encoding="base64">XDxkb1Rlc3RDYXNlc1w+</entry>
+        <entry encoding="base64">XDxleHRlbmRSb3dcPg==</entry>
+        <entry>Qualif</entry>
+        <entry encoding="base64">XDxTY3JlZW5fUXVhbGlmaWNhdGlvbkluZm9cPg==</entry>
+        <entry>DQ_RESEARCH</entry>
+        <entry encoding="base64">XDxkcUV4Y2x1c2l2ZVw+</entry>
+        <entry encoding="base64">XDxoYXNEcVw+</entry>
+        <entry>CT_Comp</entry>
+        <entry>dqFull</entry>
+        <entry encoding="base64">XDxnZXREcVw+</entry>
+        <entry encoding="base64">XDxmdWxsRHFcPg==</entry>
+        <entry>Complete</entry>
+        <entry>DQ_AGE</entry>
       </history-search>
       <history-cmd>
-        <entry>187</entry>
         <entry>170</entry>
         <entry>:w</entry>
         <entry>qw</entry>
@@ -627,6 +635,7 @@
         <entry>set hlsearch</entry>
         <entry>w:w</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>w;:w</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
