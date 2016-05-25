@@ -90,6 +90,12 @@
         <mark key="." line="0" column="57" />
         <mark key="^" line="0" column="57" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/main.js" timestamp="1464215053027">
+        <mark key="[" line="38" column="179" />
+        <mark key="]" line="38" column="191" />
+        <mark key="^" line="38" column="191" />
+        <mark key="." line="38" column="191" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/surveys/app/Http/Controllers/CountryLifeVTController.php" timestamp="1464025371539">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="8" />
@@ -179,6 +185,13 @@
         <mark key="]" line="110" column="0" />
         <mark key="." line="110" column="0" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/index.php" timestamp="1464215104706">
+        <mark key="'" line="253" column="50" />
+        <mark key="[" line="63" column="110" />
+        <mark key="]" line="64" column="105" />
+        <mark key="^" line="64" column="105" />
+        <mark key="." line="64" column="26" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/partials/quiz-answer.php" timestamp="1464212595227">
         <mark key="[" line="1" column="38" />
         <mark key="]" line="1" column="37" />
@@ -238,14 +251,14 @@
         <mark key="^" line="0" column="75" />
         <mark key="." line="0" column="75" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/partials/quiz-answers.php" timestamp="1464150730701">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/partials/quiz-answers.php" timestamp="1464215399450">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="8" column="47" />
+        <mark key="." line="3" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="1125" column="36" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/DataFormat.php" />
       <jump line="799" column="43" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/DataFormat.php" />
       <jump line="1542" column="23" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/DataFormat.php" />
       <jump line="1127" column="26" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/DataFormat.php" />
@@ -345,13 +358,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
       <jump line="5" column="3" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
       <jump line="9" column="3" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
+      <jump line="253" column="50" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/index.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICA8bWQtYnV0dG9uPnRlc3Q8L21kLWJ1dHRvbj4K</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -405,7 +419,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>{{title1}}</text>
       </register>
       <register name="/" type="4">
         <text>fade</text>
@@ -413,35 +427,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgbWFyZ2luLXRvcDogLTc1cHg7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>1</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICA8bWQtYnV0dG9uPnRlc3Q8L21kLWJ1dHRvbj4K</text>
       </register>
       <register name="2" type="4">
-        <text>transition: 0s linear all;</text>
+        <text>{{title1}}</text>
       </register>
-      <register name="3" type="4">
-        <text>my-element</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIDxsaW5rIHJlbD0ic3R5bGVzaGVldCIgaHJlZj0iaHR0cHM6Ly9jb2RlLmdldG1kbC5pby8xLjEuMy9tYXRlcmlhbC5pbmRpZ28tcGluay5taW4uY3NzIj4K</text>
       </register>
-      <register name="4" type="4">
-        <text>-element</text>
+      <register name="4" type="2">
+        <text encoding="base64">PHNjcmlwdCBkZWZlciBzcmM9Imh0dHBzOi8vY29kZS5nZXRtZGwuaW8vMS4xLjMvbWF0ZXJpYWwubWluLmpzIj48L3NjcmlwdD4K</text>
       </register>
-      <register name="5" type="4">
-        <text>my</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>my-element</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPC9idXR0b24+Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>my-element</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHt7cXVlc3Rpb25JbmRleFskaW5kZXhdfX0K</text>
       </register>
-      <register name="8" type="4">
-        <text>fade</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPGJ1dHRvbgogICAgICAgICAgICAgICAgY2xhc3M9ImxldHRlciBtZGwtYnV0dG9uIG1kbC1qcy1idXR0b24gbWRsLWJ1dHRvbi0tZmFiIG1kbC1idXR0b24tLW1pbmktZmFiIG1kbC1idXR0b24tLWNvbG9yZWQiPgo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
