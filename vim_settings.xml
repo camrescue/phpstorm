@@ -24,9 +24,6 @@
         <mark key="." line="141" column="120" />
         <mark key="^" line="141" column="120" />
       </file>
-      <file name="/a.dummy" timestamp="1464217290797">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/Gruntfile.js" timestamp="1464031037790">
         <mark key="'" line="71" column="0" />
         <mark key="[" line="61" column="17" />
@@ -343,8 +340,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBteVNjb3BlLAo=</text>
+      <register name="&quot;" type="4">
+        <text>nextQuestio</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -398,7 +395,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>API</text>
+        <text>nextQuestio</text>
       </register>
       <register name="/" type="4">
         <text>state</text>
@@ -406,35 +403,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coc2V0dGluZ3Muc2NvcGUpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBteVNjb3BlLAo=</text>
+      <register name="1" type="4">
+        <text>nextQuestio</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBteVNjb3BlLAo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgLy8gU2NvcGUgd2l0aCB2aWRlbwo=</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>API</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>api</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>myScope</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2cobXlTY29wZSk7Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>(</text>
-      </register>
       <register name="8" type="4">
-        <text>myScope</text>
+        <text>(</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="4">
-        <text>scope</text>
+        <text>myScope</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
