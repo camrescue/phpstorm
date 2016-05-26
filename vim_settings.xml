@@ -31,6 +31,7 @@
         <mark key="." line="61" column="17" />
         <mark key="^" line="61" column="17" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/variables.less" timestamp="1464297612741" />
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/partials/quiz-result.php" timestamp="1464203446239">
         <mark key="[" line="11" column="61" />
         <mark key="]" line="11" column="66" />
@@ -44,12 +45,12 @@
         <mark key="." line="303" column="37" />
         <mark key="^" line="303" column="37" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" timestamp="1464295268867">
-        <mark key="'" line="226" column="4" />
-        <mark key="[" line="205" column="36" />
-        <mark key="]" line="208" column="2" />
-        <mark key="." line="208" column="2" />
-        <mark key="^" line="208" column="2" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" timestamp="1464297779648">
+        <mark key="'" line="12" column="21" />
+        <mark key="[" line="125" column="19" />
+        <mark key="]" line="125" column="20" />
+        <mark key="." line="125" column="20" />
+        <mark key="^" line="125" column="23" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/views/project/view.php" timestamp="1463443212663">
         <mark key="'" line="104" column="69" />
@@ -220,12 +221,12 @@
         <mark key="." line="186" column="59" />
         <mark key="^" line="186" column="59" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/partials/quiz-question.php" timestamp="1464208926556">
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/partials/quiz-question.php" timestamp="1464297386575">
         <mark key="'" line="0" column="49" />
-        <mark key="[" line="0" column="66" />
-        <mark key="]" line="0" column="75" />
-        <mark key="^" line="0" column="75" />
-        <mark key="." line="0" column="75" />
+        <mark key="[" line="5" column="36" />
+        <mark key="]" line="5" column="57" />
+        <mark key="^" line="5" column="57" />
+        <mark key="." line="5" column="57" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/partials/quiz-answers.php" timestamp="1464288795259">
         <mark key="[" line="8" column="36" />
@@ -235,12 +236,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="88" column="20" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
-      <jump line="157" column="21" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
-      <jump line="46" column="49" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/emoji-challenge.php" />
-      <jump line="59" column="49" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/emoji-challenge.php" />
-      <jump line="73" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/emoji-challenge.php" />
-      <jump line="18" column="33" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/emoji-challenge.php" />
       <jump line="115" column="25" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/routes.js" />
       <jump line="110" column="29" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
       <jump line="108" column="27" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
@@ -322,7 +317,6 @@
       <jump line="110" column="21" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
       <jump line="16" column="22" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
       <jump line="102" column="3" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
-      <jump line="12" column="31" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
       <jump line="96" column="4" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
       <jump line="10" column="10" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
       <jump line="92" column="15" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
@@ -332,16 +326,23 @@
       <jump line="101" column="3" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
       <jump line="204" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
       <jump line="241" column="7" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
-      <jump line="234" column="16" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
       <jump line="122" column="11" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
       <jump line="226" column="4" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
+      <jump line="222" column="29" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
+      <jump line="265" column="6" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
+      <jump line="260" column="8" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
+      <jump line="172" column="12" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
+      <jump line="213" column="5" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
+      <jump line="133" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
+      <jump line="234" column="8" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
+      <jump line="12" column="21" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>sm</text>
+        <text>-</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -395,52 +396,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>sm</text>
+        <text>-</text>
       </register>
       <register name="/" type="4">
-        <text>absolute</text>
+        <text>title</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QG1lZGlhIChtaW4td2lkdGg6IEBzY3JlZW4tc20tbWluKSB7Cg==</text>
+        <text encoding="base64">ICAgIGNvbG9yOiBAYnJhbmQtcHVycGxlOwo=</text>
       </register>
       <register name="1" type="4">
-        <text>sm</text>
+        <text>-</text>
       </register>
       <register name="2" type="4">
-        <text>max-width: inherit;</text>
+        <text>light</text>
       </register>
       <register name="3" type="4">
-        <text>none</text>
+        <text>-dark-purple;</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIG1heC13aWR0aDogMTAwJTsK</text>
+      <register name="4" type="4">
+        <text>brand</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAK</text>
+        <text encoding="base64">ICAK</text>
       </register>
-      <register name="6" type="4">
-        <text />
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGNvbG9yOiBAYnJhbmQtcHVycGxlOwo=</text>
       </register>
-      <register name="7" type="4">
-        <text>none</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICBoMwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIG1heC13aWR0aDogMTAwJTsK</text>
+      <register name="8" type="4">
+        <text>ng-</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgbWFyZ2luLXRvcDogMDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>absolute</last-search>
+      <last-search>title</last-search>
       <last-offset />
-      <last-pattern>absolute</last-pattern>
+      <last-pattern>title</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxhcGlWYWx1ZXNFbmFibGVkXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -448,10 +449,6 @@
     </search>
     <history>
       <history-search>
-        <entry>question</entry>
-        <entry encoding="base64">XDxwYW5lbFw+</entry>
-        <entry encoding="base64">XDxoM1w+</entry>
-        <entry>h3</entry>
         <entry>fade</entry>
         <entry encoding="base64">XDxvcGVuVmlkZW9cPg==</entry>
         <entry encoding="base64">XDxzZXR0aW5nc1w+</entry>
@@ -468,6 +465,10 @@
         <entry>image</entry>
         <entry encoding="base64">XDxpbWFnZVw+</entry>
         <entry>absolute</entry>
+        <entry>margin-top</entry>
+        <entry>answer-panel</entry>
+        <entry>h2</entry>
+        <entry>title</entry>
       </history-search>
       <history-cmd>
         <entry>:w</entry>
