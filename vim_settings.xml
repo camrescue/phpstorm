@@ -24,6 +24,9 @@
         <mark key="." line="141" column="120" />
         <mark key="^" line="141" column="120" />
       </file>
+      <file name="/a.dummy" timestamp="1464299544876">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/Gruntfile.js" timestamp="1464031037790">
         <mark key="'" line="71" column="0" />
         <mark key="[" line="61" column="17" />
@@ -76,11 +79,6 @@
         <mark key="." line="83" column="0" />
         <mark key="^" line="83" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/tobacco-affects-landing.php" timestamp="1463953613288">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Sites/Rescue/survey-admin/public/js/app/tracker.js" timestamp="1463766912950">
         <mark key="'" line="283" column="43" />
         <mark key="[" line="283" column="13" />
@@ -99,11 +97,6 @@
         <mark key="]" line="38" column="191" />
         <mark key="^" line="38" column="191" />
         <mark key="." line="38" column="191" />
-      </file>
-      <file name="$USER_HOME$/Sites/Rescue/surveys/app/Http/Controllers/CountryLifeVTController.php" timestamp="1464025371539">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="8" />
-        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/root.ctrl.js" timestamp="1463944219979">
         <mark key="'" line="0" column="115" />
@@ -143,6 +136,9 @@
         <mark key="^" line="3" column="7" />
         <mark key="." line="3" column="7" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/tobacco-affects.php" timestamp="1464299551953">
+        <mark key="'" line="57" column="43" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/sass/_custom.scss" timestamp="1463422796558">
         <mark key="'" line="2323" column="4" />
         <mark key="[" line="2443" column="16" />
@@ -163,8 +159,9 @@
         <mark key="." line="40" column="26" />
         <mark key="^" line="40" column="26" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/routes.js" timestamp="1464127702960">
-        <mark key="'" line="115" column="25" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/facts-instances.less" timestamp="1464299905122" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/routes.js" timestamp="1464300138698">
+        <mark key="'" line="29" column="22" />
         <mark key="[" line="110" column="0" />
         <mark key="]" line="110" column="0" />
         <mark key="." line="110" column="0" />
@@ -174,11 +171,6 @@
         <mark key="]" line="1" column="37" />
         <mark key="." line="1" column="37" />
         <mark key="^" line="1" column="37" />
-      </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/filters/raw-html.js" timestamp="1464132289378">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/helpers/image_helper.php" timestamp="1463431429098">
         <mark key="'" line="195" column="72" />
@@ -236,10 +228,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="115" column="25" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/routes.js" />
-      <jump line="110" column="29" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
-      <jump line="108" column="27" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
-      <jump line="13" column="17" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
       <jump line="14" column="22" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/drupal-api/api/emoji-quiz.json" />
       <jump line="12" column="7" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/drupal-api/api/emoji-quiz.json" />
       <jump line="23" column="16" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/drupal-api/api/emoji-quiz.json" />
@@ -336,6 +324,10 @@
       <jump line="133" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
       <jump line="234" column="8" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
       <jump line="12" column="21" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
+      <jump line="45" column="44" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/tobacco-affects.php" />
+      <jump line="56" column="72" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/tobacco-affects.php" />
+      <jump line="57" column="43" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/tobacco-affects.php" />
+      <jump line="29" column="22" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/routes.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -399,7 +391,7 @@
         <text>-</text>
       </register>
       <register name="/" type="4">
-        <text>title</text>
+        <text>why</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGNvbG9yOiBAYnJhbmQtcHVycGxlOwo=</text>
@@ -439,9 +431,9 @@
       </register>
     </registers>
     <search>
-      <last-search>title</last-search>
+      <last-search>why</last-search>
       <last-offset />
-      <last-pattern>title</last-pattern>
+      <last-pattern>why</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxhcGlWYWx1ZXNFbmFibGVkXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -449,7 +441,6 @@
     </search>
     <history>
       <history-search>
-        <entry>fade</entry>
         <entry encoding="base64">XDxvcGVuVmlkZW9cPg==</entry>
         <entry encoding="base64">XDxzZXR0aW5nc1w+</entry>
         <entry encoding="base64">XDxzdGF0ZVNlbGVjdFw+</entry>
@@ -469,6 +460,7 @@
         <entry>answer-panel</entry>
         <entry>h2</entry>
         <entry>title</entry>
+        <entry>why</entry>
       </history-search>
       <history-cmd>
         <entry>:w</entry>
