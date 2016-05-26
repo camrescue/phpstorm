@@ -24,7 +24,7 @@
         <mark key="." line="141" column="120" />
         <mark key="^" line="141" column="120" />
       </file>
-      <file name="/a.dummy" timestamp="1464300323586">
+      <file name="/a.dummy" timestamp="1464303510671">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/Gruntfile.js" timestamp="1464031037790">
@@ -48,12 +48,12 @@
         <mark key="." line="303" column="37" />
         <mark key="^" line="303" column="37" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" timestamp="1464302138561">
-        <mark key="'" line="67" column="14" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="8" column="2" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" timestamp="1464303696157">
+        <mark key="'" line="75" column="14" />
+        <mark key="[" line="14" column="23" />
+        <mark key="]" line="14" column="23" />
+        <mark key="^" line="14" column="23" />
+        <mark key="." line="14" column="23" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/views/project/view.php" timestamp="1463443212663">
         <mark key="'" line="104" column="69" />
@@ -173,11 +173,12 @@
         <mark key="." line="40" column="26" />
         <mark key="^" line="40" column="26" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/facts-instances.less" timestamp="1464299905122" />
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/emoji-challenge.php" timestamp="1464302178232">
-        <mark key="]" line="0" column="21" />
-        <mark key="^" line="0" column="21" />
-        <mark key="." line="0" column="21" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/facts-instances.less" timestamp="1464303384273" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/emoji-challenge.php" timestamp="1464303051598">
+        <mark key="[" line="0" column="28" />
+        <mark key="]" line="1" column="22" />
+        <mark key="^" line="1" column="22" />
+        <mark key="." line="1" column="22" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/routes.js" timestamp="1464300138698">
         <mark key="'" line="29" column="22" />
@@ -354,7 +355,7 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>d</text>
+        <text>/images/1-0-Our-Stor</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -408,7 +409,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>/images/1-0-Our-Stor</text>
       </register>
       <register name="/" type="4">
         <text>section</text>
@@ -417,34 +418,34 @@
         <text encoding="base64">ICAgIGNvbG9yOiBAYnJhbmQtcHVycGxlOwo=</text>
       </register>
       <register name="1" type="4">
-        <text>d</text>
+        <text>/images/1-0-Our-Stor</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>/images/1-0-Our-Story/1-0-3-Emoji/stroke.png</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IAo=</text>
+        <text encoding="base64">ICAuZW1vamktaW1hZ2Utc3Ryb2tlKCdzdHJva2UucG5nJywgJ3N0cm9rZS5wbmcnLCAnc3Ryb2tlLnBuZycpOwo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
         <text />
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbi10b3A6IDA7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBtYXJnaW4tdG9wOiAyMjBweDsKCg==</text>
+      <register name="7" type="4">
+        <text>}</text>
       </register>
       <register name="8" type="4">
-        <text>2BFED2</text>
+        <text>@{strokeImage</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
-      <register name="9" type="4">
-        <text>#</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
