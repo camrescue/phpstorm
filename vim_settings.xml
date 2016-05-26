@@ -44,8 +44,8 @@
         <mark key="." line="303" column="37" />
         <mark key="^" line="303" column="37" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" timestamp="1464290857090">
-        <mark key="'" line="122" column="11" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" timestamp="1464295268867">
+        <mark key="'" line="226" column="4" />
         <mark key="[" line="205" column="36" />
         <mark key="]" line="208" column="2" />
         <mark key="." line="208" column="2" />
@@ -235,7 +235,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="31" column="39" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/emoji-challenge.php" />
       <jump line="88" column="20" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
       <jump line="157" column="21" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
       <jump line="46" column="49" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/emoji-challenge.php" />
@@ -335,6 +334,7 @@
       <jump line="241" column="7" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
       <jump line="234" column="16" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
       <jump line="122" column="11" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
+      <jump line="226" column="4" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -398,7 +398,7 @@
         <text>sm</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpbWFnZVw+</text>
+        <text>absolute</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">QG1lZGlhIChtaW4td2lkdGg6IEBzY3JlZW4tc20tbWluKSB7Cg==</text>
@@ -438,17 +438,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpbWFnZVw+</last-search>
+      <last-search>absolute</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpbWFnZVw+</last-pattern>
+      <last-pattern>absolute</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxhcGlWYWx1ZXNFbmFibGVkXD4=</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb250ZW50XD4=</entry>
         <entry>question</entry>
         <entry encoding="base64">XDxwYW5lbFw+</entry>
         <entry encoding="base64">XDxoM1w+</entry>
@@ -468,6 +467,7 @@
         <entry>headline</entry>
         <entry>image</entry>
         <entry encoding="base64">XDxpbWFnZVw+</entry>
+        <entry>absolute</entry>
       </history-search>
       <history-cmd>
         <entry>:w</entry>
