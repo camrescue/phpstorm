@@ -16,12 +16,11 @@
         <mark key="." line="303" column="37" />
         <mark key="^" line="303" column="37" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" timestamp="1464369387820">
-        <mark key="'" line="132" column="6" />
-        <mark key="[" line="215" column="2" />
-        <mark key="]" line="215" column="2" />
-        <mark key="." line="215" column="2" />
-        <mark key="^" line="215" column="2" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" timestamp="1464370932870">
+        <mark key="'" line="212" column="28" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/PathClass.js" timestamp="1464301134527">
         <mark key="'" line="17" column="20" />
@@ -269,7 +268,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="13" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/emoji-challenge.php" />
       <jump line="88" column="22" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
       <jump line="39" column="4" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
       <jump line="6" column="3" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
@@ -369,13 +367,14 @@
       <jump line="70" column="6" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
       <jump line="108" column="8" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
       <jump line="132" column="6" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
+      <jump line="207" column="28" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbi1sZWZ0OiBhdXRvOwogICAgbWFyZ2luLXJpZ2h0OiBhdXRvOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -438,34 +437,34 @@
         <text encoding="base64">ICAgIG1hcmdpbi1sZWZ0OiBhdXRvOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbi1sZWZ0OiBhdXRvOwogICAgbWFyZ2luLXJpZ2h0OiBhdXRvOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIG1hcmdpbi1sZWZ0OiBhdXRvOwogICAgbWFyZ2luLXJpZ2h0OiBhdXRvOwo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICB9Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>quiz-</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>10</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIG92ZXJmbG93OiBoaWRkZW47Cg==</text>
-      </register>
-      <register name="7" type="4">
-        <text>8</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">ICogLjg7</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="4">
-        <text>left</text>
+        <text>8</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
