@@ -195,12 +195,12 @@
         <mark key="." line="81" column="56" />
         <mark key="^" line="81" column="56" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/drupal-api/api/emoji-challenge.json" timestamp="1464403089495">
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/drupal-api/api/emoji-challenge.json" timestamp="1464457631124">
         <mark key="'" line="175" column="7" />
-        <mark key="[" line="6" column="34" />
-        <mark key="]" line="6" column="39" />
-        <mark key="." line="6" column="39" />
-        <mark key="^" line="6" column="39" />
+        <mark key="[" line="177" column="17" />
+        <mark key="]" line="177" column="24" />
+        <mark key="." line="177" column="24" />
+        <mark key="^" line="177" column="24" />
       </file>
       <file name="/Dummy.txt" timestamp="1464393308429">
         <mark key="[" line="0" column="0" />
@@ -382,7 +382,7 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>700px;</text>
+        <text>headline</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -436,7 +436,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>700px;</text>
+        <text>headline</text>
       </register>
       <register name="/" type="4">
         <text>show-answer</text>
@@ -445,34 +445,34 @@
         <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>700px;</text>
+        <text>headline</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>headline</text>
       </register>
       <register name="3" type="4">
+        <text>700px;</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="4">
         <text>``</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text encoding="base64">e3F1ZXN0aW9uLnRleHQgfCByYXdIdG1sIH19PC9wPg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="6" type="4">
-        <text>span</text>
-      </register>
-      <register name="7" type="4">
-        <text>span</text>
-      </register>
       <register name="8" type="4">
-        <text>0</text>
+        <text>span</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="4">
-        <text>0</text>
+        <text>span</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
