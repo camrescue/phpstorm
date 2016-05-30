@@ -45,7 +45,7 @@
         <mark key="^" line="38" column="191" />
         <mark key="." line="38" column="191" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/partials/home-item.php" timestamp="1464199754679">
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/partials/home-item.php" timestamp="1464635895693">
         <mark key="'" line="31" column="29" />
         <mark key="[" line="31" column="29" />
         <mark key="]" line="31" column="29" />
@@ -139,6 +139,11 @@
         <mark key="^" line="12" column="31" />
         <mark key="." line="12" column="31" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/config/config.php" timestamp="1464635407528">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="14" column="0" />
+        <mark key="." line="14" column="0" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/views/project/view.php" timestamp="1463443212663">
         <mark key="'" line="104" column="69" />
         <mark key="[" line="117" column="0" />
@@ -192,7 +197,7 @@
         <mark key="." line="362" column="24" />
         <mark key="^" line="362" column="24" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" timestamp="1464624498502">
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" timestamp="1464636445737">
         <mark key="'" line="47" column="21" />
         <mark key="[" line="145" column="56" />
         <mark key="]" line="145" column="63" />
@@ -205,12 +210,12 @@
         <mark key="^" line="21" column="18" />
         <mark key="." line="21" column="18" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/drupal-api/api/emoji-challenge.json" timestamp="1464624403310">
-        <mark key="'" line="10" column="6" />
-        <mark key="[" line="158" column="15" />
-        <mark key="]" line="158" column="22" />
-        <mark key="." line="158" column="22" />
-        <mark key="^" line="158" column="22" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/drupal-api/api/emoji-challenge.json" timestamp="1464636107734">
+        <mark key="'" line="13" column="6" />
+        <mark key="[" line="9" column="31" />
+        <mark key="]" line="9" column="31" />
+        <mark key="." line="9" column="31" />
+        <mark key="^" line="9" column="31" />
       </file>
       <file name="/Dummy.txt" timestamp="1464393308429">
         <mark key="[" line="0" column="0" />
@@ -222,11 +227,11 @@
         <mark key="." line="217" column="13" />
         <mark key="^" line="217" column="13" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/partials/quiz-splash.php" timestamp="1464623740382">
-        <mark key="[" line="4" column="42" />
-        <mark key="]" line="4" column="54" />
-        <mark key="." line="4" column="54" />
-        <mark key="^" line="4" column="54" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/partials/quiz-splash.php" timestamp="1464635949583">
+        <mark key="[" line="12" column="32" />
+        <mark key="]" line="12" column="45" />
+        <mark key="." line="12" column="45" />
+        <mark key="^" line="12" column="45" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/sass/_custom.scss" timestamp="1463422796558">
         <mark key="'" line="2323" column="4" />
@@ -254,6 +259,12 @@
         <mark key="]" line="242" column="115" />
         <mark key="." line="242" column="115" />
         <mark key="^" line="243" column="38" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/cta-button.js" timestamp="1464636456414">
+        <mark key="[" line="1" column="12" />
+        <mark key="]" line="2" column="59" />
+        <mark key="." line="2" column="59" />
+        <mark key="^" line="2" column="59" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/drupal-api/api/emoji-challenge-new.json" timestamp="1464545393948">
         <mark key="'" line="111" column="10" />
@@ -290,6 +301,7 @@
         <mark key="." line="26" column="56" />
         <mark key="^" line="26" column="56" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/ourStory.php" timestamp="1464635707411" />
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/partials/quiz-answers.php" timestamp="1464621620845">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
@@ -404,7 +416,7 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>splash</text>
+        <text>emojiQuestion</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -458,7 +470,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>splash</text>
+        <text>emojiQuestion</text>
       </register>
       <register name="/" type="4">
         <text>quiz-splash</text>
@@ -467,34 +479,34 @@
         <text encoding="base64">ICAgIHF1aXotc3BsYXNoIHsK</text>
       </register>
       <register name="1" type="4">
-        <text>splash</text>
+        <text>emojiQuestion</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IHs=</text>
+        <text>;</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IHs=</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">ICA=</text>
-      </register>
-      <register name="5" type="4">
-        <text>splash</text>
-      </register>
-      <register name="6" type="4">
-        <text>splash</text>
-      </register>
-      <register name="7" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbmFseXRpY3MtbGFiZWw9Int7aXRlbS50eXBlID09ICdwb2xsJyA/ICdwb2xsJyA6IGl0ZW0uY3RhLmxpbmt9fSIgY2xhc3M9ImN0YSBidG4iCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbmFseXRpY3MtZXZlbnQ9Int7KGlzTWFpblBhZ2UgPyAnaG9tZS0nIDogJ3N0b3J5LScpICsgKGl0ZW0udGl0bGUgfCBhbmFseXRpY1RhZ3MpfX0iCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPC9idXR0b24+Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpIGNsYXNzPSJmYSBmYS1jaGV2cm9uLWNpcmNsZS11cCI+PC9pPiBTb3VyY2VzCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkYXRhLXRvZ2dsZT0icG9wb3ZlciIgZGF0YS1wbGFjZW1lbnQ9InRvcCIgZGF0YS1jb250ZW50PSJ7e3BhZ2Uuc291cmNlc319Ij4K</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
-      <register name="9" type="4">
-        <text>8</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGJ1dHRvbiB0eXBlPSJidXR0b24iIG5nLWlmPSJxdWVzdGlvbi5uZXh0IiBuZy1jbGljaz0ibmV4dCgpIiBjbGFzcz0iYnRuIGJ0bi1kZWZhdWx0IGJ0bi1zb3VyY2VzIiBkYXRhLWNvbnRhaW5lcj0iYm9keSIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
