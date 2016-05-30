@@ -12,12 +12,12 @@
         <mark key="^" line="2" column="32" />
         <mark key="." line="2" column="28" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" timestamp="1464563318740">
-        <mark key="'" line="25" column="17" />
-        <mark key="[" line="43" column="8" />
-        <mark key="]" line="43" column="8" />
-        <mark key="." line="43" column="8" />
-        <mark key="^" line="43" column="7" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" timestamp="1464569759294">
+        <mark key="'" line="406" column="16" />
+        <mark key="[" line="32" column="14" />
+        <mark key="]" line="34" column="23" />
+        <mark key="." line="34" column="23" />
+        <mark key="^" line="34" column="23" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/main.js" timestamp="1464215053027">
         <mark key="[" line="38" column="179" />
@@ -144,8 +144,8 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="0" column="52" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/partials/quiz-question.php" timestamp="1464568231812">
-        <mark key="'" line="51" column="50" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/partials/quiz-question.php" timestamp="1464569188887">
+        <mark key="'" line="8" column="29" />
         <mark key="[" line="21" column="53" />
         <mark key="]" line="21" column="53" />
         <mark key="^" line="22" column="81" />
@@ -159,9 +159,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="427" column="5" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
-      <jump line="18" column="3" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
-      <jump line="43" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
       <jump line="168" column="3" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
       <jump line="217" column="25" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
       <jump line="479" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
@@ -215,7 +212,6 @@
       <jump line="441" column="16" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
       <jump line="491" column="9" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
       <jump line="555" column="20" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
-      <jump line="0" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
       <jump line="10" column="55" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/Gruntfile.js" />
       <jump line="108" column="36" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/Gruntfile.js" />
       <jump line="25" column="17" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
@@ -259,13 +255,17 @@
       <jump line="148" column="16" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/drupal-api/api/emoji-challenge.json" />
       <jump line="157" column="12" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/drupal-api/api/emoji-challenge.json" />
       <jump line="13" column="30" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
+      <jump line="8" column="29" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/partials/quiz-question.php" />
+      <jump line="47" column="15" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
+      <jump line="0" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
+      <jump line="403" column="16" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>age</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -319,52 +319,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>age</text>
       </register>
       <register name="/" type="4">
-        <text>Ready</text>
+        <text>min-height</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC5kaXJlY3RpdmUoJ2Vtb2ppUXVlc3Rpb24nLCBmdW5jdGlvbiAoY29uZmlnKSB7CiAgICAgICAgcmV0dXJuIHsKICAgICAgICAgICAgdGVtcGxhdGVVcmw6IGNvbmZpZy5wYXRocy5wYXJ0aWFscyArICcvZW1vamktcXVlc3Rpb24nCiAgICAgICAgfTsKICAgIH0pCg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+        <text>age</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="4">
-        <text>ng-if=&quot;quizReady&quot;</text>
+        <text>,</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAucmVzdWx0LWltZyB7Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>ng-cloak</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGhlaWdodDogMjAwcHg7CiAgICBtYXJnaW4tYm90dG9tOiAyMHB4Owo=</text>
       </register>
       <register name="6" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="7" type="4">
-        <text>ng-if=&quot;quizReady&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IA==</text>
+        <text>ng-if=&quot;quizReady&quot;</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="4">
-        <text>ng-if=&quot;&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Ready</last-search>
+      <last-search>min-height</last-search>
       <last-offset />
-      <last-pattern>Ready</last-pattern>
+      <last-pattern>min-height</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxhcGlWYWx1ZXNFbmFibGVkXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -372,7 +372,6 @@
     </search>
     <history>
       <history-search>
-        <entry>700px</entry>
         <entry>show-answer</entry>
         <entry encoding="base64">XDxvcHRpb25zXD4=</entry>
         <entry encoding="base64">XDx0ZXh0XD4=</entry>
@@ -392,6 +391,7 @@
         <entry>content</entry>
         <entry encoding="base64">XDxjb250ZW50XD4=</entry>
         <entry>Ready</entry>
+        <entry>min-height</entry>
       </history-search>
       <history-cmd>
         <entry>249</entry>
