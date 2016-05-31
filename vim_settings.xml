@@ -105,12 +105,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/partials/quiz-section.php" timestamp="1464647059734">
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/partials/quiz-section.php" timestamp="1464652626600">
         <mark key="'" line="4" column="44" />
-        <mark key="[" line="7" column="46" />
-        <mark key="]" line="7" column="51" />
-        <mark key="." line="7" column="51" />
-        <mark key="^" line="7" column="51" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/main.less" timestamp="1464026382687">
         <mark key="[" line="99" column="15" />
@@ -256,7 +255,7 @@
         <mark key="." line="217" column="13" />
         <mark key="^" line="217" column="13" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/partials/quiz-splash.php" timestamp="1464647719313">
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/partials/quiz-splash.php" timestamp="1464652478579">
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
@@ -333,11 +332,11 @@
         <mark key="^" line="0" column="52" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/partials/cta-contents.php" timestamp="1464637052944" />
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/partials/quiz-question.php" timestamp="1464647608743">
-        <mark key="[" line="18" column="87" />
-        <mark key="]" line="18" column="87" />
-        <mark key="." line="18" column="87" />
-        <mark key="^" line="18" column="93" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/partials/quiz-question.php" timestamp="1464652609063">
+        <mark key="[" line="7" column="62" />
+        <mark key="]" line="7" column="69" />
+        <mark key="." line="7" column="69" />
+        <mark key="^" line="7" column="69" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/ourStory.php" timestamp="1464635707411" />
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/partials/quiz-answers.php" timestamp="1464621620845">
@@ -454,7 +453,7 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CjxjdGEtYnV0dG9uIG5nLWlmPSJzZWN0aW9uLmN0YSIgY3RhPSJzZWN0aW9uLmN0YSIgY2xpY2s9Im5leHQoKSI+PC9jdGEtYnV0dG9uPgo=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -508,7 +507,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>answer</text>
       </register>
       <register name="/" type="4">
         <text>quiz-splash</text>
@@ -517,34 +516,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIHNlbGVjdEFuc3dlcjogJyYnLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">CjxjdGEtYnV0dG9uIG5nLWlmPSJzZWN0aW9uLmN0YSIgY3RhPSJzZWN0aW9uLmN0YSIgY2xpY2s9Im5leHQoKSI+PC9jdGEtYnV0dG9uPgo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgfQo=</text>
+      <register name="2" type="4">
+        <text>answer</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgCg==</text>
+      <register name="3" type="4">
+        <text>question</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIH0KICAgIHF1aXotY29tcGxldGUgewo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="5" type="4">
-        <text>,</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgfQo=</text>
       </register>
-      <register name="6" type="4">
-        <text>splash</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxxdWl6LXNwbGFzaCBuZy1zaG93PSJwYWdlLnR5cGU9PSdzcGxhc2gnIiAgbmctY2xvYWs+PC9xdWl6LXNwbGFzaD4K</text>
+        <text encoding="base64">ICAgIH0KICAgIHF1aXotY29tcGxldGUgewo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxxdWl6LWNvbXBsZXRlIG5nLXNob3c9InBhZ2UudHlwZT09J2NvbXBsZXRlJyIgbmctY2xvYWs+PC9xdWl6LWNvbXBsZXRlPgo=</text>
+      <register name="8" type="4">
+        <text>,</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="4">
-        <text encoding="base64">bmctc2hvdz0icGFnZS50eXBlPT0ncXVlc3Rpb24nIiA=</text>
+        <text>splash</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
