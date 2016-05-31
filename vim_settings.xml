@@ -353,12 +353,12 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="0" column="52" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/partials/quiz-question.php" timestamp="1464712234776">
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/partials/quiz-question.php" timestamp="1464716079736">
         <mark key="'" line="7" column="90" />
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="74" />
-        <mark key="^" line="25" column="56" />
-        <mark key="." line="19" column="0" />
+        <mark key="[" line="12" column="71" />
+        <mark key="]" line="12" column="73" />
+        <mark key="^" line="12" column="73" />
+        <mark key="." line="12" column="73" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/partials/quiz-answers.php" timestamp="1464621620845">
         <mark key="[" line="6" column="0" />
@@ -473,8 +473,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAidGl0bGUiOiAiRW1vamkgQ2hhbGxlbmdlIiwK</text>
+      <register name="&quot;" type="4">
+        <text>play</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -528,43 +528,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>play</text>
       </register>
       <register name="/" type="4">
         <text>mashup</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAic2hhcmUiOiB0cnVlCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGEgaHJlZj0iIiBjbGFzcz0ibG9nby1hcHAtc3RvcmUiPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGltZyBzcmM9Ii9pbWFnZXMvMC0wLUdsb2JhbC1FbGVtZW50cy9sb2dvLXBsYXktc3RvcmUucG5nIiBhbHQ9IiI+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvYT4K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAidGl0bGUiOiAiRW1vamkgQ2hhbGxlbmdlIiwK</text>
+      <register name="1" type="4">
+        <text>play</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAiaW50cm8iOiAiPHN0cm9uZz5ZQUFTU1MhPC9zdHJvbmc+IFRoaXMgRnJlZSBMaWZlIGhhcyBjcmVhdGVkIGN1c3RvbSBlbW9qaXMgZm9yIG91ciBjb21tdW5pdHkuIEdldCB0aGVtICBieSB0ZXN0aW5nIHlvdXIgVGhpcyBGcmVlIExpZmUga25vd2xlZGdlLiIsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAidGl0bGUiOiAiRW1vamkgQ2hhbGxlbmdlIiwK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAiaW50cm8iOiAiPHN0cm9uZz5ZQUFTU1MhPC9zdHJvbmc+IFRoaXMgRnJlZSBMaWZlIGhhcyBjcmVhdGVkIGN1c3RvbSBlbW9qaXMgZm9yIG91ciBjb21tdW5pdHkuIEdldCB0aGVtICBieSB0ZXN0aW5nIHlvdXIgVGhpcyBGcmVlIExpZmUga25vd2xlZGdlLiIsCg==</text>
       </register>
-      <register name="5" type="4">
-        <text />
-      </register>
-      <register name="6" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAK</text>
       </register>
-      <register name="8" type="4">
+      <register name="7" type="4">
         <text />
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA8c3Bhbj5tYXNodXB7e21hc2h1cC5zaGFyZS5mYWNlYm9va319PC9zcGFuPgo=</text>
+        <text encoding="base64">ICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
