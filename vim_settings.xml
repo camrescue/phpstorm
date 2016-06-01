@@ -136,8 +136,8 @@
         <mark key="." line="6" column="38" />
         <mark key="^" line="6" column="38" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" timestamp="1464798508631">
-        <mark key="'" line="22" column="17" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" timestamp="1464800363189">
+        <mark key="'" line="104" column="17" />
         <mark key="[" line="107" column="0" />
         <mark key="]" line="107" column="0" />
         <mark key="." line="107" column="0" />
@@ -212,7 +212,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="177" column="27" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/drupal-api/api/emoji-challenge.json" />
       <jump line="54" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/button.less" />
       <jump line="184" column="18" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
       <jump line="59" column="2" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
@@ -312,6 +311,7 @@
       <jump line="22" column="17" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
       <jump line="481" column="18" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
       <jump line="360" column="32" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
+      <jump line="104" column="17" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -375,7 +375,7 @@
         <text encoding="base64">ICogMS4yOw==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhZGRVc2VyQW5zd2VyXD4=</text>
+        <text encoding="base64">XDxzZWxlY3RBbnN3ZXJcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHF1aXotcXVlc3Rpb24uY29tcGxldGUsCg==</text>
@@ -415,9 +415,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhZGRVc2VyQW5zd2VyXD4=</last-search>
+      <last-search encoding="base64">XDxzZWxlY3RBbnN3ZXJcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhZGRVc2VyQW5zd2VyXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxzZWxlY3RBbnN3ZXJcPg==</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxhcGlWYWx1ZXNFbmFibGVkXD4=</last-substitute>
       <last-dir>-1</last-dir>
@@ -435,7 +435,6 @@
         <entry encoding="base64">XDxhbnN3ZXJTZXRcPg==</entry>
         <entry encoding="base64">XDx1c2VyQW5zd2Vyc1w+</entry>
         <entry encoding="base64">XDxnZXRTY29yZVw+</entry>
-        <entry encoding="base64">XDxzZWxlY3RBbnN3ZXJcPg==</entry>
         <entry encoding="base64">XDxyZW5kZXJQYWdlXD4=</entry>
         <entry>scope</entry>
         <entry>console.log</entry>
@@ -445,6 +444,7 @@
         <entry encoding="base64">XDxhbnN3ZXJTZWxlY3RcPg==</entry>
         <entry>fwefwef</entry>
         <entry encoding="base64">XDxhZGRVc2VyQW5zd2VyXD4=</entry>
+        <entry encoding="base64">XDxzZWxlY3RBbnN3ZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>98</entry>
