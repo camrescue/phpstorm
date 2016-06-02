@@ -60,9 +60,12 @@
       <file name="$USER_HOME$/Sites/Rescue/surveys/resources/assets/js/fluidSurvey.js" timestamp="1464281033012">
         <mark key="'" line="147" column="28" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" timestamp="1464825158467">
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" timestamp="1464829761943">
         <mark key="'" line="103" column="19" />
-        <mark key="[" line="151" column="49" />
+        <mark key="[" line="159" column="48" />
+        <mark key="]" line="159" column="57" />
+        <mark key="^" line="159" column="57" />
+        <mark key="." line="159" column="57" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/drupal-api/api/emoji-challenge.json" timestamp="1464824494284">
         <mark key="'" line="20" column="31" />
@@ -206,7 +209,7 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVsYXlSZW5kZXIoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -269,34 +272,34 @@
         <text encoding="base64">ICAgICAgICAgICAgbGluazogZnVuY3Rpb24gKHNjb3BlLCBlbGVtLCBhdHRycykgewogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVsYXlSZW5kZXIoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PHNjcmlwdCBzcmM9ImpzL3JpcHBsZS1jb25maWcuanMiPjwvc2NyaXB0Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVsYXlSZW5kZXIoKTsK</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">PHNjcmlwdCBzcmM9ImpzL3JpcHBsZS1jb25maWcuanMiPjwvc2NyaXB0Pgo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text />
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>)</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>(</text>
       </register>
-      <register name="7" type="4">
-        <text>ready</text>
-      </register>
       <register name="8" type="4">
-        <text>document</text>
+        <text>ready</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="9" type="4">
+        <text>document</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
