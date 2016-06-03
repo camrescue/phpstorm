@@ -119,13 +119,8 @@
         <mark key="^" line="229" column="94" />
         <mark key="." line="229" column="94" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/emoji-challenge.php" timestamp="1464968023960">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="79" />
-        <mark key="." line="7" column="0" />
-        <mark key="^" line="5" column="56" />
-      </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/ripple-button.js" timestamp="1464970500913">
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/emoji-challenge.php" timestamp="1464973013397" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/ripple-button.js" timestamp="1464973131444">
         <mark key="'" line="22" column="18" />
         <mark key="[" line="71" column="30" />
         <mark key="]" line="71" column="31" />
@@ -308,11 +303,11 @@
         <mark key="^" line="1" column="5" />
         <mark key="." line="3" column="4" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/images/0-0-Global-Elements/sprites.svg" timestamp="1464971024734">
-        <mark key="[" line="1" column="46" />
-        <mark key="]" line="1" column="46" />
-        <mark key="." line="1" column="46" />
-        <mark key="^" line="1" column="46" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/images/0-0-Global-Elements/sprites.svg" timestamp="1464972880769">
+        <mark key="[" line="1" column="52" />
+        <mark key="]" line="1" column="52" />
+        <mark key="." line="1" column="52" />
+        <mark key="^" line="1" column="52" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/root.ctrl.js" timestamp="1463944219979">
         <mark key="'" line="0" column="115" />
@@ -574,7 +569,7 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>100</text>
+        <text>2</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -628,7 +623,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>100</text>
+        <text>2</text>
       </register>
       <register name="/" type="4">
         <text>elems</text>
@@ -637,34 +632,34 @@
         <text encoding="base64">ICAgICAgICA8dGl0bGU+Q2lyY2xlIFJpcHBsZSBTaGFwZTwvdGl0bGU+Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>100</text>
+        <text>2</text>
       </register>
       <register name="2" type="4">
-        <text>100</text>
+        <text>2</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA8dGl0bGU+Q2lyY2xlIFJpcHBsZSBTaGFwZTwvdGl0bGU+CiAgICAgICAgPGRlc2M+UmlwcGxlIGFuaW1hdGlvbiBlZmZlY3Qgc3ltYm9sPC9kZXNjPgo=</text>
+      <register name="3" type="4">
+        <text>10</text>
       </register>
       <register name="4" type="4">
-        <text>ription</text>
+        <text>10</text>
       </register>
       <register name="5" type="4">
-        <text>ription</text>
+        <text>100</text>
       </register>
       <register name="6" type="4">
-        <text>Circle Ripple Shape</text>
+        <text>100</text>
       </register>
       <register name="7" type="4">
-        <text>title</text>
+        <text>10</text>
       </register>
       <register name="8" type="4">
-        <text>title</text>
+        <text>10</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
-      <register name="9" type="4">
-        <text>8</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
