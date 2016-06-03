@@ -15,12 +15,12 @@
         <mark key="." line="303" column="37" />
         <mark key="^" line="303" column="37" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" timestamp="1464937837794">
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" timestamp="1464969182763">
         <mark key="'" line="589" column="0" />
-        <mark key="[" line="24" column="21" />
-        <mark key="]" line="25" column="21" />
-        <mark key="." line="25" column="21" />
-        <mark key="^" line="25" column="21" />
+        <mark key="[" line="25" column="16" />
+        <mark key="]" line="25" column="17" />
+        <mark key="." line="25" column="17" />
+        <mark key="^" line="24" column="16" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/views/user/application/table.php" timestamp="1464892227711">
         <mark key="'" line="48" column="25" />
@@ -125,15 +125,15 @@
         <mark key="." line="7" column="0" />
         <mark key="^" line="5" column="56" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/ripple-button.js" timestamp="1464968121928">
-        <mark key="'" line="7" column="22" />
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="^" line="1" column="36" />
-        <mark key="." line="29" column="0" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/ripple-button.js" timestamp="1464970500913">
+        <mark key="'" line="22" column="18" />
+        <mark key="[" line="71" column="30" />
+        <mark key="]" line="71" column="31" />
+        <mark key="." line="71" column="31" />
+        <mark key="^" line="71" column="30" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/index.php" timestamp="1464907514937">
-        <mark key="'" line="227" column="34" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/index.php" timestamp="1464969402308">
+        <mark key="'" line="248" column="68" />
         <mark key="[" line="63" column="0" />
         <mark key="]" line="63" column="110" />
         <mark key="." line="265" column="0" />
@@ -308,6 +308,12 @@
         <mark key="^" line="1" column="5" />
         <mark key="." line="3" column="4" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/images/0-0-Global-Elements/sprites.svg" timestamp="1464971024734">
+        <mark key="[" line="1" column="46" />
+        <mark key="]" line="1" column="46" />
+        <mark key="." line="1" column="46" />
+        <mark key="^" line="1" column="46" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/root.ctrl.js" timestamp="1463944219979">
         <mark key="'" line="0" column="115" />
         <mark key="[" line="0" column="0" />
@@ -462,11 +468,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/FactAnimationVideo.js" />
-      <jump line="58" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
-      <jump line="160" column="12" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
-      <jump line="8" column="16" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
-      <jump line="44" column="32" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
       <jump line="55" column="17" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
       <jump line="104" column="17" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
       <jump line="105" column="19" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
@@ -560,15 +561,20 @@
       <jump line="52" column="28" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/third_party_js/ripple.js" />
       <jump line="66" column="12" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/ripple-button.js" />
       <jump line="3" column="27" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/ripple-button.js" />
-      <jump line="4" column="26" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/ripple-button.js" />
       <jump line="8" column="22" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/ripple-button.js" />
+      <jump line="35" column="18" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/ripple-button.js" />
+      <jump line="23" column="13" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/ripple-button.js" />
+      <jump line="4" column="17" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/ripple-button.js" />
+      <jump line="22" column="18" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/ripple-button.js" />
+      <jump line="65" column="66" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/index.php" />
+      <jump line="248" column="68" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/index.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnb2Zmc2V0VG9wIGlzOicgKyBldmVudC5vZmZzZXRUb3ApOwogICAgICAgIGNvbnNvbGUubG9nKCdvZmZzZXRMZWZ0IGlzOicgKyBldmVudC5vZmZzZXRMZWZ0KTsK</text>
+      <register name="&quot;" type="4">
+        <text>100</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -622,52 +628,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>span</text>
+        <text>100</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0YXJnZXRcPg==</text>
+        <text>elems</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHJpcHBsZS1idXR0b24+PGRpdj5IZWxsbyE8L2Rpdj48ZGl2PmhpIHRoZXJlPC9kaXY+PC9yaXBwbGUtYnV0dG9uPgo=</text>
+        <text encoding="base64">ICAgICAgICA8dGl0bGU+Q2lyY2xlIFJpcHBsZSBTaGFwZTwvdGl0bGU+Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnb2Zmc2V0VG9wIGlzOicgKyBldmVudC5vZmZzZXRUb3ApOwogICAgICAgIGNvbnNvbGUubG9nKCdvZmZzZXRMZWZ0IGlzOicgKyBldmVudC5vZmZzZXRMZWZ0KTsK</text>
+      <register name="1" type="4">
+        <text>100</text>
       </register>
       <register name="2" type="4">
-        <text>span</text>
+        <text>100</text>
       </register>
-      <register name="3" type="4">
-        <text>n</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICA8dGl0bGU+Q2lyY2xlIFJpcHBsZSBTaGFwZTwvdGl0bGU+CiAgICAgICAgPGRlc2M+UmlwcGxlIGFuaW1hdGlvbiBlZmZlY3Qgc3ltYm9sPC9kZXNjPgo=</text>
       </register>
       <register name="4" type="4">
-        <text>iv</text>
+        <text>ription</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>ription</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
+      <register name="6" type="4">
+        <text>Circle Ripple Shape</text>
       </register>
       <register name="7" type="4">
-        <text>Left</text>
+        <text>title</text>
       </register>
       <register name="8" type="4">
-        <text>offsetY</text>
+        <text>title</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="4">
-        <text>offsetY</text>
+        <text>8</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0YXJnZXRcPg==</last-search>
+      <last-search>elems</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0YXJnZXRcPg==</last-pattern>
+      <last-pattern>elems</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxhcGlWYWx1ZXNFbmFibGVkXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -675,8 +681,6 @@
     </search>
     <history>
       <history-search>
-        <entry>parent_consent</entry>
-        <entry>loadRepo</entry>
         <entry>requireRepo</entry>
         <entry>load_repo</entry>
         <entry>orWh</entry>
@@ -695,9 +699,10 @@
         <entry encoding="base64">XDxyaXBwbGVBbmltYXRpb25cPg==</entry>
         <entry encoding="base64">XDxpbml0XD4=</entry>
         <entry encoding="base64">XDx0YXJnZXRcPg==</entry>
+        <entry encoding="base64">XDxlbGVtc1w+</entry>
+        <entry>elems</entry>
       </history-search>
       <history-cmd>
-        <entry>358</entry>
         <entry>w;:w</entry>
         <entry>e</entry>
         <entry>ew</entry>
@@ -715,6 +720,7 @@
         <entry>1482</entry>
         <entry>w:w</entry>
         <entry>q</entry>
+        <entry>W</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
       </history-cmd>
