@@ -254,12 +254,12 @@
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-api/api/emoji-challenge.json" timestamp="1464899559010">
         <mark key="'" line="8" column="32" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/tester/circles/ripple.js" timestamp="1464913304638">
-        <mark key="'" line="2" column="48" />
-        <mark key="[" line="31" column="18" />
-        <mark key="]" line="31" column="22" />
-        <mark key="^" line="31" column="22" />
-        <mark key="." line="31" column="22" />
+      <file name="$USER_HOME$/Sites/Rescue/tester/circles/ripple.js" timestamp="1464922234085">
+        <mark key="'" line="61" column="17" />
+        <mark key="[" line="57" column="41" />
+        <mark key="]" line="57" column="44" />
+        <mark key="." line="57" column="44" />
+        <mark key="^" line="57" column="44" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/styles/swap.css" timestamp="1463586825399">
         <mark key="'" line="21" column="26" />
@@ -451,7 +451,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="156" column="52" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
       <jump line="472" column="26" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
       <jump line="462" column="10" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
       <jump line="154" column="9" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
@@ -551,13 +550,14 @@
       <jump line="5" column="36" filename="$USER_HOME$/Sites/Rescue/tester/circles/demo.html" />
       <jump line="1" column="8" filename="$USER_HOME$/Sites/Rescue/tester/circles/ripple.js" />
       <jump line="2" column="48" filename="$USER_HOME$/Sites/Rescue/tester/circles/ripple.js" />
+      <jump line="63" column="17" filename="$USER_HOME$/Sites/Rescue/tester/circles/ripple.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>obj</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -611,7 +611,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>obj</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxyaXBwbGVcPg==</text>
@@ -620,34 +620,34 @@
         <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coYnV0dG9ucyk7Cg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+        <text>obj</text>
       </register>
       <register name="2" type="4">
-        <text>id=&quot;js-ripple&quot;</text>
+        <text encoding="base64">ICAg</text>
       </register>
       <register name="3" type="4">
-        <text>ripple</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="4" type="4">
-        <text>j</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name="5" type="4">
-        <text>b</text>
+        <text>obj</text>
       </register>
-      <register name="6" type="4">
-        <text>o</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gICAgYnV0dG9uLmFkZEV2ZW50TGlzdGVuZXIoJ2NsaWNrJywgZnVuY3Rpb24gKGV2ZW50KSB7Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>-</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>ripple</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="4">
-        <text>plle</text>
+        <text />
       </register>
       <register name=":" type="4">
         <text>w</text>
