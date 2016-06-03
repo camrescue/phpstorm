@@ -119,18 +119,18 @@
         <mark key="^" line="229" column="94" />
         <mark key="." line="229" column="94" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/emoji-challenge.php" timestamp="1464940149650">
-        <mark key="[" line="5" column="44" />
-        <mark key="]" line="5" column="56" />
-        <mark key="." line="5" column="56" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/emoji-challenge.php" timestamp="1464968023960">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="79" />
+        <mark key="." line="7" column="0" />
         <mark key="^" line="5" column="56" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/ripple-button.js" timestamp="1464940050005">
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/ripple-button.js" timestamp="1464968121928">
         <mark key="'" line="7" column="22" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="^" line="19" column="41" />
-        <mark key="." line="24" column="0" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="^" line="1" column="36" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/index.php" timestamp="1464907514937">
         <mark key="'" line="227" column="34" />
@@ -567,8 +567,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>span</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnb2Zmc2V0VG9wIGlzOicgKyBldmVudC5vZmZzZXRUb3ApOwogICAgICAgIGNvbnNvbGUubG9nKCdvZmZzZXRMZWZ0IGlzOicgKyBldmVudC5vZmZzZXRMZWZ0KTsK</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -628,28 +628,28 @@
         <text encoding="base64">XDx0YXJnZXRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgeCA9IHggKyBldmVudC50YXJnZXQub2Zmc2V0TGVmdDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHJpcHBsZS1idXR0b24+PGRpdj5IZWxsbyE8L2Rpdj48ZGl2PmhpIHRoZXJlPC9kaXY+PC9yaXBwbGUtYnV0dG9uPgo=</text>
       </register>
-      <register name="1" type="4">
-        <text>span</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZygnb2Zmc2V0VG9wIGlzOicgKyBldmVudC5vZmZzZXRUb3ApOwogICAgICAgIGNvbnNvbGUubG9nKCdvZmZzZXRMZWZ0IGlzOicgKyBldmVudC5vZmZzZXRMZWZ0KTsK</text>
       </register>
       <register name="2" type="4">
-        <text>n</text>
+        <text>span</text>
       </register>
       <register name="3" type="4">
+        <text>n</text>
+      </register>
+      <register name="4" type="4">
         <text>iv</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
       </register>
-      <register name="6" type="4">
-        <text>Left</text>
-      </register>
       <register name="7" type="4">
-        <text>offsetY</text>
+        <text>Left</text>
       </register>
       <register name="8" type="4">
         <text>offsetY</text>
@@ -658,7 +658,7 @@
         <text />
       </register>
       <register name="9" type="4">
-        <text>Y</text>
+        <text>offsetY</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
