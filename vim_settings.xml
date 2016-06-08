@@ -14,12 +14,12 @@
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/config/config.sample.php" timestamp="1465335949302" />
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" timestamp="1465367422696">
-        <mark key="'" line="541" column="17" />
-        <mark key="[" line="138" column="21" />
-        <mark key="]" line="138" column="22" />
-        <mark key="^" line="138" column="21" />
-        <mark key="." line="138" column="22" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" timestamp="1465370189203">
+        <mark key="'" line="547" column="17" />
+        <mark key="[" line="144" column="0" />
+        <mark key="]" line="144" column="0" />
+        <mark key="^" line="143" column="25" />
+        <mark key="." line="144" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/views/user/application/table.php" timestamp="1464892227711">
         <mark key="'" line="48" column="25" />
@@ -258,8 +258,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -313,7 +313,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>.fadeIn</text>
       </register>
       <register name="/" type="4">
         <text>resultsEnabled</text>
@@ -321,35 +321,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>&quot;</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.fadeIn</text>
       </register>
       <register name="4" type="4">
-        <text>fade ng-hide</text>
+        <text>animated fadeIn</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+        <text>e</text>
       </register>
       <register name="6" type="4">
-        <text>fade</text>
+        <text>&quot;</text>
       </register>
       <register name="7" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="8" type="4">
-        <text>animated flipInX</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="4">
-        <text>slideInUp</text>
+        <text>fade ng-hide</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
