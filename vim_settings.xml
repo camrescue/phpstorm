@@ -160,12 +160,12 @@
       <file name="$USER_HOME$/Sites/Rescue/surveys/resources/assets/js/fluidSurvey.js" timestamp="1464281033012">
         <mark key="'" line="147" column="28" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" timestamp="1465493793527">
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" timestamp="1465494834863">
         <mark key="'" line="56" column="17" />
-        <mark key="[" line="226" column="25" />
-        <mark key="]" line="226" column="29" />
-        <mark key="^" line="226" column="29" />
-        <mark key="." line="226" column="29" />
+        <mark key="[" line="225" column="35" />
+        <mark key="]" line="225" column="35" />
+        <mark key="^" line="225" column="35" />
+        <mark key="." line="225" column="35" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/drupal-api/api/emoji-challenge.json" timestamp="1465423849535">
         <mark key="'" line="12" column="3" />
@@ -339,7 +339,7 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>height</text>
+        <text>1</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -393,7 +393,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>height</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkZWxheVBhZ2VSZWFkeVw+</text>
@@ -402,34 +402,34 @@
         <text encoding="base64">ICAgICAgICAgICAgc2hhcmU6ICc9JywK</text>
       </register>
       <register name="1" type="4">
-        <text>height</text>
+        <text>1</text>
       </register>
       <register name="2" type="4">
-        <text>200</text>
+        <text>0</text>
       </register>
       <register name="3" type="4">
-        <text>0</text>
+        <text>1</text>
       </register>
       <register name="4" type="4">
         <text>height</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhZGRDbGFzczogJ21hcm9vbi1zZXR0aW5nJywK</text>
+      <register name="5" type="4">
+        <text>200</text>
       </register>
       <register name="6" type="4">
-        <text>myModule</text>
+        <text>0</text>
       </register>
       <register name="7" type="4">
-        <text>;</text>
+        <text>height</text>
       </register>
-      <register name="8" type="4">
-        <text>0</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhZGRDbGFzczogJ21hcm9vbi1zZXR0aW5nJywK</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="4">
-        <text>0</text>
+        <text>myModule</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
