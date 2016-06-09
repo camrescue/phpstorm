@@ -14,12 +14,12 @@
         <mark key="^" line="5" column="73" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/config/config.sample.php" timestamp="1465335949302" />
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" timestamp="1465508670344">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="541" column="0" />
-        <mark key="]" line="541" column="0" />
-        <mark key="^" line="542" column="15" />
-        <mark key="." line="541" column="0" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" timestamp="1465512581613">
+        <mark key="'" line="140" column="20" />
+        <mark key="[" line="698" column="36" />
+        <mark key="]" line="701" column="21" />
+        <mark key="^" line="701" column="21" />
+        <mark key="." line="701" column="21" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/partials/poll.php" timestamp="1465334954724">
         <mark key="'" line="53" column="43" />
@@ -62,12 +62,12 @@
         <mark key="^" line="229" column="94" />
         <mark key="." line="229" column="94" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/emoji-challenge.php" timestamp="1465510062362">
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/emoji-challenge.php" timestamp="1465512532625">
         <mark key="'" line="26" column="43" />
-        <mark key="[" line="3" column="62" />
-        <mark key="]" line="3" column="62" />
-        <mark key="." line="3" column="62" />
-        <mark key="^" line="3" column="63" />
+        <mark key="[" line="2" column="80" />
+        <mark key="]" line="7" column="33" />
+        <mark key="." line="7" column="33" />
+        <mark key="^" line="7" column="33" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/index.php" timestamp="1465503435964">
         <mark key="'" line="141" column="77" />
@@ -165,7 +165,7 @@
       <file name="$USER_HOME$/Sites/Rescue/surveys/resources/assets/js/fluidSurvey.js" timestamp="1464281033012">
         <mark key="'" line="147" column="28" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" timestamp="1465509882272">
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" timestamp="1465511987668">
         <mark key="'" line="148" column="0" />
         <mark key="[" line="222" column="0" />
         <mark key="]" line="222" column="0" />
@@ -237,7 +237,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="564" column="17" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
       <jump line="94" column="12" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
       <jump line="135" column="12" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
       <jump line="139" column="37" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
@@ -337,13 +336,14 @@
       <jump line="158" column="25" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
       <jump line="562" column="20" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
       <jump line="0" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
+      <jump line="140" column="20" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>'</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgaW1nIHt9Cg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -397,7 +397,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text encoding="base64">ICAgICAgICA=</text>
       </register>
       <register name="/" type="4">
         <text>animated</text>
@@ -405,35 +405,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text>'</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgaW1nIHt9Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>'</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgei1pbmRleDogMTA7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>enter</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgc3BsYXNoLWJnLWltZyAgICAgICAgCg==</text>
       </register>
       <register name="5" type="4">
-        <text>bg</text>
+        <text encoding="base64">ICAgICAgICA=</text>
       </register>
-      <register name="6" type="4">
-        <text>'</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
       </register>
-      <register name="7" type="4">
-        <text>'</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICA8ZGl2IHN0eWxlPSJwb3NpdGlvbjphYnNvbHV0ZTsgbGVmdDogNTAlOyB0b3A6IDMwJTsiPgo=</text>
       </register>
-      <register name="8" type="4">
-        <text>5</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICA8ZGl2IHN0eWxlPSJwb3NpdGlvbjphYnNvbHV0ZTsgbGVmdDogNTAlOyB0b3A6IDMwJTsiPgo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
-      <register name="9" type="4">
-        <text>.</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
