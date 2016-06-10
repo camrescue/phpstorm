@@ -54,12 +54,12 @@
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/fact.ctrl.js" timestamp="1465406908149">
         <mark key="'" line="83" column="35" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/controllers/users.php" timestamp="1465582967172">
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/controllers/users.php" timestamp="1465585980254">
         <mark key="'" line="1075" column="13" />
-        <mark key="[" line="1055" column="45" />
-        <mark key="]" line="1055" column="57" />
-        <mark key="." line="1055" column="57" />
-        <mark key="^" line="1055" column="57" />
+        <mark key="[" line="1081" column="46" />
+        <mark key="]" line="1082" column="24" />
+        <mark key="." line="1082" column="24" />
+        <mark key="^" line="1082" column="24" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/files/surveys/ftn_signup.json" timestamp="1464544789490">
         <mark key="'" line="35" column="20" />
@@ -248,12 +248,12 @@
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/drupal_translators/OurStoryTranslator.js" timestamp="1465402383376">
         <mark key="'" line="79" column="16" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/models/UserApplication.php" timestamp="1465583598108">
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/models/UserApplication.php" timestamp="1465585914448">
         <mark key="'" line="21" column="41" />
-        <mark key="[" line="223" column="23" />
-        <mark key="]" line="225" column="17" />
-        <mark key="." line="225" column="17" />
-        <mark key="^" line="225" column="17" />
+        <mark key="[" line="223" column="0" />
+        <mark key="]" line="223" column="0" />
+        <mark key="." line="223" column="0" />
+        <mark key="^" line="227" column="44" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/cta-button.js" timestamp="1465372400862">
         <mark key="[" line="10" column="0" />
@@ -380,8 +380,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>pcOptions</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAkZmllbGRzID0gWwo=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -435,7 +435,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>pcOptions</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaWx0ZXJSZXN1bHRcPg==</text>
@@ -443,35 +443,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgcGFkZGluZy10b3A6IDkwcHg7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>pcOptions</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAkZmllbGRzID0gWwo=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgpCg==</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICBkZCgkcGNPcHRpb25zKTsK</text>
       </register>
-      <register name="3" type="4">
-        <text>users</text>
-      </register>
       <register name="4" type="4">
-        <text>relative</text>
+        <text>]</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGxlZnQ6IDA7CiAgICBib3R0b206IDA7Cg==</text>
+      <register name="5" type="4">
+        <text>[</text>
       </register>
       <register name="6" type="4">
-        <text>absolute</text>
+        <text>,</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+        <text>pcOptions</text>
       </register>
-      <register name="8" type="4">
-        <text>x</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgkcGNPcHRpb25zKTsK</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="4">
-        <text>-</text>
+        <text>users</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
