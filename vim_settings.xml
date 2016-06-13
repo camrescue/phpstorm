@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1465857591389">
+      <file name="/a.dummy" timestamp="1465861406209">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/partials/tfl-popover.php" timestamp="1465408295841">
@@ -44,6 +44,12 @@
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="84" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/config/constants.php" timestamp="1465861405210">
+        <mark key="[" line="60" column="39" />
+        <mark key="]" line="60" column="39" />
+        <mark key="." line="60" column="39" />
+        <mark key="^" line="60" column="39" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/surveys/app/Http/Controllers/CountryLifeVTController.php" timestamp="1465255174378">
         <mark key="[" line="17" column="45" />
@@ -266,7 +272,8 @@
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/config.js" timestamp="1464899187398">
         <mark key="'" line="306" column="19" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/helpers/core_helper.php" timestamp="1465600165108">
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/helpers/core_helper.php" timestamp="1465861623986">
+        <mark key="'" line="986" column="9" />
         <mark key="[" line="1022" column="33" />
         <mark key="]" line="1024" column="39" />
         <mark key="." line="1024" column="39" />
@@ -335,7 +342,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="312" column="45" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/abstracts/OrganizationMilestone.php" />
       <jump line="110" column="50" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/abstracts/OrganizationMilestone.php" />
       <jump line="105" column="51" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/abstracts/OrganizationMilestone.php" />
       <jump line="41" column="13" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/abstracts/OrganizationMilestone.php" />
@@ -435,13 +441,14 @@
       <jump line="59" column="51" filename="$USER_HOME$/Sites/Rescue/helix/application/views/user/application/filters.php" />
       <jump line="56" column="51" filename="$USER_HOME$/Sites/Rescue/helix/application/views/user/application/filters.php" />
       <jump line="227" column="36" filename="$USER_HOME$/Sites/Rescue/helix/application/models/UserApplication.php" />
+      <jump line="986" column="9" filename="$USER_HOME$/Sites/Rescue/helix/application/helpers/core_helper.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcGNPcHRpb25zKTsK</text>
+      <register name="&quot;" type="4">
+        <text>30</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -495,52 +502,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>30</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwY09wdGlvbnNcPg==</text>
+        <text encoding="base64">XDxjdXJyZW50WWVhclRocmVzaG9sZENvbXBhcmVcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoISAkZG93bmxvYWRBbGwpIHsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcGNPcHRpb25zKTsK</text>
+      <register name="1" type="4">
+        <text>30</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+        <text>ne</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcGNPcHRpb25zKTsK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGRkKCR2YWx1ZXMpOwo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PCEtLSAgICAgICAgICAgICAgICA8Zm9ybSBhY3Rpb249IiIgbWV0aG9kPSJwb3N0IiBjbGFzcz0iY29sbGFwc2UiPi0tPgo8IS0tICAgICAgICAgICAgICAgICAgICA8aW5wdXQgdHlwZT0iaGlkZGVuIiBuYW1lPSJmaWxlTmFtZSIgdmFsdWU9ImFsbF9hcHBsaWNhdGlvbnMiLz4tLT4KPCEtLSAgICAgICAgICAgICAgICAgICAgPGlucHV0IHR5cGU9ImhpZGRlbiIgbmFtZT0idHlwZSI+LS0+CjwhLS0gICAgICAgICAgICAgICAgICAgIDxpbnB1dCB0eXBlPSJoaWRkZW4iIG5hbWU9ImRvd25sb2FkQWxsIiB2YWx1ZT0iMSI+LS0+CjwhLS0gICAgICAgICAgICAgICAgICAgIDx1bCBjbGFzcz0iYnV0dG9uLWdyb3VwIG1lbnUiPi0tPgo8IS0tICAgICAgICAgICAgICAgICAgICAgICAgPGxpPi0tPgo8IS0tICAgICAgICAgICAgICAgICAgICAgICAgPC9saT4tLT4KPCEtLSAgICAgICAgICAgICAgICAgICAgPC91bD4tLT4KPCEtLSAgICAgICAgICAgICAgICA8L2Zvcm0+LS0+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgIGRkKCR2YWx1ZXMpOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">PCEtLSAgICAgICAgICAgICAgICA8Zm9ybSBhY3Rpb249IiIgbWV0aG9kPSJwb3N0IiBjbGFzcz0iY29sbGFwc2UiPi0tPgo8IS0tICAgICAgICAgICAgICAgICAgICA8aW5wdXQgdHlwZT0iaGlkZGVuIiBuYW1lPSJmaWxlTmFtZSIgdmFsdWU9ImFsbF9hcHBsaWNhdGlvbnMiLz4tLT4KPCEtLSAgICAgICAgICAgICAgICAgICAgPGlucHV0IHR5cGU9ImhpZGRlbiIgbmFtZT0idHlwZSI+LS0+CjwhLS0gICAgICAgICAgICAgICAgICAgIDxpbnB1dCB0eXBlPSJoaWRkZW4iIG5hbWU9ImRvd25sb2FkQWxsIiB2YWx1ZT0iMSI+LS0+CjwhLS0gICAgICAgICAgICAgICAgICAgIDx1bCBjbGFzcz0iYnV0dG9uLWdyb3VwIG1lbnUiPi0tPgo8IS0tICAgICAgICAgICAgICAgICAgICAgICAgPGxpPi0tPgo8IS0tICAgICAgICAgICAgICAgICAgICAgICAgPC9saT4tLT4KPCEtLSAgICAgICAgICAgICAgICAgICAgPC91bD4tLT4KPCEtLSAgICAgICAgICAgICAgICA8L2Zvcm0+LS0+Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgICB9CiAgICAgICAgICAgICR0aGlzLT5fZm9ybWF0VHJhaW5pbmdDaGVja2xpc3QoJGZpbHRlcmVkVXNlcnMpOwo=</text>
-      </register>
-      <register name="7" type="4">
-        <text>susers</text>
-      </register>
-      <register name="8" type="4">
-        <text>filteredUsers</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAkdXNlcnMK</text>
+      <register name="9" type="4">
+        <text>susers</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwY09wdGlvbnNcPg==</last-search>
+      <last-search encoding="base64">XDxjdXJyZW50WWVhclRocmVzaG9sZENvbXBhcmVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwY09wdGlvbnNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxjdXJyZW50WWVhclRocmVzaG9sZENvbXBhcmVcPg==</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxzaG93UmVzdWx0c1w+</last-substitute>
       <last-dir>-1</last-dir>
@@ -548,7 +555,6 @@
     </search>
     <history>
       <history-search>
-        <entry>downloadAll</entry>
         <entry encoding="base64">XDxkb3dubG9hZEFsbFw+</entry>
         <entry encoding="base64">XDxjaGVja2VkU2VsZWN0b3JzXD4=</entry>
         <entry encoding="base64">XDxnZXRDaGVja2VkVmFsdWVzXD4=</entry>
@@ -568,6 +574,7 @@
         <entry>applications</entry>
         <entry encoding="base64">XDxmaWx0ZXJzXD4=</entry>
         <entry encoding="base64">XDxwY09wdGlvbnNcPg==</entry>
+        <entry encoding="base64">XDxjdXJyZW50WWVhclRocmVzaG9sZENvbXBhcmVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>ww</entry>
