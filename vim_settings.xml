@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1465851877619">
+      <file name="/a.dummy" timestamp="1465855174796">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" timestamp="1465692535900">
@@ -23,11 +23,11 @@
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/partials/poll.php" timestamp="1465334954724">
         <mark key="'" line="53" column="43" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/views/user/application/action_panel.php" timestamp="1465852119345">
-        <mark key="[" line="20" column="67" />
-        <mark key="]" line="20" column="78" />
-        <mark key="^" line="20" column="78" />
-        <mark key="." line="20" column="78" />
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/views/user/application/action_panel.php" timestamp="1465854249405">
+        <mark key="[" line="36" column="70" />
+        <mark key="]" line="36" column="75" />
+        <mark key="^" line="36" column="75" />
+        <mark key="." line="36" column="75" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/surveys/resources/assets/js/trackers.js" timestamp="1464280949449">
         <mark key="'" line="10" column="9" />
@@ -48,12 +48,12 @@
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/fact.ctrl.js" timestamp="1465406908149">
         <mark key="'" line="83" column="35" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/controllers/users.php" timestamp="1465852151520">
-        <mark key="'" line="1062" column="10" />
-        <mark key="[" line="1045" column="0" />
-        <mark key="]" line="1045" column="0" />
-        <mark key="^" line="1045" column="11" />
-        <mark key="." line="1045" column="0" />
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/controllers/users.php" timestamp="1465854444495">
+        <mark key="'" line="1025" column="39" />
+        <mark key="[" line="507" column="0" />
+        <mark key="]" line="507" column="0" />
+        <mark key="^" line="471" column="28" />
+        <mark key="." line="507" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/libraries/MilestoneHelper.php" timestamp="1465599373485">
         <mark key="'" line="447" column="25" />
@@ -101,6 +101,12 @@
       <file name="$USER_HOME$/Sites/Rescue/helix/application/libraries/MilestoneLib.php" timestamp="1465599820060">
         <mark key="'" line="82" column="46" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/views/helper/table/selector_export.php" timestamp="1465854265667">
+        <mark key="[" line="25" column="106" />
+        <mark key="]" line="25" column="107" />
+        <mark key="." line="25" column="107" />
+        <mark key="^" line="25" column="107" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/models/entities/User.php" timestamp="1464886183907">
         <mark key="'" line="46" column="31" />
       </file>
@@ -113,11 +119,11 @@
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/full-fact.ctrl.js" timestamp="1465321416829">
         <mark key="'" line="159" column="8" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/helpers/MY_html_helper.php" timestamp="1465842140757">
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/helpers/MY_html_helper.php" timestamp="1465855330871">
         <mark key="'" line="1188" column="24" />
-        <mark key="[" line="1226" column="38" />
-        <mark key="]" line="1226" column="42" />
-        <mark key="." line="1226" column="42" />
+        <mark key="[" line="1193" column="34" />
+        <mark key="]" line="1193" column="35" />
+        <mark key="." line="1193" column="35" />
         <mark key="^" line="1226" column="42" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/config/config.php" timestamp="1465337641656">
@@ -142,13 +148,12 @@
       <file name="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/user_repo.php" timestamp="1465583098649">
         <mark key="'" line="359" column="64" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/js/app/user_apply.js" timestamp="1465852058383">
+      <file name="$USER_HOME$/Sites/Rescue/helix/js/app/user_apply.js" timestamp="1465854614226">
         <mark key="a" line="259" column="26" />
-        <mark key="'" line="60" column="13" />
-        <mark key="[" line="269" column="47" />
-        <mark key="]" line="269" column="49" />
-        <mark key="^" line="269" column="49" />
-        <mark key="." line="269" column="49" />
+        <mark key="'" line="272" column="0" />
+        <mark key="[" line="271" column="0" />
+        <mark key="]" line="271" column="0" />
+        <mark key="." line="271" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-api/api/emoji-challenge.json" timestamp="1464899559010">
         <mark key="'" line="20" column="32" />
@@ -269,13 +274,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1574" column="22" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/core/base_repo.php" />
-      <jump line="1532" column="22" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/core/base_repo.php" />
-      <jump line="1643" column="4" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
-      <jump line="110" column="16" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/PopOver.js" />
-      <jump line="517" column="28" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/ReportingBase.php" />
-      <jump line="414" column="23" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/ReportingBase.php" />
-      <jump line="362" column="23" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/ReportingBase.php" />
       <jump line="462" column="24" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/ReportingBase.php" />
       <jump line="614" column="22" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/reports.php" />
       <jump line="138" column="9" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/milestones.php" />
@@ -364,18 +362,25 @@
       <jump line="901" column="14" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_apply.js" />
       <jump line="61" column="38" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_apply.js" />
       <jump line="281" column="11" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_apply.js" />
-      <jump line="60" column="13" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_apply.js" />
       <jump line="1062" column="10" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/users.php" />
       <jump line="1188" column="24" filename="$USER_HOME$/Sites/Rescue/helix/application/helpers/MY_html_helper.php" />
       <jump line="1554" column="4" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/core/base_repo.php" />
       <jump line="61" column="15" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/core/base_repo.php" />
+      <jump line="1076" column="38" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/users.php" />
+      <jump line="546" column="32" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/users.php" />
+      <jump line="266" column="15" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_apply.js" />
+      <jump line="285" column="11" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_apply.js" />
+      <jump line="649" column="5" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_apply.js" />
+      <jump line="60" column="13" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_apply.js" />
+      <jump line="1025" column="39" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/users.php" />
+      <jump line="273" column="0" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_apply.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -429,52 +434,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>dbg</text>
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZXN1bHRzUGVyUGFnZVw+</text>
+        <text>debugger</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAkKCdbbmFtZT0iZmlsZVR5cGUiXScsICRmb3JtKS52YWwodHlwZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoISAkZG93bmxvYWRBbGwpIHsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAocG9zdFZhbHVlKCdkb3dubG9hZFR5cGUnKSAhPT0gJ2FsbCcpIHsK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBlCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="4" type="4">
-        <text>dbg</text>
+        <text>postValue('downloadAll') === false) {</text>
       </register>
-      <register name="5" type="4">
-        <text>d</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBkZChwb3N0VmFsdWVzKCkpOwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcGNPcHRpb25zKTsK</text>
+      <register name="6" type="4">
+        <text>false</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkZW5hYmxlZFBhZ2luZyA9IGVtcHR5KHBvc3RWYWx1ZSgpKQo=</text>
+      <register name="7" type="4">
+        <text>All</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="8" type="4">
+        <text>elected</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="4">
-        <text>postValue('downloadAll') === FALSE)</text>
+        <text encoding="base64">IHZhbHVlPSJzZWxlY3RlZCIg</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZXN1bHRzUGVyUGFnZVw+</last-search>
+      <last-search>debugger</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZXN1bHRzUGVyUGFnZVw+</last-pattern>
+      <last-pattern>debugger</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxzaG93UmVzdWx0c1w+</last-substitute>
       <last-dir>1</last-dir>
@@ -482,26 +487,26 @@
     </search>
     <history>
       <history-search>
-        <entry>effectsContainer</entry>
-        <entry>black</entry>
-        <entry>background-color</entry>
-        <entry>loaded</entry>
         <entry>bg-cover</entry>
         <entry>bgCover</entry>
         <entry>effectContainer</entry>
         <entry>downloadAll</entry>
-        <entry>download-selected</entry>
         <entry encoding="base64">XDxkb3dubG9hZEFsbFw+</entry>
         <entry encoding="base64">XDxjaGVja2VkU2VsZWN0b3JzXD4=</entry>
         <entry encoding="base64">XDxnZXRDaGVja2VkVmFsdWVzXD4=</entry>
         <entry encoding="base64">XDxkb3dubG9hZFw+</entry>
         <entry>selector-label</entry>
         <entry>download</entry>
-        <entry encoding="base64">XDxkb3dubG9hZFNlbGVjdGVkXD4=</entry>
         <entry encoding="base64">XDx0cmlnZ2VyU2VsZWN0ZWRBcHBzRG93bmxvYWRcPg==</entry>
         <entry>page-change</entry>
         <entry>page</entry>
         <entry encoding="base64">XDxyZXN1bHRzUGVyUGFnZVw+</entry>
+        <entry>function browse</entry>
+        <entry>function applications</entry>
+        <entry>download-selected</entry>
+        <entry encoding="base64">XDxkb3dubG9hZFNlbGVjdGVkXD4=</entry>
+        <entry>browse</entry>
+        <entry>debugger</entry>
       </history-search>
       <history-cmd>
         <entry>ww</entry>
@@ -519,10 +524,10 @@
         <entry>set hlsearch</entry>
         <entry>ew</entry>
         <entry>689</entry>
-        <entry>q</entry>
         <entry>530</entry>
         <entry>W</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>q</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
