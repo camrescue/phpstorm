@@ -48,8 +48,8 @@
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/fact.ctrl.js" timestamp="1465406908149">
         <mark key="'" line="83" column="35" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/controllers/users.php" timestamp="1465854444495">
-        <mark key="'" line="1025" column="39" />
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/controllers/users.php" timestamp="1465856021679">
+        <mark key="'" line="507" column="28" />
         <mark key="[" line="507" column="0" />
         <mark key="]" line="507" column="0" />
         <mark key="^" line="471" column="28" />
@@ -274,7 +274,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="462" column="24" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/ReportingBase.php" />
       <jump line="614" column="22" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/reports.php" />
       <jump line="138" column="9" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/milestones.php" />
       <jump line="552" column="39" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/MilestoneHelper.php" />
@@ -374,6 +373,7 @@
       <jump line="60" column="13" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_apply.js" />
       <jump line="1025" column="39" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/users.php" />
       <jump line="273" column="0" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_apply.js" />
+      <jump line="507" column="28" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/users.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -437,7 +437,7 @@
         <text encoding="base64">ICAgIA==</text>
       </register>
       <register name="/" type="4">
-        <text>debugger</text>
+        <text>applications</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoISAkZG93bmxvYWRBbGwpIHsK</text>
@@ -477,9 +477,9 @@
       </register>
     </registers>
     <search>
-      <last-search>debugger</last-search>
+      <last-search>applications</last-search>
       <last-offset />
-      <last-pattern>debugger</last-pattern>
+      <last-pattern>applications</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxzaG93UmVzdWx0c1w+</last-substitute>
       <last-dir>1</last-dir>
@@ -487,7 +487,6 @@
     </search>
     <history>
       <history-search>
-        <entry>bg-cover</entry>
         <entry>bgCover</entry>
         <entry>effectContainer</entry>
         <entry>downloadAll</entry>
@@ -507,6 +506,7 @@
         <entry encoding="base64">XDxkb3dubG9hZFNlbGVjdGVkXD4=</entry>
         <entry>browse</entry>
         <entry>debugger</entry>
+        <entry>applications</entry>
       </history-search>
       <history-cmd>
         <entry>ww</entry>
