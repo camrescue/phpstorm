@@ -12,12 +12,11 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="5" column="73" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" timestamp="1465941385766">
-        <mark key="'" line="33" column="2" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
-        <mark key="^" line="35" column="11" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" timestamp="1465945331868">
+        <mark key="'" line="21" column="0" />
+        <mark key="[" line="205" column="0" />
+        <mark key="]" line="205" column="0" />
+        <mark key="." line="205" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/views/user/application/table.php" timestamp="1464892227711">
         <mark key="'" line="48" column="25" />
@@ -94,12 +93,12 @@
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/AnimateCss.js" timestamp="1465370766338">
         <mark key="[" line="11" column="76" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/partials/quiz-section.php" timestamp="1465940195557">
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/partials/quiz-section.php" timestamp="1465945138652">
         <mark key="'" line="4" column="44" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="13" column="89" />
-        <mark key="." line="16" column="0" />
+        <mark key="[" line="6" column="76" />
+        <mark key="]" line="6" column="90" />
+        <mark key="^" line="6" column="90" />
+        <mark key="." line="6" column="90" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/third_party_js/ripple.js" timestamp="1464934928190">
         <mark key="'" line="52" column="28" />
@@ -263,7 +262,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="376" column="4" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_apply.js" />
       <jump line="347" column="23" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_apply.js" />
       <jump line="363" column="11" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_apply.js" />
       <jump line="263" column="11" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_apply.js" />
@@ -363,13 +361,14 @@
       <jump line="125" column="53" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
       <jump line="91" column="21" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
       <jump line="123" column="17" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
+      <jump line="21" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -423,60 +422,59 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>0.2s;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsb2FkUGl4ZWxcPg==</text>
+        <text>animation</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDQ6ICdlbW9qaS1wYWdlLTQnLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICh3aW5kb3cuZmJxKSB7CiAgICAgICAgICAgICAgICAgICAgCg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGZicSgndHJhY2snLCAnQWRkVG9DYXJ0Jyk7Cg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgLyogdGhpcyBpcyBoZXJlIHRvIGF2b2lkIGFjY2lkZW50YWwgQ1NTIGluaGVyaXRhbmNlICovCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8kcm9vdFNjb3BlLmZiUGl4ZWxFdmVudCA9IFsiPHNjcmlwdD4iLCAiZmJxKCd0cmFjaycsICciICsgcGl4ZWwgKyAiJyk7IiwgIjwvc2NyaXB0PiJdLmpvaW4oJycpOwo=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgLXdlYmtpdC10cmFuc2l0aW9uLWR1cmF0aW9uOiAwOwogICAgICB0cmFuc2l0aW9uLWR1cmF0aW9uOiAwOwo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="5" type="4">
+        <text>0.2s;</text>
       </register>
-      <register name="8" type="4">
-        <text>/</text>
+      <register name="6" type="4">
+        <text>0.2s;</text>
+      </register>
+      <register name="7" type="4">
+        <text>.repeat-animation</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
-      <register name="9" type="4">
-        <text>/</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsb2FkUGl4ZWxcPg==</last-search>
+      <last-search>animation</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsb2FkUGl4ZWxcPg==</last-pattern>
+      <last-pattern>animation</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxzaG93UmVzdWx0c1w+</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>bg-emoji</entry>
         <entry>animated</entry>
         <entry>question-img</entry>
         <entry>splash-img</entry>
@@ -496,6 +494,7 @@
         <entry>Event</entry>
         <entry encoding="base64">XDxwYWdlTnVtXD4=</entry>
         <entry encoding="base64">XDxsb2FkUGl4ZWxcPg==</entry>
+        <entry>animation</entry>
       </history-search>
       <history-cmd>
         <entry>ww</entry>
