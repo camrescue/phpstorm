@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1465921527144">
+      <file name="/a.dummy" timestamp="1465923860321">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/partials/tfl-popover.php" timestamp="1465408295841">
@@ -29,13 +29,13 @@
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/partials/poll.php" timestamp="1465334954724">
         <mark key="'" line="53" column="43" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/views/user/application/action_panel.php" timestamp="1465923672889">
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/views/user/application/action_panel.php" timestamp="1465923810386">
         <mark key="a" line="50" column="18" />
         <mark key="'" line="37" column="37" />
-        <mark key="[" line="36" column="64" />
-        <mark key="]" line="36" column="67" />
+        <mark key="[" line="36" column="62" />
+        <mark key="]" line="36" column="62" />
         <mark key="^" line="36" column="67" />
-        <mark key="." line="36" column="67" />
+        <mark key="." line="36" column="62" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/surveys/resources/assets/js/trackers.js" timestamp="1464280949449">
         <mark key="'" line="10" column="9" />
@@ -264,9 +264,6 @@
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/PopOver.js" timestamp="1465598135327">
         <mark key="'" line="110" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1465921555410">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/FactAnimationVideo.js" timestamp="1464821941411">
         <mark key="'" line="16" column="0" />
       </file>
@@ -449,7 +446,7 @@
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>nael</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -503,7 +500,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>nael</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxjdXJyZW50WWVhclRocmVzaG9sZENvbXBhcmVcPg==</text>
@@ -512,34 +509,34 @@
         <text encoding="base64">ICAgICAgICBpZiAoISAkZG93bmxvYWRBbGwpIHsK</text>
       </register>
       <register name="1" type="4">
-        <text>nael</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+        <text>panel</text>
       </register>
       <register name="3" type="4">
-        <text>pad-top</text>
+        <text>nael</text>
       </register>
       <register name="4" type="4">
-        <text>pad</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">cmlnaHQgcGFkLXRvcC10aW55IA==</text>
-      </register>
-      <register name="6" type="4">
         <text encoding="base64">IA==</text>
       </register>
+      <register name="5" type="4">
+        <text>pad-top</text>
+      </register>
+      <register name="6" type="4">
+        <text>pad</text>
+      </register>
       <register name="7" type="4">
-        <text>class=&quot;&quot;</text>
+        <text encoding="base64">cmlnaHQgcGFkLXRvcC10aW55IA==</text>
       </register>
       <register name="8" type="4">
-        <text>right</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="4">
-        <text>30</text>
+        <text>class=&quot;&quot;</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
