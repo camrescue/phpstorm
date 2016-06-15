@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1466014836612">
+      <file name="/a.dummy" timestamp="1466017973782">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/partials/tfl-popover.php" timestamp="1465408295841">
@@ -11,6 +11,12 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
         <mark key="^" line="5" column="73" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/views/milestone/alert.php" timestamp="1466017926382">
+        <mark key="[" line="85" column="97" />
+        <mark key="]" line="85" column="99" />
+        <mark key="^" line="85" column="99" />
+        <mark key="." line="85" column="99" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" timestamp="1466013307769">
         <mark key="'" line="189" column="6" />
@@ -81,8 +87,14 @@
         <mark key="^" line="1083" column="8" />
         <mark key="." line="1088" column="19" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/views/milestone/sidebar.php" timestamp="1466018570031">
+        <mark key="'" line="29" column="71" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/libraries/MilestoneHelper.php" timestamp="1465599373485">
         <mark key="'" line="447" column="25" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/controllers/organizations.php" timestamp="1466018600148">
+        <mark key="'" line="161" column="39" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/files/surveys/ftn_signup.json" timestamp="1464544789490">
         <mark key="'" line="35" column="20" />
@@ -260,7 +272,7 @@
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/PopOver.js" timestamp="1465598135327">
         <mark key="'" line="110" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1466014295525">
+      <file name="/Dummy.txt" timestamp="1466017973772">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/FactAnimationVideo.js" timestamp="1464821941411">
@@ -268,6 +280,9 @@
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/config.js" timestamp="1465942125855">
         <mark key="'" line="25" column="56" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/models/entities/Organization.php" timestamp="1466018391367">
+        <mark key="'" line="25" column="20" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/helpers/core_helper.php" timestamp="1465861870962">
         <mark key="'" line="986" column="9" />
@@ -339,11 +354,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="641" column="16" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
-      <jump line="710" column="17" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
-      <jump line="728" column="6" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
-      <jump line="604" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
-      <jump line="16" column="73" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/emoji-challenge.php" />
       <jump line="49" column="85" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/emoji-challenge.php" />
       <jump line="595" column="4" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
       <jump line="104" column="14" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
@@ -439,6 +449,11 @@
       <jump line="2535" column="35" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/js/app.js" />
       <jump line="2376" column="20" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/js/app.js" />
       <jump line="2377" column="35" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/js/app.js" />
+      <jump line="25" column="20" filename="$USER_HOME$/Sites/Rescue/helix/application/models/entities/Organization.php" />
+      <jump line="8" column="20" filename="$USER_HOME$/Sites/Rescue/helix/application/views/milestone/sidebar.php" />
+      <jump line="29" column="71" filename="$USER_HOME$/Sites/Rescue/helix/application/views/milestone/sidebar.php" />
+      <jump line="17" column="49" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/organizations.php" />
+      <jump line="161" column="39" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/organizations.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -502,7 +517,7 @@
         <text>;</text>
       </register>
       <register name="/" type="4">
-        <text>masonry.reload</text>
+        <text encoding="base64">XDxtaWxlc3RvbmVNYXBcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
@@ -542,20 +557,16 @@
       </register>
     </registers>
     <search>
-      <last-search>masonry.reload</last-search>
+      <last-search encoding="base64">XDxtaWxlc3RvbmVNYXBcPg==</last-search>
       <last-offset />
-      <last-pattern>masonry.reload</last-pattern>
+      <last-pattern encoding="base64">XDxtaWxlc3RvbmVNYXBcPg==</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxzaG93UmVzdWx0c1w+</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>splashAnimation</entry>
-        <entry encoding="base64">XDxsb2FkU3BsYXNoXD4=</entry>
-        <entry>debugger</entry>
-        <entry>event</entry>
         <entry>Event</entry>
         <entry encoding="base64">XDxwYWdlTnVtXD4=</entry>
         <entry encoding="base64">XDxsb2FkUGl4ZWxcPg==</entry>
@@ -572,6 +583,10 @@
         <entry encoding="base64">XDxzZXRQYWdlRGF0YVw+</entry>
         <entry encoding="base64">XDxyZXNldExheW91dFw+</entry>
         <entry>masonry.reload</entry>
+        <entry>icon</entry>
+        <entry encoding="base64">XDxtaWxlc3RvbmVTdGF0dXNcPg==</entry>
+        <entry>profile</entry>
+        <entry encoding="base64">XDxtaWxlc3RvbmVNYXBcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>ww</entry>
