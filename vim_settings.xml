@@ -15,13 +15,13 @@
         <mark key="^" line="85" column="99" />
         <mark key="." line="85" column="99" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" timestamp="1466112637368">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="320" column="33" />
-        <mark key="]" line="321" column="20" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" timestamp="1466113321487">
+        <mark key="'" line="320" column="0" />
+        <mark key="[" line="96" column="19" />
+        <mark key="]" line="97" column="16" />
         <mark key="n" line="653" column="3" />
-        <mark key="^" line="321" column="20" />
-        <mark key="." line="321" column="20" />
+        <mark key="." line="97" column="16" />
+        <mark key="^" line="97" column="16" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/views/user/application/table.php" timestamp="1464892227711">
         <mark key="'" line="48" column="25" />
@@ -424,7 +424,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="264" column="16" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
       <jump line="269" column="16" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
       <jump line="274" column="16" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
       <jump line="279" column="16" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
@@ -524,13 +523,14 @@
       <jump line="320" column="16" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
       <jump line="351" column="16" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
       <jump line="0" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
+      <jump line="319" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgb3ZlcmZsb3cteTogc2Nyb2xsOwogICAgICBvdmVyZmxvdy14OiBoaWRkZW47Cg==</text>
+        <text encoding="base64">ICAgIG92ZXJmbG93OnZpc2libGU7Cg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -593,34 +593,34 @@
         <text encoding="base64">ICAgICAgYmFja2dyb3VuZC1jb2xvcjogQGJyYW5kLXRlYWw7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgb3ZlcmZsb3cteTogc2Nyb2xsOwogICAgICBvdmVyZmxvdy14OiBoaWRkZW47Cg==</text>
+        <text encoding="base64">ICAgIG92ZXJmbG93OnZpc2libGU7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgYm90dG9tOiAwOwo=</text>
+        <text encoding="base64">ICAgICAgb3ZlcmZsb3cteTogc2Nyb2xsOwogICAgICBvdmVyZmxvdy14OiBoaWRkZW47Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgcmlnaHQ6IDA7Cg==</text>
+        <text encoding="base64">ICAgICAgYm90dG9tOiAwOwo=</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgcmlnaHQ6IDA7Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgdG9wOiAwOwogICAgICBsZWZ0OiAwOwo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>fixed</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>80px;</text>
-      </register>
       <register name="8" type="4">
-        <text>20px;</text>
+        <text>80px;</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="4">
-        <text>bottom</text>
+        <text>20px;</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
