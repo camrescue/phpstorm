@@ -111,12 +111,10 @@
         <mark key="^" line="229" column="94" />
         <mark key="." line="229" column="94" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/emoji-challenge.php" timestamp="1466105162002">
-        <mark key="'" line="9" column="17" />
-        <mark key="[" line="5" column="41" />
-        <mark key="]" line="5" column="41" />
-        <mark key="." line="5" column="41" />
-        <mark key="^" line="2" column="41" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/emoji-challenge.php" timestamp="1466113937989">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/views/milestone/organization.php" timestamp="1466022657163">
         <mark key="[" line="55" column="110" />
@@ -530,7 +528,7 @@
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIG92ZXJmbG93OnZpc2libGU7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -584,7 +582,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>fixed</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>effectContainer</text>
@@ -593,34 +591,34 @@
         <text encoding="base64">ICAgICAgYmFja2dyb3VuZC1jb2xvcjogQGJyYW5kLXRlYWw7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIG92ZXJmbG93OnZpc2libGU7Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgb3ZlcmZsb3cteTogc2Nyb2xsOwogICAgICBvdmVyZmxvdy14OiBoaWRkZW47Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgYm90dG9tOiAwOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgcmlnaHQ6IDA7Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgdG9wOiAwOwogICAgICBsZWZ0OiAwOwo=</text>
-      </register>
-      <register name="6" type="4">
-        <text>fixed</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>80px;</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="3" type="4">
+        <text />
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIG92ZXJmbG93OnZpc2libGU7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgb3ZlcmZsb3cteTogc2Nyb2xsOwogICAgICBvdmVyZmxvdy14OiBoaWRkZW47Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgYm90dG9tOiAwOwo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgcmlnaHQ6IDA7Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgdG9wOiAwOwogICAgICBsZWZ0OiAwOwo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="4">
-        <text>20px;</text>
+        <text>fixed</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
