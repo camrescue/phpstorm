@@ -15,13 +15,13 @@
         <mark key="^" line="85" column="99" />
         <mark key="." line="85" column="99" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" timestamp="1466139869778">
-        <mark key="'" line="424" column="7" />
-        <mark key="[" line="854" column="3" />
-        <mark key="]" line="854" column="8" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" timestamp="1466140748000">
+        <mark key="'" line="645" column="5" />
+        <mark key="[" line="632" column="20" />
+        <mark key="]" line="632" column="21" />
         <mark key="n" line="284" column="3" />
-        <mark key="^" line="854" column="8" />
-        <mark key="." line="854" column="8" />
+        <mark key="." line="632" column="21" />
+        <mark key="^" line="650" column="17" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/views/user/application/table.php" timestamp="1464892227711">
         <mark key="'" line="48" column="25" />
@@ -421,10 +421,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="126" column="16" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
-      <jump line="180" column="14" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
-      <jump line="1010" column="15" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
-      <jump line="1054" column="20" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
       <jump line="320" column="16" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
       <jump line="351" column="16" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
       <jump line="319" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
@@ -521,13 +517,17 @@
       <jump line="1247" column="22" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
       <jump line="548" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
       <jump line="470" column="7" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
+      <jump line="613" column="5" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
+      <jump line="37" column="3" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
+      <jump line="646" column="22" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
+      <jump line="645" column="5" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>Large</text>
+        <text>bottom: 0;</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -581,52 +581,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Large</text>
+        <text>bottom: 0;</text>
       </register>
       <register name="/" type="4">
-        <text>splash-bg-img</text>
+        <text>emoji-challenge-wrap</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">LyoqIElQaG9uZSA2IFNwZWNpZmljICoqLwo=</text>
       </register>
       <register name="1" type="4">
-        <text>Large</text>
+        <text>bottom: 0;</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+      <register name="2" type="4">
+        <text>right: 0;</text>
       </register>
       <register name="3" type="4">
-        <text />
+        <text>fixed</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgcG9zaXRpb246IHJlbGF0aXZlOwo=</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgcG9zaXRpb246IHJlbGF0aXZlOwo=</text>
+      <register name="6" type="4">
+        <text />
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text />
       </register>
       <register name="x" type="4">
         <text />
       </register>
-      <register name="9" type="4">
-        <text />
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgcG9zaXRpb24K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>splash-bg-img</last-search>
+      <last-search>emoji-challenge-wrap</last-search>
       <last-offset />
-      <last-pattern>splash-bg-img</last-pattern>
+      <last-pattern>emoji-challenge-wrap</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxzaG93UmVzdWx0c1w+</last-substitute>
       <last-dir>1</last-dir>
@@ -634,8 +634,6 @@
     </search>
     <history>
       <history-search>
-        <entry>complete-img</entry>
-        <entry encoding="base64">XDxydW5NYXhcPg==</entry>
         <entry encoding="base64">XDxzZXRQYWdlRGF0YVw+</entry>
         <entry>pageReady</entry>
         <entry encoding="base64">XDxyZXNldExheW91dFw+</entry>
@@ -654,6 +652,8 @@
         <entry>bg-cover</entry>
         <entry>splash-bg</entry>
         <entry>splash-bg-img</entry>
+        <entry encoding="base64">XDxwZXJzcGVjdGl2ZVw+</entry>
+        <entry>emoji-challenge-wrap</entry>
       </history-search>
       <history-cmd>
         <entry>57</entry>
@@ -673,8 +673,8 @@
         <entry>W</entry>
         <entry>274</entry>
         <entry>set hlsearch</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>wLw</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
