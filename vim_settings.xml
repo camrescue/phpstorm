@@ -310,12 +310,12 @@
         <mark key="^" line="6" column="21" />
         <mark key="." line="6" column="22" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" timestamp="1466295372524">
-        <mark key="'" line="106" column="0" />
-        <mark key="[" line="373" column="26" />
-        <mark key="]" line="373" column="26" />
-        <mark key="." line="373" column="26" />
-        <mark key="^" line="373" column="26" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" timestamp="1466296506994">
+        <mark key="'" line="389" column="29" />
+        <mark key="[" line="449" column="0" />
+        <mark key="]" line="449" column="0" />
+        <mark key="." line="449" column="0" />
+        <mark key="^" line="389" column="37" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/drupal-api/api/emoji-challenge.json" timestamp="1466032872058">
         <mark key="'" line="12" column="3" />
@@ -425,8 +425,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="16" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/fact.ctrl.js" />
-      <jump line="98" column="22" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/fact.ctrl.js" />
       <jump line="116" column="26" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/fact.ctrl.js" />
       <jump line="117" column="12" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/fact.ctrl.js" />
       <jump line="150" column="30" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/fact.ctrl.js" />
@@ -521,17 +519,19 @@
       <jump line="940" column="16" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
       <jump line="1095" column="18" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
       <jump line="1090" column="6" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
-      <jump line="389" column="29" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
       <jump line="955" column="5" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
       <jump line="106" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
       <jump line="1058" column="2" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
+      <jump line="427" column="65" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
+      <jump line="445" column="20" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
+      <jump line="389" column="29" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>100</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -585,52 +585,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>100</text>
+        <text>Divider</text>
       </register>
       <register name="/" type="4">
-        <text>debugger</text>
+        <text encoding="base64">XDxydW5TbGlkZXJcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJCgnaW1nJywgJChwYWdlc1tjdXJyZW50UGFnZV0pKS5mYWRlSW4oc2V0dGluZ3MuaW1nRmFkZSk7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>100</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy99KTsK</text>
       </register>
-      <register name="3" type="4">
-        <text>fadeIn(settings.imgFade);</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy9zY29wZS4kb24oJ3NwbGFzaEJnJywgZnVuY3Rpb24gKCkgewo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coJ3Jlc2l6ZSBiaW5kJyk7Cg==</text>
+      <register name="4" type="4">
+        <text>Divider</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgfSk7Cg==</text>
+      <register name="5" type="4">
+        <text>runDivider</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKGFyZ3MpOwo=</text>
+      <register name="6" type="4">
+        <text>show</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgc2NvcGUuJG9uKCdsYXlvdXRDaGFuZ2UnLCBmdW5jdGlvbiAoZXZlbnQsIGFyZ3MpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGEK</text>
+      <register name="7" type="4">
+        <text>4000</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9KTsK</text>
+      <register name="8" type="4">
+        <text>fadeIn</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkKGZ1bmN0aW9uICgpIHsK</text>
+      <register name="9" type="4">
+        <text>e</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>debugger</last-search>
+      <last-search encoding="base64">XDxydW5TbGlkZXJcPg==</last-search>
       <last-offset />
-      <last-pattern>debugger</last-pattern>
+      <last-pattern encoding="base64">XDxydW5TbGlkZXJcPg==</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxzaG93UmVzdWx0c1w+</last-substitute>
       <last-dir>1</last-dir>
@@ -638,9 +638,6 @@
     </search>
     <history>
       <history-search>
-        <entry>hover</entry>
-        <entry encoding="base64">XDxzaGFyZUxpbmtcPg==</entry>
-        <entry>before</entry>
         <entry>emoji-bg-full</entry>
         <entry>fill</entry>
         <entry>bg-full</entry>
@@ -655,9 +652,12 @@
         <entry>scope</entry>
         <entry encoding="base64">XDxsYXlvdXRcPg==</entry>
         <entry>pagewra[</entry>
-        <entry encoding="base64">XDxydW5EaXZpZGVyXD4=</entry>
         <entry>pagewrap</entry>
         <entry>debugger</entry>
+        <entry encoding="base64">XDxtYXhDb3VudFw+</entry>
+        <entry>max</entry>
+        <entry encoding="base64">XDxydW5EaXZpZGVyXD4=</entry>
+        <entry encoding="base64">XDxydW5TbGlkZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>57</entry>
