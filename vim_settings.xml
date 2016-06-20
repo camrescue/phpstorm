@@ -6,6 +6,13 @@
       <file name="/a.dummy" timestamp="1466447694907">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" timestamp="1466450981217">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="40" column="24" />
+        <mark key="]" line="40" column="24" />
+        <mark key="." line="40" column="24" />
+        <mark key="^" line="40" column="24" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/views/user/application/table.php" timestamp="1464892227711">
         <mark key="'" line="48" column="25" />
         <mark key="[" line="57" column="80" />
@@ -343,9 +350,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="34" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/root.ctrl.js" />
-      <jump line="73" column="16" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/root.ctrl.js" />
-      <jump line="80" column="28" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/root.ctrl.js" />
       <jump line="3" column="20" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/root.ctrl.js" />
       <jump line="84" column="19" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/root.ctrl.js" />
       <jump line="125" column="8" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/root.ctrl.js" />
@@ -443,13 +447,16 @@
       <jump line="1068" column="37" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/users.php" />
       <jump line="1123" column="13" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/users.php" />
       <jump line="1644" column="9" filename="$USER_HOME$/Sites/Rescue/helix/application/helpers/user_helper.php" />
+      <jump line="1159" column="25" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
+      <jump line="641" column="21" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
+      <jump line="0" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>circles</text>
+        <text>scroll</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -503,61 +510,59 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>circles</text>
+        <text>scroll</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb25zZW50X3VwbG9hZF9yZXF1ZXN0XD4=</text>
+        <text>effectContainer</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">PHNjcmlwdCBzcmM9Imh0dHBzOi8vY29kZS5qcXVlcnkuY29tL2pxdWVyeS0zLjAuMC5taW4uanMiCiAgICAgICAgaW50ZWdyaXR5PSJzaGEyNTYtSm12T29MdFlzbXFsc1d4YTdtRFNMTXdhNmRaOXJySWR0cnJWWVJuRFJIMD0iIGNyb3Nzb3JpZ2luPSJhbm9ueW1vdXMiPjwvc2NyaXB0Pgo=</text>
       </register>
       <register name="1" type="4">
-        <text>circles</text>
+        <text>scroll</text>
       </register>
-      <register name="2" type="4">
-        <text>circle</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIC8qIGhlaWdodDogNTAlOyAqLwogICAgLyogcmlnaHQ6IDA7ICovCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>circles</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlYnVnZ2VyOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA7Cg==</text>
-      </register>
-      <register name="7" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">IAo=</text>
+      </register>
+      <register name="5" type="4">
+        <text />
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgCg==</text>
+      </register>
       <register name="8" type="4">
-        <text>#couple svg</text>
+        <text />
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="4">
-        <text>v</text>
+        <text>circles</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb25zZW50X3VwbG9hZF9yZXF1ZXN0XD4=</last-search>
+      <last-search>effectContainer</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb25zZW50X3VwbG9hZF9yZXF1ZXN0XD4=</last-pattern>
+      <last-pattern>effectContainer</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxzaG93UmVzdWx0c1w+</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0cmFuc2l0aW9uRGVsYXlcPg==</entry>
-        <entry encoding="base64">XDxjdXJyZW50UGFnZVw+</entry>
         <entry encoding="base64">XDxnZXROZXh0UGFnZVw+</entry>
         <entry encoding="base64">XDxzbGlkZXJBbmltYXRlXD4=</entry>
         <entry encoding="base64">XDxwYWdlV3JhcFw+</entry>
@@ -576,6 +581,8 @@
         <entry>function application(*</entry>
         <entry encoding="base64">XDxfYXBwbGljYXRpb25fcG9zdFw+</entry>
         <entry encoding="base64">XDxjb25zZW50X3VwbG9hZF9yZXF1ZXN0XD4=</entry>
+        <entry>overflow-y</entry>
+        <entry>effectContainer</entry>
       </history-search>
       <history-cmd>
         <entry>57</entry>
