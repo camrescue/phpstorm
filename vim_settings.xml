@@ -3,15 +3,15 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1466493256716">
+      <file name="/a.dummy" timestamp="1466527566088">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" timestamp="1466501096823">
-        <mark key="'" line="933" column="22" />
-        <mark key="[" line="938" column="0" />
-        <mark key="]" line="938" column="0" />
-        <mark key="." line="938" column="0" />
-        <mark key="^" line="938" column="0" />
+      <file name="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/app.js" timestamp="1466533830453">
+        <mark key="'" line="698" column="10" />
+        <mark key="[" line="165" column="0" />
+        <mark key="]" line="165" column="0" />
+        <mark key="^" line="168" column="67" />
+        <mark key="." line="165" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/views/user/application/table.php" timestamp="1464892227711">
         <mark key="'" line="48" column="25" />
@@ -40,13 +40,6 @@
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/js/libs.js" timestamp="1464805543115">
         <mark key="'" line="30" column="1" />
-      </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/emoji-challenge.php" timestamp="1466498497441">
-        <mark key="'" line="1" column="85" />
-        <mark key="[" line="1" column="64" />
-        <mark key="]" line="1" column="64" />
-        <mark key="^" line="1" column="94" />
-        <mark key="." line="1" column="64" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/AnimateCss.js" timestamp="1465370766338">
         <mark key="[" line="11" column="76" />
@@ -100,19 +93,19 @@
         <mark key="^" line="17" column="59" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/styles/swap.css" timestamp="1466533820167">
+        <mark key="'" line="105" column="257" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="^" line="40" column="37" />
+        <mark key="." line="41" column="0" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/bootstrap/variables.less" timestamp="1465376814156">
         <mark key="'" line="314" column="40" />
         <mark key="[" line="320" column="23" />
         <mark key="]" line="320" column="25" />
         <mark key="^" line="320" column="25" />
         <mark key="." line="320" column="25" />
-      </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" timestamp="1466525353917">
-        <mark key="'" line="47" column="24" />
-        <mark key="[" line="282" column="0" />
-        <mark key="]" line="282" column="0" />
-        <mark key="." line="282" column="0" />
-        <mark key="^" line="283" column="104" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/PageMeta.js" timestamp="1465358377290">
         <mark key="'" line="16" column="8" />
@@ -244,13 +237,6 @@
       <file name="$USER_HOME$/Sites/Rescue/surveys/resources/assets/js/fluidSurvey.js" timestamp="1464281033012">
         <mark key="'" line="147" column="28" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/root.ctrl.js" timestamp="1466502368769">
-        <mark key="'" line="33" column="13" />
-        <mark key="[" line="86" column="37" />
-        <mark key="]" line="86" column="37" />
-        <mark key="^" line="83" column="45" />
-        <mark key="." line="86" column="41" />
-      </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/drupal-api/api/emoji-challenge.json" timestamp="1466032872058">
         <mark key="'" line="12" column="3" />
         <mark key="[" line="197" column="24" />
@@ -272,17 +258,11 @@
         <mark key="^" line="2581" column="58" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/basic_elements.less" timestamp="1466446738764" />
-      <file name="$USER_HOME$/Sites/Rescue/pageloader/couple.svg" timestamp="1466409595490">
-        <mark key="[" line="2" column="107" />
-        <mark key="]" line="2" column="107" />
-        <mark key="." line="2" column="107" />
-      </file>
-      <file name="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/index.html" timestamp="1466524534390">
-        <mark key="'" line="2251" column="33" />
-        <mark key="[" line="2662" column="22" />
-        <mark key="]" line="2672" column="21" />
-        <mark key="." line="2672" column="21" />
-        <mark key="^" line="2672" column="21" />
+      <file name="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/index.html" timestamp="1466532787323">
+        <mark key="'" line="2097" column="44" />
+        <mark key="[" line="2710" column="0" />
+        <mark key="]" line="2710" column="6" />
+        <mark key="." line="2710" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/pageloader/couple.php" timestamp="1466410572280">
         <mark key="[" line="19" column="43" />
@@ -305,79 +285,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="626" column="6" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
-      <jump line="149" column="19" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
-      <jump line="151" column="6" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
-      <jump line="152" column="42" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/emoji-splash.js" />
-      <jump line="116" column="52" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/emoji-splash.js" />
-      <jump line="19" column="21" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/emoji-splash.js" />
-      <jump line="122" column="32" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/emoji-splash.js" />
-      <jump line="97" column="37" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/emoji-splash.js" />
-      <jump line="17" column="13" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/emoji-splash.js" />
-      <jump line="30" column="12" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/emoji-splash.js" />
-      <jump line="199" column="21" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/emoji-splash.js" />
-      <jump line="609" column="23" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
-      <jump line="291" column="4" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
-      <jump line="363" column="8" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
-      <jump line="97" column="31" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
-      <jump line="52" column="50" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/emoji-challenge.php" />
-      <jump line="13" column="59" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/emoji-challenge.php" />
-      <jump line="58" column="3" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
-      <jump line="906" column="5" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
-      <jump line="54" column="4" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
-      <jump line="1" column="85" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/emoji-challenge.php" />
-      <jump line="35" column="2" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
-      <jump line="8" column="4" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
-      <jump line="233" column="27" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
-      <jump line="238" column="3" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
-      <jump line="306" column="8" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
-      <jump line="9" column="27" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
-      <jump line="10" column="2" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
-      <jump line="203" column="26" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/emoji-splash.js" />
-      <jump line="141" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/emoji-splash.js" />
-      <jump line="169" column="21" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/emoji-splash.js" />
-      <jump line="127" column="12" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/emoji-splash.js" />
-      <jump line="123" column="29" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/root.ctrl.js" />
-      <jump line="40" column="55" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/root.ctrl.js" />
-      <jump line="44" column="17" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/root.ctrl.js" />
-      <jump line="58" column="7" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/root.ctrl.js" />
-      <jump line="60" column="15" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/root.ctrl.js" />
-      <jump line="41" column="10" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/root.ctrl.js" />
-      <jump line="70" column="24" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/root.ctrl.js" />
-      <jump line="3" column="15" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/root.ctrl.js" />
-      <jump line="80" column="30" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/root.ctrl.js" />
-      <jump line="31" column="13" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/root.ctrl.js" />
-      <jump line="42" column="31" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/root.ctrl.js" />
-      <jump line="43" column="29" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/root.ctrl.js" />
-      <jump line="47" column="39" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/root.ctrl.js" />
-      <jump line="38" column="4" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/root.ctrl.js" />
-      <jump line="286" column="35" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
-      <jump line="13" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
-      <jump line="152" column="41" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
-      <jump line="212" column="26" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/emoji-splash.js" />
-      <jump line="82" column="26" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/emoji-splash.js" />
-      <jump line="145" column="44" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/emoji-splash.js" />
-      <jump line="137" column="43" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/emoji-splash.js" />
-      <jump line="81" column="45" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/emoji-splash.js" />
-      <jump line="47" column="13" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/emoji-splash.js" />
-      <jump line="213" column="20" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/emoji-splash.js" />
-      <jump line="206" column="56" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/emoji-splash.js" />
-      <jump line="192" column="56" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/emoji-splash.js" />
-      <jump line="43" column="18" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
-      <jump line="0" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
-      <jump line="63" column="3" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
-      <jump line="73" column="3" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
-      <jump line="138" column="5" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
-      <jump line="206" column="3" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
-      <jump line="273" column="5" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
-      <jump line="297" column="6" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
-      <jump line="87" column="10" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
-      <jump line="191" column="20" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/emoji-splash.js" />
-      <jump line="2" column="34" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/emoji-splash.js" />
-      <jump line="1092" column="2" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
-      <jump line="933" column="22" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
-      <jump line="47" column="24" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
-      <jump line="85" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/root.ctrl.js" />
       <jump line="30" column="8" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/root.ctrl.js" />
       <jump line="32" column="11" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/root.ctrl.js" />
       <jump line="143" column="8" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/root.ctrl.js" />
@@ -405,13 +312,86 @@
       <jump line="2244" column="32" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/index.html" />
       <jump line="2251" column="33" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/index.html" />
       <jump line="155" column="12" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/emoji-splash.js" />
+      <jump line="179" column="19" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/app.js" />
+      <jump line="328" column="48" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/app.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/app.js" />
+      <jump line="634" column="31" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/app.js" />
+      <jump line="24" column="26" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/app.js" />
+      <jump line="357" column="9" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/app.js" />
+      <jump line="367" column="11" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/app.js" />
+      <jump line="362" column="8" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/app.js" />
+      <jump line="7" column="4" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/app.js" />
+      <jump line="358" column="4" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/app.js" />
+      <jump line="272" column="18" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/app.js" />
+      <jump line="127" column="33" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/app.js" />
+      <jump line="9" column="40" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/app.js" />
+      <jump line="359" column="9" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/app.js" />
+      <jump line="124" column="9" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/app.js" />
+      <jump line="361" column="35" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/app.js" />
+      <jump line="345" column="9" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/app.js" />
+      <jump line="58" column="23" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/app.js" />
+      <jump line="78" column="16" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/app.js" />
+      <jump line="136" column="68" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/app.js" />
+      <jump line="360" column="18" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/app.js" />
+      <jump line="653" column="56" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/app.js" />
+      <jump line="378" column="11" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/app.js" />
+      <jump line="368" column="8" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/app.js" />
+      <jump line="4" column="4" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/app.js" />
+      <jump line="372" column="9" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/app.js" />
+      <jump line="374" column="0" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/app.js" />
+      <jump line="2619" column="25" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/index.html" />
+      <jump line="2105" column="50" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/index.html" />
+      <jump line="2699" column="9" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/index.html" />
+      <jump line="2267" column="21" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/index.html" />
+      <jump line="0" column="0" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/index.html" />
+      <jump line="16" column="32" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/styles/swap.css" />
+      <jump line="110" column="7" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/styles/swap.css" />
+      <jump line="135" column="7" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/styles/swap.css" />
+      <jump line="80" column="35" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/styles/swap.css" />
+      <jump line="74" column="10" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/styles/swap.css" />
+      <jump line="89" column="237" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/styles/swap.css" />
+      <jump line="102" column="257" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/styles/swap.css" />
+      <jump line="644" column="12" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/app.js" />
+      <jump line="144" column="9" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/app.js" />
+      <jump line="2709" column="13" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/index.html" />
+      <jump line="2712" column="20" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/index.html" />
+      <jump line="2706" column="20" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/index.html" />
+      <jump line="2700" column="20" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/index.html" />
+      <jump line="2694" column="20" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/index.html" />
+      <jump line="2657" column="54" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/index.html" />
+      <jump line="381" column="0" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/app.js" />
+      <jump line="642" column="0" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/app.js" />
+      <jump line="643" column="8" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/app.js" />
+      <jump line="667" column="10" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/app.js" />
+      <jump line="2704" column="39" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/index.html" />
+      <jump line="130" column="8" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/app.js" />
+      <jump line="2097" column="44" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/index.html" />
+      <jump line="145" column="9" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/app.js" />
+      <jump line="258" column="26" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/app.js" />
+      <jump line="303" column="18" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/app.js" />
+      <jump line="743" column="19" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/app.js" />
+      <jump line="25" column="8" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/app.js" />
+      <jump line="398" column="0" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/app.js" />
+      <jump line="341" column="0" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/app.js" />
+      <jump line="443" column="25" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/app.js" />
+      <jump line="174" column="0" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/app.js" />
+      <jump line="166" column="8" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/app.js" />
+      <jump line="128" column="29" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/app.js" />
+      <jump line="781" column="0" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/app.js" />
+      <jump line="397" column="24" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/app.js" />
+      <jump line="680" column="53" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/app.js" />
+      <jump line="401" column="9" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/app.js" />
+      <jump line="168" column="35" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/app.js" />
+      <jump line="699" column="10" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/app.js" />
+      <jump line="165" column="0" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/app.js" />
+      <jump line="698" column="10" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/app.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJHJvb3RTY29wZS5nZXRMYXlvdXQoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -465,52 +445,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>'mobile'</text>
+        <text>totalSugarSavings</text>
       </register>
       <register name="/" type="4">
-        <text>Healthier Options</text>
+        <text>debugger</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRvQW5pbWF0aW9uKG9wdHMpOwo=</text>
+        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJHJvb3RTY29wZS5nZXRMYXlvdXQoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgIGZvbnQtc2l6ZTogM3JlbTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNsZWFyQW5pbWF0aW9ucyhzY29wZS5hbmltYXRpb25DYWNoZSk7CiAgICAgICAgICAgICAgICBzY29wZS5hbmltYXRpb25DYWNoZVtvcHRzLnNsaWRlVHlwZV0gPSBlbW9qaUFuaW1hdGlvbihlbGVtLCBvcHRzKS5kZXN0cm95KCkucnVuKCk7Cg==</text>
+        <text encoding="base64">ICAgIGZsb2F0OiByaWdodDsKICAgIGxpbmUtaGVpZ2h0OiA2MHB4Owo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICByZW1vdmVCZXZlcmFnZVNhdmVkKGRhdGFJZCk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICB2YXIgdG90YWxTdWdhclNhdmluZ3MgPSApOwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2coJ2Vtb2ppLXNwbGFzaCcpOwo=</text>
+      <register name="6" type="4">
+        <text>totalSugarSavings</text>
       </register>
-      <register name="7" type="4">
-        <text>'mobile'</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBzd2FwQmV2ZXJhZ2VSZWNvbW1lbmRhdGlvbihkYXRhSWQsICQodGhpcykuaHRtbCgpKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNsZWFyQW5pbWF0aW9ucyhzY29wZS5hbmltYXRpb25DYWNoZSk7CiAgICAgICAgICAgICAgICBzY29wZS5hbmltYXRpb25DYWNoZVsnZGVza3RvcCddID0gZW1vamlBbmltYXRpb24oZWxlbSwgb3B0cykuZGVzdHJveSgpLnJ1bigpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkcmVjb21tZW5kYXRpb24uYWRkQ2xhc3MoJ3NlbGVjdGVkJyk7Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAkYmV2ZXJhZ2VTZWxlY3Rpb24ucmVtb3ZlQ2xhc3MoJ3NlbGVjdGVkJyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Healthier Options</last-search>
+      <last-search>debugger</last-search>
       <last-offset />
-      <last-pattern>Healthier Options</last-pattern>
+      <last-pattern>debugger</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxzaG93UmVzdWx0c1w+</last-substitute>
       <last-dir>1</last-dir>
@@ -518,26 +498,26 @@
     </search>
     <history>
       <history-search>
-        <entry>effectsContainer</entry>
-        <entry>effectContain</entry>
-        <entry>clearAnimation</entry>
-        <entry encoding="base64">XDxkZXN0cm95XD4=</entry>
-        <entry>rootScope</entry>
-        <entry encoding="base64">XDxsYXlvdXRDaGFuZ2VcPg==</entry>
-        <entry encoding="base64">XDxhbmltYXRpb25DYWNoZVw+</entry>
-        <entry encoding="base64">XDxjbGVhckFuaW1hdGlvbnNcPg==</entry>
-        <entry>showSplash</entry>
-        <entry>nextPage</entry>
-        <entry>next(</entry>
-        <entry encoding="base64">XDxzaG93U3BsYXNoXD4=</entry>
-        <entry encoding="base64">XDxhY3RpdmVDbGFzc1w+</entry>
-        <entry>answer-panel</entry>
-        <entry encoding="base64">XDxlbW9qaUFuaW1hdGlvblw+</entry>
-        <entry encoding="base64">XDxnZXRMYXlvdXRcPg==</entry>
-        <entry>getLayout</entry>
-        <entry>healthier</entry>
-        <entry>button beverage</entry>
-        <entry>Healthier Options</entry>
+        <entry>Healthier Selec</entry>
+        <entry>recommendation-modal</entry>
+        <entry>close</entry>
+        <entry>beverage-rec</entry>
+        <entry>button.rec</entry>
+        <entry encoding="base64">XDxkYXRhSWRcPg==</entry>
+        <entry encoding="base64">XDxzd2FwQmV2ZXJhZ2VSZWNvbW1lbmRhdGlvblw+</entry>
+        <entry>beverage-name</entry>
+        <entry>placeholder</entry>
+        <entry encoding="base64">XDxnZXRCZXZlcmFnZVJlY29tbWVuZGF0aW9uRWxlbUJ5RGF0YUlkXD4=</entry>
+        <entry>beverage-recommendations</entry>
+        <entry encoding="base64">XDxyZWNvbW1lbmRhdGlvbnNcPg==</entry>
+        <entry encoding="base64">XDxzZXRCZXZlcmFnZVJlY29tbWVuZGF0aW9uXD4=</entry>
+        <entry encoding="base64">XDxzZXRHZW5lcmljQmV2ZXJhZ2VSZWNvbW1lbmRhdGlvblw+</entry>
+        <entry>remove</entry>
+        <entry>removeBev</entry>
+        <entry>swap</entry>
+        <entry>addBeverageSaved</entry>
+        <entry encoding="base64">XDxyZW1vdmVCZXZlcmFnZVNhdmVkXD4=</entry>
+        <entry>debugger</entry>
       </history-search>
       <history-cmd>
         <entry>57</entry>
