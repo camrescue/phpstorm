@@ -170,12 +170,12 @@
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/tobacco-affects-landing.php" timestamp="1466180641592">
         <mark key="'" line="41" column="12" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/emoji-splash.js" timestamp="1466614351177">
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/emoji-splash.js" timestamp="1466614842277">
         <mark key="'" line="76" column="67" />
-        <mark key="[" line="242" column="41" />
-        <mark key="]" line="242" column="42" />
-        <mark key="^" line="242" column="42" />
-        <mark key="." line="242" column="42" />
+        <mark key="[" line="229" column="40" />
+        <mark key="]" line="229" column="51" />
+        <mark key="." line="229" column="51" />
+        <mark key="^" line="229" column="51" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/parentalconsent_repo.php" timestamp="1465601708839">
         <mark key="'" line="43" column="107" />
@@ -261,11 +261,11 @@
       <file name="$USER_HOME$/Sites/Rescue/surveys/resources/assets/js/fluidSurvey.js" timestamp="1464281033012">
         <mark key="'" line="147" column="28" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/root.ctrl.js" timestamp="1466612792952">
-        <mark key="'" line="67" column="23" />
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="82" column="0" />
-        <mark key="." line="82" column="0" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/root.ctrl.js" timestamp="1466614680334">
+        <mark key="'" line="69" column="37" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/drupal-api/api/emoji-challenge.json" timestamp="1466032872058">
         <mark key="'" line="12" column="3" />
@@ -319,13 +319,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="142" column="0" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/app.js" />
-      <jump line="673" column="10" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/app.js" />
-      <jump line="768" column="18" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/app.js" />
-      <jump line="27" column="0" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/app.js" />
-      <jump line="10" column="12" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/app.js" />
-      <jump line="4" column="21" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/app.js" />
-      <jump line="765" column="0" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/app.js" />
       <jump line="11" column="12" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/app.js" />
       <jump line="5" column="8" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/app.js" />
       <jump line="25" column="34" filename="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/app.js" />
@@ -403,7 +396,6 @@
       <jump line="12" column="16" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/emoji-splash.js" />
       <jump line="92" column="16" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/root.ctrl.js" />
       <jump line="82" column="18" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/root.ctrl.js" />
-      <jump line="3" column="8" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/root.ctrl.js" />
       <jump line="2" column="30" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/emoji-splash.js" />
       <jump line="69" column="23" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/root.ctrl.js" />
       <jump line="207" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/emoji-splash.js" />
@@ -419,13 +411,21 @@
       <jump line="222" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/emoji-splash.js" />
       <jump line="76" column="67" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/emoji-splash.js" />
       <jump line="3157" column="22" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/bower_components/angular-animate/angular-animate.js" />
+      <jump line="3" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/root.ctrl.js" />
+      <jump line="31" column="5" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/root.ctrl.js" />
+      <jump line="40" column="7" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/root.ctrl.js" />
+      <jump line="42" column="15" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/root.ctrl.js" />
+      <jump line="53" column="5" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/root.ctrl.js" />
+      <jump line="60" column="13" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/root.ctrl.js" />
+      <jump line="74" column="5" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/root.ctrl.js" />
+      <jump line="77" column="37" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/root.ctrl.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>$rootScope.getLayout();</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -479,52 +479,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>$rootScope.getLayout();</text>
       </register>
       <register name="/" type="4">
-        <text>fwefw</text>
+        <text encoding="base64">XDxyb290U2NvcGVcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcnVuTGF5b3V0KGFuaW1hdGlvbkxheW91dCk7Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>)</text>
+        <text>$rootScope.getLayout();</text>
       </register>
       <register name="2" type="4">
-        <text>(</text>
+        <text>getWidth();</text>
       </register>
       <register name="3" type="4">
-        <text>)</text>
+        <text>;</text>
       </register>
       <register name="4" type="4">
-        <text>function () {</text>
+        <text>getWidth</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>$(window).width();</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfSk7Cg==</text>
+      <register name="6" type="4">
+        <text>rootScope.getLayout();</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAvL2Vtb2ppQW5pbWF0aW9uKGVsZW0sIG9wdHMpLmRlc3Ryb3koKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZnVuY3Rpb24gZ2V0Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhbmltYXRpb25DYWNoZS5kZXN0cm95KCk7CiAgICAgICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZnVuY3Rpb24gCgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>fwefw</last-search>
+      <last-search encoding="base64">XDxyb290U2NvcGVcPg==</last-search>
       <last-offset />
-      <last-pattern>fwefw</last-pattern>
+      <last-pattern encoding="base64">XDxyb290U2NvcGVcPg==</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxzaG93UmVzdWx0c1w+</last-substitute>
       <last-dir>1</last-dir>
@@ -532,7 +532,6 @@
     </search>
     <history>
       <history-search>
-        <entry>effectContainer</entry>
         <entry>emoji-questions</entry>
         <entry>static</entry>
         <entry>answer-panel</entry>
@@ -552,6 +551,7 @@
         <entry encoding="base64">XDxjdXJyZW50TGF5b3V0XD4=</entry>
         <entry encoding="base64">XDxkZXN0cm95XD4=</entry>
         <entry>fwefw</entry>
+        <entry encoding="base64">XDxyb290U2NvcGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>440</entry>
