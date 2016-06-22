@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1466629101821">
+      <file name="/a.dummy" timestamp="1466634265311">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/js/app.js" timestamp="1466545448268">
@@ -13,12 +13,12 @@
         <mark key="^" line="685" column="36" />
         <mark key="." line="685" column="36" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" timestamp="1466631653172">
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" timestamp="1466633944374">
         <mark key="'" line="930" column="31" />
-        <mark key="[" line="1111" column="16" />
-        <mark key="]" line="1111" column="20" />
-        <mark key="^" line="1111" column="20" />
-        <mark key="." line="1111" column="20" />
+        <mark key="[" line="1138" column="20" />
+        <mark key="]" line="1139" column="25" />
+        <mark key="^" line="1139" column="25" />
+        <mark key="." line="1139" column="25" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/views/user/application/table.php" timestamp="1464892227711">
         <mark key="'" line="48" column="25" />
@@ -53,6 +53,12 @@
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/js/libs.js" timestamp="1464805543115">
         <mark key="'" line="30" column="1" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/bower.json" timestamp="1466634213447">
+        <mark key="[" line="34" column="6" />
+        <mark key="]" line="37" column="1" />
+        <mark key="." line="37" column="1" />
+        <mark key="^" line="37" column="1" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/views/user/application/edit.php" timestamp="1464888093956">
         <mark key="[" line="229" column="94" />
@@ -319,11 +325,11 @@
         <mark key="." line="0" column="44" />
         <mark key="^" line="0" column="44" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/Gruntfile.js" timestamp="1466628694010">
-        <mark key="[" line="43" column="62" />
-        <mark key="]" line="44" column="56" />
-        <mark key="^" line="44" column="56" />
-        <mark key="." line="44" column="56" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/Gruntfile.js" timestamp="1466634188688">
+        <mark key="[" line="43" column="71" />
+        <mark key="]" line="36" column="43" />
+        <mark key="." line="36" column="43" />
+        <mark key="^" line="36" column="43" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/variables.less" timestamp="1466630307752" />
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/full-fact.ctrl.js" timestamp="1465321416829">
@@ -397,9 +403,6 @@
         <mark key="]" line="21" column="8" />
         <mark key="." line="21" column="8" />
         <mark key="^" line="21" column="8" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1466629101814">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/config.js" timestamp="1466458736364">
         <mark key="'" line="312" column="41" />
@@ -566,8 +569,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>absolute</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICJhbmltYXRlLmNzcyI6ICJeMy41LjIiLAogICAgIlNuYXAuc3ZnIjogInNuYXAuc3ZnI14wLjQuMSIK</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -621,43 +624,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>absolute</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxydW5MYXlvdXRcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHNjb3BlLnBsYXlTdG9yZUxpbmsgPSBzZXR0aW5ncy5wbGF5U3RvcmVMaW5rOwo=</text>
+        <text encoding="base64">ICAgICJhbmltYXRlLmNzcyI6ICJeMy41LjIiLAogICAgIlNuYXAuc3ZnIjogInNuYXAuc3ZnI14wLjQuMSIK</text>
       </register>
       <register name="1" type="4">
-        <text>absolute</text>
+        <text />
       </register>
       <register name="2" type="4">
         <text>absolute</text>
       </register>
       <register name="3" type="4">
-        <text>animationLayout</text>
+        <text>absolute</text>
       </register>
       <register name="4" type="4">
         <text>animationLayout</text>
       </register>
       <register name="5" type="4">
+        <text>animationLayout</text>
+      </register>
+      <register name="6" type="4">
         <text>layout</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2coJ2NoYW5nZScpOwo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbG9yOiBAYnJhbmQtbGlnaHQtYmx1ZTsK</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbG9yOiBAYnJhbmQtbGlnaHQtcGluazsK</text>
+        <text encoding="base64">ICAgIGNvbG9yOiBAYnJhbmQtbGlnaHQtYmx1ZTsK</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbG9yOiBAYnJhbmQtbGlnaHQtcHVycGxlOwo=</text>
+        <text encoding="base64">ICAgIGNvbG9yOiBAYnJhbmQtbGlnaHQtcGluazsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
