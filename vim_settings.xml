@@ -13,13 +13,13 @@
         <mark key="^" line="685" column="36" />
         <mark key="." line="685" column="36" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" timestamp="1466641661437">
-        <mark key="a" line="982" column="13" />
-        <mark key="'" line="94" column="109" />
-        <mark key="[" line="990" column="104" />
-        <mark key="]" line="990" column="109" />
-        <mark key="." line="990" column="109" />
-        <mark key="^" line="990" column="109" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" timestamp="1466660798650">
+        <mark key="a" line="960" column="13" />
+        <mark key="'" line="1211" column="0" />
+        <mark key="[" line="1112" column="12" />
+        <mark key="]" line="1112" column="15" />
+        <mark key="^" line="1112" column="15" />
+        <mark key="." line="1112" column="15" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/views/user/application/table.php" timestamp="1464892227711">
         <mark key="'" line="48" column="25" />
@@ -270,7 +270,7 @@
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/tobacco-affects-landing.php" timestamp="1466180641592">
         <mark key="'" line="41" column="12" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/emoji-splash.js" timestamp="1466642048825">
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/emoji-splash.js" timestamp="1466660819118">
         <mark key="'" line="16" column="29" />
         <mark key="[" line="52" column="32" />
         <mark key="]" line="52" column="32" />
@@ -502,9 +502,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="87" column="19" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/index.php" />
-      <jump line="16" column="52" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/index.php" />
-      <jump line="74" column="102" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/index.php" />
       <jump line="243" column="20" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/index.php" />
       <jump line="287" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/index.php" />
       <jump line="41" column="2" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/bower_components/animate.css/animate.css" />
@@ -602,13 +599,16 @@
       <jump line="94" column="109" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
       <jump line="189" column="34" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/emoji-splash.js" />
       <jump line="16" column="29" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/emoji-splash.js" />
+      <jump line="975" column="15" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
+      <jump line="855" column="36" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
+      <jump line="1211" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>auto</text>
+        <text>100%;</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -662,52 +662,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>auto</text>
+        <text>100%;</text>
       </register>
       <register name="/" type="4">
-        <text>Count</text>
+        <text>pagewrap</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAiYXBwRG93bmxvYWQiOiB0cnVlCg==</text>
       </register>
       <register name="1" type="4">
-        <text>auto</text>
+        <text>100%;</text>
       </register>
-      <register name="2" type="4">
-        <text>50px</text>
-      </register>
-      <register name="3" type="4">
-        <text>right</text>
-      </register>
-      <register name="4" type="4">
-        <text>right</text>
-      </register>
-      <register name="5" type="4">
-        <text>40px;</text>
-      </register>
-      <register name="6" type="2">
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>40px;</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      <register name="4" type="4">
+        <text />
+      </register>
+      <register name="5" type="4">
+        <text>auto</text>
+      </register>
+      <register name="6" type="4">
+        <text>50px</text>
+      </register>
+      <register name="7" type="4">
+        <text>right</text>
+      </register>
+      <register name="8" type="4">
+        <text>right</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>40px;</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Count</last-search>
+      <last-search>pagewrap</last-search>
       <last-offset />
-      <last-pattern>Count</last-pattern>
+      <last-pattern>pagewrap</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxzaG93UmVzdWx0c1w+</last-substitute>
       <last-dir>1</last-dir>
@@ -715,7 +715,6 @@
     </search>
     <history>
       <history-search>
-        <entry>color</entry>
         <entry>emoji-plash</entry>
         <entry>emoji-splash</entry>
         <entry encoding="base64">XDxmaWxsXD4=</entry>
@@ -735,6 +734,7 @@
         <entry>h2</entry>
         <entry>appstore</entry>
         <entry>Count</entry>
+        <entry>pagewrap</entry>
       </history-search>
       <history-cmd>
         <entry>440</entry>
