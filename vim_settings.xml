@@ -183,11 +183,11 @@
         <mark key="." line="1" column="52" />
         <mark key="^" line="1" column="52" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" timestamp="1466679732929">
-        <mark key="[" line="242" column="84" />
-        <mark key="]" line="242" column="84" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" timestamp="1466695627955">
+        <mark key="[" line="309" column="0" />
+        <mark key="]" line="309" column="0" />
         <mark key="^" line="264" column="91" />
-        <mark key="." line="242" column="84" />
+        <mark key="." line="309" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/PageMeta.js" timestamp="1465358377290">
         <mark key="'" line="16" column="8" />
@@ -613,8 +613,8 @@
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciB0bCA9IG5ldyBUaW1lbGluZUxpdGUoKTsK</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -676,8 +676,8 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGwudG8oWyR0aXRsZV0sIDEsIHthdXRvQWxwaGE6IDEsIGVhc2U6IFBvd2VyMS5lYXNlT3V0fSwgJzAuNScpOwogICAgICAgICAgICAgICAgICAgICAgICB0bC50byhbJGltZ10sIDEsIHthdXRvQWxwaGE6IDEsIGVhc2U6IFBvd2VyMS5lYXNlT3V0fSwgJzAuNScpOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text>;</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciB0bCA9IG5ldyBUaW1lbGluZUxpdGUoKTsK</text>
       </register>
       <register name="2" type="4">
         <text>;</text>
@@ -686,19 +686,19 @@
         <text>;</text>
       </register>
       <register name="4" type="4">
-        <text>tl</text>
+        <text>;</text>
       </register>
       <register name="5" type="4">
         <text>tl</text>
       </register>
       <register name="6" type="4">
-        <text>.</text>
-      </register>
-      <register name="7" type="4">
         <text>tl</text>
       </register>
+      <register name="7" type="4">
+        <text>.</text>
+      </register>
       <register name="8" type="4">
-        <text>;</text>
+        <text>tl</text>
       </register>
       <register name="x" type="4">
         <text />
