@@ -14,12 +14,12 @@
         <mark key="." line="685" column="36" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" timestamp="1466660798650">
-        <mark key="a" line="960" column="13" />
-        <mark key="'" line="1211" column="0" />
-        <mark key="[" line="1112" column="12" />
-        <mark key="]" line="1112" column="15" />
-        <mark key="^" line="1112" column="15" />
-        <mark key="." line="1112" column="15" />
+        <mark key="a" line="982" column="13" />
+        <mark key="'" line="1233" column="0" />
+        <mark key="[" line="1134" column="12" />
+        <mark key="]" line="1134" column="15" />
+        <mark key="^" line="1134" column="15" />
+        <mark key="." line="1134" column="15" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/views/user/application/table.php" timestamp="1464892227711">
         <mark key="'" line="48" column="25" />
@@ -270,12 +270,12 @@
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/tobacco-affects-landing.php" timestamp="1466180641592">
         <mark key="'" line="41" column="12" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/emoji-splash.js" timestamp="1466660819118">
-        <mark key="'" line="16" column="29" />
-        <mark key="[" line="52" column="32" />
-        <mark key="]" line="52" column="32" />
-        <mark key="^" line="52" column="32" />
-        <mark key="." line="52" column="32" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/emoji-splash.js" timestamp="1466663567488">
+        <mark key="'" line="155" column="22" />
+        <mark key="[" line="73" column="20" />
+        <mark key="]" line="73" column="26" />
+        <mark key="^" line="73" column="26" />
+        <mark key="." line="73" column="26" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/surveys/app/Http/Controllers/CountryLifeVTController.php" timestamp="1465255174378">
         <mark key="[" line="17" column="45" />
@@ -502,12 +502,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="243" column="20" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/index.php" />
-      <jump line="287" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/index.php" />
-      <jump line="41" column="2" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/bower_components/animate.css/animate.css" />
-      <jump line="64" column="95" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/index.php" />
-      <jump line="188" column="8" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
-      <jump line="723" column="19" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
       <jump line="56" column="41" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/emoji-splash.js" />
       <jump line="185" column="17" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/emoji-splash.js" />
       <jump line="1069" column="42" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
@@ -602,13 +596,19 @@
       <jump line="975" column="15" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
       <jump line="855" column="36" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
       <jump line="1211" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
+      <jump line="71" column="36" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/emoji-splash.js" />
+      <jump line="145" column="30" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/emoji-splash.js" />
+      <jump line="151" column="56" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/emoji-splash.js" />
+      <jump line="152" column="48" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/emoji-splash.js" />
+      <jump line="3" column="31" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/emoji-splash.js" />
+      <jump line="155" column="22" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/emoji-splash.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>100%;</text>
+        <text>li.</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -662,52 +662,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>100%;</text>
+        <text>li.</text>
       </register>
       <register name="/" type="4">
-        <text>pagewrap</text>
+        <text encoding="base64">XDxydW5cPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAiYXBwRG93bmxvYWQiOiB0cnVlCg==</text>
       </register>
       <register name="1" type="4">
-        <text>100%;</text>
+        <text>li.</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB0bAo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgCg==</text>
+      <register name="3" type="4">
+        <text encoding="base64">dmFyIA==</text>
       </register>
-      <register name="4" type="4">
-        <text />
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgdGwgPSBuZXcgVGltZWxpbmVMaXRlKCk7Cg==</text>
       </register>
       <register name="5" type="4">
-        <text>auto</text>
+        <text>$</text>
       </register>
       <register name="6" type="4">
-        <text>50px</text>
+        <text>Lin</text>
       </register>
       <register name="7" type="4">
-        <text>right</text>
+        <text>100%;</text>
       </register>
-      <register name="8" type="4">
-        <text>right</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
-      <register name="9" type="4">
-        <text>40px;</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>pagewrap</last-search>
+      <last-search encoding="base64">XDxydW5cPg==</last-search>
       <last-offset />
-      <last-pattern>pagewrap</last-pattern>
+      <last-pattern encoding="base64">XDxydW5cPg==</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxzaG93UmVzdWx0c1w+</last-substitute>
       <last-dir>1</last-dir>
@@ -715,8 +715,6 @@
     </search>
     <history>
       <history-search>
-        <entry>emoji-plash</entry>
-        <entry>emoji-splash</entry>
         <entry encoding="base64">XDxmaWxsXD4=</entry>
         <entry>body</entry>
         <entry encoding="base64">XDxydW5MYXlvdXRcPg==</entry>
@@ -735,6 +733,8 @@
         <entry>appstore</entry>
         <entry>Count</entry>
         <entry>pagewrap</entry>
+        <entry encoding="base64">XDxydW5TbGlkZXJcPg==</entry>
+        <entry encoding="base64">XDxydW5cPg==</entry>
       </history-search>
       <history-cmd>
         <entry>440</entry>
