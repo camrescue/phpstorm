@@ -13,12 +13,12 @@
         <mark key="^" line="685" column="36" />
         <mark key="." line="685" column="36" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" timestamp="1466720694554">
-        <mark key="'" line="12" column="24" />
-        <mark key="[" line="1023" column="14" />
-        <mark key="]" line="1023" column="15" />
-        <mark key="." line="1023" column="15" />
-        <mark key="^" line="13" column="32" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" timestamp="1466722398384">
+        <mark key="'" line="16" column="19" />
+        <mark key="[" line="364" column="66" />
+        <mark key="]" line="364" column="75" />
+        <mark key="." line="364" column="75" />
+        <mark key="^" line="364" column="75" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/views/user/application/table.php" timestamp="1464892227711">
         <mark key="'" line="48" column="25" />
@@ -402,7 +402,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="27" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/emoji-splash.js" />
       <jump line="21" column="22" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/emoji-splash.js" />
       <jump line="96" column="41" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/emoji-splash.js" />
       <jump line="95" column="20" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/emoji-splash.js" />
@@ -502,13 +501,14 @@
       <jump line="125" column="51" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
       <jump line="12" column="24" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
       <jump line="184" column="10" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/drupal-api/api/emoji-challenge.json" />
+      <jump line="16" column="19" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>4</text>
+        <text>3</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -562,34 +562,34 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>4</text>
+        <text>3</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzbGlkZXJEb25lXD4=</text>
+        <text>question-3</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBlYXNlOiBQb3dlcjIuZWFzZU91dCwK</text>
       </register>
       <register name="1" type="4">
+        <text>3</text>
+      </register>
+      <register name="2" type="4">
         <text>4</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>;</text>
       </register>
-      <register name="4" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy9hcGkucnVuU3ZnKCk7Cg==</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZWJ1Z2dlcjsK</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybjsK</text>
-      </register>
-      <register name="7" type="4">
-        <text>white</text>
       </register>
       <register name="8" type="4">
         <text>white</text>
@@ -605,17 +605,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzbGlkZXJEb25lXD4=</last-search>
+      <last-search>question-3</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzbGlkZXJEb25lXD4=</last-pattern>
+      <last-pattern>question-3</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxzaG93UmVzdWx0c1w+</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>js-ripple</entry>
         <entry>animated</entry>
         <entry>img-container</entry>
         <entry>facebook</entry>
@@ -635,6 +634,7 @@
         <entry>question-panel</entry>
         <entry>emoji-questions</entry>
         <entry encoding="base64">XDxzbGlkZXJEb25lXD4=</entry>
+        <entry>question-3</entry>
       </history-search>
       <history-cmd>
         <entry>440</entry>
