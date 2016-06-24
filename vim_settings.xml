@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1466784556434">
+      <file name="/a.dummy" timestamp="1466789644482">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/partials/tfl-popover.php" timestamp="1465408295841">
@@ -18,12 +18,12 @@
         <mark key="^" line="85" column="99" />
         <mark key="." line="85" column="99" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" timestamp="1466725875016">
-        <mark key="'" line="793" column="35" />
-        <mark key="[" line="361" column="66" />
-        <mark key="]" line="361" column="69" />
-        <mark key="." line="361" column="69" />
-        <mark key="^" line="361" column="69" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" timestamp="1466789466527">
+        <mark key="'" line="367" column="66" />
+        <mark key="[" line="367" column="57" />
+        <mark key="]" line="367" column="59" />
+        <mark key="." line="367" column="59" />
+        <mark key="^" line="367" column="59" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/partials/poll.php" timestamp="1465334954724">
         <mark key="'" line="53" column="43" />
@@ -247,13 +247,13 @@
         <mark key="^" line="6" column="21" />
         <mark key="." line="6" column="22" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" timestamp="1466720681862">
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" timestamp="1466789151815">
         <mark key="a" line="238" column="26" />
-        <mark key="'" line="125" column="51" />
-        <mark key="[" line="236" column="0" />
-        <mark key="]" line="236" column="0" />
-        <mark key="^" line="236" column="34" />
-        <mark key="." line="236" column="0" />
+        <mark key="'" line="35" column="39" />
+        <mark key="[" line="254" column="0" />
+        <mark key="]" line="254" column="0" />
+        <mark key="^" line="239" column="93" />
+        <mark key="." line="254" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/PageMeta.js" timestamp="1465358377290">
         <mark key="'" line="16" column="8" />
@@ -273,6 +273,9 @@
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/index.php" timestamp="1466627875820">
         <mark key="'" line="87" column="19" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/tobacco-affects.php" timestamp="1466788703627">
+        <mark key="'" line="33" column="53" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/config.js" timestamp="1466717111150">
         <mark key="'" line="299" column="22" />
@@ -360,10 +363,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="226" column="24" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/emoji-splash.js" />
-      <jump line="6" column="34" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/emoji-splash.js" />
-      <jump line="181" column="60" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/emoji-splash.js" />
-      <jump line="16" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/emoji-splash.js" />
       <jump line="57" column="20" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/emoji-splash.js" />
       <jump line="121" column="35" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/emoji-splash.js" />
       <jump line="115" column="22" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
@@ -460,13 +459,17 @@
       <jump line="152" column="48" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/emoji-splash.js" />
       <jump line="54" column="20" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/emoji-splash.js" />
       <jump line="85" column="49" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/emoji-splash.js" />
+      <jump line="33" column="53" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/tobacco-affects.php" />
+      <jump line="35" column="39" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
+      <jump line="383" column="2" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
+      <jump line="367" column="66" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>true</text>
+        <text>question-wig</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -520,60 +523,59 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text>question-wig</text>
       </register>
       <register name="/" type="4">
-        <text>activeClass</text>
+        <text>wig</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBtYXJnaW4tbGVmdDogYXV0bzsK</text>
       </register>
       <register name="1" type="4">
-        <text>true</text>
+        <text>question-wig</text>
       </register>
-      <register name="2" type="4">
-        <text>2</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBiYWNrZ3JvdW5kLXBvc2l0aW9uLXg6IC0xM3B4Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy90bC5zdGFnZ2VyVG8oZWxlbS5maW5kKCcuZmFkZUluJyksIDEsIHthdXRvQWxwaGE6IDEsIGVhc2U6IFBvd2VyMS5lYXNlT3V0fSwgMC4zKTsK</text>
       </register>
-      <register name="4" type="4">
-        <text>-</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC8vdGwuc3RhZ2dlclRvKGVsZW0uZmluZCgnLmZhZGVJbicpLCAxLCB7YXV0b0FscGhhOiAxLCBlYXNlOiBQb3dlcjEuZWFzZU91dH0sIDAuMywgJys9MS41Jyk7Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>'</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>'</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>'</text>
       </register>
       <register name="8" type="4">
-        <text>left</text>
+        <text>'</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="4">
-        <text>o</text>
+        <text>'</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>activeClass</last-search>
+      <last-search>wig</last-search>
       <last-offset />
-      <last-pattern>activeClass</last-pattern>
+      <last-pattern>wig</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxzaG93UmVzdWx0c1w+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxmYlBpeGVsRXZlbnRcPg==</entry>
         <entry>pixel</entry>
         <entry encoding="base64">XDxkZWxheVBhZ2VSZWFkeVw+</entry>
         <entry encoding="base64">XDxyZXNldExheW91dFw+</entry>
@@ -593,11 +595,11 @@
         <entry>facts</entry>
         <entry>bodyClass</entry>
         <entry>activeClass</entry>
+        <entry>wig</entry>
       </history-search>
       <history-cmd>
         <entry>440</entry>
         <entry>1482</entry>
-        <entry>:w</entry>
         <entry>w::w</entry>
         <entry>638</entry>
         <entry>ew</entry>
@@ -614,6 +616,7 @@
         <entry>W</entry>
         <entry>w:w</entry>
         <entry>qw</entry>
+        <entry>:w</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
