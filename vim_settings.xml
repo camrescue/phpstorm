@@ -201,11 +201,11 @@
       <file name="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_screen/src/main.js" timestamp="1464975703807">
         <mark key="'" line="463" column="34" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/partials/share-button.php" timestamp="1466800605730">
-        <mark key="[" line="18" column="110" />
-        <mark key="]" line="18" column="110" />
-        <mark key="^" line="18" column="110" />
-        <mark key="." line="18" column="110" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/partials/share-button.php" timestamp="1466807843746">
+        <mark key="[" line="18" column="77" />
+        <mark key="]" line="18" column="82" />
+        <mark key="^" line="18" column="82" />
+        <mark key="." line="18" column="82" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/language/english/branded_lang.php" timestamp="1464888481918">
         <mark key="[" line="68" column="39" />
@@ -253,13 +253,13 @@
         <mark key="^" line="6" column="21" />
         <mark key="." line="6" column="22" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" timestamp="1466789151815">
-        <mark key="a" line="238" column="26" />
-        <mark key="'" line="35" column="39" />
-        <mark key="[" line="254" column="0" />
-        <mark key="]" line="254" column="0" />
-        <mark key="^" line="239" column="93" />
-        <mark key="." line="254" column="0" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" timestamp="1466808066463">
+        <mark key="a" line="242" column="26" />
+        <mark key="'" line="183" column="0" />
+        <mark key="[" line="79" column="26" />
+        <mark key="]" line="79" column="43" />
+        <mark key="." line="79" column="43" />
+        <mark key="^" line="79" column="43" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/PageMeta.js" timestamp="1465358377290">
         <mark key="'" line="16" column="8" />
@@ -267,12 +267,12 @@
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/PopOver.js" timestamp="1466182255057">
         <mark key="'" line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/drupal-api/api/emoji-challenge.json" timestamp="1466805663639">
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/drupal-api/api/emoji-challenge.json" timestamp="1466807755202">
         <mark key="'" line="195" column="15" />
-        <mark key="[" line="175" column="23" />
-        <mark key="]" line="175" column="214" />
-        <mark key="^" line="175" column="214" />
-        <mark key="." line="175" column="214" />
+        <mark key="[" line="36" column="21" />
+        <mark key="]" line="36" column="21" />
+        <mark key="^" line="36" column="21" />
+        <mark key="." line="36" column="21" />
       </file>
       <file name="/Dummy.txt" timestamp="1466805728216">
         <mark key="[" line="0" column="0" />
@@ -366,11 +366,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="274" column="16" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
-      <jump line="67" column="48" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/emoji-splash.js" />
-      <jump line="281" column="47" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
-      <jump line="5" column="34" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
-      <jump line="275" column="43" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
       <jump line="4" column="41" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
       <jump line="269" column="15" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
       <jump line="1164" column="26" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
@@ -466,13 +461,18 @@
       <jump line="200" column="4" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/drupal-api/api/emoji-challenge.json" />
       <jump line="36" column="29" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/drupal-api/api/emoji-challenge.json" />
       <jump line="195" column="15" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/drupal-api/api/emoji-challenge.json" />
+      <jump line="259" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
+      <jump line="41" column="54" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
+      <jump line="74" column="19" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
+      <jump line="183" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">SnVzdCBldCBhbC4gMjAwNzsgT3J0aXogJiBHcmFuZG8gMjAxMjsgVVNESEhTIENvbnN1bWVyIEJvb2tsZXQgMjAxMCwgcC41OyBVU0RISFMgRmFjdCBTaGVldCAyMDEwOyBVcmJhbnNrYSBldCBhbC4gMjAxMjsgV2F0dHMgJiBBZGR5IDIwMDE=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -526,52 +526,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">SnVzdCBldCBhbC4gMjAwNzsgT3J0aXogJiBHcmFuZG8gMjAxMjsgVVNESEhTIENvbnN1bWVyIEJvb2tsZXQgMjAxMCwgcC41OyBVU0RISFMgRmFjdCBTaGVldCAyMDEwOyBVcmJhbnNrYSBldCBhbC4gMjAxMjsgV2F0dHMgJiBBZGR5IDIwMDE=</text>
+        <text>UrlTumblr</text>
       </register>
       <register name="/" type="4">
-        <text>Get the</text>
+        <text>tum</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBtYXJnaW4tbGVmdDogYXV0bzsK</text>
+        <text encoding="base64">ICAgICAgICAic2hhcmUiOiB0cnVlCg==</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">SnVzdCBldCBhbC4gMjAwNzsgT3J0aXogJiBHcmFuZG8gMjAxMjsgVVNESEhTIENvbnN1bWVyIEJvb2tsZXQgMjAxMCwgcC41OyBVU0RISFMgRmFjdCBTaGVldCAyMDEwOyBVcmJhbnNrYSBldCBhbC4gMjAxMjsgV2F0dHMgJiBBZGR5IDIwMDE=</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">SnVzdCBldCBhbC4gMjAwNzsgT3J0aXogJiBHcmFuZG8gMjAxMjsgVVNESEhTIENvbnN1bWVyIEJvb2tsZXQgMjAxMCwgcC41OyBVU0RISFMgRmFjdCBTaGVldCAyMDEwOyBVcmJhbnNrYSBldCBhbC4gMjAxMjsgV2F0dHMgJiBBZGR5IDIwMDE=</text>
+        <text>UrlTumblr</text>
       </register>
       <register name="3" type="4">
-        <text>USDHHS Consumer Booklet 2012, p.4; USDHHS Consumer Booklet 2010, p.5; Waters et al. 2006</text>
+        <text>UrlTumblr</text>
       </register>
       <register name="4" type="4">
-        <text>USDHHS Consumer Booklet 2012, p.4; USDHHS Consumer Booklet 2010, p.5; Waters et al. 2006</text>
+        <text>shareUrl</text>
       </register>
       <register name="5" type="4">
-        <text>USDHHS Consumer Booklet 2010, p.5</text>
+        <text>)</text>
       </register>
       <register name="6" type="4">
-        <text>USDHHS Consumer Booklet 2010, p.5</text>
+        <text encoding="base64">SnVzdCBldCBhbC4gMjAwNzsgT3J0aXogJiBHcmFuZG8gMjAxMjsgVVNESEhTIENvbnN1bWVyIEJvb2tsZXQgMjAxMCwgcC41OyBVU0RISFMgRmFjdCBTaGVldCAyMDEwOyBVcmJhbnNrYSBldCBhbC4gMjAxMjsgV2F0dHMgJiBBZGR5IDIwMDE=</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">QWdha3UgZXQgYWwuIDIwMTQsIHAuNTQzOyBHYXRlcyAmIE5ld3BvcnQgMjAxMjsgVVNESEhTIDIwMTQ=</text>
+        <text encoding="base64">SnVzdCBldCBhbC4gMjAwNzsgT3J0aXogJiBHcmFuZG8gMjAxMjsgVVNESEhTIENvbnN1bWVyIEJvb2tsZXQgMjAxMCwgcC41OyBVU0RISFMgRmFjdCBTaGVldCAyMDEwOyBVcmJhbnNrYSBldCBhbC4gMjAxMjsgV2F0dHMgJiBBZGR5IDIwMDE=</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">QWdha3UgZXQgYWwuIDIwMTQsIHAuNTQzOyBHYXRlcyAmIE5ld3BvcnQgMjAxMjsgVVNESEhTIDIwMTQ=</text>
+        <text>USDHHS Consumer Booklet 2012, p.4; USDHHS Consumer Booklet 2010, p.5; Waters et al. 2006</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="4">
-        <text>new</text>
+        <text>USDHHS Consumer Booklet 2012, p.4; USDHHS Consumer Booklet 2010, p.5; Waters et al. 2006</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>Get the</last-search>
+      <last-search>tum</last-search>
       <last-offset />
-      <last-pattern>Get the</last-pattern>
+      <last-pattern>tum</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxzaG93UmVzdWx0c1w+</last-substitute>
       <last-dir>1</last-dir>
@@ -579,8 +579,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkZWxheVBhZ2VSZWFkeVw+</entry>
-        <entry encoding="base64">XDxyZXNldExheW91dFw+</entry>
         <entry>Pixel</entry>
         <entry encoding="base64">XDxsb2FkUGl4ZWxcPg==</entry>
         <entry>setLoader</entry>
@@ -599,6 +597,8 @@
         <entry>activeClass</entry>
         <entry>wig</entry>
         <entry>Get the</entry>
+        <entry>share</entry>
+        <entry>tum</entry>
       </history-search>
       <history-cmd>
         <entry>440</entry>
