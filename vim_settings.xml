@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1466805728224">
+      <file name="/a.dummy" timestamp="1466812661739">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/partials/tfl-popover.php" timestamp="1465408295841">
@@ -100,11 +100,11 @@
         <mark key="." line="37" column="1" />
         <mark key="^" line="37" column="1" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/share-button.js" timestamp="1466637356054">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
-        <mark key="^" line="29" column="31" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/share-button.js" timestamp="1466814080042">
+        <mark key="[" line="9" column="45" />
+        <mark key="]" line="10" column="24" />
+        <mark key="." line="10" column="24" />
+        <mark key="^" line="10" column="24" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/views/user/application/edit.php" timestamp="1464888093956">
         <mark key="[" line="229" column="94" />
@@ -201,7 +201,7 @@
       <file name="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_screen/src/main.js" timestamp="1464975703807">
         <mark key="'" line="463" column="34" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/partials/share-button.php" timestamp="1466807843746">
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/partials/share-button.php" timestamp="1466813073675">
         <mark key="[" line="18" column="77" />
         <mark key="]" line="18" column="82" />
         <mark key="^" line="18" column="82" />
@@ -231,6 +231,9 @@
       <file name="$USER_HOME$/Sites/Rescue/helix/application/libraries/ReportingBase.php" timestamp="1465598411593">
         <mark key="'" line="462" column="24" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/PageShare.js" timestamp="1466812861841">
+        <mark key="'" line="62" column="39" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/tester/circles/sprites.svg" timestamp="1464933647162">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="4" />
@@ -253,13 +256,12 @@
         <mark key="^" line="6" column="21" />
         <mark key="." line="6" column="22" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" timestamp="1466808066463">
-        <mark key="a" line="242" column="26" />
-        <mark key="'" line="183" column="0" />
-        <mark key="[" line="79" column="26" />
-        <mark key="]" line="79" column="43" />
-        <mark key="." line="79" column="43" />
-        <mark key="^" line="79" column="43" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" timestamp="1466813972870">
+        <mark key="a" line="247" column="26" />
+        <mark key="'" line="78" column="16" />
+        <mark key="[" line="93" column="0" />
+        <mark key="]" line="93" column="0" />
+        <mark key="." line="93" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/PageMeta.js" timestamp="1465358377290">
         <mark key="'" line="16" column="8" />
@@ -286,6 +288,9 @@
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/tobacco-affects.php" timestamp="1466788703627">
         <mark key="'" line="33" column="53" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/config.js" timestamp="1466812452450">
+        <mark key="'" line="321" column="9" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/models/entities/Organization.php" timestamp="1466018391367">
         <mark key="'" line="25" column="20" />
       </file>
@@ -301,8 +306,8 @@
       <file name="$USER_HOME$/Sites/Rescue/helix/application/controllers/milestones.php" timestamp="1466022563699">
         <mark key="'" line="61" column="8" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/routes.js" timestamp="1466726049457">
-        <mark key="'" line="40" column="25" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/routes.js" timestamp="1466812472819">
+        <mark key="'" line="35" column="31" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/bower_components/angular-masonry/angular-masonry.js" timestamp="1464930868654">
         <mark key="'" line="7" column="47" />
@@ -366,27 +371,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="41" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
-      <jump line="269" column="15" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
-      <jump line="1164" column="26" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
-      <jump line="292" column="31" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
-      <jump line="316" column="4" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
-      <jump line="186" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
-      <jump line="251" column="25" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
-      <jump line="14" column="63" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/emoji-challenge.php" />
-      <jump line="19" column="6" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
-      <jump line="265" column="31" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
-      <jump line="7" column="16" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
-      <jump line="65" column="43" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
-      <jump line="8" column="16" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
-      <jump line="296" column="31" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
-      <jump line="27" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
-      <jump line="134" column="19" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
-      <jump line="184" column="2" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
-      <jump line="1062" column="4" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
-      <jump line="146" column="11" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
-      <jump line="141" column="20" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
-      <jump line="1051" column="8" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
       <jump line="1045" column="4" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
       <jump line="1108" column="35" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
       <jump line="159" column="2" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
@@ -464,15 +448,36 @@
       <jump line="259" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
       <jump line="41" column="54" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
-      <jump line="74" column="19" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
       <jump line="183" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
+      <jump line="74" column="46" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
+      <jump line="33" column="22" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/config.js" />
+      <jump line="37" column="45" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/config.js" />
+      <jump line="43" column="9" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/config.js" />
+      <jump line="321" column="9" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/config.js" />
+      <jump line="35" column="31" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/routes.js" />
+      <jump line="130" column="21" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/PageShare.js" />
+      <jump line="131" column="21" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/PageShare.js" />
+      <jump line="161" column="39" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/PageShare.js" />
+      <jump line="176" column="37" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/PageShare.js" />
+      <jump line="62" column="39" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/PageShare.js" />
+      <jump line="5" column="65" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
+      <jump line="11" column="31" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
+      <jump line="6" column="12" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
+      <jump line="269" column="5" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
+      <jump line="7" column="23" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
+      <jump line="268" column="4" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
+      <jump line="277" column="21" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
+      <jump line="80" column="22" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
+      <jump line="76" column="30" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
+      <jump line="84" column="38" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
+      <jump line="78" column="16" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHVtYmxyU2hhcmUgPSAK</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -526,66 +531,59 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>UrlTumblr</text>
+        <text>tumblrShare;</text>
       </register>
       <register name="/" type="4">
-        <text>tum</text>
+        <text encoding="base64">XDx0dW1ibHJTaGFyZU9wdHNcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAic2hhcmUiOiB0cnVlCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdHVtYmxyU2hhcmUgPSAK</text>
       </register>
       <register name="2" type="4">
-        <text>UrlTumblr</text>
+        <text>tumblrShare;</text>
       </register>
       <register name="3" type="4">
-        <text>UrlTumblr</text>
+        <text>_.mapValues(tumblrShareOpts, encodeURIComponent);</text>
       </register>
-      <register name="4" type="4">
-        <text>shareUrl</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdHVtYmxyU2hhcmUgPSBfLm1hcFZhbHVlcyh0dW1ibHJTaGFyZU9wdHMsIGVuY29kZVVSSUNvbXBvbmVudCk7CiAgICAgICAgICAgICRzY29wZS5zaGFyZS50dW1ibHIgPSB0dW1ibHJTaGFyZTsK</text>
       </register>
       <register name="5" type="4">
-        <text>)</text>
+        <text>encodeURIComponent(tumblrShare);</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">SnVzdCBldCBhbC4gMjAwNzsgT3J0aXogJiBHcmFuZG8gMjAxMjsgVVNESEhTIENvbnN1bWVyIEJvb2tsZXQgMjAxMCwgcC41OyBVU0RISFMgRmFjdCBTaGVldCAyMDEwOyBVcmJhbnNrYSBldCBhbC4gMjAxMjsgV2F0dHMgJiBBZGR5IDIwMDE=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">SnVzdCBldCBhbC4gMjAwNzsgT3J0aXogJiBHcmFuZG8gMjAxMjsgVVNESEhTIENvbnN1bWVyIEJvb2tsZXQgMjAxMCwgcC41OyBVU0RISFMgRmFjdCBTaGVldCAyMDEwOyBVcmJhbnNrYSBldCBhbC4gMjAxMjsgV2F0dHMgJiBBZGR5IDIwMDE=</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="8" type="4">
-        <text>USDHHS Consumer Booklet 2012, p.4; USDHHS Consumer Booklet 2010, p.5; Waters et al. 2006</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="4">
-        <text>USDHHS Consumer Booklet 2012, p.4; USDHHS Consumer Booklet 2010, p.5; Waters et al. 2006</text>
+        <text>tumblrShare;</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>tum</last-search>
+      <last-search encoding="base64">XDx0dW1ibHJTaGFyZU9wdHNcPg==</last-search>
       <last-offset />
-      <last-pattern>tum</last-pattern>
+      <last-pattern encoding="base64">XDx0dW1ibHJTaGFyZU9wdHNcPg==</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxzaG93UmVzdWx0c1w+</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Pixel</entry>
-        <entry encoding="base64">XDxsb2FkUGl4ZWxcPg==</entry>
-        <entry>setLoader</entry>
-        <entry encoding="base64">XDxhY3RpdmVDbGFzc1w+</entry>
-        <entry>Loader</entry>
-        <entry encoding="base64">XDxzZXRMb2FkZXJcPg==</entry>
-        <entry encoding="base64">XDxhbmltYXRlVG9cPg==</entry>
         <entry encoding="base64">XDxydW5TbGlkZXJcPg==</entry>
         <entry>question-panel</entry>
         <entry>emoji-questions</entry>
@@ -597,8 +595,15 @@
         <entry>activeClass</entry>
         <entry>wig</entry>
         <entry>Get the</entry>
-        <entry>share</entry>
         <entry>tum</entry>
+        <entry>emoji</entry>
+        <entry encoding="base64">XDxzaGFyZUZhY2Vib29rXD4=</entry>
+        <entry encoding="base64">XDxzaGFyZVR1bWJsclw+</entry>
+        <entry>location</entry>
+        <entry>share</entry>
+        <entry encoding="base64">XDxzaGFyZVBhdGhcPg==</entry>
+        <entry encoding="base64">XDw7XD4=</entry>
+        <entry encoding="base64">XDx0dW1ibHJTaGFyZU9wdHNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>440</entry>
