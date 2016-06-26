@@ -52,8 +52,8 @@
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/tobacco-affects-landing.php" timestamp="1466180641592">
         <mark key="'" line="41" column="12" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/emoji-splash.js" timestamp="1466727377327">
-        <mark key="'" line="85" column="49" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/emoji-splash.js" timestamp="1466910330167">
+        <mark key="'" line="23" column="22" />
         <mark key="[" line="152" column="31" />
         <mark key="]" line="152" column="32" />
         <mark key="^" line="169" column="27" />
@@ -88,6 +88,13 @@
       <file name="$USER_HOME$/Sites/Rescue/helix/application/controllers/organizations.php" timestamp="1466018600148">
         <mark key="'" line="161" column="39" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/drupal_translators/EmojiChallengeTranslator.js" timestamp="1466915891441">
+        <mark key="'" line="95" column="21" />
+        <mark key="[" line="112" column="0" />
+        <mark key="]" line="112" column="0" />
+        <mark key="^" line="109" column="43" />
+        <mark key="." line="112" column="0" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/files/surveys/ftn_signup.json" timestamp="1464544789490">
         <mark key="'" line="35" column="20" />
       </file>
@@ -100,11 +107,9 @@
         <mark key="." line="37" column="1" />
         <mark key="^" line="37" column="1" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/share-button.js" timestamp="1466880725173">
-        <mark key="'" line="15" column="36" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="25" />
-        <mark key="." line="37" column="0" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/share-button.js" timestamp="1466910222751">
+        <mark key="'" line="9" column="21" />
+        <mark key="[" line="13" column="19" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/views/user/application/edit.php" timestamp="1464888093956">
         <mark key="[" line="229" column="94" />
@@ -112,12 +117,12 @@
         <mark key="^" line="229" column="94" />
         <mark key="." line="229" column="94" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/emoji-challenge.php" timestamp="1466709248165">
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/emoji-challenge.php" timestamp="1466910269889">
         <mark key="'" line="14" column="63" />
-        <mark key="[" line="28" column="69" />
-        <mark key="]" line="28" column="69" />
-        <mark key="." line="28" column="69" />
-        <mark key="^" line="34" column="70" />
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
+        <mark key="^" line="31" column="88" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/views/milestone/organization.php" timestamp="1466022657163">
         <mark key="[" line="55" column="110" />
@@ -158,6 +163,12 @@
         <mark key="]" line="25" column="107" />
         <mark key="." line="25" column="107" />
         <mark key="^" line="25" column="107" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/DataTranslator.js" timestamp="1466911730045">
+        <mark key="[" line="22" column="20" />
+        <mark key="]" line="22" column="21" />
+        <mark key="^" line="22" column="23" />
+        <mark key="." line="22" column="21" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/tester/circles/index.html" timestamp="1464933761172">
         <mark key="[" line="8" column="0" />
@@ -204,11 +215,11 @@
       <file name="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_screen/src/main.js" timestamp="1464975703807">
         <mark key="'" line="463" column="34" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/partials/share-button.php" timestamp="1466814956843">
-        <mark key="[" line="18" column="70" />
-        <mark key="]" line="18" column="73" />
-        <mark key="^" line="18" column="73" />
-        <mark key="." line="18" column="73" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/partials/share-button.php" timestamp="1466909933334">
+        <mark key="[" line="28" column="33" />
+        <mark key="]" line="28" column="35" />
+        <mark key="^" line="28" column="35" />
+        <mark key="." line="28" column="35" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/language/english/branded_lang.php" timestamp="1464888481918">
         <mark key="[" line="68" column="39" />
@@ -259,13 +270,13 @@
         <mark key="^" line="6" column="21" />
         <mark key="." line="6" column="22" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" timestamp="1466880369073">
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" timestamp="1466916033921">
         <mark key="a" line="258" column="26" />
-        <mark key="'" line="94" column="26" />
-        <mark key="[" line="99" column="0" />
-        <mark key="]" line="99" column="0" />
-        <mark key="." line="99" column="0" />
-        <mark key="^" line="94" column="74" />
+        <mark key="'" line="7" column="28" />
+        <mark key="[" line="164" column="72" />
+        <mark key="]" line="165" column="28" />
+        <mark key="^" line="165" column="28" />
+        <mark key="." line="165" column="28" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/PageMeta.js" timestamp="1465358377290">
         <mark key="'" line="16" column="8" />
@@ -273,12 +284,12 @@
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/PopOver.js" timestamp="1466182255057">
         <mark key="'" line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/drupal-api/api/emoji-challenge.json" timestamp="1466880058833">
-        <mark key="'" line="195" column="15" />
-        <mark key="[" line="10" column="22" />
-        <mark key="]" line="10" column="146" />
-        <mark key="^" line="10" column="146" />
-        <mark key="." line="10" column="146" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/drupal-api/api/emoji-challenge.json" timestamp="1466909053110">
+        <mark key="'" line="80" column="17" />
+        <mark key="[" line="12" column="7" />
+        <mark key="]" line="12" column="8" />
+        <mark key="." line="12" column="8" />
+        <mark key="^" line="10" column="46" />
       </file>
       <file name="/Dummy.txt" timestamp="1466805728216">
         <mark key="[" line="0" column="0" />
@@ -292,14 +303,25 @@
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/tobacco-affects.php" timestamp="1466788703627">
         <mark key="'" line="33" column="53" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/config.js" timestamp="1466812452450">
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/config.js" timestamp="1466911330704">
         <mark key="'" line="321" column="9" />
+        <mark key="[" line="37" column="41" />
+        <mark key="]" line="37" column="44" />
+        <mark key="." line="37" column="44" />
+        <mark key="^" line="37" column="44" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/models/entities/Organization.php" timestamp="1466018391367">
         <mark key="'" line="25" column="20" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/facts-instances.less" timestamp="1464330805700">
         <mark key="'" line="0" column="6" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/providers/PageData.js" timestamp="1466915902232">
+        <mark key="'" line="28" column="31" />
+        <mark key="[" line="30" column="72" />
+        <mark key="]" line="31" column="28" />
+        <mark key="." line="31" column="28" />
+        <mark key="^" line="31" column="28" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/helpers/MY_form_helper.php" timestamp="1465857440506">
         <mark key="[" line="492" column="3" />
@@ -375,31 +397,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="31" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
-      <jump line="114" column="17" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
-      <jump line="127" column="31" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
-      <jump line="59" column="33" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
-      <jump line="57" column="17" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
-      <jump line="100" column="17" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
-      <jump line="189" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
-      <jump line="53" column="29" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
-      <jump line="126" column="17" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
-      <jump line="102" column="14" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
-      <jump line="299" column="22" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/config.js" />
-      <jump line="197" column="45" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
-      <jump line="162" column="21" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/emoji-splash.js" />
-      <jump line="146" column="21" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/emoji-splash.js" />
-      <jump line="72" column="21" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/emoji-splash.js" />
-      <jump line="65" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/emoji-splash.js" />
-      <jump line="71" column="52" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/emoji-splash.js" />
-      <jump line="52" column="30" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/emoji-splash.js" />
-      <jump line="7" column="12" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/emoji-splash.js" />
-      <jump line="113" column="47" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/emoji-splash.js" />
-      <jump line="84" column="49" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/emoji-splash.js" />
-      <jump line="0" column="70" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/emoji-splash.js" />
-      <jump line="47" column="16" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/emoji-splash.js" />
-      <jump line="77" column="42" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/emoji-splash.js" />
-      <jump line="187" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/emoji-splash.js" />
       <jump line="164" column="21" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/emoji-splash.js" />
       <jump line="148" column="21" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/emoji-splash.js" />
       <jump line="73" column="97" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/emoji-splash.js" />
@@ -466,22 +463,47 @@
       <jump line="78" column="16" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
       <jump line="81" column="37" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
       <jump line="64" column="12" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/PageShare.js" />
-      <jump line="7" column="28" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
       <jump line="353" column="42" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
-      <jump line="6" column="19" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
       <jump line="80" column="30" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
       <jump line="17" column="16" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/share-button.js" />
       <jump line="14" column="36" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/share-button.js" />
       <jump line="94" column="26" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
       <jump line="268" column="27" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/index.php" />
+      <jump line="2" column="4" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/drupal-api/api/emoji-challenge.json" />
+      <jump line="68" column="17" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/drupal-api/api/emoji-challenge.json" />
+      <jump line="116" column="28" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
+      <jump line="9" column="21" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/share-button.js" />
+      <jump line="83" column="17" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
+      <jump line="161" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
+      <jump line="170" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
+      <jump line="98" column="12" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
+      <jump line="86" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
+      <jump line="97" column="12" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
+      <jump line="79" column="17" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
+      <jump line="95" column="45" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
+      <jump line="88" column="31" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
+      <jump line="6" column="12" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
+      <jump line="85" column="30" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
+      <jump line="1" column="166" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
+      <jump line="366" column="23" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
+      <jump line="23" column="22" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/emoji-splash.js" />
+      <jump line="349" column="13" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
+      <jump line="22" column="33" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
+      <jump line="114" column="19" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
+      <jump line="28" column="31" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/providers/PageData.js" />
+      <jump line="92" column="15" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/drupal_translators/EmojiChallengeTranslator.js" />
+      <jump line="4" column="21" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/drupal_translators/EmojiChallengeTranslator.js" />
+      <jump line="96" column="21" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/drupal_translators/EmojiChallengeTranslator.js" />
+      <jump line="376" column="8" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
+      <jump line="7" column="28" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -535,70 +557,59 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>'YASS! This Free Life has created custom emojis for the LGBT community. Unlock each of them by testing your tobacco knowledge.'</text>
+        <text>metaparseMeta</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpbWFnZVBhdGhcPg==</text>
+        <text>fetch</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAic2hhcmUiOiB0cnVlCg==</text>
+        <text encoding="base64">ICAgICJvZzppbWFnZSI6ICIvaW1hZ2VzL21ldGEtaW1hZ2VzL3R3aXR0ZXIvZW1vamkuanBnIiwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnb2dfdGl0bGUnOiAkc2NvcGUuc2hhcmUudHVtYmxyLnRpdGxlIHx8ICcnLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name="4" type="4">
-        <text>'YASS! This Free Life has created custom emojis for the LGBT community. Unlock each of them by testing your tobacco knowledge.'</text>
+        <text>metaparseMeta</text>
       </register>
       <register name="5" type="4">
-        <text>g</text>
+        <text encoding="base64">IHNldE5ld0RhdGEoJ21ldGEnLCByZXMpOw==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">bWFrZUxpbmsoJzxpbWcgc3JjPSInICsgYmFzZVVybCArICRzY29wZS5zaGFyZS50dW1ibHIuaW1hZ2UgJy9pbWFnZXMvbWV0YS1pbWFnZXMvZmFjZWJvb2svZW1vamkuanBnIiBhbHQ9ImVtb2ppIGNoYWxsZW5nZSBzaGFyZSI+JywgYmFzZVBhdGgp</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
       </register>
-      <register name="7" type="4">
-        <text>;</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="4">
-        <text>;</text>
+        <text>.</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      <register name="9" type="4">
+        <text>pages</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpbWFnZVBhdGhcPg==</last-search>
+      <last-search>fetch</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpbWFnZVBhdGhcPg==</last-pattern>
+      <last-pattern>fetch</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxzaG93UmVzdWx0c1w+</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>emoji-questions</entry>
-        <entry encoding="base64">XDxzbGlkZXJEb25lXD4=</entry>
-        <entry>question-3</entry>
-        <entry>question-img</entry>
-        <entry>facts</entry>
-        <entry>bodyClass</entry>
-        <entry>activeClass</entry>
-        <entry>wig</entry>
-        <entry>Get the</entry>
-        <entry>tum</entry>
-        <entry>emoji</entry>
         <entry encoding="base64">XDxzaGFyZUZhY2Vib29rXD4=</entry>
         <entry encoding="base64">XDxzaGFyZVR1bWJsclw+</entry>
         <entry>share</entry>
@@ -608,6 +619,17 @@
         <entry>location</entry>
         <entry encoding="base64">XDxmYWNlYm9va1NoYXJlXD4=</entry>
         <entry encoding="base64">XDxpbWFnZVBhdGhcPg==</entry>
+        <entry>meta</entry>
+        <entry encoding="base64">XDxidWlsZFR1bWJsZVNoYXJlXD4=</entry>
+        <entry encoding="base64">XDxzZXR1cFNoYXJlXD4=</entry>
+        <entry>debugg</entry>
+        <entry encoding="base64">XDxtYWtlSW1nXD4=</entry>
+        <entry encoding="base64">XDxiYXNlUGF0aFw+</entry>
+        <entry encoding="base64">XDxkZXN0cm95XD4=</entry>
+        <entry>nextPage</entry>
+        <entry>next</entry>
+        <entry encoding="base64">XDxwYXJzZUFuc3dlclw+</entry>
+        <entry>fetch</entry>
       </history-search>
       <history-cmd>
         <entry>440</entry>
@@ -624,11 +646,11 @@
         <entry>252</entry>
         <entry>e</entry>
         <entry>set hlsearch</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>W</entry>
-        <entry>w:w</entry>
         <entry>qw</entry>
         <entry>:w</entry>
+        <entry encoding="base64">JzwsJz53</entry>
+        <entry>w:w</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
