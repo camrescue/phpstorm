@@ -46,12 +46,12 @@
       <file name="$USER_HOME$/Sites/Rescue/helix/application/controllers/organizations.php" timestamp="1466018600148">
         <mark key="'" line="161" column="39" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/drupal_translators/EmojiChallengeTranslator.js" timestamp="1466932796086">
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/drupal_translators/EmojiChallengeTranslator.js" timestamp="1466968031420">
         <mark key="'" line="94" column="31" />
-        <mark key="[" line="117" column="0" />
-        <mark key="]" line="117" column="0" />
-        <mark key="^" line="117" column="19" />
-        <mark key="." line="117" column="0" />
+        <mark key="[" line="40" column="43" />
+        <mark key="]" line="40" column="46" />
+        <mark key="^" line="40" column="46" />
+        <mark key="." line="40" column="46" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/files/surveys/ftn_signup.json" timestamp="1464544789490">
         <mark key="'" line="35" column="20" />
@@ -161,13 +161,13 @@
         <mark key="." line="16" column="14" />
         <mark key="^" line="16" column="14" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" timestamp="1466933887267">
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" timestamp="1466968441574">
         <mark key="a" line="277" column="26" />
-        <mark key="'" line="374" column="18" />
-        <mark key="[" line="165" column="20" />
-        <mark key="]" line="165" column="22" />
-        <mark key="." line="165" column="22" />
-        <mark key="^" line="165" column="22" />
+        <mark key="'" line="99" column="0" />
+        <mark key="[" line="106" column="34" />
+        <mark key="]" line="106" column="42" />
+        <mark key="." line="106" column="42" />
+        <mark key="^" line="106" column="42" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/PageMeta.js" timestamp="1465358377290">
         <mark key="'" line="16" column="8" />
@@ -244,8 +244,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="81" column="37" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
-      <jump line="64" column="12" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/PageShare.js" />
       <jump line="353" column="42" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
       <jump line="80" column="30" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
       <jump line="17" column="16" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/share-button.js" />
@@ -344,13 +342,15 @@
       <jump line="0" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
       <jump line="299" column="50" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
       <jump line="374" column="18" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
+      <jump line="84" column="17" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
+      <jump line="99" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
       <register name="&quot;" type="4">
-        <text>g</text>
+        <text>'http://cats.com',</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -404,60 +404,59 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>g</text>
+        <text>'http://cats.com',</text>
       </register>
       <register name="/" type="4">
-        <text>console.log</text>
+        <text encoding="base64">XDxzZXR1cFNoYXJlXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC50byhbJGJvZHldLCAxLCB7YXV0b0FscGhhOiAxLCBlYXNlOiBQb3dlcjEuZWFzZU91dH0sICcrPTEnKQo=</text>
       </register>
       <register name="1" type="4">
-        <text>g</text>
+        <text>'http://cats.com',</text>
       </register>
       <register name="2" type="4">
-        <text>cdbgonsole.lo</text>
+        <text>;</text>
       </register>
       <register name="3" type="4">
-        <text>console.log</text>
+        <text encoding="base64">ICsgJyAjdGhpc2ZyZWVsaWZlJw==</text>
       </register>
       <register name="4" type="4">
-        <text>console.log</text>
+        <text encoding="base64">ICsgJ0B0aGlzZnJlZWxpZmUnOw==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
+      <register name="5" type="4">
+        <text>facebook_description</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIC50byhbJGRvd25sb2FkXSwgMSwge2F1dG9BbHBoYTogMSwgZWFzZTogUG93ZXIxLmVhc2VPdXR9LCAnKz0xJykK</text>
+      <register name="6" type="4">
+        <text>facebook_description</text>
       </register>
       <register name="7" type="4">
-        <text>body</text>
+        <text>description</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="9" type="4">
+        <text />
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>console.log</last-search>
+      <last-search encoding="base64">XDxzZXR1cFNoYXJlXD4=</last-search>
       <last-offset />
-      <last-pattern>console.log</last-pattern>
+      <last-pattern encoding="base64">XDxzZXR1cFNoYXJlXD4=</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxzaG93UmVzdWx0c1w+</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>answerMap</entry>
         <entry encoding="base64">XDxwYXJzZUFycmF5U3RyXD4=</entry>
         <entry encoding="base64">XDxhZGRVc2VyQW5zd2VyXD4=</entry>
         <entry>quiz-section</entry>
@@ -477,6 +476,7 @@
         <entry>section</entry>
         <entry>debug</entry>
         <entry>console.log</entry>
+        <entry encoding="base64">XDxzZXR1cFNoYXJlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>440</entry>
