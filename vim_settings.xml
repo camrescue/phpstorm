@@ -6,7 +6,7 @@
       <file name="$USER_HOME$/Sites/Rescue/surveys/resources/assets/js/youtubeFront.js" timestamp="1467049135185">
         <mark key="'" line="43" column="36" />
       </file>
-      <file name="/a.dummy" timestamp="1467064544523">
+      <file name="/a.dummy" timestamp="1467066785590">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/partials/tfl-popover.php" timestamp="1465408295841">
@@ -21,12 +21,8 @@
         <mark key="^" line="85" column="99" />
         <mark key="." line="85" column="99" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" timestamp="1467063231934">
-        <mark key="'" line="493" column="0" />
-        <mark key="[" line="593" column="4" />
-        <mark key="]" line="593" column="4" />
-        <mark key="." line="593" column="4" />
-        <mark key="^" line="595" column="4" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" timestamp="1467066704047">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/partials/poll.php" timestamp="1465334954724">
         <mark key="'" line="53" column="43" />
@@ -393,9 +389,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="132" column="17" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
-      <jump line="45" column="18" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/config.js" />
-      <jump line="1186" column="15" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
       <jump line="21" column="7" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
       <jump line="78" column="3" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
       <jump line="133" column="37" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
@@ -448,7 +441,6 @@
       <jump line="878" column="13" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
       <jump line="915" column="9" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
       <jump line="150" column="13" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
-      <jump line="0" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
       <jump line="229" column="14" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
       <jump line="235" column="3" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
       <jump line="255" column="12" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
@@ -493,6 +485,10 @@
       <jump line="77" column="26" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/drupal_translators/EmojiChallengeTranslator.js" />
       <jump line="129" column="5" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
       <jump line="493" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
+      <jump line="314" column="41" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
+      <jump line="355" column="18" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
+      <jump line="1288" column="7" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
+      <jump line="0" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -556,7 +552,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>popover</text>
+        <text>button</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICBhbmFseXRpY3MtbGFiZWw9Int7c2hhcmVOYW1lfX0ydGIiCg==</text>
@@ -596,9 +592,9 @@
       </register>
     </registers>
     <search>
-      <last-search>popover</last-search>
+      <last-search>button</last-search>
       <last-offset />
-      <last-pattern>popover</last-pattern>
+      <last-pattern>button</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxzaG93UmVzdWx0c1w+</last-substitute>
       <last-dir>1</last-dir>
@@ -616,7 +612,6 @@
         <entry>question</entry>
         <entry>question-panel</entry>
         <entry encoding="base64">cXVlc3Rpb24tcGFuZWwg</entry>
-        <entry>button</entry>
         <entry>btn</entry>
         <entry>result-container</entry>
         <entry encoding="base64">XDxzb3VyY2VcPg==</entry>
@@ -626,6 +621,7 @@
         <entry encoding="base64">XDxpdGVtc1w+</entry>
         <entry>sources</entry>
         <entry>popover</entry>
+        <entry>button</entry>
       </history-search>
       <history-cmd>
         <entry>440</entry>
