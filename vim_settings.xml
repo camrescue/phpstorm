@@ -3,7 +3,10 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="/a.dummy" timestamp="1467002707393">
+      <file name="$USER_HOME$/Sites/Rescue/surveys/resources/assets/js/youtubeFront.js" timestamp="1467049135185">
+        <mark key="'" line="43" column="36" />
+      </file>
+      <file name="/a.dummy" timestamp="1467050426977">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/partials/tfl-popover.php" timestamp="1465408295841">
@@ -17,6 +20,12 @@
         <mark key="]" line="85" column="99" />
         <mark key="^" line="85" column="99" />
         <mark key="." line="85" column="99" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" timestamp="1467050209667">
+        <mark key="'" line="585" column="3" />
+        <mark key="[" line="934" column="18" />
+        <mark key="]" line="934" column="19" />
+        <mark key="." line="934" column="19" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/partials/poll.php" timestamp="1465334954724">
         <mark key="'" line="53" column="43" />
@@ -283,6 +292,9 @@
         <mark key="." line="12" column="8" />
         <mark key="^" line="10" column="46" />
       </file>
+      <file name="/Dummy.txt" timestamp="1467050442809">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/FactAnimationVideo.js" timestamp="1466288088718">
         <mark key="'" line="522" column="31" />
       </file>
@@ -383,12 +395,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="189" column="28" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
-      <jump line="10" column="16" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
-      <jump line="130" column="17" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
-      <jump line="187" column="20" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
-      <jump line="38" column="49" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/emoji-challenge.php" />
-      <jump line="98" column="39" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
       <jump line="198" column="7" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
       <jump line="215" column="17" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
       <jump line="137" column="17" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
@@ -472,7 +478,6 @@
       <jump line="132" column="17" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
       <jump line="45" column="18" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/config.js" />
       <jump line="1186" column="15" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
-      <jump line="0" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
       <jump line="21" column="7" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
       <jump line="78" column="3" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
       <jump line="133" column="37" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
@@ -483,13 +488,20 @@
       <jump line="180" column="21" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/emoji-splash.js" />
       <jump line="0" column="88" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/emoji-splash.js" />
       <jump line="175" column="21" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/emoji-splash.js" />
+      <jump line="43" column="36" filename="$USER_HOME$/Sites/Rescue/surveys/resources/assets/js/youtubeFront.js" />
+      <jump line="85" column="22" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
+      <jump line="935" column="16" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
+      <jump line="0" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
+      <jump line="933" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
+      <jump line="934" column="3" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
+      <jump line="585" column="3" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
     </jumps>
     <registers>
       <register name="a" type="4">
         <text />
       </register>
-      <register name="&quot;" type="4">
-        <text>l</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -543,52 +555,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text />
       </register>
       <register name="/" type="4">
-        <text>span</text>
+        <text>popover-content</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICBhbmFseXRpY3MtbGFiZWw9Int7c2hhcmVOYW1lfX0ydGIiCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>l</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>U</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAucG9wb3Zlci1jb250ZW50IHsKICAgIG1heC1oZWlnaHQ6IDUwMHB4OwogIH0K</text>
       </register>
       <register name="3" type="4">
-        <text>r</text>
+        <text />
       </register>
       <register name="4" type="4">
-        <text>b</text>
+        <text encoding="base64">bWF4LWhlaWdodDog</text>
       </register>
       <register name="5" type="4">
-        <text>t</text>
+        <text encoding="base64">bWF4LWhlaWdodDog</text>
       </register>
       <register name="6" type="4">
-        <text>2</text>
+        <text>l</text>
       </register>
       <register name="7" type="4">
-        <text>Url</text>
+        <text>U</text>
       </register>
       <register name="8" type="4">
-        <text>b</text>
+        <text>r</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="4">
-        <text>t</text>
+        <text>b</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>span</last-search>
+      <last-search>popover-content</last-search>
       <last-offset />
-      <last-pattern>span</last-pattern>
+      <last-pattern>popover-content</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxzaG93UmVzdWx0c1w+</last-substitute>
       <last-dir>1</last-dir>
@@ -596,9 +608,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZXR1cE1ldGFcPg==</entry>
-        <entry encoding="base64">XDxzZXRNZXRhXD4=</entry>
-        <entry encoding="base64">XDxzaG93U3BsYXNoXD4=</entry>
         <entry>loaded</entry>
         <entry encoding="base64">XDxzZXRDYWNoZVw+</entry>
         <entry encoding="base64">XDxsb2FkUGFnZVw+</entry>
@@ -616,6 +625,9 @@
         <entry encoding="base64">XDxyb290U2NvcGVcPg==</entry>
         <entry encoding="base64">XDxkb0FuaW1hdGlvblw+</entry>
         <entry>span</entry>
+        <entry>videoOpts</entry>
+        <entry encoding="base64">XDxnZXRSYW5kb21WaWRlb1w+</entry>
+        <entry>popover-content</entry>
       </history-search>
       <history-cmd>
         <entry>440</entry>
