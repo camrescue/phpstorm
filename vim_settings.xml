@@ -546,7 +546,7 @@
         <text>l</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkb0FuaW1hdGlvblw+</text>
+        <text>span</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICBhbmFseXRpY3MtbGFiZWw9Int7c2hhcmVOYW1lfX0ydGIiCg==</text>
@@ -586,17 +586,16 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkb0FuaW1hdGlvblw+</last-search>
+      <last-search>span</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkb0FuaW1hdGlvblw+</last-pattern>
+      <last-pattern>span</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxzaG93UmVzdWx0c1w+</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZXR1cFNoYXJlXD4=</entry>
         <entry encoding="base64">XDxzZXR1cE1ldGFcPg==</entry>
         <entry encoding="base64">XDxzZXRNZXRhXD4=</entry>
         <entry encoding="base64">XDxzaG93U3BsYXNoXD4=</entry>
@@ -616,6 +615,7 @@
         <entry>sliderDone</entry>
         <entry encoding="base64">XDxyb290U2NvcGVcPg==</entry>
         <entry encoding="base64">XDxkb0FuaW1hdGlvblw+</entry>
+        <entry>span</entry>
       </history-search>
       <history-cmd>
         <entry>440</entry>
