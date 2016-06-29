@@ -9,7 +9,7 @@
       <file name="$USER_HOME$/Sites/Rescue/helix/application/controllers/teams.php" timestamp="1467216483526">
         <mark key="'" line="125" column="33" />
       </file>
-      <file name="/a.dummy" timestamp="1467234913267">
+      <file name="/a.dummy" timestamp="1467237306703">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" timestamp="1467066704047">
@@ -203,6 +203,12 @@
         <mark key="." line="1" column="5" />
         <mark key="^" line="1" column="5" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/models/core/import_old_m.php" timestamp="1467237781045">
+        <mark key="[" line="1725" column="31" />
+        <mark key="]" line="1726" column="39" />
+        <mark key="." line="1726" column="39" />
+        <mark key="^" line="1726" column="39" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/views/user/signup/account_form.php" timestamp="1467136390543">
         <mark key="'" line="5" column="142" />
         <mark key="[" line="12" column="137" />
@@ -213,6 +219,7 @@
       <file name="$USER_HOME$/Sites/Rescue/helix/application/helpers/user_helper.php" timestamp="1466447706260">
         <mark key="'" line="1644" column="9" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/models/core/import_m.php" timestamp="1467237305955" />
       <file name="$USER_HOME$/Sites/Rescue/helix/application/views/team/edit.php" timestamp="1467223473673">
         <mark key="[" line="64" column="0" />
         <mark key="]" line="64" column="0" />
@@ -275,8 +282,8 @@
         <mark key="^" line="285" column="29" />
         <mark key="." line="311" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/controllers/users.php" timestamp="1467224681041">
-        <mark key="'" line="365" column="14" />
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/controllers/users.php" timestamp="1467238430745">
+        <mark key="'" line="257" column="32" />
         <mark key="[" line="753" column="0" />
         <mark key="]" line="753" column="0" />
         <mark key="^" line="706" column="18" />
@@ -477,7 +484,7 @@
         <mark key="'" line="25" column="20" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/views/profile/main.php" timestamp="1467215026048" />
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/helpers/core_helper.php" timestamp="1467153781164">
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/helpers/core_helper.php" timestamp="1467238639267">
         <mark key="'" line="1670" column="17" />
         <mark key="[" line="1537" column="0" />
         <mark key="]" line="1537" column="0" />
@@ -554,8 +561,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="296" column="8" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/full-fact.ctrl.js" />
-      <jump line="184" column="8" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/full-fact.ctrl.js" />
       <jump line="32" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/full-fact.ctrl.js" />
       <jump line="349" column="8" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/full-fact.ctrl.js" />
       <jump line="346" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/full-fact.ctrl.js" />
@@ -654,6 +659,8 @@
       <jump line="515" column="34" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/my.php" />
       <jump line="570" column="9" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/my.php" />
       <jump line="28" column="0" filename="$USER_HOME$/Sites/Rescue/helix/sass/_generic.scss" />
+      <jump line="374" column="0" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/users.php" />
+      <jump line="257" column="32" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/users.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2499,7 +2506,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgQU5EIHVzZXJfZXh0cmEuZ3JhZF95ZWFyIElTIE5PVCBOVUxMCg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -2553,61 +2560,59 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>previousUrl</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>function projects</text>
+        <text encoding="base64">XDxhZHVsdFN5c3RlbVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIDw/cGhwIGVuZGlmOyA/Pgo=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgQU5EIHVzZXJfZXh0cmEuZ3JhZF95ZWFyIElTIE5PVCBOVUxMCg==</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="2" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
       </register>
-      <register name="3" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
-      </register>
-      <register name="4" type="4">
-        <text>previousUrl</text>
-      </register>
-      <register name="5" type="4">
-        <text>Previous</text>
-      </register>
-      <register name="6" type="4">
-        <text>previousUrl</text>
       </register>
       <register name="7" type="4">
-        <text>1</text>
+        <text>previousUrl</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="8" type="4">
+        <text>Previous</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>previousUrl</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>function projects</last-search>
+      <last-search encoding="base64">XDxhZHVsdFN5c3RlbVw+</last-search>
       <last-offset />
-      <last-pattern>function projects</last-pattern>
+      <last-pattern encoding="base64">XDxhZHVsdFN5c3RlbVw+</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxzaG93UmVzdWx0c1w+</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry>selectAll</entry>
-        <entry encoding="base64">XDxzZWxlY3RBbGxcPg==</entry>
         <entry encoding="base64">XDxhbGxcPg==</entry>
         <entry encoding="base64">XDxtZXNzYWdlXD4=</entry>
         <entry encoding="base64">XDxzZWxlY3RvcnNcPg==</entry>
@@ -2626,6 +2631,8 @@
         <entry>getNotification</entry>
         <entry>projects</entry>
         <entry>function projects</entry>
+        <entry>function login</entry>
+        <entry encoding="base64">XDxhZHVsdFN5c3RlbVw+</entry>
       </history-search>
       <history-cmd>
         <entry>638</entry>
