@@ -9,9 +9,6 @@
       <file name="$USER_HOME$/Sites/Rescue/helix/application/controllers/teams.php" timestamp="1467216483526">
         <mark key="'" line="125" column="33" />
       </file>
-      <file name="/a.dummy" timestamp="1467237306703">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" timestamp="1467066704047">
         <mark key="'" line="0" column="0" />
       </file>
@@ -33,11 +30,11 @@
       <file name="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/notification_repo.php" timestamp="1467234879770">
         <mark key="[" line="15" column="41" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/config/constants.php" timestamp="1465861842616">
-        <mark key="[" line="60" column="39" />
-        <mark key="]" line="60" column="39" />
-        <mark key="." line="60" column="39" />
-        <mark key="^" line="60" column="39" />
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/config/constants.php" timestamp="1467240135202">
+        <mark key="[" line="60" column="33" />
+        <mark key="]" line="61" column="44" />
+        <mark key="." line="61" column="44" />
+        <mark key="^" line="61" column="44" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/filters/urlencode.js" timestamp="1466800622933">
         <mark key="[" line="1" column="0" />
@@ -170,6 +167,13 @@
         <mark key="." line="137" column="8" />
         <mark key="^" line="139" column="17" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/helix/sass/evolvement/_settings.scss" timestamp="1467240341329">
+        <mark key="'" line="24" column="12" />
+        <mark key="[" line="361" column="20" />
+        <mark key="]" line="361" column="24" />
+        <mark key="." line="361" column="24" />
+        <mark key="^" line="361" column="24" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/facts-instances.less" timestamp="1464330805700">
         <mark key="'" line="0" column="6" />
       </file>
@@ -219,7 +223,9 @@
       <file name="$USER_HOME$/Sites/Rescue/helix/application/helpers/user_helper.php" timestamp="1466447706260">
         <mark key="'" line="1644" column="9" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/models/core/import_m.php" timestamp="1467237305955" />
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/models/core/import_m.php" timestamp="1467239853357">
+        <mark key="'" line="73" column="68" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/views/team/edit.php" timestamp="1467223473673">
         <mark key="[" line="64" column="0" />
         <mark key="]" line="64" column="0" />
@@ -232,8 +238,8 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="5" column="73" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/sass/_settings.scss" timestamp="1467227296243">
-        <mark key="'" line="103" column="83" />
+      <file name="$USER_HOME$/Sites/Rescue/helix/sass/_settings.scss" timestamp="1467240323293">
+        <mark key="'" line="222" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/bower_components/angular-scroll-animate/docs/js/angular-bootstrap-prettify.js" timestamp="1467154088047">
         <mark key="'" line="194" column="70" />
@@ -282,8 +288,8 @@
         <mark key="^" line="285" column="29" />
         <mark key="." line="311" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/controllers/users.php" timestamp="1467238430745">
-        <mark key="'" line="257" column="32" />
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/controllers/users.php" timestamp="1467240683450">
+        <mark key="'" line="208" column="0" />
         <mark key="[" line="753" column="0" />
         <mark key="]" line="753" column="0" />
         <mark key="^" line="706" column="18" />
@@ -312,6 +318,12 @@
         <mark key="]" line="61" column="0" />
         <mark key="^" line="61" column="24" />
         <mark key="." line="61" column="0" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/group_repo.php" timestamp="1467240550871">
+        <mark key="[" line="223" column="29" />
+        <mark key="]" line="224" column="38" />
+        <mark key="." line="224" column="38" />
+        <mark key="^" line="224" column="38" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/partials/fact-item.php" timestamp="1467155005268">
         <mark key="[" line="5" column="16" />
@@ -561,11 +573,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/full-fact.ctrl.js" />
-      <jump line="349" column="8" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/full-fact.ctrl.js" />
-      <jump line="346" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/full-fact.ctrl.js" />
-      <jump line="30" column="44" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/full-fact.ctrl.js" />
-      <jump line="285" column="23" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/full-fact.ctrl.js" />
       <jump line="54" column="8" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/full-fact.ctrl.js" />
       <jump line="313" column="28" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/full-fact.ctrl.js" />
       <jump line="312" column="24" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/full-fact.ctrl.js" />
@@ -661,6 +668,11 @@
       <jump line="28" column="0" filename="$USER_HOME$/Sites/Rescue/helix/sass/_generic.scss" />
       <jump line="374" column="0" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/users.php" />
       <jump line="257" column="32" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/users.php" />
+      <jump line="208" column="0" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/users.php" />
+      <jump line="119" column="99" filename="$USER_HOME$/Sites/Rescue/helix/application/models/core/import_m.php" />
+      <jump line="73" column="68" filename="$USER_HOME$/Sites/Rescue/helix/application/models/core/import_m.php" />
+      <jump line="222" column="0" filename="$USER_HOME$/Sites/Rescue/helix/sass/_settings.scss" />
+      <jump line="24" column="12" filename="$USER_HOME$/Sites/Rescue/helix/sass/evolvement/_settings.scss" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2505,8 +2517,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQU5EIHVzZXJfZXh0cmEuZ3JhZF95ZWFyIElTIE5PVCBOVUxMCg==</text>
+      <register name="&quot;" type="4">
+        <text>white</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -2560,63 +2572,59 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>white</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhZHVsdFN5c3RlbVw+</text>
+        <text>alert-font</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIDw/cGhwIGVuZGlmOyA/Pgo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgQU5EIHVzZXJfZXh0cmEuZ3JhZF95ZWFyIElTIE5PVCBOVUxMCg==</text>
+      <register name="1" type="4">
+        <text>white</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">ICRh</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+        <text>july</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBkZChnZXRGaXNjYWxZZWFyKCkpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcHJldmlvdXNZZWFyKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICBkZCgnaGVyZScpOwo=</text>
       </register>
-      <register name="7" type="4">
-        <text>previousUrl</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgQU5EIHVzZXJfZXh0cmEuZ3JhZF95ZWFyIElTIE5PVCBOVUxMCg==</text>
       </register>
       <register name="8" type="4">
-        <text>Previous</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="4">
-        <text>previousUrl</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhZHVsdFN5c3RlbVw+</last-search>
+      <last-search>alert-font</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhZHVsdFN5c3RlbVw+</last-pattern>
+      <last-pattern>alert-font</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxzaG93UmVzdWx0c1w+</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhbGxcPg==</entry>
-        <entry encoding="base64">XDxtZXNzYWdlXD4=</entry>
-        <entry encoding="base64">XDxzZWxlY3RvcnNcPg==</entry>
-        <entry encoding="base64">XDxzZWxlY3RcPg==</entry>
         <entry encoding="base64">XDxzZWxlY3RDbGlja2VkXD4=</entry>
         <entry>debugger</entry>
         <entry>tm-coun</entry>
@@ -2633,6 +2641,10 @@
         <entry>function projects</entry>
         <entry>function login</entry>
         <entry encoding="base64">XDxhZHVsdFN5c3RlbVw+</entry>
+        <entry>Rollover</entry>
+        <entry encoding="base64">XDxjYW1VcGRhdGVzXzA3XzA5XzIwMTRcPg==</entry>
+        <entry>alert-</entry>
+        <entry>alert-font</entry>
       </history-search>
       <history-cmd>
         <entry>638</entry>
