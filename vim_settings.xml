@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Sites/Rescue/surveys/resources/assets/js/youtubeFront.js" timestamp="1467049135185">
+        <mark key="'" line="43" column="36" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/controllers/teams.php" timestamp="1467216483526">
         <mark key="'" line="125" column="33" />
       </file>
@@ -201,6 +204,9 @@
         <mark key="." line="6" column="0" />
         <mark key="^" line="5" column="73" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/helix/sass/_settings.scss" timestamp="1467227296243">
+        <mark key="'" line="103" column="83" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/bower_components/angular-scroll-animate/docs/js/angular-bootstrap-prettify.js" timestamp="1467154088047">
         <mark key="'" line="194" column="70" />
       </file>
@@ -241,12 +247,12 @@
         <mark key="." line="17" column="46" />
         <mark key="^" line="18" column="8" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/sass/_profile.scss" timestamp="1467225851688">
-        <mark key="'" line="132" column="4" />
-        <mark key="[" line="302" column="26" />
-        <mark key="]" line="302" column="26" />
-        <mark key="^" line="302" column="26" />
-        <mark key="." line="302" column="26" />
+      <file name="$USER_HOME$/Sites/Rescue/helix/sass/_profile.scss" timestamp="1467227805803">
+        <mark key="'" line="417" column="15" />
+        <mark key="[" line="311" column="0" />
+        <mark key="]" line="311" column="0" />
+        <mark key="^" line="285" column="29" />
+        <mark key="." line="311" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/controllers/users.php" timestamp="1467224681041">
         <mark key="'" line="365" column="14" />
@@ -374,6 +380,9 @@
       <file name="$USER_HOME$/Sites/Rescue/helix/application/libraries/ReportingBase.php" timestamp="1465598411593">
         <mark key="'" line="462" column="24" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/PageShare.js" timestamp="1466814495314">
+        <mark key="'" line="64" column="12" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/tester/circles/sprites.svg" timestamp="1464933647162">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="4" />
@@ -484,10 +493,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="20" column="27" filename="$USER_HOME$/Sites/Rescue/helix/application/views/user/signup/account_form.php" />
-      <jump line="27" column="35" filename="$USER_HOME$/Sites/Rescue/helix/application/views/user/signup/account_form.php" />
-      <jump line="23" column="27" filename="$USER_HOME$/Sites/Rescue/helix/sass/_settings.scss" />
-      <jump line="103" column="83" filename="$USER_HOME$/Sites/Rescue/helix/sass/_settings.scss" />
       <jump line="28" column="119" filename="$USER_HOME$/Sites/Rescue/helix/application/views/user/signup/account_form.php" />
       <jump line="21" column="123" filename="$USER_HOME$/Sites/Rescue/helix/application/views/user/signup/account_form.php" />
       <jump line="38" column="133" filename="$USER_HOME$/Sites/Rescue/helix/application/views/user/signup/account_form.php" />
@@ -584,6 +589,10 @@
       <jump line="15" column="25" filename="$USER_HOME$/Sites/Rescue/helix/sass/components/_modal.scss" />
       <jump line="142" column="12" filename="$USER_HOME$/Sites/Rescue/helix/sass/components/_modal.scss" />
       <jump line="335" column="16" filename="$USER_HOME$/Sites/Rescue/helix/sass/components/_modal.scss" />
+      <jump line="273" column="4" filename="$USER_HOME$/Sites/Rescue/helix/sass/_profile.scss" />
+      <jump line="186" column="17" filename="$USER_HOME$/Sites/Rescue/helix/sass/_profile.scss" />
+      <jump line="276" column="16" filename="$USER_HOME$/Sites/Rescue/helix/sass/_profile.scss" />
+      <jump line="408" column="15" filename="$USER_HOME$/Sites/Rescue/helix/sass/_profile.scss" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2483,37 +2492,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>h1</text>
       </register>
       <register name="/" type="4">
-        <text>!important</text>
+        <text>.team</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkYmcoJ3NsaWRlciBkb25lJyk7Cg==</text>
+        <text encoding="base64">QG1lZGlhIChtYXgtd2lkdGggOiA1ODBweCkgewo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="2" type="4">
+        <text>h1</text>
       </register>
       <register name="3" type="4">
-        <text />
+        <text>max-height : 100px;</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtYXgtaGVpZ2h0IDogMTAwcHg7CiAgICAgICAgICAgICAgICAgICAgb3ZlcmZsb3cgICA6IGhpZGRlbjsK</text>
+        <text encoding="base64">ICAgICAgIAo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYWRkaW5nICAgOiA1cHggMDsKICAgICAgICAgICAgICAgICAgICBmb250LXNpemUgOiAxNHB4Owo=</text>
+      <register name="6" type="4">
+        <text />
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcGFkZGluZyA6IDIwcHggMDsK</text>
+      <register name="7" type="4">
+        <text>150px</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYm9yZGVyICA6IDFweCBzb2xpZCAjZWVlOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="x" type="4">
         <text />
@@ -2526,9 +2535,9 @@
       </register>
     </registers>
     <search>
-      <last-search>!important</last-search>
+      <last-search>.team</last-search>
       <last-offset />
-      <last-pattern>!important</last-pattern>
+      <last-pattern>.team</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxzaG93UmVzdWx0c1w+</last-substitute>
       <last-dir>1</last-dir>
@@ -2536,7 +2545,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpZFRvRmFjdFw+</entry>
         <entry encoding="base64">XDxoYXNoXD4=</entry>
         <entry encoding="base64">XDxsb2FkSW5pdGlhbEZhY3RcPg==</entry>
         <entry encoding="base64">XDxsb2NhdGlvblw+</entry>
@@ -2556,9 +2564,9 @@
         <entry>card</entry>
         <entry>user_search</entry>
         <entry>!important</entry>
+        <entry>.team</entry>
       </history-search>
       <history-cmd>
-        <entry>w::w</entry>
         <entry>638</entry>
         <entry>ew</entry>
         <entry>689</entry>
@@ -2577,6 +2585,7 @@
         <entry>314</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>2270</entry>
+        <entry>270</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
