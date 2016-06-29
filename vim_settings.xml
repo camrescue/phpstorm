@@ -9,7 +9,7 @@
       <file name="$USER_HOME$/Sites/Rescue/helix/application/controllers/teams.php" timestamp="1467216483526">
         <mark key="'" line="125" column="33" />
       </file>
-      <file name="/a.dummy" timestamp="1467226360873">
+      <file name="/a.dummy" timestamp="1467234913267">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" timestamp="1467066704047">
@@ -30,11 +30,19 @@
         <mark key="^" line="0" column="84" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/notification_repo.php" timestamp="1467234879770">
+        <mark key="[" line="15" column="41" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/config/constants.php" timestamp="1465861842616">
         <mark key="[" line="60" column="39" />
         <mark key="]" line="60" column="39" />
         <mark key="." line="60" column="39" />
         <mark key="^" line="60" column="39" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/filters/urlencode.js" timestamp="1466800622933">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/fact.ctrl.js" timestamp="1466181241734">
         <mark key="'" line="151" column="16" />
@@ -75,6 +83,7 @@
         <mark key="." line="25" column="107" />
         <mark key="^" line="25" column="107" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/views/message/inbox.php" timestamp="1467234524963" />
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/partials/emoji-splash.php" timestamp="1466979007614">
         <mark key="[" line="0" column="21" />
         <mark key="]" line="0" column="21" />
@@ -97,8 +106,8 @@
         <mark key="^" line="55" column="76" />
         <mark key="." line="51" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/helpers/MY_html_helper.php" timestamp="1467134320588">
-        <mark key="'" line="373" column="9" />
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/helpers/MY_html_helper.php" timestamp="1467231437500">
+        <mark key="'" line="54" column="9" />
         <mark key="[" line="377" column="0" />
         <mark key="]" line="377" column="0" />
         <mark key="." line="377" column="0" />
@@ -106,6 +115,13 @@
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/our-story.ctrl.js" timestamp="1466181308107">
         <mark key="'" line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/helix/js/app/message.js" timestamp="1467233002990">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="253" column="0" />
+        <mark key="]" line="253" column="0" />
+        <mark key="^" line="194" column="44" />
+        <mark key="." line="253" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/controllers/projects.php" timestamp="1465599504875">
         <mark key="'" line="913" column="17" />
@@ -129,12 +145,11 @@
         <mark key="'" line="41" column="2" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/views/user/module/user_avatar.php" timestamp="1467214889736" />
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" timestamp="1467154770486">
-        <mark key="a" line="276" column="26" />
-        <mark key="'" line="147" column="17" />
-        <mark key="[" line="23" column="63" />
-        <mark key="]" line="23" column="63" />
-        <mark key="." line="23" column="63" />
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/message_repo.php" timestamp="1467234948925">
+        <mark key="'" line="203" column="0" />
+        <mark key="[" line="443" column="0" />
+        <mark key="]" line="443" column="0" />
+        <mark key="." line="443" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/PageMeta.js" timestamp="1465358377290">
         <mark key="'" line="16" column="8" />
@@ -157,6 +172,12 @@
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/facts-instances.less" timestamp="1464330805700">
         <mark key="'" line="0" column="6" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/views/dashboard/header.php" timestamp="1467233234022">
+        <mark key="'" line="250" column="34" />
+        <mark key="[" line="259" column="60" />
+        <mark key="]" line="259" column="60" />
+        <mark key="." line="259" column="60" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/controllers/milestones.php" timestamp="1466022563699">
         <mark key="'" line="61" column="8" />
@@ -267,6 +288,11 @@
       <file name="$USER_HOME$/Sites/Rescue/helix/application/libraries/MilestoneHelper.php" timestamp="1465599373485">
         <mark key="'" line="447" column="25" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/helpers/activity_helper.php" timestamp="1467234759425">
+        <mark key="[" line="151" column="0" />
+        <mark key="]" line="151" column="0" />
+        <mark key="." line="151" column="0" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/views/user/signup/account.php" timestamp="1467138097053">
         <mark key="[" line="0" column="28" />
         <mark key="]" line="0" column="35" />
@@ -286,11 +312,12 @@
         <mark key="." line="5" column="24" />
         <mark key="^" line="5" column="24" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/sass/_generic.scss" timestamp="1467134031600">
-        <mark key="[" line="21" column="1" />
-        <mark key="]" line="26" column="27" />
-        <mark key="^" line="26" column="27" />
-        <mark key="." line="26" column="27" />
+      <file name="$USER_HOME$/Sites/Rescue/helix/sass/_generic.scss" timestamp="1467236331181">
+        <mark key="'" line="28" column="0" />
+        <mark key="[" line="235" column="16" />
+        <mark key="]" line="236" column="24" />
+        <mark key="^" line="236" column="24" />
+        <mark key="." line="236" column="24" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/views/milestone/organization.php" timestamp="1466022657163">
         <mark key="[" line="55" column="110" />
@@ -316,6 +343,9 @@
         <mark key="]" line="18" column="16" />
         <mark key="^" line="18" column="16" />
         <mark key="." line="18" column="16" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/helix/js/app/main.js" timestamp="1467232282848">
+        <mark key="'" line="4" column="8" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/tester/circles/index.html" timestamp="1464933761172">
         <mark key="[" line="8" column="0" />
@@ -355,6 +385,13 @@
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/Gruntfile.js" timestamp="1467130477987">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/controllers/my.php" timestamp="1467235910895">
+        <mark key="'" line="570" column="9" />
+        <mark key="[" line="297" column="34" />
+        <mark key="]" line="298" column="41" />
+        <mark key="." line="298" column="41" />
+        <mark key="^" line="298" column="41" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/full-fact.ctrl.js" timestamp="1467214567057">
         <mark key="'" line="188" column="12" />
         <mark key="[" line="189" column="0" />
@@ -367,6 +404,12 @@
         <mark key="]" line="50" column="18" />
         <mark key="^" line="50" column="18" />
         <mark key="." line="50" column="18" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/views/my/projects.php" timestamp="1467236208799">
+        <mark key="[" line="11" column="54" />
+        <mark key="]" line="11" column="55" />
+        <mark key="." line="11" column="55" />
+        <mark key="^" line="11" column="54" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/controllers/profiles.php" timestamp="1467151485286">
         <mark key="'" line="104" column="54" />
@@ -412,7 +455,7 @@
         <mark key="." line="12" column="8" />
         <mark key="^" line="10" column="46" />
       </file>
-      <file name="/Dummy.txt" timestamp="1467226363905">
+      <file name="/Dummy.txt" timestamp="1467234933048">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/tobacco-affects.php" timestamp="1466788703627">
@@ -424,10 +467,28 @@
         <mark key="^" line="2274" column="17" />
         <mark key="." line="2274" column="17" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/config.js" timestamp="1466999902522">
+        <mark key="'" line="45" column="18" />
+        <mark key="[" line="36" column="26" />
+        <mark key="]" line="36" column="26" />
+        <mark key="." line="36" column="26" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/models/entities/Organization.php" timestamp="1466018391367">
         <mark key="'" line="25" column="20" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/views/profile/main.php" timestamp="1467215026048" />
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/helpers/core_helper.php" timestamp="1467153781164">
+        <mark key="'" line="1670" column="17" />
+        <mark key="[" line="1537" column="0" />
+        <mark key="]" line="1537" column="0" />
+        <mark key="." line="1537" column="0" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/providers/PageData.js" timestamp="1466924357004">
+        <mark key="'" line="28" column="31" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/helpers/MY_form_helper.php" timestamp="1465857440506">
         <mark key="[" line="492" column="3" />
         <mark key="]" line="492" column="3" />
@@ -493,56 +554,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="28" column="119" filename="$USER_HOME$/Sites/Rescue/helix/application/views/user/signup/account_form.php" />
-      <jump line="21" column="123" filename="$USER_HOME$/Sites/Rescue/helix/application/views/user/signup/account_form.php" />
-      <jump line="38" column="133" filename="$USER_HOME$/Sites/Rescue/helix/application/views/user/signup/account_form.php" />
-      <jump line="45" column="80" filename="$USER_HOME$/Sites/Rescue/helix/application/views/user/signup/account_form.php" />
-      <jump line="5" column="142" filename="$USER_HOME$/Sites/Rescue/helix/application/views/user/signup/account_form.php" />
-      <jump line="707" column="9" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/users.php" />
-      <jump line="71" column="12" filename="$USER_HOME$/Sites/Mine/test/ystreet-login/index.php" />
-      <jump line="73" column="34" filename="$USER_HOME$/Sites/Mine/test/ystreet-login/index.php" />
-      <jump line="11" column="66" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/emoji-challenge.php" />
-      <jump line="35" column="55" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/emoji-challenge.php" />
-      <jump line="92" column="21" filename="$USER_HOME$/Sites/Mine/test/ystreet-login/index.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/teams.php" />
-      <jump line="50" column="48" filename="$USER_HOME$/Sites/Rescue/helix/application/views/team/edit_members.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Sites/Rescue/helix/sass/_profile.scss" />
-      <jump line="199" column="25" filename="$USER_HOME$/Sites/Rescue/helix/gulpfile.js" />
-      <jump line="106" column="8" filename="$USER_HOME$/Sites/Rescue/helix/sass/_profile.scss" />
-      <jump line="145" column="5" filename="$USER_HOME$/Sites/Rescue/helix/sass/_profile.scss" />
-      <jump line="80" column="5" filename="$USER_HOME$/Sites/Rescue/helix/sass/_profile.scss" />
-      <jump line="74" column="2" filename="$USER_HOME$/Sites/Rescue/helix/sass/_profile.scss" />
-      <jump line="0" column="0" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/profiles.php" />
-      <jump line="88" column="54" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/profiles.php" />
-      <jump line="104" column="54" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/profiles.php" />
-      <jump line="4" column="0" filename="$USER_HOME$/Sites/Rescue/helix/sass/_profile.scss" />
-      <jump line="131" column="4" filename="$USER_HOME$/Sites/Rescue/helix/sass/_profile.scss" />
-      <jump line="85" column="12" filename="$USER_HOME$/Sites/Rescue/helix/application/models/entities/User.php" />
-      <jump line="86" column="12" filename="$USER_HOME$/Sites/Rescue/helix/application/models/entities/User.php" />
-      <jump line="87" column="12" filename="$USER_HOME$/Sites/Rescue/helix/application/models/entities/User.php" />
-      <jump line="264" column="50" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
-      <jump line="389" column="15" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
-      <jump line="147" column="17" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
-      <jump line="11" column="40" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/bower_components/angular-scroll-animate/docs/js/angular-bootstrap-prettify.js" />
-      <jump line="193" column="70" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/bower_components/angular-scroll-animate/docs/js/angular-bootstrap-prettify.js" />
-      <jump line="194" column="70" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/bower_components/angular-scroll-animate/docs/js/angular-bootstrap-prettify.js" />
-      <jump line="140" column="11" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/routes.js" />
-      <jump line="7" column="24" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/full-fact.ctrl.js" />
-      <jump line="364" column="40" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/full-fact.ctrl.js" />
-      <jump line="358" column="11" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/full-fact.ctrl.js" />
-      <jump line="180" column="8" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/full-fact.ctrl.js" />
-      <jump line="288" column="8" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/full-fact.ctrl.js" />
-      <jump line="295" column="8" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/full-fact.ctrl.js" />
-      <jump line="38" column="19" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/full-fact.ctrl.js" />
-      <jump line="40" column="30" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/full-fact.ctrl.js" />
-      <jump line="181" column="38" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/full-fact.ctrl.js" />
-      <jump line="36" column="8" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/full-fact.ctrl.js" />
-      <jump line="14" column="46" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/full-fact.ctrl.js" />
-      <jump line="17" column="13" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/full-fact.ctrl.js" />
-      <jump line="2" column="14" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/full-fact.ctrl.js" />
-      <jump line="78" column="13" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/full-fact.ctrl.js" />
-      <jump line="182" column="6" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/full-fact.ctrl.js" />
-      <jump line="20" column="8" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/full-fact.ctrl.js" />
       <jump line="296" column="8" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/full-fact.ctrl.js" />
       <jump line="184" column="8" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/full-fact.ctrl.js" />
       <jump line="32" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/full-fact.ctrl.js" />
@@ -593,6 +604,56 @@
       <jump line="186" column="17" filename="$USER_HOME$/Sites/Rescue/helix/sass/_profile.scss" />
       <jump line="276" column="16" filename="$USER_HOME$/Sites/Rescue/helix/sass/_profile.scss" />
       <jump line="408" column="15" filename="$USER_HOME$/Sites/Rescue/helix/sass/_profile.scss" />
+      <jump line="153" column="28" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/my.php" />
+      <jump line="459" column="0" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/my.php" />
+      <jump line="147" column="0" filename="$USER_HOME$/Sites/Rescue/helix/application/helpers/MY_html_helper.php" />
+      <jump line="157" column="30" filename="$USER_HOME$/Sites/Rescue/helix/application/helpers/MY_html_helper.php" />
+      <jump line="54" column="9" filename="$USER_HOME$/Sites/Rescue/helix/application/helpers/MY_html_helper.php" />
+      <jump line="256" column="36" filename="$USER_HOME$/Sites/Rescue/helix/application/views/dashboard/header.php" />
+      <jump line="69" column="49" filename="$USER_HOME$/Sites/Rescue/helix/application/views/dashboard/header.php" />
+      <jump line="540" column="35" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/my.php" />
+      <jump line="92" column="25" filename="$USER_HOME$/Sites/Rescue/helix/js/app/message.js" />
+      <jump line="14" column="16" filename="$USER_HOME$/Sites/Rescue/helix/js/app/message.js" />
+      <jump line="4" column="8" filename="$USER_HOME$/Sites/Rescue/helix/js/app/main.js" />
+      <jump line="12" column="8" filename="$USER_HOME$/Sites/Rescue/helix/js/app/message.js" />
+      <jump line="254" column="16" filename="$USER_HOME$/Sites/Rescue/helix/js/app/message.js" />
+      <jump line="13" column="12" filename="$USER_HOME$/Sites/Rescue/helix/js/app/message.js" />
+      <jump line="307" column="10" filename="$USER_HOME$/Sites/Rescue/helix/js/app/message.js" />
+      <jump line="179" column="4" filename="$USER_HOME$/Sites/Rescue/helix/js/app/message.js" />
+      <jump line="36" column="47" filename="$USER_HOME$/Sites/Rescue/helix/js/app/message.js" />
+      <jump line="256" column="16" filename="$USER_HOME$/Sites/Rescue/helix/js/app/message.js" />
+      <jump line="183" column="30" filename="$USER_HOME$/Sites/Rescue/helix/js/app/message.js" />
+      <jump line="249" column="5" filename="$USER_HOME$/Sites/Rescue/helix/js/app/message.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Sites/Rescue/helix/js/app/message.js" />
+      <jump line="13" column="24" filename="$USER_HOME$/Sites/Rescue/helix/application/views/dashboard/header.php" />
+      <jump line="49" column="56" filename="$USER_HOME$/Sites/Rescue/helix/application/views/dashboard/header.php" />
+      <jump line="53" column="56" filename="$USER_HOME$/Sites/Rescue/helix/application/views/dashboard/header.php" />
+      <jump line="58" column="78" filename="$USER_HOME$/Sites/Rescue/helix/application/views/dashboard/header.php" />
+      <jump line="61" column="118" filename="$USER_HOME$/Sites/Rescue/helix/application/views/dashboard/header.php" />
+      <jump line="70" column="75" filename="$USER_HOME$/Sites/Rescue/helix/application/views/dashboard/header.php" />
+      <jump line="93" column="61" filename="$USER_HOME$/Sites/Rescue/helix/application/views/dashboard/header.php" />
+      <jump line="130" column="42" filename="$USER_HOME$/Sites/Rescue/helix/application/views/dashboard/header.php" />
+      <jump line="191" column="34" filename="$USER_HOME$/Sites/Rescue/helix/application/views/dashboard/header.php" />
+      <jump line="212" column="34" filename="$USER_HOME$/Sites/Rescue/helix/application/views/dashboard/header.php" />
+      <jump line="250" column="34" filename="$USER_HOME$/Sites/Rescue/helix/application/views/dashboard/header.php" />
+      <jump line="529" column="59" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/my.php" />
+      <jump line="547" column="0" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/my.php" />
+      <jump line="257" column="9" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/my.php" />
+      <jump line="338" column="49" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/my.php" />
+      <jump line="293" column="0" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/my.php" />
+      <jump line="456" column="18" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/my.php" />
+      <jump line="543" column="0" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/my.php" />
+      <jump line="572" column="50" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/my.php" />
+      <jump line="261" column="4" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/my.php" />
+      <jump line="269" column="41" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/my.php" />
+      <jump line="508" column="0" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/my.php" />
+      <jump line="175" column="30" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/message_repo.php" />
+      <jump line="273" column="33" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/my.php" />
+      <jump line="14" column="13" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/message_repo.php" />
+      <jump line="203" column="0" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/message_repo.php" />
+      <jump line="515" column="34" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/my.php" />
+      <jump line="570" column="9" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/my.php" />
+      <jump line="28" column="0" filename="$USER_HOME$/Sites/Rescue/helix/sass/_generic.scss" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2438,7 +2499,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -2492,52 +2553,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>h1</text>
+        <text>previousUrl</text>
       </register>
       <register name="/" type="4">
-        <text>.team</text>
+        <text>function projects</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">QG1lZGlhIChtYXgtd2lkdGggOiA1ODBweCkgewo=</text>
+        <text encoding="base64">ICAgIDw/cGhwIGVuZGlmOyA/Pgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="2" type="4">
-        <text>h1</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
       </register>
-      <register name="3" type="4">
-        <text>max-height : 100px;</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>previousUrl</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+      <register name="5" type="4">
+        <text>Previous</text>
       </register>
       <register name="6" type="4">
-        <text />
+        <text>previousUrl</text>
       </register>
       <register name="7" type="4">
-        <text>150px</text>
+        <text>1</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>.team</last-search>
+      <last-search>function projects</last-search>
       <last-offset />
-      <last-pattern>.team</last-pattern>
+      <last-pattern>function projects</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxzaG93UmVzdWx0c1w+</last-substitute>
       <last-dir>1</last-dir>
@@ -2545,26 +2606,26 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxoYXNoXD4=</entry>
-        <entry encoding="base64">XDxsb2FkSW5pdGlhbEZhY3RcPg==</entry>
-        <entry encoding="base64">XDxsb2NhdGlvblw+</entry>
-        <entry encoding="base64">XDxjdXN0b21TY3JvbGxPY2N1cnJlZFw+</entry>
-        <entry encoding="base64">XDxsZWF2aW5nXD4=</entry>
-        <entry encoding="base64">XDxwdXNoRmFjdFVybFw+</entry>
-        <entry encoding="base64">XDxzd2l0Y2hTZWN0aW9uc1w+</entry>
-        <entry>newFact</entry>
-        <entry encoding="base64">XDxmYWN0TGlzdFw+</entry>
-        <entry encoding="base64">XDxjdXJyZW50U2VjdGlvblw+</entry>
-        <entry>thumn</entry>
-        <entry>thumb</entry>
-        <entry encoding="base64">XDx0aHVtYl81MFw+</entry>
-        <entry encoding="base64">XDx0aHVtYl9cPg==</entry>
-        <entry>function manage</entry>
-        <entry>profile</entry>
-        <entry>card</entry>
-        <entry>user_search</entry>
-        <entry>!important</entry>
-        <entry>.team</entry>
+        <entry>selectAll</entry>
+        <entry encoding="base64">XDxzZWxlY3RBbGxcPg==</entry>
+        <entry encoding="base64">XDxhbGxcPg==</entry>
+        <entry encoding="base64">XDxtZXNzYWdlXD4=</entry>
+        <entry encoding="base64">XDxzZWxlY3RvcnNcPg==</entry>
+        <entry encoding="base64">XDxzZWxlY3RcPg==</entry>
+        <entry encoding="base64">XDxzZWxlY3RDbGlja2VkXD4=</entry>
+        <entry>debugger</entry>
+        <entry>tm-coun</entry>
+        <entry>tm</entry>
+        <entry>show_</entry>
+        <entry>function project</entry>
+        <entry>json_mark</entry>
+        <entry>getMessage</entry>
+        <entry>messages</entry>
+        <entry>function messages</entry>
+        <entry encoding="base64">XDxyZXN1bHRzUGVyUGFnZVw+</entry>
+        <entry>getNotification</entry>
+        <entry>projects</entry>
+        <entry>function projects</entry>
       </history-search>
       <history-cmd>
         <entry>638</entry>
