@@ -6,7 +6,7 @@
       <file name="$USER_HOME$/Sites/Rescue/surveys/resources/assets/js/youtubeFront.js" timestamp="1467049135185">
         <mark key="'" line="43" column="36" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/FaceBook.js" timestamp="1467307695317">
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/FaceBook.js" timestamp="1467315168688">
         <mark key="'" line="18" column="18" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/controllers/teams.php" timestamp="1467216483526">
@@ -2598,7 +2598,7 @@
         <text>false === $result</text>
       </register>
       <register name="/" type="4">
-        <text>images</text>
+        <text>high</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICRyZWdpb25SZXBvID0gcmVwb0ZhY3RvcnkoJ1JlZ2lvbicpOwo=</text>
@@ -2638,9 +2638,9 @@
       </register>
     </registers>
     <search>
-      <last-search>images</last-search>
+      <last-search>high</last-search>
       <last-offset />
-      <last-pattern>images</last-pattern>
+      <last-pattern>high</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxzaG93UmVzdWx0c1w+</last-substitute>
       <last-dir>1</last-dir>
@@ -2648,7 +2648,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhbGxHcm91cHNcPg==</entry>
         <entry>System</entry>
         <entry>system</entry>
         <entry>Zip</entry>
@@ -2668,6 +2667,7 @@
         <entry encoding="base64">XDxyZWNlbnRHYWxsZXJpZXNcPg==</entry>
         <entry encoding="base64">XDxpbWFnZXNcPg==</entry>
         <entry>images</entry>
+        <entry>high</entry>
       </history-search>
       <history-cmd>
         <entry>638</entry>
