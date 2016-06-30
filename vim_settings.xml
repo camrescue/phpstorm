@@ -40,12 +40,12 @@
         <mark key="." line="60" column="36" />
         <mark key="^" line="60" column="36" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/event.ctrl.js" timestamp="1467313575275">
-        <mark key="'" line="54" column="22" />
-        <mark key="[" line="51" column="14" />
-        <mark key="]" line="52" column="20" />
-        <mark key="." line="52" column="20" />
-        <mark key="^" line="52" column="20" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/event.ctrl.js" timestamp="1467323409344">
+        <mark key="'" line="53" column="22" />
+        <mark key="[" line="52" column="0" />
+        <mark key="]" line="52" column="0" />
+        <mark key="." line="52" column="0" />
+        <mark key="^" line="52" column="52" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/fact.ctrl.js" timestamp="1466181241734">
         <mark key="'" line="151" column="16" />
@@ -2541,7 +2541,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICRyZXN1bHQgPSBmYWxzZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -2595,7 +2595,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>false === $result</text>
+        <text>849419035189836</text>
       </register>
       <register name="/" type="4">
         <text>high</text>
@@ -2604,25 +2604,25 @@
         <text encoding="base64">ICAgICRyZWdpb25SZXBvID0gcmVwb0ZhY3RvcnkoJ1JlZ2lvbicpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICRyZXN1bHQgPSBmYWxzZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="2" type="4">
+        <text>849419035189836</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhcl9kdW1wKCRyZXN1bHQpOwogICAgZXhpdDsK</text>
+      <register name="3" type="4">
+        <text>$scope.event.album_id</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAkcmVzdWx0ID0gZmFsc2U7Cg==</text>
+        <text encoding="base64">ICAgICRyZXN1bHQgPSBmYWxzZTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>false === $result</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHZhcl9kdW1wKCRyZXN1bHQpOwogICAgZXhpdDsK</text>
       </register>
-      <register name="7" type="4">
-        <text>FALSE</text>
+      <register name="7" type="2">
+        <text encoding="base64">CiAgICAkcmVzdWx0ID0gZmFsc2U7Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -2630,8 +2630,8 @@
       <register name="x" type="4">
         <text />
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>false === $result</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
