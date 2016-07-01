@@ -6,18 +6,15 @@
       <file name="$USER_HOME$/Sites/Rescue/surveys/resources/assets/js/youtubeFront.js" timestamp="1467049135185">
         <mark key="'" line="43" column="36" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/FaceBook.js" timestamp="1467390399125">
-        <mark key="'" line="163" column="8" />
-        <mark key="[" line="121" column="0" />
-        <mark key="]" line="121" column="0" />
-        <mark key="." line="121" column="0" />
-        <mark key="^" line="90" column="14" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/FaceBook.js" timestamp="1467393210777">
+        <mark key="'" line="42" column="36" />
+        <mark key="[" line="0" column="63" />
+        <mark key="]" line="0" column="62" />
+        <mark key="." line="0" column="62" />
+        <mark key="^" line="0" column="62" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/controllers/teams.php" timestamp="1467216483526">
         <mark key="'" line="125" column="33" />
-      </file>
-      <file name="/a.dummy" timestamp="1467390393762">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" timestamp="1467066704047">
         <mark key="'" line="0" column="0" />
@@ -318,6 +315,13 @@
         <mark key="^" line="285" column="26" />
         <mark key="." line="305" column="0" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/providers/FacebookApp.js" timestamp="1467393087583">
+        <mark key="'" line="12" column="12" />
+        <mark key="[" line="74" column="31" />
+        <mark key="]" line="74" column="31" />
+        <mark key="^" line="74" column="31" />
+        <mark key="." line="74" column="31" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/Gruntfile.js" timestamp="1467130477987">
         <mark key="'" line="0" column="0" />
       </file>
@@ -341,8 +345,8 @@
         <mark key="^" line="46" column="58" />
         <mark key="." line="46" column="58" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/bower_components/angular-bootstrap-lightbox/dist/angular-bootstrap-lightbox.js" timestamp="1467389953316">
-        <mark key="'" line="660" column="32" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/bower_components/angular-bootstrap-lightbox/dist/angular-bootstrap-lightbox.js" timestamp="1467390808426">
+        <mark key="'" line="695" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/views/my/projects.php" timestamp="1467236208799">
         <mark key="[" line="11" column="54" />
@@ -410,12 +414,12 @@
         <mark key="]" line="31" column="0" />
         <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/routes.js" timestamp="1467389860433">
-        <mark key="'" line="17" column="56" />
-        <mark key="[" line="53" column="39" />
-        <mark key="]" line="53" column="46" />
-        <mark key="." line="53" column="46" />
-        <mark key="^" line="53" column="46" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/routes.js" timestamp="1467392264246">
+        <mark key="'" line="134" column="27" />
+        <mark key="[" line="132" column="0" />
+        <mark key="]" line="132" column="0" />
+        <mark key="." line="132" column="0" />
+        <mark key="^" line="135" column="59" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/sass/_splash.scss" timestamp="1467138167352">
         <mark key="'" line="57" column="24" />
@@ -446,14 +450,6 @@
       <file name="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/Core.php" timestamp="1467312849014" />
     </filemarks>
     <jumps>
-      <jump line="197" column="53" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/FaceBook.js" />
-      <jump line="114" column="53" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/FaceBook.js" />
-      <jump line="159" column="53" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/FaceBook.js" />
-      <jump line="18" column="18" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/FaceBook.js" />
-      <jump line="44" column="42" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/event.ctrl.js" />
-      <jump line="79" column="13" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/event.ctrl.js" />
-      <jump line="102" column="23" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/event.ctrl.js" />
-      <jump line="29" column="11" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/event.ctrl.js" />
       <jump line="111" column="33" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/events.ctrl.js" />
       <jump line="37" column="49" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/events.ctrl.js" />
       <jump line="63" column="29" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/get_fb_token_tmp.php" />
@@ -503,7 +499,6 @@
       <jump line="138" column="26" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/FaceBook.js" />
       <jump line="76" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/FaceBook.js" />
       <jump line="46" column="16" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/FaceBook.js" />
-      <jump line="42" column="20" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/FaceBook.js" />
       <jump line="46" column="20" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/event.ctrl.js" />
       <jump line="45" column="16" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/event.ctrl.js" />
       <jump line="43" column="32" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/event.ctrl.js" />
@@ -538,7 +533,6 @@
       <jump line="146" column="36" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/FaceBook.js" />
       <jump line="204" column="39" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/FaceBook.js" />
       <jump line="124" column="8" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/FaceBook.js" />
-      <jump line="2" column="8" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/FaceBook.js" />
       <jump line="72" column="8" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/FaceBook.js" />
       <jump line="37" column="41" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/routes.js" />
       <jump line="17" column="56" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/routes.js" />
@@ -546,6 +540,16 @@
       <jump line="660" column="32" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/bower_components/angular-bootstrap-lightbox/dist/angular-bootstrap-lightbox.js" />
       <jump line="4" column="8" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/FaceBook.js" />
       <jump line="163" column="8" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/FaceBook.js" />
+      <jump line="695" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/bower_components/angular-bootstrap-lightbox/dist/angular-bootstrap-lightbox.js" />
+      <jump line="66" column="34" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/providers/FacebookApp.js" />
+      <jump line="123" column="68" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/routes.js" />
+      <jump line="43" column="42" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/routes.js" />
+      <jump line="129" column="40" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/routes.js" />
+      <jump line="0" column="114" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/routes.js" />
+      <jump line="134" column="27" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/routes.js" />
+      <jump line="2" column="8" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/FaceBook.js" />
+      <jump line="12" column="12" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/providers/FacebookApp.js" />
+      <jump line="42" column="36" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/FaceBook.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2390,8 +2394,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Provider</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -2445,63 +2449,59 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>getFbPath</text>
+        <text>Provider</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRfZmJfdXNlcl9pZFw+</text>
+        <text encoding="base64">XDxmYlJlYWR5RGVmZmVyZWRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>Provider</text>
       </register>
-      <register name="2" type="4">
-        <text>getFbPath</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhbGxiYWNrKCk7Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>q</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="4" type="4">
-        <text>$</text>
+        <text>function () {</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
+      <register name="5" type="4">
+        <text>fbReady</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
+      <register name="6" type="4">
+        <text>,</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
+      <register name="7" type="4">
+        <text>fbRequest</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
+      <register name="8" type="4">
+        <text>(</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
+      <register name="9" type="4">
+        <text>fbRequest</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRfZmJfdXNlcl9pZFw+</last-search>
+      <last-search encoding="base64">XDxmYlJlYWR5RGVmZmVyZWRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRfZmJfdXNlcl9pZFw+</last-pattern>
+      <last-pattern encoding="base64">XDxmYlJlYWR5RGVmZmVyZWRcPg==</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxzaG93UmVzdWx0c1w+</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxmYl90b2tlbl91cmxcPg==</entry>
-        <entry encoding="base64">XDxmYlJlYWR5XD4=</entry>
-        <entry encoding="base64">XDxkZWZlcnJlZFw+</entry>
-        <entry encoding="base64">XDxmYlJlYWR5RGVmZmVyZWRcPg==</entry>
         <entry encoding="base64">XDxlbnN1cmVUb2tlblw+</entry>
         <entry encoding="base64">XDxnZXRfaGlfcmVzX2ltYWdlXD4=</entry>
         <entry>deferred</entry>
@@ -2512,12 +2512,16 @@
         <entry encoding="base64">XDxhbGJ1bV9pZFw+</entry>
         <entry encoding="base64">XDxnZXRfYWxidW1fcGhvdG9cPg==</entry>
         <entry>get_album_photo</entry>
-        <entry encoding="base64">XDxhcHBJZFw+</entry>
         <entry encoding="base64">XDxmZXRjaFRva2VuXD4=</entry>
         <entry>LightboxProvide</entry>
         <entry>LightboxProvi</entry>
         <entry encoding="base64">XDx1c2VySWRcPg==</entry>
         <entry encoding="base64">XDxnZXRfZmJfdXNlcl9pZFw+</entry>
+        <entry>$get</entry>
+        <entry>FacebookAppProvider</entry>
+        <entry encoding="base64">XDxURkxfQ09ORklHXD4=</entry>
+        <entry encoding="base64">XDxhcHBJZFw+</entry>
+        <entry encoding="base64">XDxmYlJlYWR5RGVmZmVyZWRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>638</entry>
