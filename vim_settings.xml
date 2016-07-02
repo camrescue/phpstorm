@@ -33,12 +33,12 @@
         <mark key="'" line="353" column="21" />
         <mark key="[" line="443" column="86" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/event.ctrl.js" timestamp="1467490328706">
-        <mark key="'" line="107" column="13" />
-        <mark key="[" line="58" column="55" />
-        <mark key="]" line="58" column="61" />
-        <mark key="^" line="58" column="61" />
-        <mark key="." line="58" column="61" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/event.ctrl.js" timestamp="1467493415639">
+        <mark key="'" line="43" column="23" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="^" line="58" column="27" />
+        <mark key="." line="56" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/fact.ctrl.js" timestamp="1466181241734">
         <mark key="'" line="151" column="16" />
@@ -374,12 +374,12 @@
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/PageShare.js" timestamp="1466814495314">
         <mark key="'" line="64" column="12" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/event-detail.php" timestamp="1467490377648">
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/event-detail.php" timestamp="1467493445280">
         <mark key="'" line="52" column="65" />
-        <mark key="[" line="52" column="72" />
-        <mark key="]" line="52" column="73" />
-        <mark key="^" line="52" column="106" />
-        <mark key="." line="52" column="73" />
+        <mark key="[" line="52" column="92" />
+        <mark key="]" line="52" column="92" />
+        <mark key="^" line="52" column="58" />
+        <mark key="." line="52" column="92" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/surveys/resources/assets/js/fluidSurvey.js" timestamp="1464281033012">
         <mark key="'" line="147" column="28" />
@@ -462,8 +462,6 @@
       <file name="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/Core.php" timestamp="1467312849014" />
     </filemarks>
     <jumps>
-      <jump line="37" column="41" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/routes.js" />
-      <jump line="17" column="56" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/routes.js" />
       <jump line="17" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/bower_components/angular-bootstrap-lightbox/dist/angular-bootstrap-lightbox.js" />
       <jump line="660" column="32" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/bower_components/angular-bootstrap-lightbox/dist/angular-bootstrap-lightbox.js" />
       <jump line="4" column="8" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/FaceBook.js" />
@@ -498,7 +496,6 @@
       <jump line="100" column="47" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/event.ctrl.js" />
       <jump line="99" column="19" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/event.ctrl.js" />
       <jump line="85" column="16" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/event.ctrl.js" />
-      <jump line="43" column="32" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/event.ctrl.js" />
       <jump line="46" column="20" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/event.ctrl.js" />
       <jump line="45" column="16" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/event.ctrl.js" />
       <jump line="97" column="37" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/events.ctrl.js" />
@@ -562,6 +559,9 @@
       <jump line="107" column="13" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/event.ctrl.js" />
       <jump line="41" column="42" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/event-detail.php" />
       <jump line="52" column="65" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/event-detail.php" />
+      <jump line="44" column="16" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/event.ctrl.js" />
+      <jump line="83" column="13" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/event.ctrl.js" />
+      <jump line="43" column="23" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/event.ctrl.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2406,8 +2406,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRiZyhyZWFzb24pOwo=</text>
+      <register name="&quot;" type="4">
+        <text>Photo</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -2461,28 +2461,28 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZnVuY3Rpb24g</text>
+        <text>Photo</text>
       </register>
       <register name="/" type="4">
-        <text>images</text>
+        <text encoding="base64">XDxhZGRBbGJ1bVRvR2FsbGVyeVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGRiZyhyZWFzb24pOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>Photo</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>Photo</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
+      </register>
+      <register name="4" type="4">
+        <text>Photo</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
@@ -2490,26 +2490,26 @@
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">ZnVuY3Rpb24g</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
-      <register name="9" type="4">
-        <text>.</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>images</last-search>
+      <last-search encoding="base64">XDxhZGRBbGJ1bVRvR2FsbGVyeVw+</last-search>
       <last-offset />
-      <last-pattern>images</last-pattern>
+      <last-pattern encoding="base64">XDxhZGRBbGJ1bVRvR2FsbGVyeVw+</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxzaG93UmVzdWx0c1w+</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -2525,7 +2525,6 @@
         <entry encoding="base64">XDxuZWVkX2FsYnVtXD4=</entry>
         <entry encoding="base64">XDxpc1Bhc3RFdmVudFw+</entry>
         <entry encoding="base64">XDxzZXREYXRhXD4=</entry>
-        <entry encoding="base64">XDxhZGRBbGJ1bVRvR2FsbGVyeVw+</entry>
         <entry encoding="base64">XDxpbWFnZXNcPg==</entry>
         <entry>makeUrl</entry>
         <entry encoding="base64">XDxtYWtlVXJsXD4=</entry>
@@ -2534,6 +2533,7 @@
         <entry encoding="base64">XDxnZXRBbGJ1bUNvdmVyXD4=</entry>
         <entry encoding="base64">XDxnZXRSZWNlbnRDb3ZlcnNcPg==</entry>
         <entry>images</entry>
+        <entry encoding="base64">XDxhZGRBbGJ1bVRvR2FsbGVyeVw+</entry>
       </history-search>
       <history-cmd>
         <entry>638</entry>
