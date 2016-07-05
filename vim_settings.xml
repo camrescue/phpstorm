@@ -17,7 +17,7 @@
       <file name="$USER_HOME$/Sites/Rescue/helix/application/controllers/teams.php" timestamp="1467216483526">
         <mark key="'" line="125" column="33" />
       </file>
-      <file name="/a.dummy" timestamp="1467748513695">
+      <file name="/a.dummy" timestamp="1467757401086">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" timestamp="1467742545696">
@@ -63,6 +63,7 @@
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/fact.ctrl.js" timestamp="1466181241734">
         <mark key="'" line="151" column="16" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/events.php" timestamp="1467310519459" />
       <file name="$USER_HOME$/Sites/Rescue/helix/application/controllers/organizations.php" timestamp="1466018600148">
         <mark key="'" line="161" column="39" />
       </file>
@@ -100,18 +101,27 @@
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/AnimateCss.js" timestamp="1465370766338">
         <mark key="[" line="11" column="76" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/models/services/ProjectSrv.php" timestamp="1467303413721">
+        <mark key="'" line="92" column="43" />
+        <mark key="[" line="75" column="66" />
+        <mark key="]" line="76" column="15" />
+        <mark key="^" line="76" column="15" />
+        <mark key="." line="76" column="15" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/views/helper/table/selector_export.php" timestamp="1465854265667">
         <mark key="[" line="25" column="106" />
         <mark key="]" line="25" column="107" />
         <mark key="." line="25" column="107" />
         <mark key="^" line="25" column="107" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/views/message/inbox.php" timestamp="1467234524963" />
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/partials/emoji-splash.php" timestamp="1466979007614">
         <mark key="[" line="0" column="21" />
         <mark key="]" line="0" column="21" />
         <mark key="." line="0" column="21" />
         <mark key="^" line="0" column="21" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/main" timestamp="1467756784525" />
       <file name="$USER_HOME$/Sites/Rescue/helix/application/models/entities/User.php" timestamp="1467215203786">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="508" column="9" />
@@ -128,6 +138,7 @@
         <mark key="^" line="55" column="76" />
         <mark key="." line="51" column="0" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/region_repo.php" timestamp="1467243151923" />
       <file name="$USER_HOME$/Sites/Rescue/helix/application/helpers/MY_html_helper.php" timestamp="1467231437500">
         <mark key="'" line="54" column="9" />
         <mark key="[" line="377" column="0" />
@@ -172,6 +183,7 @@
         <mark key="^" line="21" column="31" />
         <mark key="." line="17" column="15" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/views/user/module/user_avatar.php" timestamp="1467214889736" />
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/events.ctrl.js" timestamp="1467498005179">
         <mark key="'" line="100" column="18" />
         <mark key="[" line="94" column="12" />
@@ -213,12 +225,6 @@
         <mark key="]" line="18" column="6" />
         <mark key="^" line="18" column="6" />
         <mark key="." line="18" column="6" />
-      </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/views/dashboard/header.php" timestamp="1467233234022">
-        <mark key="'" line="250" column="34" />
-        <mark key="[" line="259" column="60" />
-        <mark key="]" line="259" column="60" />
-        <mark key="." line="259" column="60" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/controllers/milestones.php" timestamp="1466022563699">
         <mark key="'" line="61" column="8" />
@@ -309,6 +315,13 @@
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/tobacco-affects-landing.php" timestamp="1466180641592">
         <mark key="'" line="41" column="12" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/emoji-splash.js" timestamp="1467157390843">
+        <mark key="'" line="175" column="21" />
+        <mark key="[" line="186" column="36" />
+        <mark key="]" line="186" column="45" />
+        <mark key="^" line="186" column="45" />
+        <mark key="." line="186" column="45" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/surveys/app/Http/Controllers/CountryLifeVTController.php" timestamp="1465255174378">
         <mark key="[" line="17" column="45" />
         <mark key="]" line="17" column="46" />
@@ -371,11 +384,26 @@
         <mark key="^" line="280" column="11" />
         <mark key="." line="280" column="11" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/bower_components/angular-bootstrap-lightbox/README.md" timestamp="1467390128713" />
+      <file name="$USER_HOME$/Sites/Rescue/helix/sass/_generic.scss" timestamp="1467236331181">
+        <mark key="'" line="28" column="0" />
+        <mark key="[" line="235" column="16" />
+        <mark key="]" line="236" column="24" />
+        <mark key="^" line="236" column="24" />
+        <mark key="." line="236" column="24" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/views/milestone/organization.php" timestamp="1466022657163">
         <mark key="[" line="55" column="110" />
         <mark key="]" line="55" column="118" />
         <mark key="." line="55" column="118" />
         <mark key="^" line="55" column="118" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/ripple-button.js" timestamp="1466704233673">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="23" column="0" />
+        <mark key="^" line="49" column="25" />
+        <mark key="." line="23" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/css/main.css.map" timestamp="1467741113141">
         <mark key="'" line="0" column="2724" />
@@ -401,6 +429,13 @@
         <mark key="^" line="20" column="60" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/helix/gulpfile.js" timestamp="1467151153110">
+        <mark key="'" line="199" column="25" />
+        <mark key="[" line="1" column="17" />
+        <mark key="]" line="1" column="26" />
+        <mark key="." line="1" column="26" />
+        <mark key="^" line="1" column="26" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/emoji-challenge.txt" timestamp="1464479675259">
         <mark key="[" line="0" column="0" />
       </file>
@@ -410,11 +445,22 @@
         <mark key="." line="44" column="30" />
         <mark key="^" line="44" column="30" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/helix/sass/components/_modal.scss" timestamp="1467224949976">
+        <mark key="'" line="334" column="16" />
+        <mark key="[" line="305" column="0" />
+        <mark key="]" line="305" column="0" />
+        <mark key="^" line="285" column="26" />
+        <mark key="." line="305" column="0" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/emoji-animation.js" timestamp="1466374543802">
         <mark key="[" line="0" column="33" />
         <mark key="]" line="0" column="44" />
         <mark key="." line="0" column="44" />
         <mark key="^" line="0" column="44" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/css/main.css" timestamp="1467757948441">
+        <mark key="'" line="37" column="20" />
+        <mark key="[" line="20492" column="1" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/providers/FacebookApp.js" timestamp="1467735362325">
         <mark key="'" line="18" column="54" />
@@ -423,11 +469,12 @@
         <mark key="^" line="15" column="32" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/Gruntfile.js" timestamp="1467741185073">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="78" column="34" />
-        <mark key="]" line="78" column="34" />
-        <mark key="." line="78" column="34" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/Gruntfile.js" timestamp="1467757919192">
+        <mark key="'" line="110" column="6" />
+        <mark key="[" line="80" column="64" />
+        <mark key="]" line="80" column="64" />
+        <mark key="." line="80" column="64" />
+        <mark key="^" line="80" column="64" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/controllers/my.php" timestamp="1467303121095">
         <mark key="'" line="630" column="44" />
@@ -502,6 +549,7 @@
       <file name="$USER_HOME$/Sites/Rescue/surveys/resources/assets/js/fluidSurvey.js" timestamp="1464281033012">
         <mark key="'" line="147" column="28" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-api/.gitignore" timestamp="1466792418813" />
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/appstore-buttons.js" timestamp="1466933870805">
         <mark key="[" line="16" column="12" />
         <mark key="]" line="16" column="14" />
@@ -515,7 +563,7 @@
         <mark key="." line="12" column="8" />
         <mark key="^" line="10" column="46" />
       </file>
-      <file name="/Dummy.txt" timestamp="1467740892542">
+      <file name="/Dummy.txt" timestamp="1467757405894">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/tobacco-affects.php" timestamp="1466788703627">
@@ -527,21 +575,17 @@
         <mark key="^" line="2274" column="17" />
         <mark key="." line="2274" column="17" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/config.js" timestamp="1467312916708">
-        <mark key="'" line="56" column="31" />
-        <mark key="[" line="36" column="26" />
-        <mark key="]" line="36" column="26" />
-        <mark key="." line="36" column="26" />
-      </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/models/entities/Organization.php" timestamp="1466018391367">
         <mark key="'" line="25" column="20" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/views/profile/main.php" timestamp="1467215026048" />
       <file name="$USER_HOME$/Sites/Rescue/helix/application/helpers/MY_form_helper.php" timestamp="1465857440506">
         <mark key="[" line="492" column="3" />
         <mark key="]" line="492" column="3" />
         <mark key="." line="492" column="3" />
         <mark key="^" line="492" column="3" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/package.json" timestamp="1467757009138" />
       <file name="$USER_HOME$/Sites/Rescue/helix/sass/_splash.scss" timestamp="1467138167352">
         <mark key="'" line="57" column="24" />
         <mark key="[" line="177" column="6" />
@@ -592,13 +636,9 @@
         <mark key="." line="57" column="69" />
         <mark key="^" line="57" column="69" />
       </file>
+      <file name="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/Core.php" timestamp="1467312849014" />
     </filemarks>
     <jumps>
-      <jump line="51" column="33" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/providers/FacebookApp.js" />
-      <jump line="65" column="27" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/providers/FacebookApp.js" />
-      <jump line="45" column="12" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/providers/FacebookApp.js" />
-      <jump line="54" column="29" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/providers/FacebookApp.js" />
-      <jump line="32" column="33" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/FaceBook.js" />
       <jump line="107" column="13" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/event.ctrl.js" />
       <jump line="41" column="42" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/event-detail.php" />
       <jump line="52" column="65" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/event-detail.php" />
@@ -694,6 +734,11 @@
       <jump line="222" column="29" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/variables.less" />
       <jump line="290" column="34" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/events.less" />
       <jump line="0" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/events.less" />
+      <jump line="106" column="6" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/Gruntfile.js" />
+      <jump line="28" column="21" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/css/main.css" />
+      <jump line="43" column="4" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/css/main.css" />
+      <jump line="13" column="35" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/css/main.css" />
+      <jump line="37" column="20" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/css/main.css" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2538,8 +2583,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJfQo=</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -2593,52 +2638,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>m</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text>screen-sm</text>
+        <text>source</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">QG1lZGlhIChtaW4td2lkdGg6IEBzY3JlZW4tc20tbWluKSB7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQkJfQo=</text>
+      <register name="1" type="4">
+        <text>,</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJCS8vdG9wOiAyMDBweDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzb3VyY2VNYXBSb290cGF0aDogJy8nLAogICAgICAgICAgICAgICAgICAgIHNvdXJjZU1hcEJhc2VwYXRoOiAnd3d3JywK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CQkJCS52ZXJ0aWNhbC1hbGlnbihyZWxhdGl2ZSk7Cg==</text>
+      <register name="3" type="4">
+        <text>h</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">CQkJaW1nIHsKCQkJCW1heC13aWR0aDogMTAwJTsK</text>
+      <register name="4" type="4">
+        <text>sourceMapFilename</text>
       </register>
       <register name="5" type="4">
-        <text>m</text>
+        <text>true</text>
       </register>
       <register name="6" type="4">
-        <text>s</text>
+        <text>outputSourceFiles</text>
       </register>
-      <register name="7" type="4">
-        <text>auto;</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzb3VyY2VNYXBGaWxlbmFtZTogJ2Nzcy9tYWluLmNzcy5tYXAnLAo=</text>
       </register>
       <register name="8" type="4">
-        <text>-</text>
+        <text>,</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
-      <register name="9" type="4">
-        <text>x</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzb3VyY2VNYXBGaWxlbmFtZTogJy9wdWJsaWMvY3NzL21haW4uY3NzLm1hcCcK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>screen-sm</last-search>
+      <last-search>source</last-search>
       <last-offset />
-      <last-pattern>screen-sm</last-pattern>
+      <last-pattern>source</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxzaG93UmVzdWx0c1w+</last-substitute>
       <last-dir>1</last-dir>
@@ -2646,8 +2691,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxGYWNlQm9va1w+</entry>
-        <entry encoding="base64">XDxGYWNlYm9va0FwcFw+</entry>
         <entry encoding="base64">XDxmYWNlYm9va1NoYXJlXD4=</entry>
         <entry encoding="base64">XDxmYlJlYWR5RGVmZXJyZWRcPg==</entry>
         <entry encoding="base64">XDxmYlJlcXVlc3RcPg==</entry>
@@ -2666,6 +2709,8 @@
         <entry>embed-map</entry>
         <entry>min-height</entry>
         <entry>screen-sm</entry>
+        <entry>sourceMapping</entry>
+        <entry>source</entry>
       </history-search>
       <history-cmd>
         <entry>638</entry>
