@@ -241,12 +241,12 @@
         <mark key="." line="12" column="137" />
         <mark key="^" line="44" column="30" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/event-details-grid.less" timestamp="1467765822165">
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/event-details-grid.less" timestamp="1467783271515">
         <mark key="'" line="33" column="11" />
-        <mark key="[" line="7" column="27" />
-        <mark key="]" line="7" column="30" />
-        <mark key="." line="7" column="30" />
-        <mark key="^" line="7" column="30" />
+        <mark key="[" line="23" column="23" />
+        <mark key="]" line="23" column="24" />
+        <mark key="." line="23" column="24" />
+        <mark key="^" line="23" column="24" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/helpers/user_helper.php" timestamp="1467245668966">
         <mark key="'" line="1725" column="54" />
@@ -416,8 +416,8 @@
         <mark key="^" line="15" column="32" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/Gruntfile.js" timestamp="1467761595256">
-        <mark key="'" line="108" column="6" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/Gruntfile.js" timestamp="1467782905199">
+        <mark key="'" line="100" column="20" />
         <mark key="[" line="78" column="30" />
         <mark key="]" line="78" column="33" />
         <mark key="." line="78" column="33" />
@@ -575,7 +575,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="114" column="21" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/events.ctrl.js" />
       <jump line="0" column="107" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/events.ctrl.js" />
       <jump line="94" column="17" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/events.ctrl.js" />
       <jump line="118" column="14" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/events.ctrl.js" />
@@ -675,6 +674,7 @@
       <jump line="67" column="28" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/event-detail.php" />
       <jump line="26" column="36" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/event-details-grid.less" />
       <jump line="33" column="11" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/event-details-grid.less" />
+      <jump line="100" column="20" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/Gruntfile.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2520,7 +2520,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text>20px;</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -2574,60 +2574,59 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>20px;</text>
       </register>
       <register name="/" type="4">
-        <text>collection-item</text>
+        <text encoding="base64">XDxsaXZlcmVsb2FkXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIG1hcmdpbjogMTBweCAxMHB4IDEwcHggMDsK</text>
       </register>
       <register name="1" type="4">
-        <text>0</text>
+        <text>20px;</text>
       </register>
       <register name="2" type="4">
-        <text>0</text>
+        <text>10px;</text>
       </register>
       <register name="3" type="4">
-        <text>25px</text>
+        <text>0;</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbjogMTBweDsK</text>
+      <register name="4" type="4">
+        <text>0</text>
       </register>
       <register name="5" type="4">
-        <text>10px;</text>
+        <text>0</text>
       </register>
       <register name="6" type="4">
-        <text>10px;</text>
+        <text>25px</text>
       </register>
-      <register name="7" type="4">
-        <text>10px;</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIG1hcmdpbjogMTBweDsK</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IDEwcHggMHB4IDEwcHg7</text>
+        <text>10px;</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>10px;</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>collection-item</last-search>
+      <last-search encoding="base64">XDxsaXZlcmVsb2FkXD4=</last-search>
       <last-offset />
-      <last-pattern>collection-item</last-pattern>
+      <last-pattern encoding="base64">XDxsaXZlcmVsb2FkXD4=</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxzaG93UmVzdWx0c1w+</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpbml0T3B0c1w+</entry>
         <entry>events</entry>
         <entry>video</entry>
         <entry>static</entry>
@@ -2647,6 +2646,7 @@
         <entry>messages</entry>
         <entry>container</entry>
         <entry>collection-item</entry>
+        <entry encoding="base64">XDxsaXZlcmVsb2FkXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>ew</entry>
