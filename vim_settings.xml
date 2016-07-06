@@ -47,6 +47,9 @@
         <mark key="." line="60" column="36" />
         <mark key="^" line="60" column="36" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/event.ctrl.js" timestamp="1467825876056">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/fact.ctrl.js" timestamp="1466181241734">
         <mark key="'" line="151" column="16" />
       </file>
@@ -162,12 +165,12 @@
         <mark key="^" line="21" column="31" />
         <mark key="." line="17" column="15" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/events.ctrl.js" timestamp="1467823401436">
-        <mark key="'" line="164" column="0" />
-        <mark key="[" line="32" column="22" />
-        <mark key="]" line="32" column="38" />
-        <mark key="." line="32" column="38" />
-        <mark key="^" line="32" column="38" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/events.ctrl.js" timestamp="1467825332821">
+        <mark key="'" line="165" column="0" />
+        <mark key="[" line="10" column="74" />
+        <mark key="]" line="11" column="33" />
+        <mark key="." line="11" column="33" />
+        <mark key="^" line="11" column="33" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/PageMeta.js" timestamp="1465358377290">
         <mark key="'" line="16" column="8" />
@@ -359,13 +362,13 @@
         <mark key="." line="5" column="24" />
         <mark key="^" line="5" column="24" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/events.less" timestamp="1467823769043">
-        <mark key="a" line="254" column="25" />
-        <mark key="'" line="2" column="32" />
-        <mark key="[" line="280" column="5" />
-        <mark key="]" line="280" column="11" />
-        <mark key="^" line="280" column="11" />
-        <mark key="." line="280" column="11" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/events.less" timestamp="1467827505030">
+        <mark key="a" line="262" column="25" />
+        <mark key="'" line="121" column="9" />
+        <mark key="[" line="54" column="0" />
+        <mark key="]" line="54" column="0" />
+        <mark key="^" line="53" column="30" />
+        <mark key="." line="54" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/views/milestone/organization.php" timestamp="1466022657163">
         <mark key="[" line="55" column="110" />
@@ -396,6 +399,12 @@
         <mark key="]" line="8" column="0" />
         <mark key="^" line="20" column="60" />
         <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/partials/event-list-item.php" timestamp="1467827582751">
+        <mark key="[" line="5" column="93" />
+        <mark key="]" line="5" column="93" />
+        <mark key="." line="5" column="93" />
+        <mark key="^" line="5" column="93" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/surveys/app/Libraries/Survey.php" timestamp="1466784553958">
         <mark key="[" line="44" column="26" />
@@ -483,12 +492,12 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/event-detail.php" timestamp="1467821389899">
-        <mark key="'" line="110" column="36" />
-        <mark key="[" line="66" column="44" />
-        <mark key="]" line="66" column="58" />
-        <mark key="^" line="66" column="58" />
-        <mark key="." line="66" column="58" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/event-detail.php" timestamp="1467825845748">
+        <mark key="'" line="114" column="25" />
+        <mark key="[" line="122" column="107" />
+        <mark key="]" line="123" column="19" />
+        <mark key="^" line="123" column="19" />
+        <mark key="." line="123" column="19" />
         <mark key="n" line="66" column="24" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/surveys/resources/assets/js/fluidSurvey.js" timestamp="1464281033012">
@@ -580,14 +589,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="12" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/providers/FacebookApp.js" />
-      <jump line="18" column="54" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/providers/FacebookApp.js" />
-      <jump line="18" column="4" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/videogular.less" />
-      <jump line="982" column="8" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/videogular.less" />
-      <jump line="0" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/videogular.less" />
-      <jump line="250" column="14" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/events.less" />
-      <jump line="0" column="2724" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/css/main.css.map" />
-      <jump line="6" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/generic.less" />
       <jump line="112" column="47" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/event-detail.php" />
       <jump line="29" column="18" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/events.less" />
       <jump line="24" column="8" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/events.less" />
@@ -631,7 +632,6 @@
       <jump line="217" column="38" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/variables.less" />
       <jump line="222" column="29" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/variables.less" />
       <jump line="290" column="34" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/events.less" />
-      <jump line="0" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/events.less" />
       <jump line="106" column="6" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/Gruntfile.js" />
       <jump line="28" column="21" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/css/main.css" />
       <jump line="43" column="4" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/css/main.css" />
@@ -680,6 +680,15 @@
       <jump line="87" column="17" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/events.ctrl.js" />
       <jump line="165" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/events.ctrl.js" />
       <jump line="2" column="32" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/events.less" />
+      <jump line="114" column="25" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/event-detail.php" />
+      <jump line="115" column="13" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/event.ctrl.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/event.ctrl.js" />
+      <jump line="437" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/events.less" />
+      <jump line="111" column="17" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/events.less" />
+      <jump line="0" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/events.less" />
+      <jump line="47" column="10" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/events.less" />
+      <jump line="61" column="9" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/events.less" />
+      <jump line="113" column="9" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/events.less" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2524,8 +2533,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>albums</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -2579,52 +2588,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>albums</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>panel-past-3</text>
+        <text>card-content</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIG1hcmdpbjogMTBweCAxMHB4IDEwcHggMDsK</text>
+        <text encoding="base64">ICAgICAgICA8c3BhbiBuZy1pZj0iZXZlbnQubG9jYXRpb24iIGNsYXNzPSJldmVudC1sb2NhdGlvbiI+LyB7e2V2ZW50LmxvY2F0aW9ufX08L3NwYW4+Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>albums</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="3" type="4">
-        <text>parsePastEvents</text>
+        <text>ng-if=&quot;event.title&quot;</text>
       </register>
       <register name="4" type="4">
-        <text>orderByDate($scope.pastEvents, 'desc')</text>
+        <text>{{event.location}}</text>
       </register>
       <register name="5" type="4">
-        <text>getPastEventsWithAlbums($scope.pastEvents)</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="6" type="4">
-        <text>pastEventsWithAlbum</text>
+        <text encoding="base64">PC9zcGFuPiA=</text>
       </register>
       <register name="7" type="4">
-        <text>pastEventsWithAlbum</text>
+        <text encoding="base64">PC9zcGFuPg==</text>
       </register>
       <register name="8" type="4">
-        <text>(</text>
+        <text>span</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
-      <register name="9" type="4">
-        <text>)</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPHNwYW4gbmctaWY9ImV2ZW50LnRpdGxlIiBjbGFzcz0iZXZlbnQtdGl0bGUiIG5nLWJpbmQtaHRtbD0icmVuZGVySHRtbChldmVudC50aXRsZSkiPjwvc3Bhbj4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>panel-past-3</last-search>
+      <last-search>card-content</last-search>
       <last-offset />
-      <last-pattern>panel-past-3</last-pattern>
+      <last-pattern>card-content</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxzaG93UmVzdWx0c1w+</last-substitute>
       <last-dir>1</last-dir>
@@ -2632,9 +2641,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">ZW1iZWQtbWFwIA==</entry>
-        <entry>rowClass</entry>
-        <entry>messages</entry>
         <entry>container</entry>
         <entry>collection-item</entry>
         <entry encoding="base64">XDxsaXZlcmVsb2FkXD4=</entry>
@@ -2652,6 +2658,9 @@
         <entry encoding="base64">XDxnZXRQYXN0RXZlbnRzV2l0aEFsYnVtc1w+</entry>
         <entry encoding="base64">XDxnZXRVcGNvbWluZ0V2ZW50c1w+</entry>
         <entry>panel-past-3</entry>
+        <entry>safe</entry>
+        <entry>card</entry>
+        <entry>card-content</entry>
       </history-search>
       <history-cmd>
         <entry>ew</entry>
@@ -2670,9 +2679,9 @@
         <entry>314</entry>
         <entry>2270</entry>
         <entry>270</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>367</entry>
         <entry>set hlsearch</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
