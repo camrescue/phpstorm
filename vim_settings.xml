@@ -9,15 +9,18 @@
       <file name="$USER_HOME$/Sites/Rescue/helix/application/controllers/teams.php" timestamp="1467216483526">
         <mark key="'" line="125" column="33" />
       </file>
+      <file name="/a.dummy" timestamp="1467841163488">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" timestamp="1467742545696">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/Events.js" timestamp="1467833525791">
-        <mark key="'" line="40" column="17" />
-        <mark key="[" line="48" column="47" />
-        <mark key="]" line="48" column="48" />
-        <mark key="." line="48" column="48" />
-        <mark key="^" line="0" column="36" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/Events.js" timestamp="1467840876670">
+        <mark key="'" line="45" column="17" />
+        <mark key="[" line="6" column="83" />
+        <mark key="]" line="6" column="89" />
+        <mark key="^" line="6" column="89" />
+        <mark key="." line="6" column="89" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/partials/poll.php" timestamp="1465334954724">
         <mark key="'" line="53" column="43" />
@@ -39,13 +42,6 @@
         <mark key="]" line="60" column="36" />
         <mark key="." line="60" column="36" />
         <mark key="^" line="60" column="36" />
-      </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/event.ctrl.js" timestamp="1467837790602">
-        <mark key="'" line="94" column="4" />
-        <mark key="[" line="117" column="0" />
-        <mark key="]" line="117" column="0" />
-        <mark key="^" line="118" column="51" />
-        <mark key="." line="117" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/fact.ctrl.js" timestamp="1466181241734">
         <mark key="'" line="151" column="16" />
@@ -86,7 +82,7 @@
         <mark key="." line="177" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/main.less" timestamp="1467834202310">
-        <mark key="'" line="25" column="30" />
+        <mark key="'" line="22" column="30" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/views/helper/table/selector_export.php" timestamp="1465854265667">
         <mark key="[" line="25" column="106" />
@@ -171,6 +167,13 @@
         <mark key="]" line="11" column="33" />
         <mark key="." line="11" column="33" />
         <mark key="^" line="11" column="33" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" timestamp="1467841091250">
+        <mark key="'" line="90" column="30" />
+        <mark key="[" line="5" column="31" />
+        <mark key="]" line="5" column="31" />
+        <mark key="^" line="5" column="57" />
+        <mark key="." line="5" column="31" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/PageMeta.js" timestamp="1465358377290">
         <mark key="'" line="16" column="8" />
@@ -362,14 +365,6 @@
         <mark key="." line="5" column="24" />
         <mark key="^" line="5" column="24" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/events.less" timestamp="1467837643410">
-        <mark key="a" line="268" column="25" />
-        <mark key="'" line="248" column="12" />
-        <mark key="[" line="368" column="27" />
-        <mark key="]" line="369" column="25" />
-        <mark key="." line="369" column="25" />
-        <mark key="^" line="369" column="25" />
-      </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/views/milestone/organization.php" timestamp="1466022657163">
         <mark key="[" line="55" column="110" />
         <mark key="]" line="55" column="118" />
@@ -492,13 +487,6 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/event-detail.php" timestamp="1467836813094">
-        <mark key="[" line="28" column="36" />
-        <mark key="]" line="28" column="36" />
-        <mark key="n" line="66" column="24" />
-        <mark key="." line="28" column="36" />
-        <mark key="^" line="7" column="38" />
-      </file>
       <file name="$USER_HOME$/Sites/Rescue/surveys/resources/assets/js/fluidSurvey.js" timestamp="1464281033012">
         <mark key="'" line="147" column="28" />
       </file>
@@ -523,6 +511,12 @@
         <mark key="]" line="2274" column="17" />
         <mark key="^" line="2274" column="17" />
         <mark key="." line="2274" column="17" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/config.js" timestamp="1467840276402">
+        <mark key="'" line="324" column="4" />
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/models/entities/Organization.php" timestamp="1466018391367">
         <mark key="'" line="25" column="20" />
@@ -588,14 +582,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="318" column="12" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/events.less" />
-      <jump line="469" column="12" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/events.less" />
-      <jump line="45" column="8" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/events.less" />
-      <jump line="73" column="29" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/event.ctrl.js" />
-      <jump line="216" column="37" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/event.ctrl.js" />
-      <jump line="131" column="34" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/event.ctrl.js" />
-      <jump line="317" column="29" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/events.less" />
-      <jump line="11" column="36" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/variables.less" />
       <jump line="217" column="38" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/variables.less" />
       <jump line="222" column="29" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/variables.less" />
       <jump line="290" column="34" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/events.less" />
@@ -686,8 +672,16 @@
       <jump line="530" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/events.less" />
       <jump line="0" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/events.less" />
       <jump line="248" column="12" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/events.less" />
-      <jump line="11" column="8" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/event.ctrl.js" />
       <jump line="94" column="4" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/event.ctrl.js" />
+      <jump line="62" column="14" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/event.ctrl.js" />
+      <jump line="11" column="8" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/event.ctrl.js" />
+      <jump line="313" column="19" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/config.js" />
+      <jump line="25" column="38" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/routes.js" />
+      <jump line="326" column="4" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/config.js" />
+      <jump line="5" column="8" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
+      <jump line="72" column="27" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
+      <jump line="80" column="94" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
+      <jump line="90" column="30" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2532,8 +2526,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CQkJCXRvcDogMjBweDsK</text>
+      <register name="&quot;" type="4">
+        <text>our-story/</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -2587,60 +2581,59 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">MzBweCAwIA==</text>
+        <text>our-story/</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwcm9taXNlTGlzdFw+</text>
+        <text encoding="base64">XDxiYXNlUGF0aFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8c3BhbiBuZy1pZj0iZXZlbnQubG9jYXRpb24iIGNsYXNzPSJldmVudC1sb2NhdGlvbiI+LyB7e2V2ZW50LmxvY2F0aW9ufX08L3NwYW4+Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CQkJCXRvcDogMjBweDsK</text>
+      <register name="1" type="4">
+        <text>our-story/</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">CQkJLgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">MzBweCAwIA==</text>
+        <text encoding="base64">dmFyIHBob3RvcyA9IA==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIHBob3RvcyA9IAo=</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">aDMg</text>
+        <text>Events.getAllPhotos();</text>
       </register>
       <register name="6" type="4">
-        <text>0 30px 30px;</text>
+        <text encoding="base64">cGFnZUlkLCA=</text>
       </register>
-      <register name="7" type="4">
-        <text>15px;</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>0 30px 30px;</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBoZWlnaHQ6IDMwMHB4OwogICAgICAgIGJhY2tncm91bmQtaW1hZ2U6IHVybCgiL2ltYWdlcy8yLTAtRXZlbnRzL01vYmlsZS8yLTAtSGVhZGVyLnBuZyIpOwogICAgICAgIGJhY2tncm91bmQtcG9zaXRpb246IDUwJSAwJTsKCiAgICB9Cn0KCkBtZWRpYSAobWluLXdpZHRoOiBAc2NyZWVuLW1kLW1pbikgewogICAgYm9keS5ldmVudHMgI3BlcnNwZWN0aXZlIC5lZmZlY3RDb250YWluZXI6YmVmb3JlIHsKICAgICAgICBiYWNrZ3JvdW5kLWNvbG9yOiBAYnJhbmQtYmx1ZTsKICAgICAgICBoZWlnaHQ6IDUxNXB4OwogICAgICAgIGJhY2tncm91bmQtaW1hZ2U6IHVybCgiL2ltYWdlcy8wLTAtR2xvYmFsLUVsZW1lbnRzL2hlYWRlci1ib3JkZXItMi5wbmciKTsKICAgICAgICBiYWNrZ3JvdW5kLXBvc2l0aW9uOiAxMDAlIDEwMCU7CiAgICB9CgogICAgLmV2ZW50cyB7CiAgICAgICAgaGVhZGVyIC5sb2dvIHsKICAgICAgICAgICAgbWFyZ2luLWJvdHRvbTogNXB4OwogICAgICAgIH0KICAgICAgICAucGFnZS1oZWFkZXIgewogICAgICAgICAgICBtYXJnaW46IDQwcHggMCAwOwogICAgICAgIH0KICAgICAgICBwIHsKICAgICAgICAgICAgY29sb3I6ICMwMDAwMDA7CiAgICAgICAgfQogICAgICAgIC5ibG9jayB7CiAgICAgICAgICAgIC8vYmFja2dyb3VuZC1jb2xvcjogQGJyYW5kLXBpbms7CiAgICAgICAgICAgIHBhZGRpbmctYm90dG9tOiAwOwogICAgICAgICAgICBoMyB7CiAgICAgICAgICAgICAgICBtYXJnaW4tYm90dG9tOiAwOwogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIC5icnVzaC10b3AgewoKICAgICAgICAgICAgYmFja2dyb3VuZDogdXJsKCIvaW1hZ2VzLzItMC1FdmVudHMvMi0wLUV2ZW50U3Ryb2tlLVRvcC5wbmciKSBuby1yZXBlYXQ7CiAgICAgICAgICAgIHBhZGRpbmctdG9wOiAzNXB4OwogICAgICAgICAgICBiYWNrZ3JvdW5kLXNpemU6IGNvdmVyOwogICAgICAgIH0KICAgICAgICAuYnJ1c2gtYm90dG9tIHsKICAgICAgICAgICAgYmFja2dyb3VuZDogdXJsKCIvaW1hZ2VzLzItMC1FdmVudHMvMi0wLUV2ZW50U3Ryb2tlLUJvdHRvbS5wbmciKSBuby1yZXBlYXQ7CiAgICAgICAgICAgIG1pbi1oZWlnaHQ6IDI3cHg7CiAgICAgICAgICAgIGJhY2tncm91bmQtc2l6ZTogY292ZXI7CiAgICAgICAgfQogICAgICAgIC5wbGFjZW1lbnQgewogICAgICAgICAgICBwYWRkaW5nOiAxNXB4IDA7CgogICAgICAgIH0KICAgICAgICAuZXZlbnQtZmlsdGVyIHsKICAgICAgICAgICAgbGFiZWwgc3BhbjpmaXJzdC1jaGlsZCB7CiAgICAgICAgICAgICAgICBkaXNwbGF5OiBibG9jazsKICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICAuZXZlbnRzIGJ1dHRvbi5idG4uYnRuLWRlZmF1bHQuYnRuLWJsb2NrIHsKICAgICAgICAgICAgYm9yZGVyOiBub25lOwogICAgICAgIH0KICAgICAgICAudXBjb21pbmctZXZlbnRzIGgyIHsKICAgICAgICAgICAgY29sb3I6ICMwMDAwMDA7CiAgICAgICAgfQogICAgICAgIC5ldmVudC1jb250YWluZXIgLmJsb2NrIC5jb250ZW50IHsKICAgICAgICAgICAgLnNoYXJlLXdpZGdldCB7CiAgICAgICAgICAgICAgICB3aWR0aDogYXV0bzsKICAgICAgICAgICAgICAgIGJhY2tncm91bmQtY29sb3I6IHRyYW5zcGFyZW50OwogICAgICAgICAgICAgICAgbWFyZ2luLWxlZnQ6IDBweDsKICAgICAgICAgICAgICAgIHBhZGRpbmctbGVmdDogMHB4OwogICAgICAgICAgICAgICAgLmJ0bi1ncm91cCB7CiAgICAgICAgICAgICAgICAgICAgZmxvYXQ6IG5vbmU7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICAgICAgLmJhY2stdG8tbGlzdCB7CiAgICAgICAgICAgICAgICBwb3NpdGlvbjogcmVsYXRpdmU7CiAgICAgICAgICAgICAgICBib3R0b206IGF1dG87CiAgICAgICAgICAgICAgICBsZWZ0OiBhdXRvOwogICAgICAgICAgICB9CiAgICAgICAgfQoKICAgIH0KCiAgICAvL0V2ZW50cyBEZXRhaWwKICAgIC5ibG9jay1tYiB7CiAgICAgICAgYmFja2dyb3VuZC1jb2xvcjogdHJhbnNwYXJlbnQ7CiAgICB9CgogICAgLmV2ZW50cyAuZXZlbnQtY29udGFpbmVyIHsKICAgICAgICAuYm94IHsKICAgICAgICAgICAgaGVpZ2h0OiA1NTBweDsKICAgICAgICAgICAgcG9zaXRpb246IHJlbGF0aXZlOwogICAgICAgICAgICBvdmVyZmxvdzogaGlkZGVuOwogICAgICAgIH0KICAgICAgICAuYmxvY2sgewogICAgICAgICAgICBwb3NpdGlvbjogcmVsYXRpdmU7CiAgICAgICAgICAgIHdpZHRoOiAxMDAlOwogICAgICAgICAgICBoZWlnaHQ6IGF1dG87CiAgICAgICAgICAgIGFkZHJlc3MgewogICAgICAgICAgICAgICAgbWFyZ2luOiAyMHB4IDA7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgLnZlbnVlLCAuZXZlbnQtbG9jYXRpb24gewogICAgICAgICAgICAgICAgcGFkZGluZzogMTBweCAwOwogICAgICAgICAgICB9CiAgICAgICAgICAgIC5jb250ZW50IC5zaGFyZS13aWRnZXQgewogICAgICAgICAgICAgICAgcGFkZGluZzogMTVweCAwOwogICAgICAgICAgICAgICAgcG9zaXRpb246IHJlbGF0aXZlOwogICAgICAgICAgICAgICAgLmJ0bi1ncm91cCBzcGFuLmJ0bi5ldmVudC1kZXRhaWwgewogICAgICAgICAgICAgICAgICAgIGRpc3BsYXk6IG5vbmU7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KCiAgICAgICAgfQogICAgICAgIC5tYXAtcmVzcG9uc2l2ZSB7CiAgICAgICAgICAgIGhlaWdodDogMTAwJTsKICAgICAgICAgICAgcGFkZGluZzogMDsKICAgICAgICB9CiAgICAgICAgLmV2ZW50LW1hcCB7CiAgICAgICAgICAgIC8vei1pbmRleDogMjsKICAgICAgICAgICAgcG9zaXRpb246IGFic29sdXRlOwogICAgICAgICAgICB3aWR0aDogMTAwJTsKICAgICAgICAgICAgaGVpZ2h0OiAxMDAlOwogICAgICAgICAgICB0b3A6IDBweDsKICAgICAgICAgICAgbGVmdDogMHB4OwogICAgICAgICAgICBvdmVyZmxvdzogaGlkZGVuOwogICAgICAgICAgICB0ZXh0LWFsaWduOiByaWdodDsKICAgICAgICAgICAgcGFkZGluZzogMDsKICAgICAgICAgICAgLmVtYmVkLW1hcCB7CiAgICAgICAgICAgICAgICBtYXgtaGVpZ2h0OiBub25lOwogICAgICAgICAgICAgICAgaGVpZ2h0OiAxMDAlOwogICAgICAgICAgICAgICAgaW1nIHsKICAgICAgICAgICAgICAgICAgICBvYmplY3QtZml0OiBjb3ZlcjsKICAgICAgICAgICAgICAgICAgICAudmVydGljYWwtYWxpZ24ocmVsYXRpdmUpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfQogICAgfQoKICAgIC5ldmVudHMgLmV2ZW50LWNvbnRhaW5lciB7CiAgICAgICAgLmV2ZW50LW1hcCB7CiAgICAgICAgICAgIGRpc3BsYXk6IGlubGluZTsKICAgICAgICB9CiAgICAgICAgLmJsb2NrIHsKICAgICAgICAgICAgZGlzcGxheTogYmxvY2s7CiAgICAgICAgICAgIC5jb250ZW50IHsKICAgICAgICAgICAgICAgIG1hcmdpbi1ib3R0b206IDA7CiAgICAgICAgICAgIH0KICAgICAgICB9CgogICAgfQoKICAgIC5ldmVudHMgLnBhc3QtZXZlbnQtY29udGFpbmVyIHsKICAgICAgICBoMyB7CiAgICAgICAgICAgIG1hcmdpbi10b3A6IDMwcHg7CiAgICAgICAgfQogICAgfQp9CgpAbWVkaWEgKG1pbi13aWR0aDogQHNjcmVlbi1sZy1taW4pIHsKICAgIGJvZHkuZXZlbnRzICNwZXJzcGVjdGl2ZSAuZWZmZWN0Q29udGFpbmVyOmJlZm9yZSB7CiAgICAgICAgaGVpZ2h0OiA1MDBweDsKICAgIH0KfQoKLmV2ZW50cyB7CiAgICBtYWluIC5yZWNlbnQtZ2FsbGVyaWVzIHsKICAgICAgICBoNSB7CiAgICAgICAgICAgIGRpc3BsYXk6IG5vbmU7CiAgICAgICAgfQogICAgICAgIGgzIHsKICAgICAgICAgICAgbWFyZ2luOiAxMHB4IDA7CiAgICAgICAgfQogICAgICAgIC5idG4gc3ZnIHsKICAgICAgICAgICAgZmlsbDogQGJyYW5kLXRlYWw7CiAgICAgICAgICAgIHN0cm9rZTogQGJyYW5kLXRlYWw7CiAgICAgICAgfQogICAgICAgIC5wYW5lbC1wYXN0LTMgewogICAgICAgICAgICB3aWR0aDogMzIlICFpbXBvcnRhbnQ7CiAgICAgICAgICAgIC5pbWctcmVzcG9uc2l2ZSB7CiAgICAgICAgICAgICAgICAvL21heC1oZWlnaHQ6IDIzMHB4OwogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIC5wYW5lbCB7CiAgICAgICAgICAgIGJvcmRlcjogMXB4IHNvbGlkIHdoaXRlOwogICAgICAgICAgICBwb3NpdGlvbjogYWJzb2x1dGU7CiAgICAgICAgICAgIHBhZGRpbmctbGVmdDogMHB4ICFpbXBvcnRhbnQ7CiAgICAgICAgICAgIHBhZGRpbmctcmlnaHQ6IDBweCAhaW1wb3J0YW50OwogICAgICAgICAgICAubWFrZS1zbS1jb2x1bW4oNik7CiAgICAgICAgICAgIC5wYW5lbC1ib2R5IHsKICAgICAgICAgICAgICAgIHBhZGRpbmc6IDAgMCAxNXB4IDA7CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICB9Cn0KCi5ldmVudC0yIHsKCn0KCkBtZWRpYSAobWluLXdpZHRoOiBAc2NyZWVuLW1kLW1pbikgewogICAgLmV2ZW50LTIgewogICAgICAgIC5ldmVudC1jb250YWluZXIgLmJydXNoLXNpZGUgewogICAgICAgICAgICBtaW4taGVpZ2h0OiA0MzJweDsKICAgICAgICB9CiAgICAgICAgLmV2ZW50LWNvbnRhaW5lciAuYmxvY2sgewogICAgICAgICAgICBwYWRkaW5nOiA1MHB4IDBweCA1MHB4IDMwcHg7CiAgICAgICAgfQogICAgfQoKICAgIC5ldmVudHMgLmV2ZW50LWNvbnRhaW5lciAuYmxvY2sgLnNoYXJlLXdpZGdldCAuYnRuLWdyb3VwIHNwYW4uYnRuLmV2ZW50LWRldGFpbCB7CiAgICAgICAgZGlzcGxheTogbm9uZTsKICAgIH0KCiAgICAuZXZlbnRzIC5ldmVudC1jb250YWluZXIgLmJveCB7CiAgICAgICAgaGVpZ2h0OiAxMDAlOwogICAgfQoKICAgIC5ldmVudHMgLnNoYXJlLXdpZGdldCAuYnRuLWdyb3VwIGxhYmVsLCAuc2hhcmUtd2lkZ2V0IC5idG4tZ3JvdXAgLmJ0biB7CiAgICAgICAgbWFyZ2luLXJpZ2h0OiAycHg7CiAgICB9CgogICAgLmV2ZW50cyAuZXZlbnQtY29udGFpbmVyIC5ibG9jayB7CiAgICAgICAgLmNvbnRlbnQgewogICAgICAgICAgICBwYWRkaW5nOiAzMHB4IDE1cHg7CiAgICAgICAgfQoKICAgICAgICAuY29udGVudDphZnRlciB7CiAgICAgICAgICAgIGNvbnRlbnQ6ICIiOwogICAgICAgICAgICBwb3NpdGlvbjogYWJzb2x1dGU7Cg==</text>
+        <text encoding="base64">ICAgIHZhciBwYWdlSWQgPSAnNjA0NjU1NzI5NjY2MTY5JzsgLy8gVEZMIEZhY2Vib29rIFBhZ2UKCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwcm9taXNlTGlzdFw+</last-search>
+      <last-search encoding="base64">XDxiYXNlUGF0aFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwcm9taXNlTGlzdFw+</last-pattern>
+      <last-pattern encoding="base64">XDxiYXNlUGF0aFw+</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxzaG93UmVzdWx0c1w+</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwYXN0RXZlbnRzV2l0aEFsYnVtXD4=</entry>
         <entry encoding="base64">XDxnZXRQYXN0RXZlbnRzV2l0aEFsYnVtc1w+</entry>
         <entry encoding="base64">XDxnZXRVcGNvbWluZ0V2ZW50c1w+</entry>
         <entry>panel-past-3</entry>
@@ -2658,8 +2651,9 @@
         <entry>description</entry>
         <entry encoding="base64">XDxkZXNjcmlwdGlvblw+</entry>
         <entry>back-to</entry>
-        <entry encoding="base64">XDxzZXREYXRhXD4=</entry>
         <entry encoding="base64">XDxwcm9taXNlTGlzdFw+</entry>
+        <entry encoding="base64">XDxzZXREYXRhXD4=</entry>
+        <entry encoding="base64">XDxiYXNlUGF0aFw+</entry>
       </history-search>
       <history-cmd>
         <entry>ew</entry>
