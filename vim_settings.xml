@@ -33,7 +33,7 @@
         <mark key="^" line="32" column="36" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/events.php" timestamp="1467925845140">
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/events.php" timestamp="1467927530880">
         <mark key="[" line="68" column="35" />
         <mark key="]" line="69" column="17" />
         <mark key="." line="69" column="17" />
@@ -103,12 +103,12 @@
         <mark key="^" line="21" column="31" />
         <mark key="." line="17" column="15" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/events.ctrl.js" timestamp="1467925934391">
-        <mark key="'" line="16" column="22" />
-        <mark key="[" line="14" column="70" />
-        <mark key="]" line="15" column="30" />
-        <mark key="^" line="15" column="30" />
-        <mark key="." line="15" column="30" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/events.ctrl.js" timestamp="1467927707080">
+        <mark key="'" line="88" column="19" />
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="26" column="0" />
+        <mark key="^" line="81" column="47" />
+        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" timestamp="1467916688543">
         <mark key="'" line="57" column="4" />
@@ -220,12 +220,12 @@
         <mark key="." line="5" column="24" />
         <mark key="^" line="5" column="24" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/events.less" timestamp="1467912670802">
-        <mark key="'" line="272" column="9" />
-        <mark key="[" line="431" column="46" />
-        <mark key="]" line="434" column="40" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/events.less" timestamp="1467926680022">
+        <mark key="'" line="134" column="19" />
+        <mark key="[" line="285" column="5" />
+        <mark key="]" line="285" column="5" />
         <mark key="^" line="434" column="40" />
-        <mark key="." line="434" column="40" />
+        <mark key="." line="285" column="5" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/views/milestone/organization.php" timestamp="1466022657163">
         <mark key="[" line="55" column="110" />
@@ -369,19 +369,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="207" column="13" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/event.ctrl.js" />
-      <jump line="203" column="14" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/event.ctrl.js" />
-      <jump line="136" column="20" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/event.ctrl.js" />
-      <jump line="78" column="11" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/event.ctrl.js" />
-      <jump line="80" column="12" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/event.ctrl.js" />
-      <jump line="172" column="13" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/event.ctrl.js" />
-      <jump line="112" column="16" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/event.ctrl.js" />
-      <jump line="167" column="5" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/event.ctrl.js" />
-      <jump line="123" column="28" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/event.ctrl.js" />
-      <jump line="113" column="16" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/event.ctrl.js" />
-      <jump line="81" column="12" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/event.ctrl.js" />
-      <jump line="177" column="11" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/event.ctrl.js" />
-      <jump line="29" column="8" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/event.ctrl.js" />
       <jump line="58" column="19" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/event.ctrl.js" />
       <jump line="74" column="16" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/event.ctrl.js" />
       <jump line="108" column="19" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/event.ctrl.js" />
@@ -466,9 +453,22 @@
       <jump line="29" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/events.ctrl.js" />
       <jump line="14" column="15" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/events.ctrl.js" />
       <jump line="174" column="15" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/events.ctrl.js" />
-      <jump line="32" column="24" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/events.ctrl.js" />
       <jump line="31" column="24" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/events.ctrl.js" />
       <jump line="16" column="22" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/events.ctrl.js" />
+      <jump line="323" column="8" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/events.less" />
+      <jump line="139" column="5" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/events.less" />
+      <jump line="134" column="19" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/events.less" />
+      <jump line="23" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/events.ctrl.js" />
+      <jump line="32" column="24" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/events.ctrl.js" />
+      <jump line="33" column="24" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/events.ctrl.js" />
+      <jump line="25" column="32" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/events.ctrl.js" />
+      <jump line="80" column="16" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/events.ctrl.js" />
+      <jump line="81" column="17" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/events.ctrl.js" />
+      <jump line="24" column="34" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/events.ctrl.js" />
+      <jump line="84" column="15" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/events.ctrl.js" />
+      <jump line="79" column="13" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/events.ctrl.js" />
+      <jump line="83" column="13" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/events.ctrl.js" />
+      <jump line="88" column="19" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/events.ctrl.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2314,7 +2314,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -2368,52 +2368,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IG5nLWlmPSJpbWFnZXMubGVuZ3RoIg==</text>
+        <text>parseLocations</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwYXN0RXZlbnRzXD4=</text>
+        <text>debugger</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">IG5nLWlmPSJpbWFnZXMubGVuZ3RoIg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhbGJ1bUJsYWNrbGlzdCA9IFsnVGltZWxpbmUgUGhvdG9zJywgJ0NvdmVyIFBob3RvcycsICdQcm9maWxlIFBpY3R1cmVzJ10sCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
+      </register>
+      <register name="3" type="4">
+        <text>parseLocations</text>
+      </register>
+      <register name="4" type="4">
+        <text>.sort();</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
+      </register>
+      <register name="6" type="4">
+        <text>), 'location');</text>
+      </register>
+      <register name="7" type="4">
+        <text>_.sort(</text>
       </register>
       <register name="8" type="4">
-        <text />
+        <text>uniq</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>_.sortedUniq(</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwYXN0RXZlbnRzXD4=</last-search>
+      <last-search>debugger</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwYXN0RXZlbnRzXD4=</last-pattern>
+      <last-pattern>debugger</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxzaG93UmVzdWx0c1w+</last-substitute>
       <last-dir>1</last-dir>
@@ -2421,11 +2421,6 @@
     </search>
     <history>
       <history-search>
-        <entry>event-map</entry>
-        <entry>scale</entry>
-        <entry>images</entry>
-        <entry>parsePhoto</entry>
-        <entry>masonryRefresh</entry>
         <entry encoding="base64">XDxwYXJzZVBob3RvUmVzcG9uc2VcPg==</entry>
         <entry encoding="base64">XDxnZXRQaG90b3NcPg==</entry>
         <entry encoding="base64">XDxzY29wZVw+</entry>
@@ -2433,18 +2428,21 @@
         <entry>More</entry>
         <entry encoding="base64">XDxsb2FkTW9yZUltYWdlc1w+</entry>
         <entry>getPhotos</entry>
-        <entry>events</entry>
         <entry encoding="base64">XDxFdmVudHNcPg==</entry>
         <entry encoding="base64">XDxtYXNvbnJ5UmVmcmVzaFw+</entry>
         <entry encoding="base64">XDxzaG93TWFzb25yeUdyaWRcPg==</entry>
         <entry encoding="base64">XDxsb2FkUGhvdG9zXD4=</entry>
         <entry>debugg</entry>
-        <entry>pastEvents</entry>
         <entry encoding="base64">XDxwYXN0RXZlbnRzXD4=</entry>
+        <entry>event-listing</entry>
+        <entry>events</entry>
+        <entry>pastEvents</entry>
+        <entry>sort</entry>
+        <entry encoding="base64">XDxwYXJzZUxvY2F0aW9uc1w+</entry>
+        <entry encoding="base64">XDxnZXRMb2NhdGlvbnNcPg==</entry>
+        <entry>debugger</entry>
       </history-search>
       <history-cmd>
-        <entry>689</entry>
-        <entry>530</entry>
         <entry>274</entry>
         <entry>wLw</entry>
         <entry>242</entry>
@@ -2462,6 +2460,8 @@
         <entry>q</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>a</entry>
+        <entry>321</entry>
+        <entry>329</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
