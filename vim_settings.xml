@@ -323,12 +323,12 @@
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/videogular.less" timestamp="1467740791328">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/share-button.js" timestamp="1467998002459">
-        <mark key="'" line="56" column="32" />
-        <mark key="[" line="2" column="57" />
-        <mark key="]" line="2" column="60" />
-        <mark key="." line="2" column="60" />
-        <mark key="^" line="2" column="60" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/share-button.js" timestamp="1467999184895">
+        <mark key="'" line="27" column="27" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="24" column="24" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/group_repo.php" timestamp="1467244608083">
         <mark key="[" line="223" column="29" />
@@ -427,11 +427,11 @@
         <mark key="." line="11" column="55" />
         <mark key="^" line="11" column="54" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/partials/share-button.php" timestamp="1467997227019">
-        <mark key="[" line="27" column="30" />
-        <mark key="]" line="27" column="51" />
-        <mark key="." line="27" column="51" />
-        <mark key="^" line="27" column="51" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/partials/share-button.php" timestamp="1467998972872">
+        <mark key="[" line="30" column="56" />
+        <mark key="]" line="30" column="58" />
+        <mark key="." line="30" column="58" />
+        <mark key="^" line="30" column="58" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/controllers/profiles.php" timestamp="1467151485286">
         <mark key="'" line="104" column="54" />
@@ -539,9 +539,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="13" column="12" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/event.ctrl.js" />
-      <jump line="280" column="13" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/event.ctrl.js" />
-      <jump line="27" column="8" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/event.ctrl.js" />
       <jump line="65" column="25" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/event.ctrl.js" />
       <jump line="281" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/event.ctrl.js" />
       <jump line="98" column="4" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/event.ctrl.js" />
@@ -639,6 +636,9 @@
       <jump line="12" column="21" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/share-button.js" />
       <jump line="56" column="32" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/share-button.js" />
       <jump line="63" column="49" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/emoji-challenge.php" />
+      <jump line="26" column="27" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/share-button.js" />
+      <jump line="28" column="27" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/share-button.js" />
+      <jump line="27" column="27" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/share-button.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2483,8 +2483,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>share.url</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -2538,60 +2538,59 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>share.url</text>
+        <text>.url</text>
       </register>
       <register name="/" type="4">
-        <text>share</text>
+        <text encoding="base64">XDxzaGFyZUxpbmtzXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkc2NvcGUuZmFjZWJvb2tTaGFyZVVybCA9IGZhY2Vib29rQmFzZVVybCArICRzY29wZS5zaGFyZVVybDsK</text>
       </register>
-      <register name="1" type="4">
-        <text>share.url</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name="2" type="4">
-        <text>shareLinks.tumblr</text>
+        <text>.url</text>
       </register>
       <register name="3" type="4">
-        <text>shareLinks.facebook</text>
+        <text>Url</text>
       </register>
       <register name="4" type="4">
-        <text>shareLinks.facebook</text>
+        <text>Url</text>
       </register>
       <register name="5" type="4">
-        <text>facebook</text>
+        <text>.url</text>
       </register>
       <register name="6" type="4">
-        <text>:</text>
+        <text>eUrl</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Url</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>.url</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="4">
-        <text encoding="base64">bmctaWY9InNoYXJlLnR1bWJsciIg</text>
+        <text>Url</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>share</last-search>
+      <last-search encoding="base64">XDxzaGFyZUxpbmtzXD4=</last-search>
       <last-offset />
-      <last-pattern>share</last-pattern>
+      <last-pattern encoding="base64">XDxzaGFyZUxpbmtzXD4=</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxzaG93UmVzdWx0c1w+</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzaG93TWFzb25yeUdyaWRcPg==</entry>
         <entry encoding="base64">XDxsb2FkUGhvdG9zXD4=</entry>
         <entry>debugg</entry>
         <entry encoding="base64">XDxwYXN0RXZlbnRzXD4=</entry>
@@ -2611,6 +2610,7 @@
         <entry encoding="base64">XDxidWlsZFR1bWJsZVNoYXJlXD4=</entry>
         <entry encoding="base64">XDxidWlsZFR1bWJsclNoYXJlXD4=</entry>
         <entry>share</entry>
+        <entry encoding="base64">XDxzaGFyZUxpbmtzXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>274</entry>
