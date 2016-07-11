@@ -107,12 +107,13 @@
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/main.less" timestamp="1467834202310">
         <mark key="'" line="25" column="30" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/less/event.less" timestamp="1468270561115">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="^" line="53" column="17" />
-        <mark key="." line="60" column="0" />
+      <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/less/event.less" timestamp="1468272132237">
+        <mark key="a" line="38" column="19" />
+        <mark key="'" line="404" column="44" />
+        <mark key="[" line="39" column="26" />
+        <mark key="]" line="40" column="30" />
+        <mark key="^" line="40" column="30" />
+        <mark key="." line="40" column="30" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/views/helper/table/selector_export.php" timestamp="1465854265667">
         <mark key="[" line="25" column="106" />
@@ -415,12 +416,12 @@
         <mark key="^" line="283" column="30" />
         <mark key="." line="284" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/templates/views-view--events.tpl.php" timestamp="1468270310041">
+      <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/templates/views-view--events.tpl.php" timestamp="1468272049328">
         <mark key="'" line="47" column="13" />
-        <mark key="[" line="144" column="67" />
-        <mark key="]" line="144" column="75" />
-        <mark key="." line="144" column="75" />
-        <mark key="^" line="144" column="75" />
+        <mark key="[" line="150" column="32" />
+        <mark key="]" line="150" column="34" />
+        <mark key="." line="150" column="32" />
+        <mark key="^" line="150" column="31" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/css/main.css.map" timestamp="1467741113141">
         <mark key="'" line="0" column="2724" />
@@ -662,8 +663,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/events.ctrl.js" />
-      <jump line="123" column="17" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/events.ctrl.js" />
       <jump line="18" column="26" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/events.ctrl.js" />
       <jump line="134" column="36" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/events.ctrl.js" />
       <jump line="12" column="48" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/events.ctrl.js" />
@@ -762,6 +761,8 @@
       <jump line="771" column="23" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/less/event.less" />
       <jump line="0" column="0" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/less/event.less" />
       <jump line="47" column="13" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/templates/views-view--events.tpl.php" />
+      <jump line="38" column="19" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/less/event.less" />
+      <jump line="403" column="44" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/less/event.less" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2606,8 +2607,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="&quot;" type="4">
+        <text>10</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -2661,52 +2662,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>('.grid')</text>
+        <text>10</text>
       </register>
       <register name="/" type="4">
-        <text>grid-item</text>
+        <text>brand</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRydXBhbF9hZGRfanMoJ2h0dHBzOi8vY2RuanMuY2xvdWRmbGFyZS5jb20vYWpheC9saWJzL21hc29ucnkvNC4xLjAvbWFzb25yeS5wa2dkLm1pbi5qcycpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="1" type="4">
+        <text>10</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICYuZmFjZWJvb2sgewo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICYuZmFjZWJvb2sgewo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmxvYXQ6IG5vbmU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIC5jb250ZW50LWRhdGUgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmxvYXQ6IG5vbmU7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAudGlsZS1oZWFkZXIgewo=</text>
+        <text encoding="base64">ICAgICAgICAgIC5jb250ZW50LWRhdGUgewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAudGlsZS1oZWFkZXIgewo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>grid-item</last-search>
+      <last-search>brand</last-search>
       <last-offset />
-      <last-pattern>grid-item</last-pattern>
+      <last-pattern>brand</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxzaG93UmVzdWx0c1w+</last-substitute>
       <last-dir>1</last-dir>
@@ -2765,6 +2766,7 @@
         <entry>max-width</entry>
         <entry>socialgrid</entry>
         <entry>grid-item</entry>
+        <entry>brand</entry>
       </history-search>
       <history-cmd>
         <entry>252</entry>
