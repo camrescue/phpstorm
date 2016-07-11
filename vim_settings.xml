@@ -39,11 +39,11 @@
       <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/template.php" timestamp="1468024085120">
         <mark key="'" line="87" column="18" />
       </file>
-      <file name="$USER_HOME$/Sites/Mine/udacity/start/app.js" timestamp="1468213762953">
-        <mark key="[" line="40" column="43" />
-        <mark key="]" line="41" column="22" />
-        <mark key="." line="41" column="22" />
-        <mark key="^" line="41" column="22" />
+      <file name="$USER_HOME$/Sites/Mine/udacity/start/app.js" timestamp="1468222176272">
+        <mark key="[" line="87" column="0" />
+        <mark key="]" line="87" column="0" />
+        <mark key="." line="87" column="0" />
+        <mark key="^" line="87" column="31" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/config/constants.php" timestamp="1467245811726">
         <mark key="[" line="60" column="34" />
@@ -541,7 +541,12 @@
         <mark key="." line="16" column="14" />
         <mark key="^" line="16" column="14" />
       </file>
-      <file name="$USER_HOME$/Sites/Mine/udacity/start/index.html" timestamp="1468212133333" />
+      <file name="$USER_HOME$/Sites/Mine/udacity/start/index.html" timestamp="1468218258458">
+        <mark key="[" line="31" column="33" />
+        <mark key="]" line="31" column="40" />
+        <mark key="^" line="31" column="40" />
+        <mark key="." line="31" column="40" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/drupal-api/api/emoji-challenge.json" timestamp="1467001327372">
         <mark key="'" line="80" column="17" />
         <mark key="[" line="12" column="7" />
@@ -625,6 +630,9 @@
         <mark key="." line="27" column="22" />
         <mark key="^" line="27" column="22" />
       </file>
+      <file name="/fragment.js2" timestamp="1468214218865">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/get_fb_token_tmp.php" timestamp="1468019153805">
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="0" />
@@ -646,43 +654,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="122" column="13" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/event.ctrl.js" />
-      <jump line="34" column="41" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/event.ctrl.js" />
-      <jump line="135" column="13" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/event.ctrl.js" />
-      <jump line="5" column="17" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/event-photos.js" />
-      <jump line="72" column="23" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/event-photos.js" />
-      <jump line="84" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/event-photos.js" />
-      <jump line="6" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/event-photos.js" />
-      <jump line="29" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/events.ctrl.js" />
-      <jump line="174" column="15" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/events.ctrl.js" />
-      <jump line="31" column="24" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/events.ctrl.js" />
-      <jump line="16" column="22" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/events.ctrl.js" />
-      <jump line="323" column="8" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/events.less" />
-      <jump line="139" column="5" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/events.less" />
-      <jump line="134" column="19" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/events.less" />
-      <jump line="32" column="24" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/events.ctrl.js" />
-      <jump line="33" column="24" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/events.ctrl.js" />
-      <jump line="25" column="32" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/events.ctrl.js" />
-      <jump line="80" column="16" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/events.ctrl.js" />
-      <jump line="81" column="17" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/events.ctrl.js" />
-      <jump line="24" column="34" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/events.ctrl.js" />
-      <jump line="84" column="15" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/events.ctrl.js" />
-      <jump line="79" column="13" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/events.ctrl.js" />
-      <jump line="88" column="19" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/events.ctrl.js" />
-      <jump line="16" column="71" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/partials/event-photos.php" />
-      <jump line="18" column="80" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/partials/event-photos.php" />
-      <jump line="19" column="81" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/partials/event-photos.php" />
-      <jump line="20" column="86" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/partials/event-photos.php" />
-      <jump line="23" column="20" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/partials/event-photos.php" />
-      <jump line="7" column="16" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/event-photos.js" />
-      <jump line="23" column="14" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/events.php" />
-      <jump line="5" column="12" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/share-button.js" />
-      <jump line="12" column="21" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/share-button.js" />
-      <jump line="56" column="32" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/share-button.js" />
-      <jump line="63" column="49" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/emoji-challenge.php" />
-      <jump line="26" column="27" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/share-button.js" />
-      <jump line="28" column="27" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/share-button.js" />
-      <jump line="27" column="27" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/share-button.js" />
       <jump line="54" column="73" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/emoji-challenge.php" />
       <jump line="14" column="21" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/share-button.js" />
       <jump line="44" column="27" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/share-button.js" />
@@ -746,6 +717,43 @@
       <jump line="48" column="12" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/providers/FacebookApp.js" />
       <jump line="45" column="22" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/facebook-app.js" />
       <jump line="40" column="24" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" />
+      <jump line="78" column="51" filename="$USER_HOME$/Sites/Mine/udacity/start/app.js" />
+      <jump line="79" column="34" filename="$USER_HOME$/Sites/Mine/udacity/start/app.js" />
+      <jump line="80" column="29" filename="$USER_HOME$/Sites/Mine/udacity/start/app.js" />
+      <jump line="81" column="30" filename="$USER_HOME$/Sites/Mine/udacity/start/app.js" />
+      <jump line="82" column="33" filename="$USER_HOME$/Sites/Mine/udacity/start/app.js" />
+      <jump line="83" column="42" filename="$USER_HOME$/Sites/Mine/udacity/start/app.js" />
+      <jump line="48" column="15" filename="$USER_HOME$/Sites/Mine/udacity/start/app.js" />
+      <jump line="33" column="13" filename="$USER_HOME$/Sites/Mine/udacity/start/app.js" />
+      <jump line="84" column="55" filename="$USER_HOME$/Sites/Mine/udacity/start/app.js" />
+      <jump line="55" column="63" filename="$USER_HOME$/Sites/Mine/udacity/start/app.js" />
+      <jump line="53" column="21" filename="$USER_HOME$/Sites/Mine/udacity/start/app.js" />
+      <jump line="76" column="35" filename="$USER_HOME$/Sites/Mine/udacity/start/app.js" />
+      <jump line="52" column="27" filename="$USER_HOME$/Sites/Mine/udacity/start/app.js" />
+      <jump line="59" column="32" filename="$USER_HOME$/Sites/Mine/udacity/start/app.js" />
+      <jump line="61" column="52" filename="$USER_HOME$/Sites/Mine/udacity/start/app.js" />
+      <jump line="64" column="35" filename="$USER_HOME$/Sites/Mine/udacity/start/app.js" />
+      <jump line="66" column="39" filename="$USER_HOME$/Sites/Mine/udacity/start/app.js" />
+      <jump line="69" column="44" filename="$USER_HOME$/Sites/Mine/udacity/start/app.js" />
+      <jump line="71" column="39" filename="$USER_HOME$/Sites/Mine/udacity/start/app.js" />
+      <jump line="85" column="13" filename="$USER_HOME$/Sites/Mine/udacity/start/app.js" />
+      <jump line="46" column="13" filename="$USER_HOME$/Sites/Mine/udacity/start/app.js" />
+      <jump line="86" column="60" filename="$USER_HOME$/Sites/Mine/udacity/start/app.js" />
+      <jump line="87" column="61" filename="$USER_HOME$/Sites/Mine/udacity/start/app.js" />
+      <jump line="88" column="64" filename="$USER_HOME$/Sites/Mine/udacity/start/app.js" />
+      <jump line="90" column="73" filename="$USER_HOME$/Sites/Mine/udacity/start/app.js" />
+      <jump line="96" column="41" filename="$USER_HOME$/Sites/Mine/udacity/start/app.js" />
+      <jump line="47" column="40" filename="$USER_HOME$/Sites/Mine/udacity/start/app.js" />
+      <jump line="21" column="8" filename="$USER_HOME$/Sites/Mine/udacity/start/app.js" />
+      <jump line="93" column="12" filename="$USER_HOME$/Sites/Mine/udacity/start/app.js" />
+      <jump line="95" column="12" filename="$USER_HOME$/Sites/Mine/udacity/start/app.js" />
+      <jump line="25" column="38" filename="$USER_HOME$/Sites/Mine/udacity/start/app.js" />
+      <jump line="45" column="25" filename="$USER_HOME$/Sites/Mine/udacity/start/app.js" />
+      <jump line="35" column="13" filename="$USER_HOME$/Sites/Mine/udacity/start/app.js" />
+      <jump line="110" column="11" filename="$USER_HOME$/Sites/Mine/udacity/start/app.js" />
+      <jump line="111" column="8" filename="$USER_HOME$/Sites/Mine/udacity/start/app.js" />
+      <jump line="89" column="13" filename="$USER_HOME$/Sites/Mine/udacity/start/app.js" />
+      <jump line="57" column="4" filename="$USER_HOME$/Sites/Mine/udacity/start/app.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2591,7 +2599,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHYK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -2645,55 +2653,55 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>val</text>
+        <text>!</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmYlJlYWR5XD4=</text>
+        <text encoding="base64">XDxmaXJzdElucHV0SXNzdWVUcmFja2VyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHJlc3BvbnNlKTsK</text>
+        <text encoding="base64">ICAgICAgICBmaXJzdFBhc3N3b3JkSW5wdXQuc2V0Q3VzdG9tVmFsaWRpdHkoZmlyc3RJbnB1dElzc3VlVHJhY2tlci5nZXQoKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHYK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="4">
-        <text>val</text>
+        <text>!</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cgo=</text>
+      <register name="3" type="4">
+        <text>!</text>
       </register>
       <register name="4" type="4">
-        <text>g</text>
+        <text>.length</text>
       </register>
       <register name="5" type="4">
-        <text>val</text>
+        <text>Must not have an illegal symbols</text>
       </register>
       <register name="6" type="4">
-        <text encoding="base64">IHs=</text>
+        <text>char</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gdHJ1ZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmlyc3RJbnB1dElzc3VlVHJhY2tlci5hZGQoJ011c3Qgbm90IGhhdmUgYW4gaWxsZWdhbCBzeW1ib2xzJyk7Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwo=</text>
+      <register name="9" type="4">
+        <text>val</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmYlJlYWR5XD4=</last-search>
+      <last-search encoding="base64">XDxmaXJzdElucHV0SXNzdWVUcmFja2VyXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmYlJlYWR5XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxmaXJzdElucHV0SXNzdWVUcmFja2VyXD4=</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxzaG93UmVzdWx0c1w+</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -2718,6 +2726,23 @@
         <entry encoding="base64">XDxoZXJlTWFwXD4=</entry>
         <entry encoding="base64">XDxmZXRjaFRva2VuXD4=</entry>
         <entry encoding="base64">XDxmYlJlYWR5XD4=</entry>
+        <entry>elem</entry>
+        <entry encoding="base64">XDxyZWdleFRlc3RcPg==</entry>
+        <entry encoding="base64">XDx2YWxpZGF0aW9uVGVzdFw+</entry>
+        <entry encoding="base64">XDxwYXNzd29yZFw+</entry>
+        <entry encoding="base64">XDxlbGVtXD4=</entry>
+        <entry encoding="base64">XDx2YWxpZGF0ZUNoYXJhY3RlcnNcPg==</entry>
+        <entry encoding="base64">XDxmaXJzdFBhc3NcPg==</entry>
+        <entry encoding="base64">XDxmaXJzdFBhc3NFcnJvck1lc3NhZ2VcPg==</entry>
+        <entry encoding="base64">XDxmaXJzdFBhc3NJbnB1dFw+</entry>
+        <entry encoding="base64">XDxmaXJzdFBhc3N3b3JkSW5wdXRcPg==</entry>
+        <entry encoding="base64">XDx2YWxpZGF0ZVBhc3N3b3JkXD4=</entry>
+        <entry encoding="base64">XDxzZWNvbmRJbnB1dElzc3VlVHJhY2tlclw+</entry>
+        <entry encoding="base64">XDxpc3N1ZXNcPg==</entry>
+        <entry encoding="base64">XDxJc3N1ZVRyYWNrZXJcPg==</entry>
+        <entry encoding="base64">XDxvbmNsaWNrXD4=</entry>
+        <entry encoding="base64">XDxydW5WYWxpZGF0aW9uXD4=</entry>
+        <entry encoding="base64">XDxmaXJzdElucHV0SXNzdWVUcmFja2VyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>252</entry>
