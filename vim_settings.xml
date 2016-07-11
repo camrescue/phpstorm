@@ -9,9 +9,6 @@
       <file name="$USER_HOME$/Sites/Rescue/helix/application/controllers/teams.php" timestamp="1467216483526">
         <mark key="'" line="125" column="33" />
       </file>
-      <file name="/a.dummy" timestamp="1468254114896">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/background-videos.js" timestamp="1468016525692">
         <mark key="'" line="2" column="8" />
       </file>
@@ -198,12 +195,12 @@
         <mark key="^" line="52" column="14" />
         <mark key="." line="52" column="14" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/templates/html.tpl.php" timestamp="1468254645831">
-        <mark key="'" line="237" column="0" />
-        <mark key="[" line="216" column="73" />
-        <mark key="]" line="216" column="73" />
-        <mark key="." line="216" column="73" />
-        <mark key="^" line="216" column="72" />
+      <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/templates/html.tpl.php" timestamp="1468257602992">
+        <mark key="'" line="221" column="57" />
+        <mark key="[" line="212" column="0" />
+        <mark key="]" line="213" column="68" />
+        <mark key="." line="213" column="68" />
+        <mark key="^" line="213" column="68" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/events.ctrl.js" timestamp="1468018262845">
         <mark key="'" line="74" column="26" />
@@ -413,19 +410,19 @@
         <mark key="." line="55" column="118" />
         <mark key="^" line="55" column="118" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" timestamp="1468254936465">
+      <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" timestamp="1468258784349">
         <mark key="'" line="40" column="24" />
-        <mark key="[" line="221" column="40" />
-        <mark key="]" line="221" column="49" />
-        <mark key="^" line="221" column="49" />
-        <mark key="." line="221" column="49" />
+        <mark key="[" line="235" column="32" />
+        <mark key="]" line="235" column="38" />
+        <mark key="^" line="235" column="38" />
+        <mark key="." line="235" column="38" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/templates/views-view--events.tpl.php" timestamp="1468255577900">
+      <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/templates/views-view--events.tpl.php" timestamp="1468257938152">
         <mark key="'" line="128" column="33" />
-        <mark key="[" line="159" column="59" />
-        <mark key="]" line="159" column="60" />
-        <mark key="^" line="159" column="60" />
-        <mark key="." line="159" column="60" />
+        <mark key="[" line="145" column="105" />
+        <mark key="]" line="145" column="105" />
+        <mark key="^" line="145" column="102" />
+        <mark key="." line="145" column="105" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/css/main.css.map" timestamp="1467741113141">
         <mark key="'" line="0" column="2724" />
@@ -551,6 +548,9 @@
         <mark key="^" line="31" column="40" />
         <mark key="." line="31" column="40" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/social-mashup.js" timestamp="1468257002623">
+        <mark key="'" line="63" column="11" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/drupal-api/api/emoji-challenge.json" timestamp="1467001327372">
         <mark key="'" line="80" column="17" />
         <mark key="[" line="12" column="7" />
@@ -661,8 +661,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="27" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/share-button.js" />
-      <jump line="452" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
       <jump line="90" column="38" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
       <jump line="70" column="20" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/share-button.js" />
@@ -761,6 +759,8 @@
       <jump line="57" column="4" filename="$USER_HOME$/Sites/Mine/udacity/start/app.js" />
       <jump line="11" column="34" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/Gruntfile.js" />
       <jump line="10" column="137" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/Gruntfile.js" />
+      <jump line="63" column="11" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/social-mashup.js" />
+      <jump line="221" column="57" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/templates/html.tpl.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2605,8 +2605,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>mgAlt</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -2660,52 +2660,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>mgAlt</text>
+        <text>value.toUpperCase();</text>
       </register>
       <register name="/" type="4">
-        <text>front.js</text>
+        <text>lodash</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSIvc2l0ZXMvYWxsL3RoZW1lcy9mcmVzaF9lbXBpcmUvanMvanF1ZXJ5Lmxhenlsb2FkLm1pbi5qcyI+PC9zY3JpcHQ+Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>mgAlt</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="2" type="4">
-        <text>imgSrc</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdmFyIG1vbnRocyA9Cg==</text>
       </register>
       <register name="3" type="4">
-        <text>.</text>
+        <text>value.toUpperCase();</text>
       </register>
       <register name="4" type="4">
-        <text>image</text>
+        <text>UpperCaseFormatter</text>
       </register>
       <register name="5" type="4">
-        <text>.</text>
+        <text>June 2, 2016</text>
       </register>
       <register name="6" type="4">
-        <text>image</text>
+        <text>June 2, 2016</text>
       </register>
       <register name="7" type="4">
-        <text>renderHtml(image.body)</text>
+        <text>date</text>
       </register>
       <register name="8" type="4">
-        <text>-bind-html</text>
+        <text>body</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
-      <register name="9" type="4">
-        <text>ng</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>front.js</last-search>
+      <last-search>lodash</last-search>
       <last-offset />
-      <last-pattern>front.js</last-pattern>
+      <last-pattern>lodash</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxzaG93UmVzdWx0c1w+</last-substitute>
       <last-dir>1</last-dir>
@@ -2751,6 +2751,8 @@
         <entry encoding="base64">XDxydW5WYWxpZGF0aW9uXD4=</entry>
         <entry encoding="base64">XDxmaXJzdElucHV0SXNzdWVUcmFja2VyXD4=</entry>
         <entry>front.js</entry>
+        <entry encoding="base64">XDxleHBhbmRDb21wcmVzc05lY2Vzc2FyeVw+</entry>
+        <entry>lodash</entry>
       </history-search>
       <history-cmd>
         <entry>252</entry>
