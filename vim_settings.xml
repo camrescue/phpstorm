@@ -107,12 +107,12 @@
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/main.less" timestamp="1467834202310">
         <mark key="'" line="25" column="30" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/less/event.less" timestamp="1468265982841">
-        <mark key="'" line="771" column="8" />
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="^" line="52" column="17" />
-        <mark key="." line="55" column="0" />
+      <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/less/event.less" timestamp="1468270561115">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="60" column="0" />
+        <mark key="]" line="60" column="0" />
+        <mark key="^" line="53" column="17" />
+        <mark key="." line="60" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/views/helper/table/selector_export.php" timestamp="1465854265667">
         <mark key="[" line="25" column="106" />
@@ -415,12 +415,12 @@
         <mark key="^" line="283" column="30" />
         <mark key="." line="284" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/templates/views-view--events.tpl.php" timestamp="1468265496131">
-        <mark key="'" line="128" column="33" />
-        <mark key="[" line="42" column="27" />
-        <mark key="]" line="42" column="27" />
-        <mark key="." line="42" column="27" />
-        <mark key="^" line="140" column="59" />
+      <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/templates/views-view--events.tpl.php" timestamp="1468270310041">
+        <mark key="'" line="47" column="13" />
+        <mark key="[" line="144" column="67" />
+        <mark key="]" line="144" column="75" />
+        <mark key="." line="144" column="75" />
+        <mark key="^" line="144" column="75" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/css/main.css.map" timestamp="1467741113141">
         <mark key="'" line="0" column="2724" />
@@ -662,8 +662,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="8" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/background-videos.js" />
-      <jump line="87" column="18" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/template.php" />
       <jump line="55" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/events.ctrl.js" />
       <jump line="123" column="17" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/events.ctrl.js" />
       <jump line="18" column="26" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/events.ctrl.js" />
@@ -761,7 +759,9 @@
       <jump line="48" column="19" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/less/event.less" />
       <jump line="713" column="33" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/less/event.less" />
       <jump line="737" column="8" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/less/event.less" />
-      <jump line="771" column="8" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/less/event.less" />
+      <jump line="771" column="23" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/less/event.less" />
+      <jump line="0" column="0" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/less/event.less" />
+      <jump line="47" column="13" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/templates/views-view--events.tpl.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2607,7 +2607,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -2664,54 +2664,49 @@
         <text>('.grid')</text>
       </register>
       <register name="/" type="4">
-        <text>max-width</text>
+        <text>grid-item</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGRydXBhbF9hZGRfanMoJ2h0dHBzOi8vY2RuanMuY2xvdWRmbGFyZS5jb20vYWpheC9saWJzL21hc29ucnkvNC4xLjAvbWFzb25yeS5wa2dkLm1pbi5qcycpOwo=</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>masonry({
-                            itemSelector: '.grid-item',
-                            // use element for option
-                            columnWidth: '.grid-sizer',
-                            percentPosition: true
-                        });</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICYuZmFjZWJvb2sgewo=</text>
       </register>
-      <register name="3" type="4">
-        <text>('.grid')</text>
-      </register>
-      <register name="4" type="4">
-        <text>('.grid')</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgIH0K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGRydXBhbF9hZGRfanMoJ2h0dHBzOi8vY2RuanMuY2xvdWRmbGFyZS5jb20vYWpheC9saWJzL2pxdWVyeS5pbWFnZXNsb2FkZWQvNC4xLjAvaW1hZ2VzbG9hZGVkLnBrZ2QubWluLmpzJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmxvYXQ6IG5vbmU7Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>https://cdnjs.cloudflare.com/ajax/libs/masonry/4.1.0/masonry.pkgd.min.js</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgIC5jb250ZW50LWRhdGUgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAKICAK</text>
+        <text encoding="base64">ICAgICAgICAudGlsZS1oZWFkZXIgewo=</text>
       </register>
-      <register name="8" type="4">
-        <text>50%;</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>max-width</last-search>
+      <last-search>grid-item</last-search>
       <last-offset />
-      <last-pattern>max-width</last-pattern>
+      <last-pattern>grid-item</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxzaG93UmVzdWx0c1w+</last-substitute>
       <last-dir>1</last-dir>
@@ -2767,8 +2762,9 @@
         <entry encoding="base64">XDxmcmVzaF9lbXBpcmVfZXZlbnRfdmVudWVfbm9kZVw+</entry>
         <entry>socialmashup</entry>
         <entry>events-page</entry>
-        <entry>grid-item</entry>
         <entry>max-width</entry>
+        <entry>socialgrid</entry>
+        <entry>grid-item</entry>
       </history-search>
       <history-cmd>
         <entry>252</entry>
