@@ -103,7 +103,7 @@
         <mark key="^" line="23" column="31" />
         <mark key="." line="23" column="31" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/partials/event-photos.php" timestamp="1467997264173">
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/partials/event-photos.php" timestamp="1468255283468">
         <mark key="'" line="23" column="20" />
         <mark key="[" line="41" column="86" />
         <mark key="]" line="41" column="93" />
@@ -420,12 +420,12 @@
         <mark key="^" line="221" column="49" />
         <mark key="." line="221" column="49" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/templates/views-view--events.tpl.php" timestamp="1468254789817">
+      <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/templates/views-view--events.tpl.php" timestamp="1468255577900">
         <mark key="'" line="128" column="33" />
-        <mark key="[" line="144" column="0" />
-        <mark key="]" line="144" column="0" />
-        <mark key="^" line="143" column="38" />
-        <mark key="." line="144" column="0" />
+        <mark key="[" line="159" column="59" />
+        <mark key="]" line="159" column="60" />
+        <mark key="^" line="159" column="60" />
+        <mark key="." line="159" column="60" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/css/main.css.map" timestamp="1467741113141">
         <mark key="'" line="0" column="2724" />
@@ -2606,7 +2606,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>,</text>
+        <text>mgAlt</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -2660,7 +2660,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>mgAlt</text>
       </register>
       <register name="/" type="4">
         <text>front.js</text>
@@ -2669,34 +2669,34 @@
         <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSIvc2l0ZXMvYWxsL3RoZW1lcy9mcmVzaF9lbXBpcmUvanMvanF1ZXJ5Lmxhenlsb2FkLm1pbi5qcyI+PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>,</text>
+        <text>mgAlt</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwb3N0OiAnVGhpcyBpcyB0aGUgY29udGVudHMgb2YgbXkgcG9zdCcK</text>
+      <register name="2" type="4">
+        <text>imgSrc</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhdXRob3JQaWN0dXJlOiAnQXV0aG9ycy9Kb2VCbG9nZ3MuanBnJywK</text>
+      <register name="3" type="4">
+        <text>.</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkYXRlOiAnMjV0aCBNYXkgMjAxMycsCg==</text>
+      <register name="4" type="4">
+        <text>image</text>
       </register>
       <register name="5" type="4">
-        <text>author</text>
+        <text>.</text>
       </register>
       <register name="6" type="4">
-        <text>&quot;</text>
+        <text>image</text>
       </register>
       <register name="7" type="4">
-        <text>&quot;</text>
+        <text>renderHtml(image.body)</text>
       </register>
       <register name="8" type="4">
-        <text>#template-container</text>
+        <text>-bind-html</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="4">
-        <text>template</text>
+        <text>ng</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
