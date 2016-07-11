@@ -416,12 +416,12 @@
         <mark key="^" line="283" column="30" />
         <mark key="." line="284" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/templates/views-view--events.tpl.php" timestamp="1468272049328">
+      <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/templates/views-view--events.tpl.php" timestamp="1468273198881">
         <mark key="'" line="47" column="13" />
-        <mark key="[" line="150" column="32" />
-        <mark key="]" line="150" column="34" />
-        <mark key="." line="150" column="32" />
-        <mark key="^" line="150" column="31" />
+        <mark key="[" line="172" column="35" />
+        <mark key="]" line="172" column="69" />
+        <mark key="." line="172" column="69" />
+        <mark key="^" line="172" column="69" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/css/main.css.map" timestamp="1467741113141">
         <mark key="'" line="0" column="2724" />
@@ -511,6 +511,7 @@
         <mark key="." line="11" column="55" />
         <mark key="^" line="11" column="54" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/partials/share-button.php" timestamp="1468272878500" />
       <file name="$USER_HOME$/Sites/Rescue/helix/application/controllers/profiles.php" timestamp="1467151485286">
         <mark key="'" line="104" column="54" />
       </file>
@@ -2608,7 +2609,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>10</text>
+        <text>data-href=&quot;&quot;</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -2662,7 +2663,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>10</text>
+        <text>data-href=&quot;&quot;</text>
       </register>
       <register name="/" type="4">
         <text>brand</text>
@@ -2671,34 +2672,34 @@
         <text encoding="base64">ICAgIGRydXBhbF9hZGRfanMoJ2h0dHBzOi8vY2RuanMuY2xvdWRmbGFyZS5jb20vYWpheC9saWJzL21hc29ucnkvNC4xLjAvbWFzb25yeS5wa2dkLm1pbi5qcycpOwo=</text>
       </register>
       <register name="1" type="4">
-        <text>10</text>
+        <text>data-href=&quot;&quot;</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbmFseXRpY3Mtb249ImNsaWNrIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFuYWx5dGljcy1jYXRlZ29yeT0ic2hhcmUiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYW5hbHl0aWNzLWV2ZW50PSJldmVudC1waG90b3MtLWZiIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFuYWx5dGljcy1sYWJlbD0iIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbmFseXRpY3Mtb249ImNsaWNrIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICYuZmFjZWJvb2sgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbmFseXRpY3MtbGFiZWw9IiIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbmFseXRpY3MtZXZlbnQ9ImV2ZW50LXBob3Rvcy0tdGIiCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmxvYXQ6IG5vbmU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbmFseXRpY3MtY2F0ZWdvcnk9InNoYXJlIgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIC5jb250ZW50LWRhdGUgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbmFseXRpY3MtbGFiZWw9IiIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAudGlsZS1oZWFkZXIgewo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbmFseXRpY3MtZXZlbnQ9ImV2ZW50LXBob3Rvcy1wZXJtYSIK</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbmFseXRpY3MtY2F0ZWdvcnk9InNoYXJlIgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
