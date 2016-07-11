@@ -9,6 +9,9 @@
       <file name="$USER_HOME$/Sites/Rescue/helix/application/controllers/teams.php" timestamp="1467216483526">
         <mark key="'" line="125" column="33" />
       </file>
+      <file name="/a.dummy" timestamp="1468254114896">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/background-videos.js" timestamp="1468016525692">
         <mark key="'" line="2" column="8" />
       </file>
@@ -195,11 +198,12 @@
         <mark key="^" line="52" column="14" />
         <mark key="." line="52" column="14" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/templates/html.tpl.php" timestamp="1468021784753">
-        <mark key="'" line="236" column="0" />
-        <mark key="[" line="154" column="0" />
-        <mark key="]" line="154" column="0" />
-        <mark key="." line="154" column="0" />
+      <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/templates/html.tpl.php" timestamp="1468254645831">
+        <mark key="'" line="237" column="0" />
+        <mark key="[" line="216" column="73" />
+        <mark key="]" line="216" column="73" />
+        <mark key="." line="216" column="73" />
+        <mark key="^" line="216" column="72" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/events.ctrl.js" timestamp="1468018262845">
         <mark key="'" line="74" column="26" />
@@ -409,19 +413,19 @@
         <mark key="." line="55" column="118" />
         <mark key="^" line="55" column="118" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" timestamp="1468253218154">
+      <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" timestamp="1468254936465">
         <mark key="'" line="40" column="24" />
-        <mark key="[" line="218" column="0" />
-        <mark key="]" line="218" column="0" />
-        <mark key="^" line="213" column="42" />
-        <mark key="." line="218" column="0" />
+        <mark key="[" line="221" column="40" />
+        <mark key="]" line="221" column="49" />
+        <mark key="^" line="221" column="49" />
+        <mark key="." line="221" column="49" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/templates/views-view--events.tpl.php" timestamp="1468024606709">
+      <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/templates/views-view--events.tpl.php" timestamp="1468254789817">
         <mark key="'" line="128" column="33" />
-        <mark key="[" line="140" column="21" />
-        <mark key="]" line="140" column="23" />
-        <mark key="^" line="140" column="23" />
-        <mark key="." line="140" column="23" />
+        <mark key="[" line="144" column="0" />
+        <mark key="]" line="144" column="0" />
+        <mark key="^" line="143" column="38" />
+        <mark key="." line="144" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/css/main.css.map" timestamp="1467741113141">
         <mark key="'" line="0" column="2724" />
@@ -581,6 +585,9 @@
         <mark key="." line="492" column="3" />
         <mark key="^" line="492" column="3" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/Gruntfile.js" timestamp="1468253765333">
+        <mark key="'" line="10" column="137" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/routes.js" timestamp="1467844674926">
         <mark key="'" line="0" column="0" />
       </file>
@@ -654,8 +661,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="73" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/emoji-challenge.php" />
-      <jump line="14" column="21" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/share-button.js" />
       <jump line="44" column="27" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/share-button.js" />
       <jump line="452" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
       <jump line="90" column="38" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
@@ -754,6 +759,8 @@
       <jump line="111" column="8" filename="$USER_HOME$/Sites/Mine/udacity/start/app.js" />
       <jump line="89" column="13" filename="$USER_HOME$/Sites/Mine/udacity/start/app.js" />
       <jump line="57" column="4" filename="$USER_HOME$/Sites/Mine/udacity/start/app.js" />
+      <jump line="11" column="34" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/Gruntfile.js" />
+      <jump line="10" column="137" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/Gruntfile.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2598,8 +2605,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -2653,52 +2660,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>669417179838095</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmaXJzdElucHV0SXNzdWVUcmFja2VyXD4=</text>
+        <text>front.js</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICB2YXIgYWxsUHJvbWlzZSA9ICQuRGVmZXJyZWQoKSwK</text>
+        <text encoding="base64">ICAgIDxzY3JpcHQgc3JjPSIvc2l0ZXMvYWxsL3RoZW1lcy9mcmVzaF9lbXBpcmUvanMvanF1ZXJ5Lmxhenlsb2FkLm1pbi5qcyI+PC9zY3JpcHQ+Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>,</text>
       </register>
-      <register name="2" type="4">
-        <text>669417179838095</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwb3N0OiAnVGhpcyBpcyB0aGUgY29udGVudHMgb2YgbXkgcG9zdCcK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhdXRob3JQaWN0dXJlOiAnQXV0aG9ycy9Kb2VCbG9nZ3MuanBnJywK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkYXRlOiAnMjV0aCBNYXkgMjAxMycsCg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhyZXNwb25zZSk7CiAgICAgICAgICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
+      <register name="5" type="4">
+        <text>author</text>
       </register>
       <register name="6" type="4">
-        <text>, function (response) {</text>
+        <text>&quot;</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm47Cg==</text>
+      <register name="7" type="4">
+        <text>&quot;</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZygnYXBpLWVycm9yOiAnLnJlc3BvbnNlLmVycm9yKTsK</text>
+      <register name="8" type="4">
+        <text>#template-container</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhbGxiYWNrKHJlc3BvbnNlKTsK</text>
+      <register name="9" type="4">
+        <text>template</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmaXJzdElucHV0SXNzdWVUcmFja2VyXD4=</last-search>
+      <last-search>front.js</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmaXJzdElucHV0SXNzdWVUcmFja2VyXD4=</last-pattern>
+      <last-pattern>front.js</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxzaG93UmVzdWx0c1w+</last-substitute>
       <last-dir>1</last-dir>
@@ -2743,6 +2750,7 @@
         <entry encoding="base64">XDxvbmNsaWNrXD4=</entry>
         <entry encoding="base64">XDxydW5WYWxpZGF0aW9uXD4=</entry>
         <entry encoding="base64">XDxmaXJzdElucHV0SXNzdWVUcmFja2VyXD4=</entry>
+        <entry>front.js</entry>
       </history-search>
       <history-cmd>
         <entry>252</entry>
