@@ -15,7 +15,7 @@
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" timestamp="1467742545696">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/Events.js" timestamp="1468023626346">
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/Events.js" timestamp="1468281518036">
         <mark key="[" line="29" column="73" />
         <mark key="]" line="29" column="88" />
         <mark key="^" line="29" column="88" />
@@ -90,7 +90,7 @@
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/bower_components/angular-animate/angular-animate.js" timestamp="1466614053611">
         <mark key="'" line="3157" column="22" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/event-photos.js" timestamp="1468261056886">
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/event-photos.js" timestamp="1468279681621">
         <mark key="'" line="7" column="16" />
         <mark key="[" line="23" column="26" />
         <mark key="]" line="23" column="31" />
@@ -107,13 +107,13 @@
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/main.less" timestamp="1467834202310">
         <mark key="'" line="25" column="30" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/less/event.less" timestamp="1468272132237">
+      <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/less/event.less" timestamp="1468283157582">
         <mark key="a" line="38" column="19" />
-        <mark key="'" line="404" column="44" />
-        <mark key="[" line="39" column="26" />
-        <mark key="]" line="40" column="30" />
-        <mark key="^" line="40" column="30" />
-        <mark key="." line="40" column="30" />
+        <mark key="'" line="431" column="44" />
+        <mark key="[" line="39" column="5" />
+        <mark key="]" line="42" column="24" />
+        <mark key="." line="42" column="24" />
+        <mark key="^" line="42" column="24" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/views/helper/table/selector_export.php" timestamp="1465854265667">
         <mark key="[" line="25" column="106" />
@@ -193,12 +193,12 @@
       <file name="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/styles/swap.css" timestamp="1468014822150">
         <mark key="'" line="78" column="31" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/facebook-app.js" timestamp="1468252992400">
+      <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/facebook-app.js" timestamp="1468281581344">
         <mark key="'" line="40" column="22" />
-        <mark key="[" line="52" column="7" />
-        <mark key="]" line="52" column="14" />
-        <mark key="^" line="52" column="14" />
-        <mark key="." line="52" column="14" />
+        <mark key="[" line="72" column="8" />
+        <mark key="]" line="72" column="14" />
+        <mark key="^" line="72" column="14" />
+        <mark key="." line="72" column="14" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/templates/html.tpl.php" timestamp="1468257602992">
         <mark key="'" line="221" column="57" />
@@ -409,19 +409,19 @@
         <mark key="." line="55" column="118" />
         <mark key="^" line="55" column="118" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" timestamp="1468266314825">
-        <mark key="'" line="263" column="16" />
-        <mark key="[" line="284" column="0" />
-        <mark key="]" line="284" column="0" />
-        <mark key="^" line="283" column="30" />
-        <mark key="." line="284" column="0" />
+      <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" timestamp="1468283079297">
+        <mark key="'" line="210" column="16" />
+        <mark key="[" line="317" column="67" />
+        <mark key="]" line="320" column="28" />
+        <mark key="." line="320" column="28" />
+        <mark key="^" line="320" column="28" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/templates/views-view--events.tpl.php" timestamp="1468273198881">
-        <mark key="'" line="47" column="13" />
-        <mark key="[" line="172" column="35" />
-        <mark key="]" line="172" column="69" />
-        <mark key="." line="172" column="69" />
-        <mark key="^" line="172" column="69" />
+      <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/templates/views-view--events.tpl.php" timestamp="1468280179523">
+        <mark key="'" line="48" column="13" />
+        <mark key="[" line="146" column="42" />
+        <mark key="]" line="146" column="54" />
+        <mark key="." line="146" column="54" />
+        <mark key="^" line="146" column="54" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/css/main.css.map" timestamp="1467741113141">
         <mark key="'" line="0" column="2724" />
@@ -515,6 +515,9 @@
       <file name="$USER_HOME$/Sites/Rescue/helix/application/controllers/profiles.php" timestamp="1467151485286">
         <mark key="'" line="104" column="54" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/mosaic-grid.js" timestamp="1468277945249">
+        <mark key="'" line="503" column="27" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/drupal_translators/WhatWeUpTranslator.js" timestamp="1466552827605">
         <mark key="'" line="171" column="20" />
       </file>
@@ -548,8 +551,8 @@
         <mark key="^" line="31" column="40" />
         <mark key="." line="31" column="40" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/social-mashup.js" timestamp="1468262656647">
-        <mark key="'" line="33" column="17" />
+      <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/social-mashup.js" timestamp="1468277414058">
+        <mark key="'" line="53" column="10" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/drupal-api/api/emoji-challenge.json" timestamp="1467001327372">
         <mark key="'" line="80" column="17" />
@@ -585,8 +588,12 @@
         <mark key="." line="492" column="3" />
         <mark key="^" line="492" column="3" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/Gruntfile.js" timestamp="1468253765333">
+      <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/Gruntfile.js" timestamp="1468276790783">
         <mark key="'" line="10" column="137" />
+        <mark key="[" line="79" column="50" />
+        <mark key="]" line="79" column="50" />
+        <mark key="^" line="79" column="50" />
+        <mark key="." line="79" column="50" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/routes.js" timestamp="1467844674926">
         <mark key="'" line="0" column="0" />
@@ -664,28 +671,11 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="26" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/events.ctrl.js" />
-      <jump line="134" column="36" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/events.ctrl.js" />
-      <jump line="12" column="48" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/events.ctrl.js" />
-      <jump line="83" column="17" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/events.ctrl.js" />
-      <jump line="137" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/events.ctrl.js" />
-      <jump line="9" column="38" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/events.ctrl.js" />
-      <jump line="135" column="32" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/events.ctrl.js" />
-      <jump line="71" column="17" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/events.ctrl.js" />
-      <jump line="14" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/events.ctrl.js" />
-      <jump line="127" column="17" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/events.ctrl.js" />
-      <jump line="67" column="17" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/events.ctrl.js" />
-      <jump line="23" column="36" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/events.ctrl.js" />
-      <jump line="22" column="38" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/events.ctrl.js" />
-      <jump line="74" column="26" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/events.ctrl.js" />
-      <jump line="12" column="26" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/js/app.js" />
-      <jump line="54" column="27" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/modules/custom/rscg/rscghelpers/RSCG_Helper.php" />
       <jump line="200" column="33" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" />
       <jump line="222" column="13" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/templates/html.tpl.php" />
       <jump line="142" column="34" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/templates/html.tpl.php" />
       <jump line="214" column="0" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/templates/html.tpl.php" />
       <jump line="215" column="9" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" />
-      <jump line="210" column="28" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" />
       <jump line="128" column="33" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/templates/views-view--events.tpl.php" />
       <jump line="188" column="32" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" />
       <jump line="222" column="19" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" />
@@ -764,6 +754,23 @@
       <jump line="47" column="13" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/templates/views-view--events.tpl.php" />
       <jump line="38" column="19" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/less/event.less" />
       <jump line="403" column="44" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/less/event.less" />
+      <jump line="39" column="35" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/social-mashup.js" />
+      <jump line="45" column="6" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/social-mashup.js" />
+      <jump line="47" column="39" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/social-mashup.js" />
+      <jump line="53" column="10" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/social-mashup.js" />
+      <jump line="501" column="35" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/mosaic-grid.js" />
+      <jump line="503" column="27" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/mosaic-grid.js" />
+      <jump line="274" column="12" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" />
+      <jump line="286" column="12" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" />
+      <jump line="284" column="16" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" />
+      <jump line="249" column="16" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" />
+      <jump line="316" column="16" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" />
+      <jump line="301" column="32" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" />
+      <jump line="255" column="26" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" />
+      <jump line="214" column="16" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" />
+      <jump line="231" column="16" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" />
+      <jump line="303" column="12" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" />
+      <jump line="210" column="16" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2608,8 +2615,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>data-href=&quot;&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChwYWdpbmdOZXh0KSB7CiAgICAgICAgICAgICAgICAgICAgc2hvd01vcmVCdXR0b25EaXNwbGF5KHRydWUpOwogICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -2663,55 +2670,55 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>data-href=&quot;&quot;</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
-        <text>brand</text>
+        <text encoding="base64">XDxyZW5kZXJFdmVudFBob3RvXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGRydXBhbF9hZGRfanMoJ2h0dHBzOi8vY2RuanMuY2xvdWRmbGFyZS5jb20vYWpheC9saWJzL21hc29ucnkvNC4xLjAvbWFzb25yeS5wa2dkLm1pbi5qcycpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkKGxvYWRNb3JlU2VsZWN0b3IpLnJlbW92ZUNsYXNzKCdoaWRlJyk7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>data-href=&quot;&quot;</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChwYWdpbmdOZXh0KSB7CiAgICAgICAgICAgICAgICAgICAgc2hvd01vcmVCdXR0b25EaXNwbGF5KHRydWUpOwogICAgICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbmFseXRpY3Mtb249ImNsaWNrIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFuYWx5dGljcy1jYXRlZ29yeT0ic2hhcmUiCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYW5hbHl0aWNzLWV2ZW50PSJldmVudC1waG90b3MtLWZiIgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFuYWx5dGljcy1sYWJlbD0iIgo=</text>
+      <register name="2" type="4">
+        <text>false</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbmFseXRpY3Mtb249ImNsaWNrIgo=</text>
+      <register name="3" type="4">
+        <text>d</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbmFseXRpY3MtbGFiZWw9IiIK</text>
+      <register name="4" type="4">
+        <text>a</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbmFseXRpY3MtZXZlbnQ9ImV2ZW50LXBob3Rvcy0tdGIiCg==</text>
+      <register name="5" type="4">
+        <text>o</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbmFseXRpY3MtY2F0ZWdvcnk9InNoYXJlIgo=</text>
+      <register name="6" type="4">
+        <text>l</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbmFseXRpY3MtbGFiZWw9IiIK</text>
+      <register name="7" type="4">
+        <text>d</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbmFseXRpY3MtZXZlbnQ9ImV2ZW50LXBob3Rvcy1wZXJtYSIK</text>
+      <register name="8" type="4">
+        <text>a</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBhbmFseXRpY3MtY2F0ZWdvcnk9InNoYXJlIgo=</text>
+      <register name="9" type="4">
+        <text>o</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>brand</last-search>
+      <last-search encoding="base64">XDxyZW5kZXJFdmVudFBob3RvXD4=</last-search>
       <last-offset />
-      <last-pattern>brand</last-pattern>
+      <last-pattern encoding="base64">XDxyZW5kZXJFdmVudFBob3RvXD4=</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxzaG93UmVzdWx0c1w+</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -2768,6 +2775,14 @@
         <entry>socialgrid</entry>
         <entry>grid-item</entry>
         <entry>brand</entry>
+        <entry>mashup-item</entry>
+        <entry encoding="base64">XDxmb290ZXJcPg==</entry>
+        <entry encoding="base64">XDxsb2FkTW9yZVw+</entry>
+        <entry encoding="base64">XDxsb2FkTW9yZUNsaWNrXD4=</entry>
+        <entry encoding="base64">XDxnZXRQaG90b3NcPg==</entry>
+        <entry>loadMore</entry>
+        <entry encoding="base64">XDxwcmVwYXJlUmVzcG9uc2VcPg==</entry>
+        <entry encoding="base64">XDxyZW5kZXJFdmVudFBob3RvXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>252</entry>
