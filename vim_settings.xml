@@ -261,19 +261,18 @@
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/videogular.less" timestamp="1467740791328">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" timestamp="1468342927685">
-        <mark key="'" line="326" column="12" />
-        <mark key="[" line="281" column="16" />
-        <mark key="]" line="281" column="19" />
-        <mark key="." line="281" column="19" />
-        <mark key="^" line="281" column="19" />
+      <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" timestamp="1468348331678">
+        <mark key="'" line="149" column="21" />
+        <mark key="[" line="137" column="0" />
+        <mark key="]" line="137" column="0" />
+        <mark key="." line="137" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/templates/views-view--events.tpl.php" timestamp="1468343758178">
-        <mark key="'" line="130" column="43" />
-        <mark key="[" line="91" column="77" />
-        <mark key="]" line="91" column="80" />
-        <mark key="." line="91" column="80" />
-        <mark key="^" line="91" column="80" />
+      <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/templates/views-view--events.tpl.php" timestamp="1468348342765">
+        <mark key="'" line="125" column="50" />
+        <mark key="[" line="123" column="33" />
+        <mark key="]" line="123" column="41" />
+        <mark key="." line="123" column="41" />
+        <mark key="^" line="123" column="41" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/css/main.css.map" timestamp="1467741113141">
         <mark key="'" line="0" column="2724" />
@@ -409,11 +408,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="222" column="19" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" />
-      <jump line="48" column="12" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/providers/FacebookApp.js" />
-      <jump line="45" column="22" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/facebook-app.js" />
-      <jump line="40" column="24" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" />
-      <jump line="78" column="51" filename="$USER_HOME$/Sites/Mine/udacity/start/app.js" />
       <jump line="79" column="34" filename="$USER_HOME$/Sites/Mine/udacity/start/app.js" />
       <jump line="80" column="29" filename="$USER_HOME$/Sites/Mine/udacity/start/app.js" />
       <jump line="81" column="30" filename="$USER_HOME$/Sites/Mine/udacity/start/app.js" />
@@ -509,6 +503,11 @@
       <jump line="228" column="38" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" />
       <jump line="326" column="12" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" />
       <jump line="130" column="43" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/templates/views-view--events.tpl.php" />
+      <jump line="92" column="29" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" />
+      <jump line="31" column="12" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" />
+      <jump line="88" column="25" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" />
+      <jump line="122" column="21" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" />
+      <jump line="125" column="50" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/templates/views-view--events.tpl.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2353,8 +2352,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>a</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -2408,55 +2407,55 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text>prev</text>
       </register>
       <register name="/" type="4">
-        <text>event-photos</text>
+        <text encoding="base64">XDxsb2NhdGlvbkNvbHNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxsaSByb2xlPSJwcmVzZW50YXRpb24iIGNsYXNzPSI8P3BocCBvKCRjdXJyZW50UGF0aCA9PT0gJ2V2ZW50cycgPyAnYWN0aXZlJyA6ICcnKSA/PiI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhZ2luZ1ByZXZTZWxlY3RvciA9ICcucHJldicsCg==</text>
       </register>
-      <register name="1" type="4">
-        <text>a</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">Pg==</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkKGJpZGRuZykK</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">PC9zcGFuPiA=</text>
+        <text>prev</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">PGEgaHJlZj0iZXZlbnRzIg==</text>
+        <text>v</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxsaSByb2xlPSJwcmVzZW50YXRpb24iIGNsYXNzPSItLT48P3BocCAvL28oJGN1cnJlbnRQYXRoID09PSAnZXZlbnRzJyA/ICdhY3RpdmUnIDogJycpID8+PCEtLSI+LS0+Cg==</text>
+      <register name="5" type="4">
+        <text>e</text>
       </register>
       <register name="6" type="4">
-        <text>&quot;</text>
+        <text>r</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxsaT48L2xpPgo=</text>
+      <register name="7" type="4">
+        <text>P</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICAgICAg</text>
+        <text>.first</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>ing</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>event-photos</last-search>
+      <last-search encoding="base64">XDxsb2NhdGlvbkNvbHNcPg==</last-search>
       <last-offset />
-      <last-pattern>event-photos</last-pattern>
+      <last-pattern encoding="base64">XDxsb2NhdGlvbkNvbHNcPg==</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxzaG93UmVzdWx0c1w+</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -2527,6 +2526,10 @@
         <entry>debugger</entry>
         <entry encoding="base64">XDxyZW5kZXJFdmVudFBob3RvXD4=</entry>
         <entry>event-photos</entry>
+        <entry encoding="base64">XDxldmVudFZlbnVlQ29sc1w+</entry>
+        <entry encoding="base64">XDxnZXRFdmVudFNlbGVjdG9yXD4=</entry>
+        <entry encoding="base64">XDxldmVudExvY2F0aW9uQ29sc1w+</entry>
+        <entry encoding="base64">XDxsb2NhdGlvbkNvbHNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>252</entry>
@@ -2538,7 +2541,6 @@
         <entry>2270</entry>
         <entry>270</entry>
         <entry>367</entry>
-        <entry>set hlsearch</entry>
         <entry>W</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>a</entry>
@@ -2548,6 +2550,7 @@
         <entry>374</entry>
         <entry>1444</entry>
         <entry>q</entry>
+        <entry>set hlsearch</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
