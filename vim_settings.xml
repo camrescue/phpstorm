@@ -267,12 +267,12 @@
         <mark key="]" line="137" column="0" />
         <mark key="." line="137" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/templates/views-view--events.tpl.php" timestamp="1468348342765">
+      <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/templates/views-view--events.tpl.php" timestamp="1468355131106">
         <mark key="'" line="125" column="50" />
-        <mark key="[" line="123" column="33" />
-        <mark key="]" line="123" column="41" />
-        <mark key="." line="123" column="41" />
-        <mark key="^" line="123" column="41" />
+        <mark key="[" line="162" column="0" />
+        <mark key="]" line="162" column="0" />
+        <mark key="." line="162" column="0" />
+        <mark key="^" line="168" column="34" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/css/main.css.map" timestamp="1467741113141">
         <mark key="'" line="0" column="2724" />
@@ -2407,43 +2407,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>prev</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2NhdGlvbkNvbHNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHBhZ2luZ1ByZXZTZWxlY3RvciA9ICcucHJldicsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8bGkgY2xhc3M9InByZXYgZmlyc3QiPjwvbGk+Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkKGJpZGRuZykK</text>
+        <text encoding="base64">ICAgICAgICAgICAK</text>
       </register>
       <register name="3" type="4">
-        <text>prev</text>
+        <text />
       </register>
       <register name="4" type="4">
-        <text>v</text>
+        <text>first</text>
       </register>
       <register name="5" type="4">
-        <text>e</text>
+        <text>prev</text>
       </register>
-      <register name="6" type="4">
-        <text>r</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvdWw+Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>P</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>.first</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8bGk+PC9saT4K</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
-      <register name="9" type="4">
-        <text>ing</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDx1bD4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
