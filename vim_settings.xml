@@ -51,6 +51,12 @@
       <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/templates/event-photo-album.php" timestamp="1468012805142">
         <mark key="'" line="0" column="17" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/emoji-challenge.php" timestamp="1468001038582">
+        <mark key="'" line="55" column="73" />
+        <mark key="[" line="34" column="103" />
+        <mark key="]" line="34" column="103" />
+        <mark key="." line="34" column="103" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/bower_components/angular-animate/angular-animate.js" timestamp="1466614053611">
         <mark key="'" line="3157" column="22" />
       </file>
@@ -130,12 +136,11 @@
       <file name="$USER_HOME$/Sites/Rescue/rev-your-bev-interactive/styles/swap.css" timestamp="1468014822150">
         <mark key="'" line="78" column="31" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/facebook-app.js" timestamp="1468281581344">
+      <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/facebook-app.js" timestamp="1468342862187">
         <mark key="'" line="40" column="22" />
-        <mark key="[" line="72" column="8" />
-        <mark key="]" line="72" column="14" />
-        <mark key="^" line="72" column="14" />
-        <mark key="." line="72" column="14" />
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="." line="71" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/templates/html.tpl.php" timestamp="1468257602992">
         <mark key="'" line="221" column="57" />
@@ -143,6 +148,12 @@
         <mark key="]" line="213" column="68" />
         <mark key="." line="213" column="68" />
         <mark key="^" line="213" column="68" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/events.ctrl.js" timestamp="1468018262845">
+        <mark key="'" line="74" column="26" />
+        <mark key="[" line="154" column="0" />
+        <mark key="]" line="154" column="0" />
+        <mark key="." line="154" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" timestamp="1468001337356">
         <mark key="'" line="0" column="0" />
@@ -250,19 +261,19 @@
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/videogular.less" timestamp="1467740791328">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" timestamp="1468338520054">
-        <mark key="'" line="210" column="16" />
-        <mark key="[" line="245" column="19" />
-        <mark key="]" line="247" column="24" />
-        <mark key="." line="247" column="24" />
-        <mark key="^" line="247" column="24" />
+      <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" timestamp="1468342927685">
+        <mark key="'" line="326" column="12" />
+        <mark key="[" line="281" column="16" />
+        <mark key="]" line="281" column="19" />
+        <mark key="." line="281" column="19" />
+        <mark key="^" line="281" column="19" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/templates/views-view--events.tpl.php" timestamp="1468339536784">
-        <mark key="'" line="48" column="13" />
-        <mark key="[" line="198" column="0" />
-        <mark key="]" line="198" column="0" />
-        <mark key="." line="198" column="0" />
-        <mark key="^" line="113" column="25" />
+      <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/templates/views-view--events.tpl.php" timestamp="1468343758178">
+        <mark key="'" line="130" column="43" />
+        <mark key="[" line="91" column="77" />
+        <mark key="]" line="91" column="80" />
+        <mark key="." line="91" column="80" />
+        <mark key="^" line="91" column="80" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/css/main.css.map" timestamp="1467741113141">
         <mark key="'" line="0" column="2724" />
@@ -398,9 +409,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="215" column="9" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" />
-      <jump line="128" column="33" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/templates/views-view--events.tpl.php" />
-      <jump line="188" column="32" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" />
       <jump line="222" column="19" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" />
       <jump line="48" column="12" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/providers/FacebookApp.js" />
       <jump line="45" column="22" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/facebook-app.js" />
@@ -498,6 +506,9 @@
       <jump line="164" column="13" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/modules/views_infinite_scroll/js/jquery.autopager-1.0.0.js" />
       <jump line="138" column="13" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/modules/views_infinite_scroll/js/jquery.autopager-1.0.0.js" />
       <jump line="118" column="18" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/modules/views_infinite_scroll/js/jquery.autopager-1.0.0.js" />
+      <jump line="228" column="38" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" />
+      <jump line="326" column="12" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" />
+      <jump line="130" column="43" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/templates/views-view--events.tpl.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2342,8 +2353,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
+      <register name="&quot;" type="4">
+        <text>a</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -2397,55 +2408,55 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhcHBlbmRUb1w+</text>
+        <text>event-photos</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxsaSByb2xlPSJwcmVzZW50YXRpb24iIGNsYXNzPSI8P3BocCBvKCRjdXJyZW50UGF0aCA9PT0gJ2V2ZW50cycgPyAnYWN0aXZlJyA6ICcnKSA/PiI+Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
+      <register name="1" type="4">
+        <text>a</text>
       </register>
       <register name="2" type="4">
         <text encoding="base64">Pg==</text>
       </register>
       <register name="3" type="4">
-        <text>prepend</text>
+        <text encoding="base64">PC9zcGFuPiA=</text>
       </register>
       <register name="4" type="4">
-        <text>10</text>
+        <text encoding="base64">PGEgaHJlZj0iZXZlbnRzIg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxsaSByb2xlPSJwcmVzZW50YXRpb24iIGNsYXNzPSItLT48P3BocCAvL28oJGN1cnJlbnRQYXRoID09PSAnZXZlbnRzJyA/ICdhY3RpdmUnIDogJycpID8+PCEtLSI+LS0+Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChwYWdpbmdOZXh0KSB7CiAgICAgICAgICAgICAgICAgICAgc2hvd01vcmVCdXR0b25EaXNwbGF5KHRydWUpOwogICAgICAgICAgICAgICAgfQo=</text>
+      <register name="6" type="4">
+        <text>&quot;</text>
       </register>
-      <register name="7" type="4">
-        <text>false</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxsaT48L2xpPgo=</text>
       </register>
       <register name="8" type="4">
-        <text>d</text>
+        <text encoding="base64">ICAgICAgICAgICAg</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
-      <register name="9" type="4">
-        <text>a</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhcHBlbmRUb1w+</last-search>
+      <last-search>event-photos</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhcHBlbmRUb1w+</last-pattern>
+      <last-pattern>event-photos</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxzaG93UmVzdWx0c1w+</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -2509,11 +2520,13 @@
         <entry encoding="base64">XDxnZXRQaG90b3NcPg==</entry>
         <entry>loadMore</entry>
         <entry encoding="base64">XDxwcmVwYXJlUmVzcG9uc2VcPg==</entry>
-        <entry encoding="base64">XDxyZW5kZXJFdmVudFBob3RvXD4=</entry>
         <entry encoding="base64">XDxhdXRvcGFnZXJcPg==</entry>
         <entry encoding="base64">XDxuZXh0SGFzaFw+</entry>
         <entry encoding="base64">XDxpbnNlcnRDb250ZW50XD4=</entry>
         <entry encoding="base64">XDxhcHBlbmRUb1w+</entry>
+        <entry>debugger</entry>
+        <entry encoding="base64">XDxyZW5kZXJFdmVudFBob3RvXD4=</entry>
+        <entry>event-photos</entry>
       </history-search>
       <history-cmd>
         <entry>252</entry>
