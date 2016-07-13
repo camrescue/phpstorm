@@ -261,12 +261,12 @@
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/videogular.less" timestamp="1467740791328">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" timestamp="1468367234746">
-        <mark key="'" line="202" column="16" />
-        <mark key="[" line="74" column="82" />
-        <mark key="]" line="74" column="82" />
-        <mark key="^" line="65" column="87" />
-        <mark key="." line="74" column="82" />
+      <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" timestamp="1468369035930">
+        <mark key="'" line="194" column="16" />
+        <mark key="[" line="203" column="37" />
+        <mark key="]" line="203" column="43" />
+        <mark key="." line="203" column="43" />
+        <mark key="^" line="203" column="43" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/templates/views-view--events.tpl.php" timestamp="1468365907630">
         <mark key="'" line="125" column="50" />
@@ -415,16 +415,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="63" filename="$USER_HOME$/Sites/Mine/udacity/start/app.js" />
-      <jump line="53" column="21" filename="$USER_HOME$/Sites/Mine/udacity/start/app.js" />
-      <jump line="76" column="35" filename="$USER_HOME$/Sites/Mine/udacity/start/app.js" />
-      <jump line="52" column="27" filename="$USER_HOME$/Sites/Mine/udacity/start/app.js" />
-      <jump line="59" column="32" filename="$USER_HOME$/Sites/Mine/udacity/start/app.js" />
-      <jump line="61" column="52" filename="$USER_HOME$/Sites/Mine/udacity/start/app.js" />
-      <jump line="64" column="35" filename="$USER_HOME$/Sites/Mine/udacity/start/app.js" />
-      <jump line="66" column="39" filename="$USER_HOME$/Sites/Mine/udacity/start/app.js" />
-      <jump line="69" column="44" filename="$USER_HOME$/Sites/Mine/udacity/start/app.js" />
-      <jump line="71" column="39" filename="$USER_HOME$/Sites/Mine/udacity/start/app.js" />
       <jump line="85" column="13" filename="$USER_HOME$/Sites/Mine/udacity/start/app.js" />
       <jump line="46" column="13" filename="$USER_HOME$/Sites/Mine/udacity/start/app.js" />
       <jump line="86" column="60" filename="$USER_HOME$/Sites/Mine/udacity/start/app.js" />
@@ -515,6 +505,16 @@
       <jump line="58" column="16" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" />
       <jump line="201" column="16" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" />
       <jump line="809" column="8" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/less/event.less" />
+      <jump line="246" column="28" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" />
+      <jump line="177" column="24" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" />
+      <jump line="183" column="32" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" />
+      <jump line="243" column="22" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" />
+      <jump line="224" column="21" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" />
+      <jump line="213" column="21" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" />
+      <jump line="203" column="37" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" />
+      <jump line="41" column="40" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" />
+      <jump line="158" column="67" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" />
+      <jump line="194" column="16" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2360,7 +2360,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>elems</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -2414,43 +2414,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>elems</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYWdlUmVzdWx0c1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYWdlTnVtID0gcGFnZU51bSAtIDE7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcGFnZVJlc3VsdHMoMCk7Cg==</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+        <text>elems</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">bmV4dCA=</text>
+        <text>elems</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IA==</text>
+        <text>;</text>
       </register>
       <register name="5" type="4">
-        <text>previous</text>
+        <text>locationCols</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBtYXJnaW46IDAgMXB4Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBib3JkZXI6IDFweCBzb2xpZCAjZGRkOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBiYWNrZ3JvdW5kLWNvbG9yOiAjZmZmOwo=</text>
+      <register name="8" type="4">
+        <text />
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb2xvcjogIzk0ZDYwMDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -2462,7 +2462,7 @@
       <last-pattern encoding="base64">XDxwYWdlUmVzdWx0c1w+</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxzaG93UmVzdWx0c1w+</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -2535,10 +2535,10 @@
         <entry encoding="base64">XDxldmVudFZlbnVlQ29sc1w+</entry>
         <entry encoding="base64">XDxnZXRFdmVudFNlbGVjdG9yXD4=</entry>
         <entry encoding="base64">XDxldmVudExvY2F0aW9uQ29sc1w+</entry>
-        <entry encoding="base64">XDxsb2NhdGlvbkNvbHNcPg==</entry>
         <entry encoding="base64">XDxjdXJyZW50UGFnZVw+</entry>
         <entry>debugger</entry>
         <entry encoding="base64">XDxudW1iZXJQZXJQYWdlXD4=</entry>
+        <entry encoding="base64">XDxsb2NhdGlvbkNvbHNcPg==</entry>
         <entry encoding="base64">XDxwYWdlUmVzdWx0c1w+</entry>
       </history-search>
       <history-cmd>
