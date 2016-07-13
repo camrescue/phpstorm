@@ -308,7 +308,7 @@
         <mark key="^" line="4" column="19" />
         <mark key="." line="4" column="19" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/survey-admin/database/seeds/UserTableSeeder.php" timestamp="1468448807879">
+      <file name="$USER_HOME$/Sites/Rescue/survey-admin/database/seeds/UserTableSeeder.php" timestamp="1468452620845">
         <mark key="[" line="49" column="47" />
         <mark key="]" line="49" column="51" />
         <mark key="." line="49" column="51" />
@@ -448,8 +448,8 @@
       <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/Http/Controllers/Api.php" timestamp="1468451627389">
         <mark key="'" line="317" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/Variables.php" timestamp="1468451254689">
-        <mark key="'" line="634" column="70" />
+      <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/Variables.php" timestamp="1468453236084">
+        <mark key="'" line="497" column="15" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/mosaic-grid.js" timestamp="1468277945249">
         <mark key="'" line="503" column="27" />
@@ -572,7 +572,7 @@
         <mark key="^" line="34" column="42" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/survey-admin/database/seeds/users.csv" timestamp="1468447985387">
+      <file name="$USER_HOME$/Sites/Rescue/survey-admin/database/seeds/users.csv" timestamp="1468453089284">
         <mark key="[" line="13" column="36" />
         <mark key="]" line="14" column="43" />
         <mark key="." line="14" column="43" />
@@ -586,13 +586,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="410" column="45" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" />
-      <jump line="580" column="14" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" />
-      <jump line="596" column="0" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" />
-      <jump line="15" column="26" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" />
-      <jump line="305" column="13" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" />
-      <jump line="303" column="48" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" />
-      <jump line="295" column="37" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" />
       <jump line="481" column="13" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" />
       <jump line="454" column="0" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" />
       <jump line="453" column="18" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" />
@@ -686,6 +679,13 @@
       <jump line="239" column="11" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Http/Controllers/Api.php" />
       <jump line="246" column="11" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Http/Controllers/Api.php" />
       <jump line="317" column="0" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Http/Controllers/Api.php" />
+      <jump line="776" column="22" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/Variables.php" />
+      <jump line="29" column="42" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/Variables.php" />
+      <jump line="524" column="29" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/Variables.php" />
+      <jump line="688" column="56" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/Variables.php" />
+      <jump line="445" column="61" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/Variables.php" />
+      <jump line="495" column="11" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/Variables.php" />
+      <jump line="497" column="15" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/Variables.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2588,7 +2588,7 @@
         <text>nub</text>
       </register>
       <register name="/" type="4">
-        <text>emailReminder</text>
+        <text>ratio</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICB3aWR0aDogfiJjYWxjKDMzJSAtIDEwcHgpIjsK</text>
@@ -2628,9 +2628,9 @@
       </register>
     </registers>
     <search>
-      <last-search>emailReminder</last-search>
+      <last-search>ratio</last-search>
       <last-offset />
-      <last-pattern>emailReminder</last-pattern>
+      <last-pattern>ratio</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxzaG93UmVzdWx0c1w+</last-substitute>
       <last-dir>1</last-dir>
@@ -2760,6 +2760,8 @@
         <entry>EmailReminders</entry>
         <entry>Email</entry>
         <entry>emailReminder</entry>
+        <entry encoding="base64">XDxkZW1vZ3JhcGhpY0NhcHNcPg==</entry>
+        <entry>ratio</entry>
       </history-search>
       <history-cmd>
         <entry>252</entry>
