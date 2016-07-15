@@ -12,9 +12,6 @@
       <file name="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_quest/main-with-admin.html" timestamp="1468597066258">
         <mark key="'" line="257" column="5" />
       </file>
-      <file name="/a.dummy" timestamp="1468603024934">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/background-videos.js" timestamp="1468016525692">
         <mark key="'" line="2" column="8" />
       </file>
@@ -475,12 +472,12 @@
       <file name="$USER_HOME$/Sites/Rescue/helix/application/controllers/profiles.php" timestamp="1467151485286">
         <mark key="'" line="104" column="54" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/Http/Controllers/Api.php" timestamp="1468605100468">
+      <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/Http/Controllers/Api.php" timestamp="1468606629524">
         <mark key="'" line="677" column="20" />
-        <mark key="[" line="682" column="0" />
-        <mark key="]" line="682" column="0" />
-        <mark key="^" line="680" column="7" />
-        <mark key="." line="682" column="0" />
+        <mark key="[" line="690" column="0" />
+        <mark key="]" line="690" column="0" />
+        <mark key="^" line="690" column="33" />
+        <mark key="." line="690" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/Variables.php" timestamp="1468542017964">
         <mark key="'" line="624" column="0" />
@@ -535,6 +532,12 @@
       </file>
       <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/social-mashup.js" timestamp="1468438551474">
         <mark key="'" line="10" column="4" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/utils.php" timestamp="1468606603213">
+        <mark key="[" line="316" column="9" />
+        <mark key="]" line="316" column="23" />
+        <mark key="^" line="316" column="23" />
+        <mark key="." line="316" column="23" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/survey-admin/storage/email-blacklist/email-blacklist.json" timestamp="1468541525087" />
       <file name="/Dummy.txt" timestamp="1468597015785">
@@ -598,12 +601,12 @@
         <mark key="." line="10" column="0" />
         <mark key="^" line="7" column="21" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" timestamp="1468605028864">
-        <mark key="'" line="1131" column="9" />
-        <mark key="[" line="1426" column="23" />
-        <mark key="]" line="1427" column="16" />
-        <mark key="." line="1427" column="16" />
-        <mark key="^" line="1427" column="16" />
+      <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" timestamp="1468606771553">
+        <mark key="'" line="1421" column="8" />
+        <mark key="[" line="1424" column="85" />
+        <mark key="]" line="1424" column="85" />
+        <mark key="." line="1424" column="85" />
+        <mark key="^" line="1424" column="85" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/pageloader/index.php" timestamp="1466051565353">
         <mark key="[" line="27" column="13" />
@@ -634,9 +637,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="167" column="44" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Http/Controllers/Api.php" />
-      <jump line="852" column="100" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Http/Controllers/Api.php" />
-      <jump line="334" column="38" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_screen/src/main.js" />
       <jump line="333" column="9" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_screen/src/main.js" />
       <jump line="328" column="29" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_screen/src/main.js" />
       <jump line="858" column="29" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Http/Controllers/Api.php" />
@@ -714,7 +714,6 @@
       <jump line="34" column="10" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
       <jump line="42" column="12" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
       <jump line="1214" column="36" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
       <jump line="186" column="18" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
       <jump line="1597" column="23" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
       <jump line="720" column="19" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
@@ -724,7 +723,6 @@
       <jump line="46" column="12" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
       <jump line="1197" column="21" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
       <jump line="1423" column="28" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
-      <jump line="1125" column="21" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
       <jump line="1615" column="29" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
       <jump line="1599" column="29" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
       <jump line="1541" column="25" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
@@ -734,6 +732,11 @@
       <jump line="1451" column="25" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
       <jump line="1131" column="9" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
       <jump line="677" column="20" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Http/Controllers/Api.php" />
+      <jump line="1149" column="11" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
+      <jump line="1125" column="21" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
+      <jump line="1105" column="21" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
+      <jump line="1421" column="8" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2578,8 +2581,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cgo=</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -2633,52 +2636,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0cmFja2luZ1Jvd3NcPg==</text>
+        <text encoding="base64">XDxnZXREYXRlQ29tcGFyZUZpZWxkXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHRyYWNraW5nRGF0YS0+ZW1haWxMaW5rUmVhZHkoJHJvdywgJGVtYWlsU2VuZGVyKTsK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAkdG8gICA9ICd3ZWJzcGFtQHJlc2N1ZXNjZy5jb20nOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cgo=</text>
+      <register name="1" type="4">
+        <text>)</text>
       </register>
       <register name="2" type="4">
-        <text />
+        <text>(</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICR0cmFja2luZ0RhdGEtPmVtYWlsTGlua1JlYWR5KCRyb3csICRlbWFpbFNlbmRlcik7Cg==</text>
+      <register name="3" type="4">
+        <text>tMatch</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAvL2RkKCR0cmFja2luZ1Jvd3NbMF0tPnRvQXJyYXkoKSk7Cg==</text>
+      <register name="4" type="4">
+        <text>in</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBleGl0Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGJnKCRyb3ctPmRhdGVfY3JlYXRlZCkK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdHJhY2tpbmdSb3dzKTsK</text>
+      <register name="6" type="4">
+        <text>webspam</text>
       </register>
       <register name="7" type="4">
-        <text>estRow</text>
+        <text>/</text>
       </register>
       <register name="8" type="4">
-        <text>track</text>
+        <text>/</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="4">
-        <text>Rows</text>
+        <text>webspam</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0cmFja2luZ1Jvd3NcPg==</last-search>
+      <last-search encoding="base64">XDxnZXREYXRlQ29tcGFyZUZpZWxkXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0cmFja2luZ1Jvd3NcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxnZXREYXRlQ29tcGFyZUZpZWxkXD4=</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxzaG93UmVzdWx0c1w+</last-substitute>
       <last-dir>-1</last-dir>
@@ -2890,9 +2893,10 @@
         <entry encoding="base64">XDxPTlNJVEVfTElOS19TRU5EX1RJTUVfREVMQVlcPg==</entry>
         <entry encoding="base64">XDxyb3dcPg==</entry>
         <entry encoding="base64">XDxzZW5kRW1haWxcPg==</entry>
-        <entry encoding="base64">XDxnZXRMaW5rU2VuZFN0YXR1c1w+</entry>
         <entry encoding="base64">XDxjb21wYXJlRGF0ZVw+</entry>
         <entry encoding="base64">XDx0cmFja2luZ1Jvd3NcPg==</entry>
+        <entry encoding="base64">XDxnZXRMaW5rU2VuZFN0YXR1c1w+</entry>
+        <entry encoding="base64">XDxnZXREYXRlQ29tcGFyZUZpZWxkXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>252</entry>
