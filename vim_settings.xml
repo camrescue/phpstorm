@@ -42,7 +42,8 @@
         <mark key="^" line="0" column="84" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Mine/udacity/start/app.js" timestamp="1468222176272">
+      <file name="$USER_HOME$/Sites/Mine/udacity/start/app.js" timestamp="1468829788648">
+        <mark key="'" line="6" column="36" />
         <mark key="[" line="87" column="0" />
         <mark key="]" line="87" column="0" />
         <mark key="." line="87" column="0" />
@@ -380,11 +381,11 @@
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/bower_components/angular-scroll-animate/docs/js/angular-bootstrap-prettify.js" timestamp="1467154088047">
         <mark key="'" line="194" column="70" />
       </file>
-      <file name="$USER_HOME$/Sites/Mine/udacity/checkform/js/checkout.js" timestamp="1468828658483">
-        <mark key="[" line="12" column="32" />
-        <mark key="]" line="12" column="31" />
-        <mark key="^" line="12" column="31" />
-        <mark key="." line="12" column="31" />
+      <file name="$USER_HOME$/Sites/Mine/udacity/checkform/js/checkout.js" timestamp="1468829641641">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="26" column="38" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/views/milestone/alert.php" timestamp="1466017926382">
         <mark key="[" line="85" column="97" />
@@ -810,8 +811,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="190" column="40" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/Variables.php" />
-      <jump line="355" column="8" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/Variables.php" />
       <jump line="22" column="9" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/Variables.php" />
       <jump line="351" column="16" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/Variables.php" />
       <jump line="316" column="9" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/Variables.php" />
@@ -910,6 +909,8 @@
       <jump line="6" column="23" filename="$USER_HOME$/Sites/Mine/udacity/checkform/index.html" />
       <jump line="61" column="72" filename="$USER_HOME$/Sites/Mine/udacity/checkform/index.html" />
       <jump line="60" column="90" filename="$USER_HOME$/Sites/Mine/udacity/checkform/index.html" />
+      <jump line="104" column="8" filename="$USER_HOME$/Sites/Mine/udacity/start/app.js" />
+      <jump line="6" column="36" filename="$USER_HOME$/Sites/Mine/udacity/start/app.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2754,8 +2755,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>value</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -2809,19 +2810,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>value</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzaGlwcGluZ1w+</text>
+        <text>pattern</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">LnN1Ym1pdC1idXR0b24tY29udGFpbmVyLAo=</text>
       </register>
-      <register name="1" type="4">
-        <text>value</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>function () {</text>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -2833,28 +2834,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">Cgo=</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>t</text>
-      </register>
-      <register name="8" type="4">
-        <text>opts</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
-      <register name="9" type="4">
-        <text>e</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzaGlwcGluZ1w+</last-search>
+      <last-search>pattern</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzaGlwcGluZ1w+</last-pattern>
+      <last-pattern>pattern</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxzaG93UmVzdWx0c1w+</last-substitute>
       <last-dir>1</last-dir>
@@ -2918,6 +2919,7 @@
         <entry>ship</entry>
         <entry>shipping</entry>
         <entry encoding="base64">XDxzaGlwcGluZ1w+</entry>
+        <entry>pattern</entry>
       </history-search>
       <history-cmd>
         <entry>e</entry>
