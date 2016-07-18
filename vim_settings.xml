@@ -380,11 +380,11 @@
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/bower_components/angular-scroll-animate/docs/js/angular-bootstrap-prettify.js" timestamp="1467154088047">
         <mark key="'" line="194" column="70" />
       </file>
-      <file name="$USER_HOME$/Sites/Mine/udacity/checkform/js/checkout.js" timestamp="1468828366894">
-        <mark key="[" line="24" column="28" />
-        <mark key="]" line="25" column="26" />
-        <mark key="." line="25" column="26" />
-        <mark key="^" line="25" column="26" />
+      <file name="$USER_HOME$/Sites/Mine/udacity/checkform/js/checkout.js" timestamp="1468828658483">
+        <mark key="[" line="12" column="32" />
+        <mark key="]" line="12" column="31" />
+        <mark key="^" line="12" column="31" />
+        <mark key="." line="12" column="31" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/views/milestone/alert.php" timestamp="1466017926382">
         <mark key="[" line="85" column="97" />
@@ -2755,7 +2755,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>e</text>
+        <text>value</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -2809,7 +2809,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>value</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaGlwcGluZ1w+</text>
@@ -2818,10 +2818,10 @@
         <text encoding="base64">LnN1Ym1pdC1idXR0b24tY29udGFpbmVyLAo=</text>
       </register>
       <register name="1" type="4">
-        <text>e</text>
+        <text>value</text>
       </register>
       <register name="2" type="4">
-        <text>)</text>
+        <text>function () {</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -2829,23 +2829,23 @@
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">ICAgIA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vICAgIGFsZXJ0KCJBbGwgb2YgeW91ciBpbmZvcm1hdGlvbiB3YXMgdmFsaWQsIHJpZ2h0PyBJJ2xsIGp1c3QgZ28gYWhlYWQgYW5kIGFzc3VtZSB0aGF0IGl0IGlzIDspXG5cblRoYW5rcyBmb3IgeW91ciBzdWJtaXNzaW9uISIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">LnN1Ym1pdC1idXR0b24tY29udGFpbmVyLAo=</text>
+      <register name="7" type="4">
+        <text>t</text>
       </register>
       <register name="8" type="4">
-        <text>,</text>
+        <text>opts</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="4">
-        <text>success</text>
+        <text>e</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
