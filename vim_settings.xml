@@ -690,6 +690,13 @@
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/header.less" timestamp="1467764516373">
         <mark key="'" line="14" column="26" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/less/chase-life.less" timestamp="1468889498442">
+        <mark key="'" line="776" column="13" />
+        <mark key="[" line="227" column="1" />
+        <mark key="]" line="347" column="0" />
+        <mark key="^" line="347" column="0" />
+        <mark key="." line="347" column="0" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/helpers/MY_form_helper.php" timestamp="1465857440506">
         <mark key="[" line="492" column="3" />
         <mark key="]" line="492" column="3" />
@@ -782,10 +789,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="146" column="100" filename="$USER_HOME$/Sites/Mine/udacity/checkform/index.html" />
-      <jump line="147" column="57" filename="$USER_HOME$/Sites/Mine/udacity/checkform/index.html" />
-      <jump line="153" column="54" filename="$USER_HOME$/Sites/Mine/udacity/checkform/index.html" />
-      <jump line="154" column="100" filename="$USER_HOME$/Sites/Mine/udacity/checkform/index.html" />
       <jump line="155" column="57" filename="$USER_HOME$/Sites/Mine/udacity/checkform/index.html" />
       <jump line="160" column="54" filename="$USER_HOME$/Sites/Mine/udacity/checkform/index.html" />
       <jump line="161" column="100" filename="$USER_HOME$/Sites/Mine/udacity/checkform/index.html" />
@@ -882,6 +885,10 @@
       <jump line="141" column="12" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" />
       <jump line="165" column="53" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" />
       <jump line="169" column="52" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" />
+      <jump line="256" column="14" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/less/chase-life.less" />
+      <jump line="343" column="11" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/less/chase-life.less" />
+      <jump line="552" column="17" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/less/chase-life.less" />
+      <jump line="776" column="13" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/less/chase-life.less" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2784,7 +2791,7 @@
         <text>photo</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwaG90b1w+</text>
+        <text>chase-life-node</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHZhciBmaWVsZHMgPSBbJ2FsYnVtJywgJ25hbWUnLCAnZXZlbnQnLCAncGljdHVyZScsICdsaW5rJywgJ2ltYWdlcycsICdjcmVhdGVkX3RpbWUnLCAnbGlrZXMuc3VtbWFyeSh0cnVlKSddLmpvaW4oJywnKTsK</text>
@@ -2824,9 +2831,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwaG90b1w+</last-search>
+      <last-search>chase-life-node</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwaG90b1w+</last-pattern>
+      <last-pattern>chase-life-node</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxzaG93UmVzdWx0c1w+</last-substitute>
       <last-dir>1</last-dir>
@@ -2854,6 +2861,10 @@
         <entry encoding="base64">XDxnZXRBbGJ1bXNcPg==</entry>
         <entry encoding="base64">XDxwcmVwYXJlUmVzcG9uc2VcPg==</entry>
         <entry encoding="base64">XDxwaG90b1w+</entry>
+        <entry>sag</entry>
+        <entry>sage</entry>
+        <entry>share-links</entry>
+        <entry>chase-life-node</entry>
       </history-search>
       <history-cmd>
         <entry>qw</entry>
