@@ -128,11 +128,11 @@
         <mark key="^" line="21" column="31" />
         <mark key="." line="17" column="15" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/survey-admin/resources/views/dashboard/screener-circle.blade.php" timestamp="1468976563357">
+      <file name="$USER_HOME$/Sites/Rescue/survey-admin/resources/views/dashboard/screener-circle.blade.php" timestamp="1469048269049">
         <mark key="[" line="7" column="20" />
-        <mark key="]" line="7" column="25" />
-        <mark key="." line="7" column="25" />
-        <mark key="^" line="7" column="25" />
+        <mark key="]" line="7" column="20" />
+        <mark key="." line="7" column="20" />
+        <mark key="^" line="7" column="20" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/filters/minImgSize" timestamp="1467871455837">
         <mark key="[" line="2" column="18" />
@@ -2417,7 +2417,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>SCREENER</text>
+        <text>ALIFY PERCENT</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -2471,7 +2471,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>SCREENER</text>
+        <text>ALIFY PERCENT</text>
       </register>
       <register name="/" type="4">
         <text>control</text>
@@ -2480,10 +2480,10 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBAaW5jbHVkZSgnZGFzaGJvYXJkLmNvbnRyb2wtY2lyY2xlJykK</text>
       </register>
       <register name="1" type="4">
-        <text>SCREENER</text>
+        <text>ALIFY PERCENT</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>SCREENER</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -2492,25 +2492,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
         <text encoding="base64">Cgo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>-circle</text>
       </register>
-      <register name="7" type="4">
-        <text>control</text>
-      </register>
       <register name="8" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA=</text>
+        <text>control</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">PD9waHAK</text>
+      <register name="9" type="4">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>h tag-blocks</text>
       </register>
     </registers>
     <search>
@@ -2625,6 +2625,11 @@
         <entry>1351</entry>
         <entry>w:w</entry>
         <entry>w</entry>
+        <entry>h it</entry>
+        <entry>h tag-blcoks</entry>
+        <entry>h tag-blocks</entry>
+        <entry>g help</entry>
+        <entry>G help</entry>
       </history-cmd>
       <history-expr />
       <history-input />
