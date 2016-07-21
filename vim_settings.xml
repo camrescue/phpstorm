@@ -9,7 +9,7 @@
         <mark key="^" line="75" column="37" />
         <mark key="." line="64" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1469138138751">
+      <file name="/a.dummy" timestamp="1469143820785">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/partials/tfl-popover.php" timestamp="1465408295841">
@@ -188,12 +188,12 @@
         <mark key="." line="166" column="0" />
         <mark key="^" line="167" column="72" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/templates/views-view--events.tpl.php" timestamp="1469125088974">
+      <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/templates/views-view--events.tpl.php" timestamp="1469143412106">
         <mark key="'" line="48" column="25" />
-        <mark key="[" line="95" column="0" />
-        <mark key="]" line="97" column="18" />
-        <mark key="^" line="122" column="11" />
-        <mark key="." line="95" column="0" />
+        <mark key="[" line="193" column="35" />
+        <mark key="]" line="193" column="37" />
+        <mark key="^" line="193" column="37" />
+        <mark key="." line="193" column="37" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/survey-admin/database/seeds/TrackingTableSeeder.php" timestamp="1468871925529">
         <mark key="[" line="18" column="26" />
@@ -207,12 +207,12 @@
         <mark key="^" line="18" column="16" />
         <mark key="." line="18" column="16" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/less/event.less" timestamp="1469137177457">
-        <mark key="'" line="945" column="22" />
-        <mark key="[" line="946" column="12" />
-        <mark key="]" line="946" column="12" />
-        <mark key="." line="946" column="12" />
-        <mark key="^" line="25" column="25" />
+      <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/less/event.less" timestamp="1469143841818">
+        <mark key="'" line="93" column="29" />
+        <mark key="[" line="71" column="20" />
+        <mark key="]" line="71" column="21" />
+        <mark key="." line="71" column="21" />
+        <mark key="^" line="98" column="16" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/views/helper/table/selector_export.php" timestamp="1465854265667">
         <mark key="[" line="25" column="106" />
@@ -497,9 +497,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="13" filename="$USER_HOME$/Sites/Rescue/survey-admin/database/seeds/UserTableSeeder.php" />
-      <jump line="9" column="21" filename="$USER_HOME$/Sites/Rescue/survey-admin/database/seeds/UserTableSeeder.php" />
-      <jump line="243" column="0" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Http/Controllers/SurveyController.php" />
       <jump line="176" column="52" filename="$USER_HOME$/Sites/Rescue/survey-admin/resources/views/surveys/index.blade.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Sites/Rescue/survey-admin/resources/views/surveys/index.blade.php" />
       <jump line="241" column="96" filename="$USER_HOME$/Sites/Rescue/survey-admin/resources/views/surveys/index.blade.php" />
@@ -597,6 +594,9 @@
       <jump line="46" column="66" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/emoji-challenge.php" />
       <jump line="945" column="22" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/less/event.less" />
       <jump line="1470" column="51" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Http/Controllers/Api.php" />
+      <jump line="1040" column="11" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/less/event.less" />
+      <jump line="19" column="22" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/less/event.less" />
+      <jump line="93" column="29" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/less/event.less" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2442,7 +2442,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>returned</text>
+        <text>tle</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -2496,52 +2496,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>returned</text>
+        <text>tle</text>
       </register>
       <register name="/" type="4">
-        <text>slug</text>
+        <text>popover</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoZW1wdHkoJHN1cnZleVJlc3BvbnNlKSkgewogICAgICAgICAgICBkZCgnTm8gc3VydmV5IHJlc3BvbnNlcyBmb3VuZCcpOwogICAgICAgICAgICBleGl0OwogICAgICAgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJ1Vua25vd24gZXJyb3Igb2NjdXJyZWQnKTsK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRiZygiRmFpbGVkIHVwZGF0aW5nICh7JHN1cnZleVJlc3BvbnNlLT51bmlxdWVfaWR9KSB0byByZXNlbmQiKTsK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
-      <register name="6" type="2">
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJ1Vua25vd24gZXJyb3Igb2NjdXJyZWQnKTsK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRiZygiRmFpbGVkIHVwZGF0aW5nICh7JHN1cnZleVJlc3BvbnNlLT51bmlxdWVfaWR9KSB0byByZXNlbmQiKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJHN1cnZleVJlc3BvbnNlLT50cmFja2luZyk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJHN1cnZleVJlc3BvbnNlLT50cmFja2luZyk7Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>slug</last-search>
+      <last-search>popover</last-search>
       <last-offset />
-      <last-pattern>slug</last-pattern>
+      <last-pattern>popover</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxzaG93UmVzdWx0c1w+</last-substitute>
       <last-dir>1</last-dir>
@@ -2596,6 +2596,10 @@
         <entry encoding="base64">XDx3aGVyZVVuaXF1ZUlkXD4=</entry>
         <entry>whereScree</entry>
         <entry>slug</entry>
+        <entry>background-color</entry>
+        <entry>rgb(</entry>
+        <entry>btn</entry>
+        <entry>popover</entry>
       </history-search>
       <history-cmd>
         <entry>a</entry>
