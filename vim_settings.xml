@@ -178,19 +178,19 @@
         <mark key="." line="55" column="118" />
         <mark key="^" line="55" column="118" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" timestamp="1469120117208">
-        <mark key="'" line="210" column="12" />
-        <mark key="[" line="170" column="69" />
-        <mark key="]" line="170" column="77" />
-        <mark key="^" line="170" column="77" />
-        <mark key="." line="170" column="77" />
+      <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" timestamp="1469124003265">
+        <mark key="'" line="529" column="57" />
+        <mark key="[" line="166" column="0" />
+        <mark key="]" line="166" column="0" />
+        <mark key="." line="166" column="0" />
+        <mark key="^" line="167" column="72" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/templates/views-view--events.tpl.php" timestamp="1469119816467">
-        <mark key="'" line="41" column="35" />
-        <mark key="[" line="204" column="6" />
-        <mark key="]" line="227" column="8" />
-        <mark key="^" line="227" column="8" />
-        <mark key="." line="227" column="8" />
+      <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/templates/views-view--events.tpl.php" timestamp="1469125088974">
+        <mark key="'" line="48" column="25" />
+        <mark key="[" line="95" column="0" />
+        <mark key="]" line="97" column="18" />
+        <mark key="^" line="122" column="11" />
+        <mark key="." line="95" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/survey-admin/database/seeds/TrackingTableSeeder.php" timestamp="1468871925529">
         <mark key="[" line="18" column="26" />
@@ -203,6 +203,13 @@
         <mark key="]" line="18" column="16" />
         <mark key="^" line="18" column="16" />
         <mark key="." line="18" column="16" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/less/event.less" timestamp="1469126949974">
+        <mark key="'" line="884" column="8" />
+        <mark key="[" line="946" column="12" />
+        <mark key="]" line="946" column="12" />
+        <mark key="." line="946" column="12" />
+        <mark key="^" line="25" column="25" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/views/helper/table/selector_export.php" timestamp="1465854265667">
         <mark key="[" line="25" column="106" />
@@ -348,12 +355,12 @@
         <mark key="^" line="2274" column="17" />
         <mark key="." line="2274" column="17" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/templates/views-view--past-event-block.tpl.php" timestamp="1469119809377">
-        <mark key="'" line="66" column="9" />
-        <mark key="[" line="107" column="10" />
-        <mark key="]" line="117" column="9" />
-        <mark key="^" line="117" column="9" />
-        <mark key="." line="117" column="9" />
+      <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/templates/views-view--past-event-block.tpl.php" timestamp="1469124144721">
+        <mark key="'" line="67" column="16" />
+        <mark key="[" line="103" column="54" />
+        <mark key="]" line="103" column="55" />
+        <mark key="^" line="103" column="55" />
+        <mark key="." line="103" column="55" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/filters/minImgSize" timestamp="1467871455837">
         <mark key="[" line="2" column="18" />
@@ -418,11 +425,6 @@
         <mark key="^" line="0" column="20" />
         <mark key="." line="0" column="22" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/controllers/api.php" timestamp="1468953735629">
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="41" />
-        <mark key="." line="62" column="0" />
-      </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/models/core/import_old_m.php" timestamp="1467237781045">
         <mark key="[" line="1725" column="31" />
         <mark key="]" line="1726" column="39" />
@@ -486,30 +488,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1123" column="30" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
-      <jump line="1139" column="31" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
-      <jump line="1189" column="31" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
-      <jump line="1443" column="67" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
-      <jump line="1448" column="34" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
-      <jump line="197" column="35" filename="$USER_HOME$/Sites/Rescue/survey-admin/resources/views/surveys/tracker.blade.php" />
-      <jump line="198" column="51" filename="$USER_HOME$/Sites/Rescue/survey-admin/resources/views/surveys/tracker.blade.php" />
-      <jump line="99" column="17" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
-      <jump line="1107" column="23" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
-      <jump line="1778" column="29" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
-      <jump line="1136" column="4" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
-      <jump line="1245" column="62" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
-      <jump line="171" column="41" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
-      <jump line="1244" column="25" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
-      <jump line="1399" column="28" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
-      <jump line="1411" column="29" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
-      <jump line="135" column="13" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
-      <jump line="136" column="13" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
-      <jump line="1111" column="8" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
-      <jump line="1364" column="42" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
-      <jump line="1413" column="28" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
-      <jump line="1634" column="23" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
-      <jump line="226" column="13" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Http/Controllers/SurveyController.php" />
-      <jump line="224" column="83" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Http/Controllers/SurveyController.php" />
       <jump line="280" column="75" filename="$USER_HOME$/Sites/Rescue/survey-admin/resources/views/surveys/tracker.blade.php" />
       <jump line="132" column="36" filename="$USER_HOME$/Sites/Rescue/survey-admin/resources/views/surveys/tracker.blade.php" />
       <jump line="1649" column="0" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
@@ -579,13 +557,37 @@
       <jump line="13" column="23" filename="$USER_HOME$/Sites/Rescue/survey-admin/resources/views/dashboard/screener-complete-circle.blade.php" />
       <jump line="14" column="63" filename="$USER_HOME$/Sites/Rescue/survey-admin/resources/views/dashboard/screener-complete-circle.blade.php" />
       <jump line="186" column="24" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" />
-      <jump line="160" column="12" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" />
       <jump line="187" column="26" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" />
       <jump line="66" column="9" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/templates/views-view--past-event-block.tpl.php" />
       <jump line="172" column="44" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" />
-      <jump line="160" column="29" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/templates/views-view--events.tpl.php" />
       <jump line="41" column="35" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/templates/views-view--events.tpl.php" />
       <jump line="210" column="12" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" />
+      <jump line="329" column="12" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" />
+      <jump line="345" column="24" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" />
+      <jump line="67" column="16" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/templates/views-view--past-event-block.tpl.php" />
+      <jump line="94" column="0" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/templates/views-view--events.tpl.php" />
+      <jump line="182" column="12" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" />
+      <jump line="323" column="12" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" />
+      <jump line="160" column="12" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" />
+      <jump line="189" column="51" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" />
+      <jump line="594" column="12" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" />
+      <jump line="530" column="57" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" />
+      <jump line="8" column="41" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/templates/views-view--events.tpl.php" />
+      <jump line="160" column="56" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/templates/views-view--events.tpl.php" />
+      <jump line="162" column="25" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/templates/views-view--events.tpl.php" />
+      <jump line="197" column="33" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/templates/views-view--events.tpl.php" />
+      <jump line="166" column="0" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/templates/views-view--events.tpl.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/templates/views-view--events.tpl.php" />
+      <jump line="203" column="0" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/templates/views-view--events.tpl.php" />
+      <jump line="48" column="25" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/templates/views-view--events.tpl.php" />
+      <jump line="525" column="24" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/less/event.less" />
+      <jump line="665" column="21" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/less/event.less" />
+      <jump line="62" column="15" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/less/event.less" />
+      <jump line="14" column="20" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/less/event.less" />
+      <jump line="58" column="0" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/less/event.less" />
+      <jump line="428" column="12" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/less/event.less" />
+      <jump line="884" column="8" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/less/event.less" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2431,7 +2433,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>'images'</text>
+        <text>min-height: 600px;</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -2485,55 +2487,55 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>'images'</text>
+        <text>min-height: 600px;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRJbWFnZUJ5V2lkdGhcPg==</text>
+        <text>min-height</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBAaW5jbHVkZSgnZGFzaGJvYXJkLnNjcmVlbmVyLWNpcmNsZScpCg==</text>
+        <text encoding="base64">ICA8L2Rpdj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgICAgICByZXR1cm4gdmFsaWRBbGJ1bXM7Cg==</text>
+        <text encoding="base64">LmpzLXBhZ2luYXRpb24gewogICAgbWFyZ2luOiAwOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGRpdiBjbGFzcz0idGV4dC1jZW50ZXIiPgogICAgICAgICAgICAgICAgPGRpdiBpZD0icGFnaW5hdGlvbiIgY2xhc3M9ImpzLXBhZ2luYXRpb24iPjwvZGl2PgogICAgICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHBvcG92ZXJJbml0KCk7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgYW5hbHl0aWNzLWxhYmVsPSIiPgo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGV2ZW50IC0gYWxidW0gLSB0bXBsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgYW5hbHl0aWNzLWV2ZW50PSJzb2NpYWwtIgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRJbWFnZUJ5V2lkdGhcPg==</last-search>
+      <last-search>min-height</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRJbWFnZUJ5V2lkdGhcPg==</last-pattern>
+      <last-pattern>min-height</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxzaG93UmVzdWx0c1w+</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -2566,10 +2568,16 @@
         <entry encoding="base64">XDxnZXRTY3JlZW5lckNvbXBsZXRlXD4=</entry>
         <entry>complete</entry>
         <entry>&quot;complete&quot;</entry>
-        <entry encoding="base64">XDxwcmVwYXJlQWxidW1SZXNwb25zZVw+</entry>
         <entry encoding="base64">XDxyZW5kZXJFdmVudFBob3RvXD4=</entry>
         <entry>debugger</entry>
         <entry encoding="base64">XDxnZXRJbWFnZUJ5V2lkdGhcPg==</entry>
+        <entry encoding="base64">XDxnZXRBbGJ1bXNcPg==</entry>
+        <entry encoding="base64">XDxhbGJ1bXNcPg==</entry>
+        <entry encoding="base64">XDxwcmVwYXJlQWxidW1SZXNwb25zZVw+</entry>
+        <entry>fa</entry>
+        <entry>pagination</entry>
+        <entry>grid-si</entry>
+        <entry>min-height</entry>
       </history-search>
       <history-cmd>
         <entry>a</entry>
