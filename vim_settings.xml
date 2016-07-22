@@ -84,6 +84,9 @@
         <mark key="." line="14" column="48" />
         <mark key="^" line="14" column="48" />
       </file>
+      <file name="/Dummy.txt" timestamp="1469227396707">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/survey-admin/resources/views/dashboard/screener-demographic-circle.blade.php" timestamp="1469209774139">
         <mark key="'" line="30" column="88" />
         <mark key="[" line="35" column="0" />
@@ -161,18 +164,15 @@
         <mark key="." line="36" column="47" />
         <mark key="^" line="36" column="47" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" timestamp="1468970185039">
-        <mark key="'" line="1294" column="9" />
-        <mark key="[" line="1294" column="0" />
-        <mark key="]" line="1294" column="24" />
-        <mark key="^" line="1294" column="25" />
-        <mark key="." line="1294" column="0" />
+      <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" timestamp="1469227390432">
+        <mark key="'" line="33" column="18" />
+        <mark key="[" line="1349" column="64" />
+        <mark key="]" line="1349" column="70" />
+        <mark key="^" line="1349" column="70" />
+        <mark key="." line="1349" column="70" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="73" column="11" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/less/event.less" />
-      <jump line="70" column="5" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/less/event.less" />
-      <jump line="209" column="12" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" />
       <jump line="77" column="0" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/DashboardData.php" />
       <jump line="1058" column="8" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Http/Controllers/SurveyController.php" />
       <jump line="115" column="37" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/DashboardData.php" />
@@ -270,6 +270,9 @@
       <jump line="81" column="17" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/socialfeed.less" />
       <jump line="99" column="17" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/socialfeed.less" />
       <jump line="118" column="17" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/socialfeed.less" />
+      <jump line="513" column="32" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
+      <jump line="1783" column="29" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
+      <jump line="33" column="18" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2114,8 +2117,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
+      <register name="&quot;" type="4">
+        <text>to</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -2169,56 +2172,56 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>to</text>
       </register>
       <register name="/" type="4">
-        <text>inFocus</text>
+        <text>Log</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2PkNvbXBsZXRlZCBRdWVzdGlvbm5haXJlcyAvIFF1YWxpZmllZCBTY3JlZW5lcnM8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTG9nOjp3YXJuaW5nKGltcGxvZGUoJzo6OicsIFskdG9lbWFpbCwgJHRvXSkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkcmVzdWx0ID0gImludmFsaWQiOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy9wb3BvdmVySW5pdCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CQkJCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLy9wb3BvdmVySW5pdCgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">CQkJCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxoMj5QYXN0IEV2ZW50IFBob3RvczwvaDI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgY29uc29sZS5sb2cocmVzcG9uc2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>inFocus</last-search>
+      <last-search>Log</last-search>
       <last-offset />
-      <last-pattern>inFocus</last-pattern>
+      <last-pattern>Log</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxzaG93UmVzdWx0c1w+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -2242,6 +2245,7 @@
         <entry>debugger</entry>
         <entry>onFocus</entry>
         <entry>inFocus</entry>
+        <entry>Log</entry>
       </history-search>
       <history-cmd>
         <entry>329</entry>
