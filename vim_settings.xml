@@ -153,12 +153,12 @@
         <mark key="." line="64" column="14" />
         <mark key="^" line="64" column="14" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/DashboardData.php" timestamp="1469204525347">
-        <mark key="'" line="266" column="30" />
-        <mark key="[" line="39" column="29" />
-        <mark key="]" line="39" column="55" />
-        <mark key="^" line="39" column="55" />
-        <mark key="." line="39" column="55" />
+      <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/DashboardData.php" timestamp="1469206723672">
+        <mark key="'" line="179" column="0" />
+        <mark key="[" line="36" column="55" />
+        <mark key="]" line="36" column="55" />
+        <mark key="^" line="36" column="54" />
+        <mark key="." line="36" column="55" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/partials/fact-item.php" timestamp="1467155005268">
         <mark key="[" line="5" column="16" />
@@ -312,6 +312,12 @@
         <mark key="^" line="6" column="115" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/Variables.php" timestamp="1469206590942">
+        <mark key="[" line="739" column="23" />
+        <mark key="]" line="739" column="30" />
+        <mark key="^" line="739" column="30" />
+        <mark key="." line="739" column="30" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/mixins.less" timestamp="1467742908780">
         <mark key="[" line="17" column="14" />
         <mark key="]" line="17" column="15" />
@@ -363,12 +369,19 @@
         <mark key="^" line="2274" column="17" />
         <mark key="." line="2274" column="17" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/survey-admin/resources/views/dashboard/complete-ratio-circle.blade.php" timestamp="1469204804354">
+      <file name="$USER_HOME$/Sites/Rescue/survey-admin/resources/views/dashboard/screener-demographic-circle.blade.php" timestamp="1469206778408">
+        <mark key="'" line="32" column="88" />
+        <mark key="[" line="32" column="88" />
+        <mark key="]" line="32" column="96" />
+        <mark key="." line="32" column="96" />
+        <mark key="^" line="32" column="96" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/survey-admin/resources/views/dashboard/complete-ratio-circle.blade.php" timestamp="1469204816231">
         <mark key="'" line="1" column="3" />
-        <mark key="[" line="19" column="42" />
-        <mark key="]" line="20" column="38" />
+        <mark key="[" line="20" column="28" />
+        <mark key="]" line="20" column="29" />
         <mark key="^" line="20" column="38" />
-        <mark key="." line="20" column="38" />
+        <mark key="." line="20" column="29" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/filters/minImgSize" timestamp="1467871455837">
         <mark key="[" line="2" column="18" />
@@ -498,10 +511,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="345" column="24" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" />
-      <jump line="67" column="16" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/templates/views-view--past-event-block.tpl.php" />
-      <jump line="94" column="0" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/templates/views-view--events.tpl.php" />
-      <jump line="182" column="12" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" />
       <jump line="323" column="12" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" />
       <jump line="160" column="12" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" />
       <jump line="189" column="51" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" />
@@ -598,6 +607,10 @@
       <jump line="268" column="17" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/DashboardData.php" />
       <jump line="295" column="37" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/DashboardData.php" />
       <jump line="266" column="30" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/DashboardData.php" />
+      <jump line="128" column="21" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/DashboardData.php" />
+      <jump line="35" column="31" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/DashboardData.php" />
+      <jump line="178" column="0" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/DashboardData.php" />
+      <jump line="32" column="88" filename="$USER_HOME$/Sites/Rescue/survey-admin/resources/views/dashboard/screener-demographic-circle.blade.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2442,8 +2455,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsYWJlbDogIlF1YWxpZmllZCIsCg==</text>
+      <register name="&quot;" type="4">
+        <text>race</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -2497,13 +2510,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Control</text>
+        <text>race</text>
       </register>
       <register name="/" type="4">
-        <text>percent</text>
+        <text encoding="base64">XDxzY3JlZW5lclJlY3J1aXRtZW50XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBAaW5jbHVkZSgnZGFzaGJvYXJkLnJlY3J1aXRtZW50LWNpcmNsZScpCg==</text>
+        <text encoding="base64">CQkkZGF0YVsicmFjZSJdID0gJHRoaXMtPmdldFJhY2UoJHN1cnZleS0+c2x1Zyk7Cg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsYWJlbDogIlF1YWxpZmllZCIsCg==</text>
@@ -2540,12 +2553,12 @@
       </register>
     </registers>
     <search>
-      <last-search>percent</last-search>
+      <last-search encoding="base64">XDxzY3JlZW5lclJlY3J1aXRtZW50XD4=</last-search>
       <last-offset />
-      <last-pattern>percent</last-pattern>
+      <last-pattern encoding="base64">XDxzY3JlZW5lclJlY3J1aXRtZW50XD4=</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxzaG93UmVzdWx0c1w+</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -2565,7 +2578,6 @@
         <entry>goal</entry>
         <entry>sm</entry>
         <entry encoding="base64">XDxnZXRDb250cm9sUmF0aW9zXD4=</entry>
-        <entry encoding="base64">XDxnZXRSYWNlXD4=</entry>
         <entry>script</entry>
         <entry>control</entry>
         <entry>Online Re</entry>
@@ -2611,6 +2623,8 @@
         <entry encoding="base64">XDxhcHBlbmRSZWNydWl0bWVudFRvdGFsc1w+</entry>
         <entry encoding="base64">XDxnZXRTY3JlZW5lclJhdGlvc1w+</entry>
         <entry>percent</entry>
+        <entry encoding="base64">XDxnZXRSYWNlXD4=</entry>
+        <entry encoding="base64">XDxzY3JlZW5lclJlY3J1aXRtZW50XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>a</entry>
@@ -2632,6 +2646,7 @@
         <entry>h tag-blocks</entry>
         <entry>g help</entry>
         <entry>G help</entry>
+        <entry>W</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
