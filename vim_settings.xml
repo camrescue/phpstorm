@@ -10,7 +10,7 @@
         <mark key="^" line="47" column="45" />
         <mark key="." line="47" column="45" />
       </file>
-      <file name="/a.dummy" timestamp="1469223648137">
+      <file name="/a.dummy" timestamp="1469232227433">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/survey-admin/resources/views/dashboard/screener-goal-circle.blade.php" timestamp="1469050023347">
@@ -64,6 +64,9 @@
         <mark key="]" line="49" column="51" />
         <mark key="." line="49" column="51" />
         <mark key="^" line="49" column="51" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/PageShare.js" timestamp="1469231004848">
+        <mark key="'" line="0" column="53" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/survey-admin/resources/views/dashboard/screener-circle.blade.php" timestamp="1469211720904">
         <mark key="[" line="9" column="39" />
@@ -127,6 +130,13 @@
         <mark key="." line="15" column="45" />
         <mark key="^" line="15" column="45" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/emoji-challenge.php" timestamp="1469234132001">
+        <mark key="'" line="13" column="72" />
+        <mark key="[" line="33" column="98" />
+        <mark key="]" line="33" column="100" />
+        <mark key="^" line="33" column="100" />
+        <mark key="." line="33" column="100" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/social.php" timestamp="1469221677873">
         <mark key="[" line="2" column="140" />
         <mark key="]" line="2" column="151" />
@@ -147,6 +157,9 @@
         <mark key="^" line="123" column="56" />
         <mark key="." line="123" column="56" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/routes.js" timestamp="1469231496279">
+        <mark key="'" line="101" column="42" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/survey-admin/resources/views/surveys/tracker.blade.php" timestamp="1468968514693">
         <mark key="'" line="132" column="36" />
         <mark key="[" line="204" column="65" />
@@ -164,11 +177,18 @@
         <mark key="." line="82" column="46" />
         <mark key="^" line="82" column="46" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/partials/quiz-section.php" timestamp="1469229042914">
-        <mark key="[" line="11" column="85" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/partials/quiz-section.php" timestamp="1469234160471">
+        <mark key="'" line="17" column="8" />
+        <mark key="[" line="11" column="97" />
         <mark key="]" line="11" column="102" />
         <mark key="^" line="11" column="102" />
         <mark key="." line="11" column="102" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/article.ctrl.js" timestamp="1469231374835">
+        <mark key="'" line="0" column="153" />
+        <mark key="[" line="0" column="153" />
+        <mark key="]" line="0" column="153" />
+        <mark key="." line="0" column="153" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/partials/event-photos.php" timestamp="1469217227374">
         <mark key="[" line="36" column="44" />
@@ -185,19 +205,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="77" column="0" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/DashboardData.php" />
-      <jump line="1058" column="8" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Http/Controllers/SurveyController.php" />
-      <jump line="115" column="37" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/DashboardData.php" />
-      <jump line="116" column="31" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/DashboardData.php" />
-      <jump line="123" column="31" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/DashboardData.php" />
-      <jump line="126" column="31" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/DashboardData.php" />
-      <jump line="143" column="31" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/DashboardData.php" />
-      <jump line="171" column="31" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/DashboardData.php" />
-      <jump line="286" column="34" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/DashboardData.php" />
-      <jump line="310" column="30" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/DashboardData.php" />
-      <jump line="254" column="20" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/DashboardData.php" />
-      <jump line="66" column="20" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/DashboardData.php" />
-      <jump line="1" column="3" filename="$USER_HOME$/Sites/Rescue/survey-admin/resources/views/dashboard/complete-ratio-circle.blade.php" />
       <jump line="39" column="36" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/DashboardData.php" />
       <jump line="253" column="17" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/DashboardData.php" />
       <jump line="258" column="17" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/DashboardData.php" />
@@ -285,6 +292,19 @@
       <jump line="513" column="32" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
       <jump line="1783" column="29" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
       <jump line="33" column="18" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/TrackingData.php" />
+      <jump line="0" column="53" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/PageShare.js" />
+      <jump line="0" column="153" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/article.ctrl.js" />
+      <jump line="108" column="37" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/routes.js" />
+      <jump line="104" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/routes.js" />
+      <jump line="102" column="27" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/routes.js" />
+      <jump line="101" column="42" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/routes.js" />
+      <jump line="3" column="5" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/partials/quiz-section.php" />
+      <jump line="42" column="77" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/emoji-challenge.php" />
+      <jump line="12" column="76" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/emoji-challenge.php" />
+      <jump line="17" column="8" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/partials/quiz-section.php" />
+      <jump line="37" column="55" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/emoji-challenge.php" />
+      <jump line="26" column="52" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/emoji-challenge.php" />
+      <jump line="13" column="72" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/emoji-challenge.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2130,7 +2150,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>to</text>
+        <text>off</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -2184,10 +2204,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>to</text>
+        <text>off</text>
       </register>
       <register name="/" type="4">
-        <text>Log</text>
+        <text>aria</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTG9nOjp3YXJuaW5nKGltcGxvZGUoJzo6OicsIFskdG9lbWFpbCwgJHRvXSkpOwo=</text>
@@ -2227,9 +2247,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Log</last-search>
+      <last-search>aria</last-search>
       <last-offset />
-      <last-pattern>Log</last-pattern>
+      <last-pattern>aria</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxzaG93UmVzdWx0c1w+</last-substitute>
       <last-dir>1</last-dir>
@@ -2258,6 +2278,12 @@
         <entry>onFocus</entry>
         <entry>inFocus</entry>
         <entry>Log</entry>
+        <entry encoding="base64">XDxGYWNlYm9va0FwcFw+</entry>
+        <entry encoding="base64">XDxGYWNlQm9va1w+</entry>
+        <entry>article</entry>
+        <entry>Facebook</entry>
+        <entry>aria-live</entry>
+        <entry>aria</entry>
       </history-search>
       <history-cmd>
         <entry>329</entry>
