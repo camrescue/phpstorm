@@ -93,6 +93,12 @@
         <mark key="." line="14" column="48" />
         <mark key="^" line="14" column="48" />
       </file>
+      <file name="$USER_HOME$/Sites/Mine/udacity/checkform/gulpfile.js" timestamp="1469311294979">
+        <mark key="[" line="6" column="27" />
+        <mark key="]" line="6" column="27" />
+        <mark key="^" line="6" column="26" />
+        <mark key="." line="6" column="27" />
+      </file>
       <file name="/Dummy.txt" timestamp="1469308761431">
         <mark key="[" line="0" column="0" />
       </file>
@@ -214,6 +220,12 @@
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
         <mark key="^" line="31" column="66" />
+      </file>
+      <file name="$USER_HOME$/Sites/Mine/udacity/checkform/sass/styles.scss" timestamp="1469311124154">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="^" line="70" column="0" />
+        <mark key="." line="70" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -2161,8 +2173,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2xhYmVsPgo=</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -2216,7 +2228,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxCT1VOQ0VfUEFSRU5UXD4=</text>
@@ -2225,22 +2237,22 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTG9nOjp3YXJuaW5nKGltcGxvZGUoJzo6OicsIFskdG9lbWFpbCwgJHRvXSkpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2xhYmVsPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAnRTY3My00Ukw5SC0xJywKLy8gICAgICAgICAgICAnMzYzNC1MUDYzSC0xJywK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8L2xhYmVsPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Ly8gICAgICAgICAgICAnRTY3My00Ukw5SC0xJywKLy8gICAgICAgICAgICAnMzYzNC1MUDYzSC0xJywK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJoMiBxdWVzdGlvbi10aXRsZSIgPjwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJoMiBxdWVzdGlvbi10aXRsZSIgPjwvZGl2Pgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PC9kaXY+Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -2252,7 +2264,7 @@
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
