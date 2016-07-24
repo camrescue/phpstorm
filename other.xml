@@ -254,6 +254,11 @@
       </option>
     </Configuration>
   </component>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/bin/node">
+      <version-cache version="0.12.3" last-modified="1431768253000" />
+    </local-interpreter>
+  </component>
   <component name="SystemNotifications">
     <option name="NOTIFICATIONS">
       <set>
