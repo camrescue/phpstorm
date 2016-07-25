@@ -87,13 +87,6 @@
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/events.less" timestamp="1469464342915">
         <mark key="'" line="23" column="25" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/emoji-challenge.php" timestamp="1469477719988">
-        <mark key="'" line="42" column="79" />
-        <mark key="[" line="12" column="91" />
-        <mark key="]" line="12" column="98" />
-        <mark key="^" line="12" column="98" />
-        <mark key="." line="12" column="98" />
-      </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/generic.less" timestamp="1469464222009">
         <mark key="[" line="31" column="0" />
         <mark key="]" line="31" column="0" />
@@ -120,13 +113,6 @@
         <mark key="]" line="82" column="46" />
         <mark key="." line="82" column="46" />
         <mark key="^" line="82" column="46" />
-      </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/partials/quiz-section.php" timestamp="1469478172460">
-        <mark key="'" line="15" column="46" />
-        <mark key="[" line="10" column="123" />
-        <mark key="]" line="10" column="123" />
-        <mark key="." line="10" column="123" />
-        <mark key="^" line="19" column="107" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/partials/event-photos.php" timestamp="1469217227374">
         <mark key="[" line="36" column="44" />
@@ -223,7 +209,7 @@
         <mark key="." line="27" column="34" />
         <mark key="^" line="27" column="34" />
       </file>
-      <file name="/Dummy.txt" timestamp="1469467983775">
+      <file name="/Dummy.txt" timestamp="1469481156189">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/survey-admin/resources/views/dashboard/screener-demographic-circle.blade.php" timestamp="1469209774139">
@@ -298,7 +284,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="38" column="24" filename="$USER_HOME$/Sites/Mine/udacity/checkform/js/checkout.js" />
       <jump line="85" column="17" filename="$USER_HOME$/Sites/Mine/udacity/checkform/js/checkout.js" />
       <jump line="67" column="13" filename="$USER_HOME$/Sites/Mine/udacity/checkform/js/checkout.js" />
       <jump line="196" column="24" filename="$USER_HOME$/Sites/Mine/udacity/checkform/js/checkout.js" />
@@ -397,7 +382,8 @@
       <jump line="539" column="21" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_quest/main-with-admin.html" />
       <jump line="15" column="46" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/partials/quiz-section.php" />
       <jump line="70" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
-      <jump line="42" column="79" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/emoji-challenge.php" />
+      <jump line="23" column="12" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/emoji-challenge.php" />
+      <jump line="42" column="138" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/emoji-challenge.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2300,7 +2286,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>aria</text>
+        <text>aria-live</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHRkPjwvdGQ+Cg==</text>
@@ -2340,9 +2326,9 @@
       </register>
     </registers>
     <search>
-      <last-search>aria</last-search>
+      <last-search>aria-live</last-search>
       <last-offset />
-      <last-pattern>aria</last-pattern>
+      <last-pattern>aria-live</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxzaG93UmVzdWx0c1w+</last-substitute>
       <last-dir>1</last-dir>
@@ -2385,6 +2371,7 @@
         <entry encoding="base64">XDxyZXN1bHRcPg==</entry>
         <entry encoding="base64">XDx0eXBlXD4=</entry>
         <entry>aria</entry>
+        <entry>aria-live</entry>
       </history-search>
       <history-cmd>
         <entry>Pw</entry>
