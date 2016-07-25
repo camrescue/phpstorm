@@ -87,12 +87,12 @@
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/events.less" timestamp="1469464342915">
         <mark key="'" line="23" column="25" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/emoji-challenge.php" timestamp="1469472789858">
-        <mark key="'" line="45" column="88" />
-        <mark key="[" line="42" column="115" />
-        <mark key="]" line="42" column="115" />
-        <mark key="^" line="42" column="132" />
-        <mark key="." line="42" column="115" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/emoji-challenge.php" timestamp="1469477719988">
+        <mark key="'" line="42" column="79" />
+        <mark key="[" line="12" column="91" />
+        <mark key="]" line="12" column="98" />
+        <mark key="^" line="12" column="98" />
+        <mark key="." line="12" column="98" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/generic.less" timestamp="1469464222009">
         <mark key="[" line="31" column="0" />
@@ -121,12 +121,12 @@
         <mark key="." line="82" column="46" />
         <mark key="^" line="82" column="46" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/partials/quiz-section.php" timestamp="1469472855867">
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/partials/quiz-section.php" timestamp="1469478172460">
         <mark key="'" line="15" column="46" />
-        <mark key="[" line="0" column="47" />
-        <mark key="]" line="0" column="67" />
-        <mark key="." line="0" column="67" />
-        <mark key="^" line="0" column="67" />
+        <mark key="[" line="10" column="123" />
+        <mark key="]" line="10" column="123" />
+        <mark key="." line="10" column="123" />
+        <mark key="^" line="19" column="107" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/partials/event-photos.php" timestamp="1469217227374">
         <mark key="[" line="36" column="44" />
@@ -206,11 +206,12 @@
         <mark key="^" line="17" column="45" />
         <mark key="." line="17" column="45" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" timestamp="1469465884893">
-        <mark key="'" line="25" column="0" />
-        <mark key="[" line="79" column="0" />
-        <mark key="]" line="79" column="0" />
-        <mark key="." line="79" column="0" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" timestamp="1469477733235">
+        <mark key="'" line="70" column="0" />
+        <mark key="[" line="426" column="25" />
+        <mark key="]" line="427" column="28" />
+        <mark key="." line="427" column="28" />
+        <mark key="^" line="427" column="28" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/utils.php" timestamp="1469136292214">
         <mark key="'" line="310" column="50" />
@@ -297,8 +298,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="179" column="30" filename="$USER_HOME$/Sites/Mine/udacity/checkform/js/checkout.js" />
-      <jump line="26" column="43" filename="$USER_HOME$/Sites/Mine/udacity/checkform/js/checkout.js" />
       <jump line="38" column="24" filename="$USER_HOME$/Sites/Mine/udacity/checkform/js/checkout.js" />
       <jump line="85" column="17" filename="$USER_HOME$/Sites/Mine/udacity/checkform/js/checkout.js" />
       <jump line="67" column="13" filename="$USER_HOME$/Sites/Mine/udacity/checkform/js/checkout.js" />
@@ -397,6 +396,8 @@
       <jump line="535" column="38" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_quest/main-with-admin.html" />
       <jump line="539" column="21" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_quest/main-with-admin.html" />
       <jump line="15" column="46" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/partials/quiz-section.php" />
+      <jump line="70" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
+      <jump line="42" column="79" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/emoji-challenge.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2381,6 +2382,8 @@
         <entry>Facebook</entry>
         <entry>og_image</entry>
         <entry>control</entry>
+        <entry encoding="base64">XDxyZXN1bHRcPg==</entry>
+        <entry encoding="base64">XDx0eXBlXD4=</entry>
         <entry>aria</entry>
       </history-search>
       <history-cmd>
