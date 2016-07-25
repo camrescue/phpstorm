@@ -9,7 +9,7 @@
         <mark key="." line="11" column="0" />
         <mark key="^" line="11" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1469459609778">
+      <file name="/a.dummy" timestamp="1469464317233">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/survey-admin/resources/views/dashboard/screener-goal-circle.blade.php" timestamp="1469050023347">
@@ -82,7 +82,7 @@
         <mark key="^" line="43" column="62" />
         <mark key="." line="43" column="62" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/events.less" timestamp="1469392262857">
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/events.less" timestamp="1469464342915">
         <mark key="'" line="23" column="25" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/emoji-challenge.php" timestamp="1469235507272">
@@ -91,6 +91,12 @@
         <mark key="]" line="13" column="71" />
         <mark key="^" line="13" column="88" />
         <mark key="." line="13" column="71" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/generic.less" timestamp="1469464222009">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+        <mark key="^" line="31" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" timestamp="1469222398317">
         <mark key="'" line="327" column="13" />
@@ -209,7 +215,7 @@
         <mark key="." line="27" column="34" />
         <mark key="^" line="27" column="34" />
       </file>
-      <file name="/Dummy.txt" timestamp="1469462557636">
+      <file name="/Dummy.txt" timestamp="1469464508192">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/survey-admin/resources/views/dashboard/screener-demographic-circle.blade.php" timestamp="1469209774139">
@@ -230,12 +236,6 @@
         <mark key="]" line="9" column="65" />
         <mark key="." line="9" column="38" />
         <mark key="^" line="9" column="38" />
-      </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/header.less" timestamp="1469463405866">
-        <mark key="[" line="89" column="5" />
-        <mark key="]" line="90" column="0" />
-        <mark key="^" line="90" column="0" />
-        <mark key="." line="90" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_quest/src/main.js" timestamp="1469032171737">
         <mark key="'" line="353" column="21" />
@@ -2234,8 +2234,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>img</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -2289,7 +2289,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>img</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>debugg</text>
@@ -2298,34 +2298,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHRkPjwvdGQ+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAibm8tZXh0cmEtc2VtaSIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKHBhdGgpOwo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">LnZlcnRpY2FsLWFsaWduIHsKICAgIC52ZXJ0aWNhbC1hbGlnbihyZWxhdGl2ZSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDxzcGFuIGNsYXNzPSJzci1vbmx5IiBuZy1iaW5kLWh0bWw9InNlY3Rpb24udGl0bGUiPiA8L3NwYW4+IAo=</text>
+        <text encoding="base64">ICAgICAgICAibm8tZXh0cmEtc2VtaSIK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBdLAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAicXVvdGVzIjogWwogICAgICAgICAgICAic2luZ2xlIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
