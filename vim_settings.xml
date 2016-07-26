@@ -28,12 +28,12 @@
         <mark key="." line="56" column="30" />
       </file>
       <file name="$USER_HOME$/Sites/Mine/udacity/start/app.js" timestamp="1469426444378" />
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/emoji-splash.js" timestamp="1469559879938">
-        <mark key="'" line="96" column="30" />
-        <mark key="[" line="87" column="21" />
-        <mark key="]" line="88" column="19" />
-        <mark key="^" line="88" column="19" />
-        <mark key="." line="88" column="19" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/emoji-splash.js" timestamp="1469564035145">
+        <mark key="'" line="85" column="54" />
+        <mark key="[" line="9" column="31" />
+        <mark key="]" line="9" column="34" />
+        <mark key="^" line="9" column="34" />
+        <mark key="." line="9" column="34" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/event.ctrl.js" timestamp="1469489650921">
         <mark key="'" line="0" column="0" />
@@ -113,7 +113,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="189" column="12" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" />
       <jump line="332" column="20" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" />
       <jump line="193" column="24" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" />
       <jump line="270" column="0" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" />
@@ -213,6 +212,7 @@
       <jump line="1228" column="24" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
       <jump line="1326" column="13" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
       <jump line="1214" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" />
+      <jump line="85" column="54" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/emoji-splash.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2057,8 +2057,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>false</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -2112,7 +2112,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>false</text>
       </register>
       <register name="/" type="4">
         <text>pagewrap</text>
