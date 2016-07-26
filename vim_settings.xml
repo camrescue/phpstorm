@@ -173,8 +173,8 @@
         <mark key="^" line="9" column="33" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/Http/Controllers/Api.php" timestamp="1469551997083">
-        <mark key="'" line="1449" column="51" />
+      <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/Http/Controllers/Api.php" timestamp="1469555449158">
+        <mark key="'" line="699" column="20" />
         <mark key="[" line="1461" column="27" />
         <mark key="]" line="1462" column="25" />
         <mark key="^" line="1462" column="25" />
@@ -231,7 +231,7 @@
         <mark key="." line="27" column="34" />
         <mark key="^" line="27" column="34" />
       </file>
-      <file name="/Dummy.txt" timestamp="1469549049269">
+      <file name="/Dummy.txt" timestamp="1469555420887">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/survey-admin/resources/views/dashboard/screener-demographic-circle.blade.php" timestamp="1469209774139">
@@ -302,12 +302,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="11" filename="$USER_HOME$/Sites/Mine/udacity/checkform/js/checkout.js" />
-      <jump line="280" column="6" filename="$USER_HOME$/Sites/Mine/udacity/checkform/js/checkout.js" />
-      <jump line="101" column="20" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/root.ctrl.js" />
-      <jump line="19" column="16" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/PathClass.js" />
-      <jump line="118" column="4" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
-      <jump line="243" column="19" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
       <jump line="15" column="43" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
       <jump line="68" column="13" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
       <jump line="141" column="13" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
@@ -402,6 +396,12 @@
       <jump line="80" column="8" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/users.php" />
       <jump line="707" column="9" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/users.php" />
       <jump line="1449" column="51" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Http/Controllers/Api.php" />
+      <jump line="1457" column="28" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Http/Controllers/Api.php" />
+      <jump line="137" column="20" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Http/Controllers/Api.php" />
+      <jump line="176" column="32" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Http/Controllers/Api.php" />
+      <jump line="390" column="20" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Http/Controllers/Api.php" />
+      <jump line="663" column="20" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Http/Controllers/Api.php" />
+      <jump line="699" column="20" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Http/Controllers/Api.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2304,7 +2304,7 @@
         <text>masonry</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRWYXJzXD4=</text>
+        <text>getEmail</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHRkPjwvdGQ+Cg==</text>
@@ -2344,9 +2344,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRWYXJzXD4=</last-search>
+      <last-search>getEmail</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRWYXJzXD4=</last-pattern>
+      <last-pattern>getEmail</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxzaG93UmVzdWx0c1w+</last-substitute>
       <last-dir>1</last-dir>
@@ -2408,6 +2408,7 @@
         <entry>apply</entry>
         <entry>apply(</entry>
         <entry encoding="base64">XDxnZXRWYXJzXD4=</entry>
+        <entry>getEmail</entry>
       </history-search>
       <history-cmd>
         <entry>Pw</entry>
