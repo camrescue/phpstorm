@@ -149,12 +149,12 @@
         <mark key="^" line="42" column="43" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Mine/test/ystreet-login/index.php" timestamp="1469732070166">
-        <mark key="'" line="153" column="12" />
-        <mark key="[" line="153" column="28" />
-        <mark key="]" line="153" column="35" />
-        <mark key="^" line="153" column="35" />
-        <mark key="." line="153" column="35" />
+      <file name="$USER_HOME$/Sites/Mine/test/ystreet-login/index.php" timestamp="1469740423243">
+        <mark key="'" line="137" column="16" />
+        <mark key="[" line="137" column="27" />
+        <mark key="]" line="137" column="28" />
+        <mark key="^" line="155" column="30" />
+        <mark key="." line="137" column="28" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/routes.js" timestamp="1469485418036">
         <mark key="'" line="119" column="36" />
@@ -187,18 +187,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="84" column="24" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/event-photos.js" />
-      <jump line="75" column="17" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/event-photos.js" />
-      <jump line="116" column="12" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/social.ctrl.js" />
-      <jump line="39" column="8" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/social.ctrl.js" />
-      <jump line="9" column="16" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/social.ctrl.js" />
-      <jump line="25" column="48" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/events.ctrl.js" />
-      <jump line="54" column="13" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/event.ctrl.js" />
-      <jump line="74" column="21" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/event.ctrl.js" />
-      <jump line="76" column="33" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/event.ctrl.js" />
-      <jump line="77" column="25" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/event.ctrl.js" />
-      <jump line="96" column="16" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/event.ctrl.js" />
-      <jump line="98" column="18" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/event.ctrl.js" />
       <jump line="122" column="16" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/event.ctrl.js" />
       <jump line="127" column="20" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/event.ctrl.js" />
       <jump line="135" column="13" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/event.ctrl.js" />
@@ -281,12 +269,24 @@
       <jump line="17" column="4" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/minigrants.php" />
       <jump line="26" column="31" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/minigrants.php" />
       <jump line="707" column="9" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/users.php" />
-      <jump line="124" column="21" filename="$USER_HOME$/Sites/Mine/test/ystreet-login/index.php" />
       <jump line="127" column="12" filename="$USER_HOME$/Sites/Mine/test/ystreet-login/index.php" />
       <jump line="125" column="12" filename="$USER_HOME$/Sites/Mine/test/ystreet-login/index.php" />
       <jump line="169" column="19" filename="$USER_HOME$/Sites/Mine/test/ystreet-login/index.php" />
       <jump line="58" column="25" filename="$USER_HOME$/Sites/Mine/test/ystreet-login/index.php" />
       <jump line="153" column="12" filename="$USER_HOME$/Sites/Mine/test/ystreet-login/index.php" />
+      <jump line="109" column="16" filename="$USER_HOME$/Sites/Mine/test/ystreet-login/index.php" />
+      <jump line="119" column="21" filename="$USER_HOME$/Sites/Mine/test/ystreet-login/index.php" />
+      <jump line="143" column="56" filename="$USER_HOME$/Sites/Mine/test/ystreet-login/index.php" />
+      <jump line="139" column="12" filename="$USER_HOME$/Sites/Mine/test/ystreet-login/index.php" />
+      <jump line="145" column="37" filename="$USER_HOME$/Sites/Mine/test/ystreet-login/index.php" />
+      <jump line="177" column="16" filename="$USER_HOME$/Sites/Mine/test/ystreet-login/index.php" />
+      <jump line="174" column="16" filename="$USER_HOME$/Sites/Mine/test/ystreet-login/index.php" />
+      <jump line="111" column="16" filename="$USER_HOME$/Sites/Mine/test/ystreet-login/index.php" />
+      <jump line="124" column="22" filename="$USER_HOME$/Sites/Mine/test/ystreet-login/index.php" />
+      <jump line="133" column="12" filename="$USER_HOME$/Sites/Mine/test/ystreet-login/index.php" />
+      <jump line="66" column="22" filename="$USER_HOME$/Sites/Mine/test/ystreet-login/index.php" />
+      <jump line="131" column="16" filename="$USER_HOME$/Sites/Mine/test/ystreet-login/index.php" />
+      <jump line="137" column="16" filename="$USER_HOME$/Sites/Mine/test/ystreet-login/index.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2132,7 +2132,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>run</text>
+        <text>this</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -2186,55 +2186,61 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>run</text>
+        <text>this</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxiaW5kXD4=</text>
+        <text encoding="base64">XDxlbmFibGVFcnJvclw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJjYWxsb3V0Ij4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGgyPk1lbWJlciBGb3JtPC9oMj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGhhdCA9IHRoaXMsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgdGhhdCA9IHRoaXMsCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBmb3JtVmFsaWRhdGUK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgdGhhdCA9IHRoaXMsCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiB0cnVlOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGhpcy5zZXR0aW5ncyA9ICQuZXh0ZW5kKGRlZmF1bHRzLCBvcHRzIHx8IHt9KTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdGhpcy4kZm9ybTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICByZXR1cm4gdGhpczsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAK</text>
+      <register name="9" type="4">
+        <text>init = function (selector) {
+                    if (!$(selector).length) {
+                        throw 'form selector not found: ' + selector;
+                    }
+                    this.$form = $(selector);
+                    return this;
+                },</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxiaW5kXD4=</last-search>
+      <last-search encoding="base64">XDxlbmFibGVFcnJvclw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxiaW5kXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxlbmFibGVFcnJvclw+</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxzaG93UmVzdWx0c1w+</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -2300,9 +2306,17 @@
         <entry>login</entry>
         <entry encoding="base64">XDxnZXRWYXJzXD4=</entry>
         <entry encoding="base64">XDxlbGVtXD4=</entry>
-        <entry encoding="base64">XDxlbmFibGVFcnJvclw+</entry>
         <entry encoding="base64">XDxmb3JtVmFsaWRhdGVcPg==</entry>
         <entry encoding="base64">XDxiaW5kXD4=</entry>
+        <entry encoding="base64">XDxzdWJtaXRcPg==</entry>
+        <entry>that</entry>
+        <entry encoding="base64">XDx2YWxpZGF0ZUZvcm1cPg==</entry>
+        <entry encoding="base64">XDxyZXF1aXJlZEZpZWxkc1w+</entry>
+        <entry encoding="base64">XDxmb3JtXD4=</entry>
+        <entry encoding="base64">XDxjbGVhckVycm9yc1w+</entry>
+        <entry>efwf</entry>
+        <entry encoding="base64">XDxpbml0XD4=</entry>
+        <entry encoding="base64">XDxlbmFibGVFcnJvclw+</entry>
       </history-search>
       <history-cmd>
         <entry>h it</entry>
