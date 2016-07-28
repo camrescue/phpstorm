@@ -6,6 +6,9 @@
       <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/less/socialmashup.less" timestamp="1469490915837">
         <mark key="'" line="452" column="17" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/Http/Controllers/SurveyController.php" timestamp="1469722446161">
+        <mark key="'" line="49" column="44" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_quest/main-with-admin.html" timestamp="1469467583301">
         <mark key="'" line="539" column="21" />
       </file>
@@ -27,10 +30,37 @@
         <mark key="]" line="164" column="0" />
         <mark key="." line="164" column="0" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/survey-admin/resources/views/surveys/emails.blade.php" timestamp="1469722655041">
+        <mark key="[" line="30" column="73" />
+        <mark key="]" line="30" column="77" />
+        <mark key="." line="30" column="77" />
+        <mark key="^" line="30" column="77" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/PathClass.js" timestamp="1469560095679">
+        <mark key="'" line="52" column="15" />
+        <mark key="[" line="56" column="27" />
+        <mark key="]" line="56" column="30" />
+        <mark key="^" line="56" column="30" />
+        <mark key="." line="56" column="30" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/Http/Controllers/Api.php" timestamp="1469722434959">
+        <mark key="'" line="1472" column="56" />
+        <mark key="[" line="1464" column="14" />
+        <mark key="]" line="1464" column="14" />
+        <mark key="^" line="1464" column="26" />
+        <mark key="." line="1464" column="14" />
+      </file>
       <file name="/usr/local/lib/node_modules/eslint/lib/config/config-file.js" timestamp="1469399116141">
         <mark key="'" line="43" column="17" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/bower_components/angular-masonry/.bower.json" timestamp="1469658618703" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/emoji-splash.js" timestamp="1469568352903">
+        <mark key="'" line="64" column="75" />
+        <mark key="[" line="9" column="31" />
+        <mark key="]" line="9" column="34" />
+        <mark key="^" line="9" column="34" />
+        <mark key="." line="9" column="34" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/PageShare.js" timestamp="1469231004848">
         <mark key="'" line="0" column="53" />
       </file>
@@ -60,6 +90,9 @@
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/controllers/users.php" timestamp="1469548932479">
         <mark key="'" line="707" column="9" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1469722664353">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/js/libs.js" timestamp="1469658728080">
         <mark key="'" line="54711" column="17" />
@@ -119,8 +152,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="141" column="16" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/social.ctrl.js" />
-      <jump line="118" column="16" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/social.ctrl.js" />
       <jump line="5" column="19" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/social.ctrl.js" />
       <jump line="4" column="8" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/social.ctrl.js" />
       <jump line="27" column="17" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/drupal_translators/MashupTranslator.js" />
@@ -219,6 +250,8 @@
       <jump line="33" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/event-details-grid.less" />
       <jump line="50" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/event-details-grid.less" />
       <jump line="75" column="34" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/event-details-grid.less" />
+      <jump line="1472" column="56" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Http/Controllers/Api.php" />
+      <jump line="49" column="44" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Http/Controllers/SurveyController.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2064,7 +2097,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>image.name</text>
+        <text>reminder</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -2118,13 +2151,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>image.name</text>
+        <text>reminder</text>
       </register>
       <register name="/" type="4">
-        <text>a\.</text>
+        <text>getEMails</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICB3aWR0aDogMTAwJTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB7e2h0bWxfc2VsZWN0X29wdGlvbignUmVtaW5kZXIgRW1haWxzJywgJ3JlbWluZGVyJywgJGVtYWlsVHlwZSl9fQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8IS0tICAgICAgICAgICAgICAgICAgICA8bmctaW5jbHVkZSBzcmM9IicvbmctdGVtcGxhdGVzL3BhcnRpYWxzL3NoYXJlLXdpZGdldC5waHAnIj48L25nLWluY2x1ZGU+LS0+Cg==</text>
@@ -2161,9 +2194,9 @@
       </register>
     </registers>
     <search>
-      <last-search>a\.</last-search>
+      <last-search>getEMails</last-search>
       <last-offset />
-      <last-pattern>a\.</last-pattern>
+      <last-pattern>getEMails</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxzaG93UmVzdWx0c1w+</last-substitute>
       <last-dir>1</last-dir>
@@ -2227,6 +2260,8 @@
         <entry>a</entry>
         <entry>b\.</entry>
         <entry>a\.</entry>
+        <entry>getEmail</entry>
+        <entry>getEMails</entry>
       </history-search>
       <history-cmd>
         <entry>h it</entry>
