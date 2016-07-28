@@ -30,20 +30,6 @@
         <mark key="." line="30" column="77" />
         <mark key="^" line="30" column="77" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/PathClass.js" timestamp="1469560095679">
-        <mark key="'" line="52" column="15" />
-        <mark key="[" line="56" column="27" />
-        <mark key="]" line="56" column="30" />
-        <mark key="^" line="56" column="30" />
-        <mark key="." line="56" column="30" />
-      </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/emoji-splash.js" timestamp="1469568352903">
-        <mark key="'" line="64" column="75" />
-        <mark key="[" line="9" column="31" />
-        <mark key="]" line="9" column="34" />
-        <mark key="^" line="9" column="34" />
-        <mark key="." line="9" column="34" />
-      </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/main.js" timestamp="1469658579532" />
       <file name="$USER_HOME$/Sites/Rescue/helix/application/controllers/users.php" timestamp="1469724906033">
         <mark key="'" line="707" column="9" />
@@ -88,12 +74,12 @@
       <file name="$USER_HOME$/Sites/Rescue/helix/application/controllers/projects.php" timestamp="1469747264970">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/Http/Controllers/Api.php" timestamp="1469722434959">
-        <mark key="'" line="1472" column="56" />
-        <mark key="[" line="1464" column="14" />
-        <mark key="]" line="1464" column="14" />
-        <mark key="^" line="1464" column="26" />
-        <mark key="." line="1464" column="14" />
+      <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/Http/Controllers/Api.php" timestamp="1469748096879">
+        <mark key="'" line="727" column="50" />
+        <mark key="[" line="1464" column="28" />
+        <mark key="]" line="1465" column="25" />
+        <mark key="^" line="1465" column="25" />
+        <mark key="." line="1465" column="25" />
       </file>
       <file name="/usr/local/lib/node_modules/eslint/lib/config/config-file.js" timestamp="1469399116141">
         <mark key="'" line="43" column="17" />
@@ -117,7 +103,7 @@
       <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/utils.php" timestamp="1469136292214">
         <mark key="'" line="310" column="50" />
       </file>
-      <file name="/Dummy.txt" timestamp="1469744283572">
+      <file name="/Dummy.txt" timestamp="1469748318208">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/config.js" timestamp="1469559666503">
@@ -156,9 +142,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54666" column="37" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/js/libs.js" />
-      <jump line="54612" column="23" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/js/libs.js" />
-      <jump line="54613" column="32" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/js/libs.js" />
       <jump line="54619" column="48" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/js/libs.js" />
       <jump line="54668" column="16" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/js/libs.js" />
       <jump line="54673" column="16" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/js/libs.js" />
@@ -256,6 +239,9 @@
       <jump line="115" column="21" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/event-detail.php" />
       <jump line="19" column="33" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/routes.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/projects.php" />
+      <jump line="132" column="6" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Http/Controllers/Api.php" />
+      <jump line="665" column="15" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Http/Controllers/Api.php" />
+      <jump line="727" column="50" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Http/Controllers/Api.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2158,7 +2144,7 @@
         <text>database_2</text>
       </register>
       <register name="/" type="4">
-        <text>history</text>
+        <text encoding="base64">XDxnZXRVcGRhdGVSZWNlbnRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkZmlsZSAgICAgPSAncnliX2RhdGFiYXNlXzIuY3N2JzsK</text>
@@ -2198,12 +2184,12 @@
       </register>
     </registers>
     <search>
-      <last-search>history</last-search>
+      <last-search encoding="base64">XDxnZXRVcGRhdGVSZWNlbnRcPg==</last-search>
       <last-offset />
-      <last-pattern>history</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRVcGRhdGVSZWNlbnRcPg==</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxzaG93UmVzdWx0c1w+</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -2283,6 +2269,8 @@
         <entry encoding="base64">XDxwaG90b3NcPg==</entry>
         <entry>events</entry>
         <entry>history</entry>
+        <entry>getUpdate</entry>
+        <entry encoding="base64">XDxnZXRVcGRhdGVSZWNlbnRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>h it</entry>
