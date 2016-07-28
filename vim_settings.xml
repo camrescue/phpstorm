@@ -61,9 +61,6 @@
       <file name="$USER_HOME$/Sites/Rescue/helix/application/controllers/users.php" timestamp="1469548932479">
         <mark key="'" line="707" column="9" />
       </file>
-      <file name="/Dummy.txt" timestamp="1469635119207">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/js/libs.js" timestamp="1469658728080">
         <mark key="'" line="54711" column="17" />
       </file>
@@ -103,27 +100,25 @@
         <mark key="]" line="144" column="0" />
         <mark key="." line="144" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/event-details-grid.less" timestamp="1469663053831">
-        <mark key="'" line="33" column="0" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="33" column="0" />
-        <mark key="^" line="77" column="24" />
-        <mark key="." line="33" column="0" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/event-details-grid.less" timestamp="1469663566281">
+        <mark key="'" line="75" column="34" />
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="^" line="102" column="0" />
+        <mark key="." line="31" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/partials/event-photos.php" timestamp="1469662284571">
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/partials/event-photos.php" timestamp="1469663858763">
         <mark key="'" line="28" column="37" />
-        <mark key="[" line="40" column="29" />
-        <mark key="]" line="40" column="29" />
-        <mark key="^" line="40" column="4" />
-        <mark key="." line="40" column="29" />
+        <mark key="[" line="26" column="38" />
+        <mark key="]" line="26" column="42" />
+        <mark key="^" line="26" column="42" />
+        <mark key="." line="26" column="42" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/less/mixins.less" timestamp="1469490834389">
         <mark key="'" line="90" column="2" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="100" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/event-photos.js" />
-      <jump line="23" column="11" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/event-photos.js" />
       <jump line="141" column="16" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/social.ctrl.js" />
       <jump line="118" column="16" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/social.ctrl.js" />
       <jump line="5" column="19" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/social.ctrl.js" />
@@ -222,6 +217,8 @@
       <jump line="364" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/events.less" />
       <jump line="25" column="27" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/event-details-grid.less" />
       <jump line="33" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/event-details-grid.less" />
+      <jump line="50" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/event-details-grid.less" />
+      <jump line="75" column="34" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/event-details-grid.less" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2066,8 +2063,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>image.name</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -2121,7 +2118,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>mid</text>
+        <text>image.name</text>
       </register>
       <register name="/" type="4">
         <text>a\.</text>
@@ -2130,34 +2127,34 @@
         <text encoding="base64">ICAgICAgICAgICB3aWR0aDogMTAwJTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8IS0tICAgICAgICAgICAgICAgICAgICA8bmctaW5jbHVkZSBzcmM9IicvbmctdGVtcGxhdGVzL3BhcnRpYWxzL3NoYXJlLXdpZGdldC5waHAnIj48L25nLWluY2x1ZGU+LS0+Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgd2lkdGg6IDEwMCU7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtYXJnaW4tdG9wOiA3MHB4Owo=</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB3aWR0aDogMTAwJTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2lkdGg6IDEwMCU7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBtYXJnaW4tdG9wOiA3MHB4Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB3aWR0aDo7Cg==</text>
+        <text encoding="base64">ICAgICAgICB3aWR0aDogMTAwJTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
