@@ -85,6 +85,9 @@
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/js/app.js" timestamp="1469646365916">
         <mark key="'" line="1034" column="17" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/controllers/projects.php" timestamp="1469747264970">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/Http/Controllers/Api.php" timestamp="1469722434959">
         <mark key="'" line="1472" column="56" />
         <mark key="[" line="1464" column="14" />
@@ -153,7 +156,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54625" column="38" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/js/libs.js" />
       <jump line="54666" column="37" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/js/libs.js" />
       <jump line="54612" column="23" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/js/libs.js" />
       <jump line="54613" column="32" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/js/libs.js" />
@@ -253,6 +255,7 @@
       <jump line="196" column="8" filename="$USER_HOME$/Sites/Mine/test/ystreet-login/index.php" />
       <jump line="115" column="21" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/event-detail.php" />
       <jump line="19" column="33" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/routes.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/projects.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2155,7 +2158,7 @@
         <text>database_2</text>
       </register>
       <register name="/" type="4">
-        <text>events</text>
+        <text>history</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkZmlsZSAgICAgPSAncnliX2RhdGFiYXNlXzIuY3N2JzsK</text>
@@ -2195,9 +2198,9 @@
       </register>
     </registers>
     <search>
-      <last-search>events</last-search>
+      <last-search>history</last-search>
       <last-offset />
-      <last-pattern>events</last-pattern>
+      <last-pattern>history</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxzaG93UmVzdWx0c1w+</last-substitute>
       <last-dir>1</last-dir>
@@ -2279,6 +2282,7 @@
         <entry encoding="base64">XDxlbmFibGVFcnJvclw+</entry>
         <entry encoding="base64">XDxwaG90b3NcPg==</entry>
         <entry>events</entry>
+        <entry>history</entry>
       </history-search>
       <history-cmd>
         <entry>h it</entry>
