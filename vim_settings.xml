@@ -88,8 +88,8 @@
         <mark key="]" line="144" column="0" />
         <mark key="." line="144" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/partials/event-photos.php" timestamp="1469663858763">
-        <mark key="'" line="28" column="37" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/partials/event-photos.php" timestamp="1469740568255">
+        <mark key="'" line="14" column="35" />
         <mark key="[" line="26" column="38" />
         <mark key="]" line="26" column="42" />
         <mark key="^" line="26" column="42" />
@@ -149,12 +149,13 @@
         <mark key="^" line="42" column="43" />
         <mark key="." line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Mine/test/ystreet-login/index.php" timestamp="1469740423243">
-        <mark key="'" line="137" column="16" />
-        <mark key="[" line="137" column="27" />
-        <mark key="]" line="137" column="28" />
-        <mark key="^" line="155" column="30" />
-        <mark key="." line="137" column="28" />
+      <file name="$USER_HOME$/Sites/Mine/test/ystreet-login/index.php" timestamp="1469740876004">
+        <mark key="a" line="2" column="1" />
+        <mark key="'" line="196" column="8" />
+        <mark key="[" line="129" column="48" />
+        <mark key="]" line="129" column="20" />
+        <mark key="^" line="129" column="20" />
+        <mark key="." line="129" column="20" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/routes.js" timestamp="1469485418036">
         <mark key="'" line="119" column="36" />
@@ -187,8 +188,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="122" column="16" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/event.ctrl.js" />
-      <jump line="127" column="20" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/event.ctrl.js" />
       <jump line="135" column="13" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/event.ctrl.js" />
       <jump line="34" column="24" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/event.ctrl.js" />
       <jump line="54625" column="38" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/js/libs.js" />
@@ -287,6 +286,8 @@
       <jump line="66" column="22" filename="$USER_HOME$/Sites/Mine/test/ystreet-login/index.php" />
       <jump line="131" column="16" filename="$USER_HOME$/Sites/Mine/test/ystreet-login/index.php" />
       <jump line="137" column="16" filename="$USER_HOME$/Sites/Mine/test/ystreet-login/index.php" />
+      <jump line="14" column="35" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/partials/event-photos.php" />
+      <jump line="196" column="8" filename="$USER_HOME$/Sites/Mine/test/ystreet-login/index.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
