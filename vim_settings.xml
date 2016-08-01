@@ -46,12 +46,12 @@
       <file name="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/notification_repo.php" timestamp="1469815127151">
         <mark key="'" line="32" column="48" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/project_repo.php" timestamp="1470073656240">
-        <mark key="'" line="33" column="10" />
-        <mark key="[" line="456" column="0" />
-        <mark key="]" line="456" column="0" />
-        <mark key="." line="456" column="0" />
-        <mark key="^" line="456" column="43" />
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/project_repo.php" timestamp="1470091033652">
+        <mark key="'" line="494" column="25" />
+        <mark key="[" line="412" column="37" />
+        <mark key="]" line="412" column="37" />
+        <mark key="^" line="412" column="35" />
+        <mark key="." line="412" column="37" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/views/questionnaire/leadership/manage.php" timestamp="1469819354670">
         <mark key="[" line="87" column="34" />
@@ -104,12 +104,12 @@
         <mark key="^" line="3" column="14" />
         <mark key="." line="3" column="14" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/views/project/list.php" timestamp="1469835897157">
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/views/project/list.php" timestamp="1470090112419">
         <mark key="'" line="82" column="52" />
-        <mark key="[" line="43" column="18" />
-        <mark key="]" line="54" column="17" />
-        <mark key="." line="54" column="17" />
-        <mark key="^" line="54" column="17" />
+        <mark key="[" line="35" column="38" />
+        <mark key="]" line="35" column="39" />
+        <mark key="." line="35" column="39" />
+        <mark key="^" line="35" column="39" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/controllers/minigrants.php" timestamp="1469724868766">
         <mark key="'" line="26" column="31" />
@@ -139,12 +139,13 @@
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/js/app.js" timestamp="1469646365916">
         <mark key="'" line="1034" column="17" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/controllers/projects.php" timestamp="1470073680404">
-        <mark key="a" line="267" column="46" />
-        <mark key="'" line="2290" column="9" />
-        <mark key="[" line="928" column="0" />
-        <mark key="]" line="928" column="0" />
-        <mark key="." line="928" column="0" />
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/controllers/projects.php" timestamp="1470090719679">
+        <mark key="a" line="276" column="46" />
+        <mark key="'" line="240" column="18" />
+        <mark key="[" line="263" column="40" />
+        <mark key="]" line="263" column="47" />
+        <mark key="." line="263" column="47" />
+        <mark key="^" line="263" column="47" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/campaign_repo.php" timestamp="1469836760878">
         <mark key="'" line="158" column="28" />
@@ -227,40 +228,23 @@
       <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/less/variables.less" timestamp="1469146586286">
         <mark key="'" line="19" column="0" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/helpers/user_helper.php" timestamp="1470089619918">
+        <mark key="[" line="827" column="0" />
+        <mark key="]" line="827" column="0" />
+        <mark key="^" line="827" column="58" />
+        <mark key="." line="827" column="0" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/less/mixins.less" timestamp="1469490834389">
         <mark key="'" line="90" column="2" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="52" filename="$USER_HOME$/Sites/Rescue/helix/application/views/project/list.php" />
-      <jump line="239" column="42" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/projects.php" />
-      <jump line="55" column="16" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/projects.php" />
-      <jump line="546" column="4" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/project_repo.php" />
-      <jump line="549" column="47" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/project_repo.php" />
-      <jump line="551" column="47" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/project_repo.php" />
-      <jump line="552" column="47" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/project_repo.php" />
-      <jump line="553" column="47" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/project_repo.php" />
-      <jump line="76" column="33" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/projects.php" />
-      <jump line="260" column="61" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/projects.php" />
-      <jump line="87" column="59" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/region_repo.php" />
-      <jump line="234" column="85" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/projects.php" />
-      <jump line="84" column="4" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/region_repo.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/region_repo.php" />
-      <jump line="33" column="23" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/region_repo.php" />
-      <jump line="68" column="22" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/region_repo.php" />
-      <jump line="73" column="22" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/region_repo.php" />
-      <jump line="112" column="9" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/region_repo.php" />
-      <jump line="114" column="20" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/region_repo.php" />
-      <jump line="130" column="32" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/region_repo.php" />
-      <jump line="170" column="30" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/region_repo.php" />
-      <jump line="171" column="27" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/region_repo.php" />
       <jump line="172" column="28" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/region_repo.php" />
       <jump line="175" column="16" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/region_repo.php" />
       <jump line="169" column="24" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/region_repo.php" />
       <jump line="244" column="63" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/projects.php" />
       <jump line="248" column="9" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/projects.php" />
       <jump line="231" column="13" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/projects.php" />
-      <jump line="312" column="28" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/project_repo.php" />
       <jump line="353" column="21" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/project_repo.php" />
       <jump line="121" column="0" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/projects.php" />
       <jump line="19" column="35" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/projects.php" />
@@ -330,8 +314,31 @@
       <jump line="363" column="59" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/projects.php" />
       <jump line="353" column="0" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/projects.php" />
       <jump line="455" column="11" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/project_repo.php" />
-      <jump line="33" column="10" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/project_repo.php" />
       <jump line="2290" column="9" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/projects.php" />
+      <jump line="2301" column="36" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/projects.php" />
+      <jump line="74" column="37" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/project_repo.php" />
+      <jump line="33" column="4" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/project_repo.php" />
+      <jump line="130" column="9" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/project_repo.php" />
+      <jump line="138" column="17" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/project_repo.php" />
+      <jump line="140" column="17" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/project_repo.php" />
+      <jump line="143" column="35" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/project_repo.php" />
+      <jump line="160" column="16" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/project_repo.php" />
+      <jump line="167" column="20" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/project_repo.php" />
+      <jump line="352" column="4" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/project_repo.php" />
+      <jump line="393" column="21" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/project_repo.php" />
+      <jump line="240" column="18" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/projects.php" />
+      <jump line="312" column="29" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/project_repo.php" />
+      <jump line="469" column="25" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/project_repo.php" />
+      <jump line="471" column="36" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/project_repo.php" />
+      <jump line="474" column="25" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/project_repo.php" />
+      <jump line="405" column="21" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/project_repo.php" />
+      <jump line="354" column="21" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/project_repo.php" />
+      <jump line="462" column="28" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/project_repo.php" />
+      <jump line="400" column="21" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/project_repo.php" />
+      <jump line="497" column="8" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/project_repo.php" />
+      <jump line="569" column="26" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/project_repo.php" />
+      <jump line="495" column="54" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/project_repo.php" />
+      <jump line="494" column="25" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/project_repo.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2176,8 +2183,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBvTGFzdCgpOwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -2231,52 +2238,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAg</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxuZXdTdGF0dXNcPg==</text>
+        <text>search</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJGNhbXBhaWduTGlzdCA9ICR0aGlzLT5DYW1wYWlnbl9SZXBvLT5hbGxQdWJsaXNoZWQoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBvTGFzdCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBwYS50eXBlIElTIE5VTEwK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkbGltaXRSZWdpb25zID0gaGFzUHJpdmlsZWdlKEFkbWluUm9sZV9tOjpSRUdJT05fTUFOQUdFX1BST0pFQ1RTKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHdoZXJlIC49ICJPUiBwYS50eXBlIElTIE5VTEwgIjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGRhdFtdCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBvTGFzdCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICAkYWRtaW5SZWdpb25zID0gZm9yY2VBcnJheShnZXRBZG1pblJlZ2lvbnNGcm9tVXNlcklkKCR1c2VySWQpKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcHJvamVjdFNlYXJjaCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9IGVsc2Ugewo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcHJvamVjdFNlYXJjaCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHVzZXIgPSBnZXRVc2VyRnJvbUlkKCR1c2VySWQpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJG4pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBPUiAoIHBhLnR5cGU9NCBBTkQgcGEuaXRlbV9pZD0kb3JnYW5pemF0aW9uKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcHJvamVjdHMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBPUiAoIHBhLnR5cGU9MyBBTkQgcGEuaXRlbV9pZCBJTiAiIC4gc3FsTGlzdCgkdGVhbUlkcywgJHRoaXMpIC4gIikK</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhcnIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBPUiAoIHBhLnR5cGU9MiBBTkQgcGEuaXRlbV9pZD0kZ3JvdXApCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxuZXdTdGF0dXNcPg==</last-search>
+      <last-search>search</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxuZXdTdGF0dXNcPg==</last-pattern>
+      <last-pattern>search</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxzaG93UmVzdWx0c1w+</last-substitute>
       <last-dir>1</last-dir>
@@ -2308,6 +2315,13 @@
         <entry encoding="base64">XDxBUFBST1ZFX1BST0pFQ1RTXD4=</entry>
         <entry encoding="base64">XDxFVkVOVF9TVEFUVVNfTkVFRFNfQVBQUk9WQUxcPg==</entry>
         <entry encoding="base64">XDxuZXdTdGF0dXNcPg==</entry>
+        <entry>function bro</entry>
+        <entry>function search</entry>
+        <entry>oLast</entry>
+        <entry encoding="base64">XDxhZG1pblJlZ2lvbnNcPg==</entry>
+        <entry encoding="base64">XDxhcHBseVVzZXJQZXJtaXNzaW9uc1w+</entry>
+        <entry encoding="base64">XDxhcHBseUFkbWluUGVybWlzc2lvbnNcPg==</entry>
+        <entry>search</entry>
       </history-search>
       <history-cmd>
         <entry>h tag-blcoks</entry>
