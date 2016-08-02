@@ -38,17 +38,36 @@
         <mark key="^" line="156" column="52" />
         <mark key="." line="158" column="0" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/views/user/application/manage_header.php" timestamp="1470178411911">
+        <mark key="[" line="6" column="46" />
+        <mark key="]" line="6" column="52" />
+        <mark key="." line="6" column="52" />
+        <mark key="^" line="6" column="52" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/survey-admin/public/css/style.css" timestamp="1469211759957">
         <mark key="'" line="2094" column="7" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/controllers/questionnaires.php" timestamp="1469819040672">
         <mark key="'" line="311" column="14" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/views/user/application/table.php" timestamp="1470178289317">
+        <mark key="'" line="47" column="111" />
+        <mark key="[" line="50" column="50" />
+        <mark key="]" line="50" column="64" />
+        <mark key="^" line="50" column="64" />
+        <mark key="." line="50" column="64" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/survey-admin/resources/views/surveys/emails.blade.php" timestamp="1469722655041">
         <mark key="[" line="30" column="73" />
         <mark key="]" line="30" column="77" />
         <mark key="." line="30" column="77" />
         <mark key="^" line="30" column="77" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/helpers/sitelink_helper.php" timestamp="1470178406959">
+        <mark key="[" line="279" column="58" />
+        <mark key="]" line="279" column="63" />
+        <mark key="^" line="279" column="63" />
+        <mark key="." line="279" column="63" />
       </file>
       <file name="$USER_HOME$/Sites/Mine/udacity/meetup-planner/src/css/main.css" timestamp="1469770741912">
         <mark key="[" line="10" column="13" />
@@ -77,8 +96,8 @@
         <mark key="]" line="68" column="0" />
         <mark key="." line="68" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/controllers/users.php" timestamp="1469724906033">
-        <mark key="'" line="707" column="9" />
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/controllers/users.php" timestamp="1470178062289">
+        <mark key="'" line="756" column="9" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/js/libs.js" timestamp="1469658728080">
         <mark key="'" line="54720" column="17" />
@@ -177,7 +196,7 @@
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/js/app.js" timestamp="1469646365916">
         <mark key="'" line="1034" column="17" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/controllers/projects.php" timestamp="1470176381970">
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/controllers/projects.php" timestamp="1470178047595">
         <mark key="a" line="915" column="38" />
         <mark key="'" line="907" column="8" />
         <mark key="[" line="918" column="0" />
@@ -315,8 +334,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="919" column="35" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/projects.php" />
-      <jump line="915" column="0" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/projects.php" />
       <jump line="261" column="24" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/projects.php" />
       <jump line="856" column="9" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/projects.php" />
       <jump line="921" column="0" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/projects.php" />
@@ -415,6 +432,8 @@
       <jump line="257" column="58" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/projects.php" />
       <jump line="260" column="72" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/projects.php" />
       <jump line="907" column="8" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/projects.php" />
+      <jump line="756" column="9" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/users.php" />
+      <jump line="47" column="111" filename="$USER_HOME$/Sites/Rescue/helix/application/views/user/application/table.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2259,8 +2278,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHN1cGVyUmVnaW9uTGlzdCA9ICR0aGlzLT5TdXBlclJlZ2lvbl9SZXBvLT5hbGwoKTsK</text>
+      <register name="&quot;" type="4">
+        <text>TRAINING</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -2314,13 +2333,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">JHRoaXMtPkNhbXBhaWduX1JlcG8tPmF2YWlsYWJsZVRvVXNlcigpOw==</text>
+        <text>TRAINING</text>
       </register>
       <register name="/" type="4">
-        <text>function browse</text>
+        <text>function applications</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGdyb3VwSWRzICAgICA9IGdldEFkbWluUHJvamVjdFBlcm1pc3Npb25zKCRncm91cHMpOwo=</text>
+        <text encoding="base64">ICAgICAgICA8bGk+PD9waHAgZWNobyBhbmNob3IodXJsX2FwcGxpY2F0aW9uX2FwcHJvdmVkKCRzeXN0ZW0pLCBVc2VyQXBwbGljYXRpb246OlNUQVRVU19UUkFJTklORywgYXJyYXkoJ2NsYXNzJyA9PiBzZWxlY3RlZENsYXNzKCRzdGF0dXMsIFVzZXJBcHBsaWNhdGlvbjo6U1RBVFVTX1RSQUlOSU5HLCAnYnV0dG9uICcpKSkgPz48L2xpPgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJHN1cGVyUmVnaW9uTGlzdCA9ICR0aGlzLT5TdXBlclJlZ2lvbl9SZXBvLT5hbGwoKTsK</text>
@@ -2357,9 +2376,9 @@
       </register>
     </registers>
     <search>
-      <last-search>function browse</last-search>
+      <last-search>function applications</last-search>
       <last-offset />
-      <last-pattern>function browse</last-pattern>
+      <last-pattern>function applications</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxzaG93UmVzdWx0c1w+</last-substitute>
       <last-dir>1</last-dir>
@@ -2468,6 +2487,7 @@
         <entry>function create</entry>
         <entry>function efforts</entry>
         <entry>function browse</entry>
+        <entry>function applications</entry>
       </history-search>
       <history-cmd>
         <entry>h tag-blcoks</entry>
