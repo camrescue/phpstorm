@@ -23,7 +23,7 @@
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/animation/TFL-Logo/logo.js" timestamp="1470175809654">
         <mark key="'" line="21" column="16" />
       </file>
-      <file name="/a.dummy" timestamp="1470331115247">
+      <file name="/a.dummy" timestamp="1470347291149">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Mine/udacity/meetup-planner/gulpfile.js" timestamp="1470203144118">
@@ -116,6 +116,19 @@
         <mark key="." line="282" column="31" />
         <mark key="^" line="282" column="31" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" timestamp="1470347863433">
+        <mark key="'" line="319" column="42" />
+        <mark key="[" line="276" column="51" />
+        <mark key="]" line="276" column="52" />
+        <mark key="^" line="331" column="39" />
+        <mark key="." line="276" column="52" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/templates/views-view--events.tpl.php" timestamp="1470346990611">
+        <mark key="'" line="156" column="0" />
+        <mark key="[" line="164" column="0" />
+        <mark key="]" line="164" column="0" />
+        <mark key="." line="164" column="0" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/drupal_translators/MashupTranslator.js" timestamp="1469655769131">
         <mark key="'" line="154" column="27" />
       </file>
@@ -125,9 +138,6 @@
         <mark key="]" line="86" column="24" />
         <mark key="." line="86" column="24" />
         <mark key="^" line="86" column="24" />
-      </file>
-      <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/smashup.js" timestamp="1469491751996">
-        <mark key="'" line="117" column="44" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/partials/event-photos.php" timestamp="1469743562688">
         <mark key="'" line="14" column="35" />
@@ -249,13 +259,13 @@
       <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/SurveyTracking.php" timestamp="1469135477224">
         <mark key="'" line="8" column="22" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/social-mashup.js" timestamp="1469489615288">
-        <mark key="'" line="99" column="97" />
+      <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/social-mashup.js" timestamp="1470347147628">
+        <mark key="'" line="95" column="52" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/utils.php" timestamp="1469136292214">
         <mark key="'" line="310" column="50" />
       </file>
-      <file name="/Dummy.txt" timestamp="1470336850439">
+      <file name="/Dummy.txt" timestamp="1470346355934">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/FluidApi.php" timestamp="1470330903320">
@@ -289,8 +299,8 @@
       <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/less/social-mashup.less" timestamp="1469490790123">
         <mark key="'" line="693" column="15" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/social.ctrl.js" timestamp="1469656716576">
-        <mark key="'" line="9" column="16" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/social.ctrl.js" timestamp="1470347177578">
+        <mark key="'" line="88" column="48" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/core/base_repo.php" timestamp="1470170645560">
         <mark key="'" line="1711" column="23" />
@@ -328,18 +338,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="644" column="19" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/projects.php" />
-      <jump line="264" column="38" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/projects.php" />
-      <jump line="2651" column="4" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/projects.php" />
-      <jump line="258" column="83" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/projects.php" />
-      <jump line="257" column="58" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/projects.php" />
-      <jump line="260" column="72" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/projects.php" />
-      <jump line="907" column="8" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/projects.php" />
-      <jump line="756" column="9" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/users.php" />
-      <jump line="47" column="111" filename="$USER_HOME$/Sites/Rescue/helix/application/views/user/application/table.php" />
-      <jump line="1053" column="37" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/users.php" />
-      <jump line="910" column="0" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/projects.php" />
-      <jump line="76" column="17" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/projects.php" />
       <jump line="119" column="29" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/projects.php" />
       <jump line="518" column="32" filename="$USER_HOME$/Sites/Rescue/helix/application/models/entities/User.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Sites/Rescue/helix/application/models/entities/User.php" />
@@ -428,6 +426,18 @@
       <jump line="612" column="25" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/Variables.php" />
       <jump line="412" column="51" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/Variables.php" />
       <jump line="273" column="21" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/Variables.php" />
+      <jump line="156" column="0" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/templates/views-view--events.tpl.php" />
+      <jump line="19" column="36" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/social-mashup.js" />
+      <jump line="99" column="97" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/social-mashup.js" />
+      <jump line="95" column="52" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/social-mashup.js" />
+      <jump line="88" column="48" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/social.ctrl.js" />
+      <jump line="248" column="28" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" />
+      <jump line="193" column="40" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" />
+      <jump line="267" column="28" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" />
+      <jump line="330" column="28" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" />
+      <jump line="254" column="12" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" />
+      <jump line="241" column="12" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" />
+      <jump line="319" column="42" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2272,8 +2282,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -2327,55 +2337,55 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>else if () {</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpc01vc3RDb21wbGV0ZVw+</text>
+        <text>:mash</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKCR0aGlzLT5pc01vc3RDb21wbGV0ZSggJHJlc3BvbnNlLCAkcXN0TGVuZ3RoLCAkY29tcGxldGUgKSkgewo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+aXNNb3N0Q29tcGxldGUoJHJlc3BvbnNlLCAkcXN0TGVuZ3RoLCAkY29tcGxldGUpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcmVzcG9uc2UpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRydWU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZvY3VzSW5pdCgpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoICRjdXJyZW50Q29tcGxldGUgJiYgKGludCkkcmVzcG9uc2UtPmNvbXBsZXRlICE9PSAxKSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoJHJlc3BvbnNlLT5xdWVzdGlvbm5haXJlX2xlbmd0aCA+ICRjdXJyZW50TGVuZ3RoKSB7CiAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpc01vc3RDb21wbGV0ZVw+</last-search>
+      <last-search>:mash</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpc01vc3RDb21wbGV0ZVw+</last-pattern>
+      <last-pattern>:mash</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxzaG93UmVzdWx0c1w+</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -2498,7 +2508,6 @@
         <entry encoding="base64">XDxzdWJtaXRGb3JtXD4=</entry>
         <entry encoding="base64">XDxQcm9ncmVzc0Jhclw+</entry>
         <entry encoding="base64">XDxwcm9ncmVzc0Jhclw+</entry>
-        <entry>debugger</entry>
         <entry>has-error</entry>
         <entry>top</entry>
         <entry encoding="base64">XDxzdG9yYWdlS2V5XD4=</entry>
@@ -2520,6 +2529,13 @@
         <entry>questionnaireToRe</entry>
         <entry encoding="base64">XDxxc3RMZW5ndGhcPg==</entry>
         <entry encoding="base64">XDxpc01vc3RDb21wbGV0ZVw+</entry>
+        <entry>focus</entry>
+        <entry>debugger</entry>
+        <entry encoding="base64">XDxwb3BvdmVySW5pdFw+</entry>
+        <entry encoding="base64">XDxhcHBlbmRFdmVudFBob3Rvc1w+</entry>
+        <entry encoding="base64">XDxsb2FkTW9yZVBob3Rvc0NsaWNrXD4=</entry>
+        <entry>:msh</entry>
+        <entry>:mash</entry>
       </history-search>
       <history-cmd>
         <entry>h tag-blcoks</entry>
