@@ -22,7 +22,7 @@
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/animation/TFL-Logo/logo.js" timestamp="1470175809654">
         <mark key="'" line="21" column="16" />
       </file>
-      <file name="/a.dummy" timestamp="1470789617938">
+      <file name="/a.dummy" timestamp="1470848268790">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Mine/udacity/meetup-planner/gulpfile.js" timestamp="1470203144118">
@@ -115,6 +115,11 @@
       </file>
       <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/playbook.js" timestamp="1470769339928">
         <mark key="'" line="173" column="27" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/events.php" timestamp="1470848298267">
+        <mark key="'" line="28" column="54" />
+        <mark key="[" line="64" column="0" />
+        <mark key="]" line="64" column="5" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/js/libs.js" timestamp="1469658728080">
         <mark key="'" line="54720" column="17" />
@@ -223,8 +228,8 @@
         <mark key="." line="120" column="29" />
         <mark key="^" line="120" column="29" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_screen/src/main.js" timestamp="1470846031397">
-        <mark key="'" line="203" column="38" />
+      <file name="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_screen/src/main.js" timestamp="1470847109667">
+        <mark key="'" line="9" column="51" />
       </file>
       <file name="$USER_HOME$/Sites/Mine/udacity/meetup-planner/src/js/controllers/events.js" timestamp="1470626471449">
         <mark key="[" line="4" column="0" />
@@ -532,6 +537,9 @@
       <file name="$USER_HOME$/Sites/Rescue/helix/application/controllers/minigrants.php" timestamp="1469724868766">
         <mark key="'" line="26" column="31" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/shared/adminController.js" timestamp="1470847807101">
+        <mark key="'" line="154" column="7" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/less/socialmashup.less" timestamp="1470432745407">
         <mark key="'" line="407" column="23" />
       </file>
@@ -547,14 +555,6 @@
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/variables.less" timestamp="1469654307347">
         <mark key="'" line="160" column="39" />
-      </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/controllers/socialposts.php" timestamp="1470774336237">
-        <mark key="a" line="84" column="8" />
-        <mark key="'" line="235" column="42" />
-        <mark key="[" line="54" column="9" />
-        <mark key="]" line="55" column="7" />
-        <mark key="." line="55" column="7" />
-        <mark key="^" line="55" column="7" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/js/ng/providers/social-post.js" timestamp="1470788462842">
         <mark key="'" line="447" column="31" />
@@ -629,6 +629,13 @@
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/PageShare.js" timestamp="1469231004848">
         <mark key="'" line="0" column="53" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/event-detail.php" timestamp="1470848464468">
+        <mark key="'" line="82" column="69" />
+        <mark key="[" line="108" column="36" />
+        <mark key="]" line="108" column="36" />
+        <mark key="^" line="108" column="36" />
+        <mark key="." line="108" column="36" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/root.ctrl.js" timestamp="1469459608186">
         <mark key="'" line="101" column="20" />
       </file>
@@ -641,7 +648,7 @@
       <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/utils.php" timestamp="1469136292214">
         <mark key="'" line="310" column="50" />
       </file>
-      <file name="/Dummy.txt" timestamp="1470772026005">
+      <file name="/Dummy.txt" timestamp="1470848809631">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/config.js" timestamp="1470175723852">
@@ -716,17 +723,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="337" column="22" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/project_instance_repo.php" />
-      <jump line="332" column="22" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/project_instance_repo.php" />
-      <jump line="312" column="25" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/project_instance_repo.php" />
-      <jump line="458" column="22" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/project_instance_repo.php" />
-      <jump line="201" column="21" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/project_instance_repo.php" />
-      <jump line="283" column="0" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/project_instance_repo.php" />
-      <jump line="284" column="22" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/project_instance_repo.php" />
-      <jump line="168" column="60" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/projects.php" />
-      <jump line="17" column="0" filename="$USER_HOME$/Sites/Rescue/helix/js/app/project.js" />
-      <jump line="236" column="25" filename="$USER_HOME$/Sites/Rescue/helix/js/app/project.js" />
-      <jump line="518" column="25" filename="$USER_HOME$/Sites/Rescue/helix/js/app/project.js" />
       <jump line="783" column="18" filename="$USER_HOME$/Sites/Rescue/helix/js/app/project.js" />
       <jump line="942" column="39" filename="$USER_HOME$/Sites/Rescue/helix/js/app/project.js" />
       <jump line="973" column="40" filename="$USER_HOME$/Sites/Rescue/helix/js/app/project.js" />
@@ -816,6 +812,17 @@
       <jump line="170" column="8" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_screen/src/main.js" />
       <jump line="208" column="42" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_screen/src/main.js" />
       <jump line="203" column="38" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_screen/src/main.js" />
+      <jump line="202" column="46" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_screen/src/main.js" />
+      <jump line="9" column="51" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_screen/src/main.js" />
+      <jump line="243" column="33" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/shared/adminController.js" />
+      <jump line="110" column="8" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/shared/adminController.js" />
+      <jump line="14" column="29" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/shared/adminController.js" />
+      <jump line="61" column="28" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/shared/adminController.js" />
+      <jump line="109" column="7" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/shared/adminController.js" />
+      <jump line="112" column="33" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/shared/adminController.js" />
+      <jump line="154" column="7" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/shared/adminController.js" />
+      <jump line="28" column="54" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/events.php" />
+      <jump line="82" column="69" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/event-detail.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2660,8 +2667,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>isPastEvent</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -2715,13 +2722,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>isPastEvent</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpc0FwcFw+</text>
+        <text>Past</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgImV2YWx1YXRlZCIgPT4gJzAwMDAtMDAtMDAgMDA6MDA6MDAnLAo=</text>
+        <text encoding="base64">ICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
@@ -2758,12 +2765,12 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpc0FwcFw+</last-search>
+      <last-search>Past</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpc0FwcFw+</last-pattern>
+      <last-pattern>Past</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxzaG93UmVzdWx0c1w+</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -2794,6 +2801,14 @@
         <entry encoding="base64">XDxFbnZpcm9ubWVudFw+</entry>
         <entry>Mobile App</entry>
         <entry encoding="base64">XDxpc0FwcFw+</entry>
+        <entry encoding="base64">XDxSYW5kb21pemVyXD4=</entry>
+        <entry>unique</entry>
+        <entry>Unique</entry>
+        <entry>uniqueId</entry>
+        <entry encoding="base64">XDxnZW5lcmF0ZVVuaXF1ZUlkXD4=</entry>
+        <entry encoding="base64">XDxsb2FkQXBwbGljYW50SWRcPg==</entry>
+        <entry encoding="base64">XDxnZW5lcmF0ZUFwcGxpY2FudElkXD4=</entry>
+        <entry>Past</entry>
       </history-search>
       <history-cmd>
         <entry>374</entry>
