@@ -147,7 +147,6 @@
         <mark key="." line="82" column="46" />
         <mark key="^" line="82" column="46" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/environment.php" timestamp="1470766736547" />
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/partials/event-photos.php" timestamp="1469743562688">
         <mark key="'" line="14" column="35" />
         <mark key="[" line="3" column="4" />
@@ -223,6 +222,9 @@
         <mark key="]" line="120" column="29" />
         <mark key="." line="120" column="29" />
         <mark key="^" line="120" column="29" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_screen/src/main.js" timestamp="1470846031397">
+        <mark key="'" line="203" column="38" />
       </file>
       <file name="$USER_HOME$/Sites/Mine/udacity/meetup-planner/src/js/controllers/events.js" timestamp="1470626471449">
         <mark key="[" line="4" column="0" />
@@ -642,7 +644,6 @@
       <file name="/Dummy.txt" timestamp="1470772026005">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/js/controllers/project_history.js" timestamp="1470777077256" />
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/config.js" timestamp="1470175723852">
         <mark key="'" line="52" column="6" />
         <mark key="[" line="43" column="0" />
@@ -715,19 +716,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="331" column="22" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/project_instance_repo.php" />
-      <jump line="78" column="0" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/project_instance_repo.php" />
-      <jump line="457" column="22" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/project_instance_repo.php" />
-      <jump line="438" column="29" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/project_instance_repo.php" />
-      <jump line="430" column="41" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/project_instance_repo.php" />
-      <jump line="388" column="28" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/project_instance_repo.php" />
-      <jump line="234" column="37" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/project_instance_repo.php" />
-      <jump line="225" column="30" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/project_instance_repo.php" />
-      <jump line="316" column="4" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/project_instance_repo.php" />
-      <jump line="215" column="40" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/project_instance_repo.php" />
-      <jump line="439" column="29" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/project_instance_repo.php" />
-      <jump line="431" column="41" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/project_instance_repo.php" />
-      <jump line="389" column="28" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/project_instance_repo.php" />
       <jump line="337" column="22" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/project_instance_repo.php" />
       <jump line="332" column="22" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/project_instance_repo.php" />
       <jump line="312" column="25" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/project_instance_repo.php" />
@@ -815,6 +803,19 @@
       <jump line="84" column="33" filename="$USER_HOME$/Sites/Rescue/helix/application/views/user/application/edit.php" />
       <jump line="188" column="49" filename="$USER_HOME$/Sites/Rescue/helix/application/views/user/application/edit.php" />
       <jump line="890" column="34" filename="$USER_HOME$/Sites/Rescue/helix/js/app/project.js" />
+      <jump line="493" column="4" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_screen/src/main.js" />
+      <jump line="107" column="15" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_screen/src/main.js" />
+      <jump line="10" column="4" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_screen/src/main.js" />
+      <jump line="607" column="4" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_screen/src/main.js" />
+      <jump line="599" column="22" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_screen/src/main.js" />
+      <jump line="458" column="38" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_screen/src/main.js" />
+      <jump line="229" column="15" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_screen/src/main.js" />
+      <jump line="223" column="8" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_screen/src/main.js" />
+      <jump line="213" column="15" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_screen/src/main.js" />
+      <jump line="200" column="45" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_screen/src/main.js" />
+      <jump line="170" column="8" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_screen/src/main.js" />
+      <jump line="208" column="42" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_screen/src/main.js" />
+      <jump line="203" column="38" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_screen/src/main.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2717,7 +2718,7 @@
         <text>e</text>
       </register>
       <register name="/" type="4">
-        <text>debugg</text>
+        <text encoding="base64">XDxpc0FwcFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgImV2YWx1YXRlZCIgPT4gJzAwMDAtMDAtMDAgMDA6MDA6MDAnLAo=</text>
@@ -2757,67 +2758,16 @@
       </register>
     </registers>
     <search>
-      <last-search>debugg</last-search>
+      <last-search encoding="base64">XDxpc0FwcFw+</last-search>
       <last-offset />
-      <last-pattern>debugg</last-pattern>
+      <last-pattern encoding="base64">XDxpc0FwcFw+</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxzaG93UmVzdWx0c1w+</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb250cm9sbGVyXD4=</entry>
-        <entry encoding="base64">XDxpZFw+</entry>
-        <entry>getTra</entry>
-        <entry encoding="base64">XDxnZXRWYXJzXD4=</entry>
-        <entry encoding="base64">XDxzZWFyY2hcPg==</entry>
-        <entry encoding="base64">XDxzZWFyY2hRdWVyeVw+</entry>
-        <entry>getView</entry>
-        <entry encoding="base64">XDxxc3RJZFw+</entry>
-        <entry encoding="base64">XDxzZWFyY2hSZXNwb25zZUlucHV0XD4=</entry>
-        <entry encoding="base64">XDxkZWZhdWx0VXNlck1lc3NhZ2VcPg==</entry>
-        <entry encoding="base64">XDxpbml0R2FsbGVyeVw+</entry>
-        <entry encoding="base64">XDxsb2FkXD4=</entry>
-        <entry>get_gallery</entry>
-        <entry>mysql_es</entry>
-        <entry encoding="base64">XDxDSV9EQlw+</entry>
-        <entry>databse</entry>
-        <entry encoding="base64">XDxkYXRhYmFzZVw+</entry>
-        <entry encoding="base64">XDxEYXRhYmFzZVw+</entry>
-        <entry>env</entry>
-        <entry encoding="base64">XDxjb25uX2lkXD4=</entry>
-        <entry>db_conn</entry>
-        <entry>dbg</entry>
-        <entry encoding="base64">XDxkYl9jb25uZWN0XD4=</entry>
-        <entry>db_con</entry>
-        <entry encoding="base64">XDxmZUhhc2hTY3JvbGxcPg==</entry>
-        <entry>window</entry>
-        <entry>preload</entry>
-        <entry>Parent</entry>
-        <entry>applications</entry>
-        <entry encoding="base64">XDx1c2VyXD4=</entry>
-        <entry>fwefwf</entry>
-        <entry>history</entry>
-        <entry encoding="base64">XDxpbnN0YW5jZXNcPg==</entry>
-        <entry>getUserIn</entry>
-        <entry>query</entry>
-        <entry>getUser</entry>
-        <entry encoding="base64">XDxnZXRVc2VyVGVhbXNcPg==</entry>
-        <entry>project_type</entry>
-        <entry encoding="base64">XDxwcm9qZWN0X3R5cGVcPg==</entry>
-        <entry>browseQuer</entry>
-        <entry encoding="base64">XDxicm93c2VRdWVyeVw+</entry>
-        <entry encoding="base64">XDxsaW1pdEJ5QWRtaW5SZWdpb25zXD4=</entry>
-        <entry encoding="base64">XDxnZXRNZXJnZWRJbnN0YW5jZXNcPg==</entry>
-        <entry>fromProject</entry>
-        <entry>json</entry>
-        <entry>get-mops</entry>
-        <entry>addHistoryButton</entry>
-        <entry>loadView</entry>
-        <entry encoding="base64">XDxyZXF1aXJlbWVudHNcPg==</entry>
-        <entry encoding="base64">XDxhXD4=</entry>
-        <entry encoding="base64">XDxzdGF0dXNPcHRpb25cPg==</entry>
         <entry encoding="base64">XDxyZXF1aXJlbWVudHNDb21wbGV0ZVw+</entry>
         <entry>Profile</entry>
         <entry encoding="base64">XDxkcm9wWm9uZURlZmF1bHRzXD4=</entry>
@@ -2838,9 +2788,14 @@
         <entry>form</entry>
         <entry>submitted</entry>
         <entry>debugg</entry>
+        <entry>isOnline</entry>
+        <entry encoding="base64">XDxSZWNydWl0bWVudE1ldGhvZFw+</entry>
+        <entry encoding="base64">XDxyZWNydWl0bWVudE1ldGhvZFw+</entry>
+        <entry encoding="base64">XDxFbnZpcm9ubWVudFw+</entry>
+        <entry>Mobile App</entry>
+        <entry encoding="base64">XDxpc0FwcFw+</entry>
       </history-search>
       <history-cmd>
-        <entry>48</entry>
         <entry>374</entry>
         <entry>1444</entry>
         <entry>q</entry>
