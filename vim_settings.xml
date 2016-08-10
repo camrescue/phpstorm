@@ -22,7 +22,7 @@
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/animation/TFL-Logo/logo.js" timestamp="1470175809654">
         <mark key="'" line="21" column="16" />
       </file>
-      <file name="/a.dummy" timestamp="1470850446046">
+      <file name="/a.dummy" timestamp="1470867756000">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Mine/udacity/meetup-planner/gulpfile.js" timestamp="1470203144118">
@@ -235,8 +235,8 @@
         <mark key="." line="120" column="29" />
         <mark key="^" line="120" column="29" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_screen/src/main.js" timestamp="1470847109667">
-        <mark key="'" line="9" column="51" />
+      <file name="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_screen/src/main.js" timestamp="1470868042508">
+        <mark key="'" line="9" column="4" />
       </file>
       <file name="$USER_HOME$/Sites/Mine/udacity/meetup-planner/src/js/controllers/events.js" timestamp="1470626471449">
         <mark key="[" line="4" column="0" />
@@ -389,6 +389,7 @@
         <mark key="^" line="253" column="51" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/shared/randomizer.js" timestamp="1470868031864" />
       <file name="$USER_HOME$/Sites/Mine/udacity/meetup-planner/src/js/controllers/login.js" timestamp="1470636969291">
         <mark key="'" line="23" column="16" />
         <mark key="[" line="9" column="48" />
@@ -462,8 +463,8 @@
       <file name="$USER_HOME$/Sites/Rescue/helix/bower_components/jquery-ui/jquery-ui.js" timestamp="1470851360013">
         <mark key="'" line="4768" column="13" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/survey-data-merge/fe/uniqueIds.php" timestamp="1470865441518">
-        <mark key="'" line="48" column="15" />
+      <file name="$USER_HOME$/Sites/Rescue/survey-data-merge/fe/uniqueIds.php" timestamp="1470867696336">
+        <mark key="'" line="56" column="26" />
       </file>
       <file name="$USER_HOME$/Sites/Mine/udacity/meetup-planner/src/js/route.js" timestamp="1470627937099">
         <mark key="'" line="0" column="0" />
@@ -776,8 +777,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="8" filename="$USER_HOME$/Sites/Rescue/helix/js/ng/controllers/profile-image.ctrl.js" />
-      <jump line="59" column="13" filename="$USER_HOME$/Sites/Rescue/helix/js/ng/controllers/profile-image.ctrl.js" />
       <jump line="10" column="12" filename="$USER_HOME$/Sites/Rescue/helix/js/ng/controllers/profile-image.ctrl.js" />
       <jump line="28" column="30" filename="$USER_HOME$/Sites/Rescue/helix/js/ng/controllers/profile-image.ctrl.js" />
       <jump line="122" column="21" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/projects.php" />
@@ -802,7 +801,6 @@
       <jump line="208" column="42" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_screen/src/main.js" />
       <jump line="203" column="38" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_screen/src/main.js" />
       <jump line="202" column="46" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_screen/src/main.js" />
-      <jump line="9" column="51" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_screen/src/main.js" />
       <jump line="243" column="33" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/shared/adminController.js" />
       <jump line="110" column="8" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/shared/adminController.js" />
       <jump line="14" column="29" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/shared/adminController.js" />
@@ -871,11 +869,14 @@
       <jump line="214" column="5" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_signup.js" />
       <jump line="618" column="8" filename="$USER_HOME$/Sites/Rescue/helix/js/app/utils.js" />
       <jump line="472" column="43" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_apply.js" />
-      <jump line="12" column="9" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/fe/uniqueIds.php" />
       <jump line="67" column="26" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/fe/uniqueIds.php" />
       <jump line="64" column="26" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/fe/uniqueIds.php" />
       <jump line="60" column="26" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/fe/uniqueIds.php" />
       <jump line="48" column="15" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/fe/uniqueIds.php" />
+      <jump line="22" column="35" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_screen/src/main.js" />
+      <jump line="9" column="4" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_screen/src/main.js" />
+      <jump line="12" column="9" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/fe/uniqueIds.php" />
+      <jump line="56" column="26" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/fe/uniqueIds.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2778,7 +2779,7 @@
         <text encoding="base64">IDogJy0yMDotMTAnLA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkZXZpY2VJZFw+</text>
+        <text encoding="base64">XDxnZW5lcmF0ZUlkc1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBjb25maWcuYm93ZXIgKyAnL21hZ25pZmljLXBvcHVwL2Rpc3QvbWFnbmlmaWMtcG9wdXAuY3NzJywK</text>
@@ -2818,9 +2819,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkZXZpY2VJZFw+</last-search>
+      <last-search encoding="base64">XDxnZW5lcmF0ZUlkc1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkZXZpY2VJZFw+</last-pattern>
+      <last-pattern encoding="base64">XDxnZW5lcmF0ZUlkc1w+</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxzaG93UmVzdWx0c1w+</last-substitute>
       <last-dir>-1</last-dir>
@@ -2877,8 +2878,9 @@
         <entry>date</entry>
         <entry encoding="base64">XDxiaW5kRGF0ZVBpY2tlcnNcPg==</entry>
         <entry>datepic</entry>
-        <entry encoding="base64">XDxnZW5lcmF0ZUlkc1w+</entry>
         <entry encoding="base64">XDxkZXZpY2VJZFw+</entry>
+        <entry>device</entry>
+        <entry encoding="base64">XDxnZW5lcmF0ZUlkc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>374</entry>
