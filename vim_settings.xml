@@ -22,7 +22,7 @@
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/animation/TFL-Logo/logo.js" timestamp="1470175809654">
         <mark key="'" line="21" column="16" />
       </file>
-      <file name="/a.dummy" timestamp="1470874978313">
+      <file name="/a.dummy" timestamp="1470942499170">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Mine/udacity/meetup-planner/gulpfile.js" timestamp="1470203144118">
@@ -256,6 +256,9 @@
         <mark key="." line="9" column="14" />
         <mark key="^" line="9" column="14" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/helix/js/controllers/milestone_manage.js" timestamp="1470942230503">
+        <mark key="'" line="18" column="45" />
+      </file>
       <file name="$USER_HOME$/Sites/Mine/udacity/meetup-planner/src/index.html" timestamp="1470636683021">
         <mark key="'" line="105" column="57" />
         <mark key="[" line="132" column="87" />
@@ -331,6 +334,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="^" line="6" column="19" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/controllers/milestones.php" timestamp="1470942978899">
+        <mark key="[" line="792" column="0" />
+        <mark key="]" line="792" column="0" />
+        <mark key="." line="792" column="0" />
+        <mark key="^" line="792" column="55" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/survey-admin/resources/views/surveys/tracker.blade.php" timestamp="1468968514693">
         <mark key="'" line="132" column="36" />
@@ -452,6 +461,20 @@
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/animation/btn-fill/btn-fill.js" timestamp="1470175662867">
         <mark key="'" line="2" column="12" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/views/milestone/manage.php" timestamp="1470942683408">
+        <mark key="'" line="119" column="34" />
+        <mark key="[" line="8" column="5" />
+        <mark key="]" line="10" column="81" />
+        <mark key="^" line="10" column="81" />
+        <mark key="." line="10" column="81" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/helix/js/app/milestone_form_view.js" timestamp="1470942833324">
+        <mark key="'" line="608" column="0" />
+        <mark key="[" line="661" column="0" />
+        <mark key="]" line="661" column="0" />
+        <mark key="." line="661" column="0" />
+        <mark key="^" line="609" column="16" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/survey-admin/resources/views/dashboard/control-circle.blade.php" timestamp="1469211634492">
         <mark key="'" line="14" column="33" />
@@ -692,6 +715,7 @@
         <mark key="." line="15" column="45" />
         <mark key="^" line="15" column="45" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/views/milestone/manage_org.php" timestamp="1470942666534" />
       <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/less/social-mashup.less" timestamp="1469490790123">
         <mark key="'" line="693" column="15" />
       </file>
@@ -735,44 +759,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4768" column="13" filename="$USER_HOME$/Sites/Rescue/helix/bower_components/jquery-ui/jquery-ui.js" />
-      <jump line="1060" column="41" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/users.php" />
-      <jump line="197" column="5" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_signup.js" />
-      <jump line="106" column="26" filename="$USER_HOME$/Sites/Rescue/helix/gulpfile.js" />
-      <jump line="107" column="26" filename="$USER_HOME$/Sites/Rescue/helix/gulpfile.js" />
-      <jump line="120" column="45" filename="$USER_HOME$/Sites/Rescue/helix/gulpfile.js" />
-      <jump line="99" column="11" filename="$USER_HOME$/Sites/Rescue/helix/gulpfile.js" />
-      <jump line="100" column="37" filename="$USER_HOME$/Sites/Rescue/helix/gulpfile.js" />
-      <jump line="101" column="39" filename="$USER_HOME$/Sites/Rescue/helix/gulpfile.js" />
-      <jump line="102" column="44" filename="$USER_HOME$/Sites/Rescue/helix/gulpfile.js" />
-      <jump line="103" column="35" filename="$USER_HOME$/Sites/Rescue/helix/gulpfile.js" />
-      <jump line="104" column="26" filename="$USER_HOME$/Sites/Rescue/helix/gulpfile.js" />
-      <jump line="105" column="26" filename="$USER_HOME$/Sites/Rescue/helix/gulpfile.js" />
-      <jump line="990" column="29" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/users.php" />
-      <jump line="212" column="62" filename="$USER_HOME$/Sites/Rescue/helix/application/views/user/application/edit.php" />
-      <jump line="859" column="39" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/users.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Sites/Rescue/helix/sass/_form.scss" />
-      <jump line="95" column="34" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_signup.js" />
-      <jump line="221" column="50" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_signup.js" />
-      <jump line="218" column="0" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_signup.js" />
-      <jump line="214" column="5" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_signup.js" />
-      <jump line="618" column="8" filename="$USER_HOME$/Sites/Rescue/helix/js/app/utils.js" />
-      <jump line="472" column="43" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_apply.js" />
-      <jump line="67" column="26" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/fe/uniqueIds.php" />
-      <jump line="64" column="26" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/fe/uniqueIds.php" />
-      <jump line="60" column="26" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/fe/uniqueIds.php" />
-      <jump line="48" column="15" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/fe/uniqueIds.php" />
-      <jump line="22" column="35" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_screen/src/main.js" />
-      <jump line="9" column="4" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_screen/src/main.js" />
-      <jump line="12" column="9" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/fe/uniqueIds.php" />
-      <jump line="56" column="26" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/fe/uniqueIds.php" />
-      <jump line="360" column="29" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/Variables.php" />
-      <jump line="215" column="31" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/Variables.php" />
-      <jump line="383" column="40" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/Variables.php" />
-      <jump line="635" column="69" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/Variables.php" />
-      <jump line="636" column="57" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/Variables.php" />
-      <jump line="80" column="38" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/Variables.php" />
-      <jump line="575" column="38" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/Variables.php" />
       <jump line="638" column="46" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/Variables.php" />
       <jump line="702" column="34" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/Variables.php" />
       <jump line="729" column="53" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/Variables.php" />
@@ -835,6 +821,44 @@
       <jump line="1983" column="0" filename="$USER_HOME$/Sites/Rescue/helix/application/models/core/import_m.php" />
       <jump line="26" column="47" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/groups.php" />
       <jump line="32" column="25" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/groups.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/milestones.php" />
+      <jump line="66" column="62" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/milestones.php" />
+      <jump line="51" column="36" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/milestones.php" />
+      <jump line="139" column="65" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/milestones.php" />
+      <jump line="207" column="10" filename="$USER_HOME$/Sites/Rescue/helix/js/app/milestone_form_view.js" />
+      <jump line="782" column="9" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/milestones.php" />
+      <jump line="789" column="13" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/milestones.php" />
+      <jump line="793" column="42" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/milestones.php" />
+      <jump line="135" column="9" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/milestones.php" />
+      <jump line="677" column="8" filename="$USER_HOME$/Sites/Rescue/helix/js/app/milestone_form_view.js" />
+      <jump line="678" column="8" filename="$USER_HOME$/Sites/Rescue/helix/js/app/milestone_form_view.js" />
+      <jump line="603" column="8" filename="$USER_HOME$/Sites/Rescue/helix/js/app/milestone_form_view.js" />
+      <jump line="18" column="45" filename="$USER_HOME$/Sites/Rescue/helix/js/controllers/milestone_manage.js" />
+      <jump line="508" column="50" filename="$USER_HOME$/Sites/Rescue/helix/js/app/milestone_form_view.js" />
+      <jump line="653" column="23" filename="$USER_HOME$/Sites/Rescue/helix/js/app/milestone_form_view.js" />
+      <jump line="679" column="8" filename="$USER_HOME$/Sites/Rescue/helix/js/app/milestone_form_view.js" />
+      <jump line="624" column="8" filename="$USER_HOME$/Sites/Rescue/helix/js/app/milestone_form_view.js" />
+      <jump line="780" column="13" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/milestones.php" />
+      <jump line="33" column="32" filename="$USER_HOME$/Sites/Rescue/helix/application/views/milestone/manage.php" />
+      <jump line="5" column="84" filename="$USER_HOME$/Sites/Rescue/helix/application/views/milestone/manage.php" />
+      <jump line="17" column="55" filename="$USER_HOME$/Sites/Rescue/helix/application/views/milestone/manage.php" />
+      <jump line="18" column="36" filename="$USER_HOME$/Sites/Rescue/helix/application/views/milestone/manage.php" />
+      <jump line="62" column="20" filename="$USER_HOME$/Sites/Rescue/helix/application/views/milestone/manage.php" />
+      <jump line="116" column="59" filename="$USER_HOME$/Sites/Rescue/helix/application/views/milestone/manage.php" />
+      <jump line="117" column="34" filename="$USER_HOME$/Sites/Rescue/helix/application/views/milestone/manage.php" />
+      <jump line="193" column="4" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/milestones.php" />
+      <jump line="698" column="0" filename="$USER_HOME$/Sites/Rescue/helix/js/app/milestone_form_view.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Sites/Rescue/helix/js/app/milestone_form_view.js" />
+      <jump line="353" column="13" filename="$USER_HOME$/Sites/Rescue/helix/js/app/milestone_form_view.js" />
+      <jump line="631" column="35" filename="$USER_HOME$/Sites/Rescue/helix/js/app/milestone_form_view.js" />
+      <jump line="607" column="35" filename="$USER_HOME$/Sites/Rescue/helix/js/app/milestone_form_view.js" />
+      <jump line="506" column="13" filename="$USER_HOME$/Sites/Rescue/helix/js/app/milestone_form_view.js" />
+      <jump line="480" column="12" filename="$USER_HOME$/Sites/Rescue/helix/js/app/milestone_form_view.js" />
+      <jump line="459" column="12" filename="$USER_HOME$/Sites/Rescue/helix/js/app/milestone_form_view.js" />
+      <jump line="390" column="43" filename="$USER_HOME$/Sites/Rescue/helix/js/app/milestone_form_view.js" />
+      <jump line="500" column="0" filename="$USER_HOME$/Sites/Rescue/helix/js/app/milestone_form_view.js" />
+      <jump line="608" column="0" filename="$USER_HOME$/Sites/Rescue/helix/js/app/milestone_form_view.js" />
+      <jump line="792" column="9" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/milestones.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2680,7 +2704,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0aD48L3RoPgo=</text>
+        <text encoding="base64">ICAgICAgICAkeWVhclJhbmdlICAgPSBnZXRGaXNjYWxZZWFyKCk7Cg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -2734,52 +2758,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PGEgaHJlZj0iPD9waHAgbyh1cmxfZ3JvdXBfZWRpdCgkZ3JvdXBbJ2lkJ10pKSA/PiI+ZWRpdDwvYT4=</text>
+        <text>getCurr</text>
       </register>
       <register name="/" type="4">
-        <text>manage</text>
+        <text encoding="base64">XDx5ZWFyUmFuZ2VcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDx0aD48L3RoPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAkeWVhclJhbmdlICAgPSBnZXRGaXNjYWxZZWFyKCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGEgaHJlZj0iPD9waHAgbyh1cmxfZ3JvdXBfZWRpdCgkZ3JvdXBbJ2lkJ10pKSA/PiI+ZWRpdDwvYT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAkeWVhcgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8P3BocCBlbmRpZjsgPz4KICAgICAgICAgICAgICAgICAgICA8P3BocCBpZiAoISBlbXB0eSgkc3lzdGVtc1tTeXN0ZW1fbTo6U1lTVEVNX0lEX0ZSRUVUSEVOSUdIVF0pKSA6ID8+Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8P3BocCBlbmRpZjsgPz4KICAgICAgICAgICAgICAgICAgICA8P3BocCBpZiAoISBlbXB0eSgkc3lzdGVtc1tTeXN0ZW1fbTo6U1lTVEVNX0lEX0NPVU5URVJCQUxBTkNFXSkpIDogPz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8P3BocCBlbmRpZjsgPz4KICAgICAgICAgICAgICAgICAgICA8P3BocCBpZiAoISBlbXB0eSgkc3lzdGVtc1tTeXN0ZW1fbTo6U1lTVEVNX0lEX0JSRUFLRE9XTl0pKSA6ID8+Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8P3BocCBlbmRpZjsgPz4KICAgICAgICAgICAgICAgICAgICA8P3BocCBpZiAoISBlbXB0eSgkc3lzdGVtc1tTeXN0ZW1fbTo6U1lTVEVNX0lEX1lTVFJFRVRdKSkgOiA/Pgo=</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8P3BocCBlbmRpZjsgPz4KICAgICAgICAgICAgICAgICAgICA8P3BocCBpZiAoISBlbXB0eSgkc3lzdGVtc1tTeXN0ZW1fbTo6U1lTVEVNX0lEX0VWT0xWRU1FTlRdKSkgOiA/Pgo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkc2VsZWN0ZWRGaXNjYWxZZWFyKTsK</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8P3BocCBpZiAoISBlbXB0eSgkc3lzdGVtW10pKSA/Pgo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkY3VycmVudFllYXIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>manage</last-search>
+      <last-search encoding="base64">XDx5ZWFyUmFuZ2VcPg==</last-search>
       <last-offset />
-      <last-pattern>manage</last-pattern>
+      <last-pattern encoding="base64">XDx5ZWFyUmFuZ2VcPg==</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxzaG93UmVzdWx0c1w+</last-substitute>
       <last-dir>1</last-dir>
@@ -2806,7 +2830,6 @@
         <entry>add_his</entry>
         <entry>form</entry>
         <entry>submitted</entry>
-        <entry>debugg</entry>
         <entry>isOnline</entry>
         <entry encoding="base64">XDxSZWNydWl0bWVudE1ldGhvZFw+</entry>
         <entry encoding="base64">XDxyZWNydWl0bWVudE1ldGhvZFw+</entry>
@@ -2863,6 +2886,19 @@
         <entry>Elisa</entry>
         <entry>elisa</entry>
         <entry>manage</entry>
+        <entry>function manage</entry>
+        <entry>assert</entry>
+        <entry encoding="base64">XDx5ZWFyU3RhcnRcPg==</entry>
+        <entry encoding="base64">XDxyZW5kZXJcPg==</entry>
+        <entry>init(</entry>
+        <entry>init</entry>
+        <entry>render</entry>
+        <entry encoding="base64">XDxfZ29hbF9maWx0ZXJzXD4=</entry>
+        <entry>fiscal</entry>
+        <entry>manage_org</entry>
+        <entry>fiscal_year</entry>
+        <entry>debugg</entry>
+        <entry encoding="base64">XDx5ZWFyUmFuZ2VcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>374</entry>
