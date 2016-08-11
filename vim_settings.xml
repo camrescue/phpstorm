@@ -219,9 +219,6 @@
         <mark key="." line="120" column="29" />
         <mark key="^" line="120" column="29" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_screen/src/main.js" timestamp="1470872185663">
-        <mark key="'" line="9" column="4" />
-      </file>
       <file name="$USER_HOME$/Sites/Mine/udacity/meetup-planner/src/js/controllers/events.js" timestamp="1470626471449">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
@@ -312,6 +309,9 @@
         <mark key="]" line="0" column="60" />
         <mark key="." line="0" column="60" />
         <mark key="^" line="0" column="60" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/controllers/groups.php" timestamp="1470940095911">
+        <mark key="'" line="32" column="25" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_quest/src/main.js" timestamp="1469032171737">
         <mark key="'" line="353" column="21" />
@@ -434,9 +434,6 @@
       <file name="$USER_HOME$/Sites/Rescue/helix/bower_components/jquery-ui/jquery-ui.js" timestamp="1470851360013">
         <mark key="'" line="4768" column="13" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/survey-data-merge/fe/uniqueIds.php" timestamp="1470867696336">
-        <mark key="'" line="56" column="26" />
-      </file>
       <file name="$USER_HOME$/Sites/Mine/udacity/meetup-planner/src/js/route.js" timestamp="1470627937099">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="2" column="36" />
@@ -548,9 +545,6 @@
         <mark key="." line="85" column="60" />
         <mark key="^" line="85" column="60" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/shared/adminController.js" timestamp="1470847807101">
-        <mark key="'" line="154" column="7" />
-      </file>
       <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/less/socialmashup.less" timestamp="1470432745407">
         <mark key="'" line="407" column="23" />
       </file>
@@ -608,13 +602,11 @@
         <mark key="^" line="1470" column="24" />
         <mark key="." line="1470" column="26" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/Variables.php" timestamp="1470872417918">
-        <mark key="'" line="729" column="53" />
-        <mark key="[" line="406" column="0" />
-        <mark key="]" line="406" column="0" />
-        <mark key="^" line="279" column="11" />
-        <mark key="." line="406" column="0" />
-        <mark key="n" line="635" column="69" />
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/views/group/manage.php" timestamp="1470940262637">
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="25" />
+        <mark key="." line="66" column="0" />
+        <mark key="^" line="84" column="23" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/organization_repo.php" timestamp="1470170842783">
         <mark key="'" line="253" column="5" />
@@ -743,8 +735,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4732" column="17" filename="$USER_HOME$/Sites/Rescue/helix/bower_components/jquery-ui/jquery-ui.js" />
-      <jump line="4737" column="17" filename="$USER_HOME$/Sites/Rescue/helix/bower_components/jquery-ui/jquery-ui.js" />
       <jump line="4768" column="13" filename="$USER_HOME$/Sites/Rescue/helix/bower_components/jquery-ui/jquery-ui.js" />
       <jump line="1060" column="41" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/users.php" />
       <jump line="197" column="5" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_signup.js" />
@@ -843,6 +833,8 @@
       <jump line="1551" column="30" filename="$USER_HOME$/Sites/Rescue/helix/application/models/core/import_m.php" />
       <jump line="101" column="72" filename="$USER_HOME$/Sites/Rescue/helix/application/models/core/import_m.php" />
       <jump line="1983" column="0" filename="$USER_HOME$/Sites/Rescue/helix/application/models/core/import_m.php" />
+      <jump line="26" column="47" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/groups.php" />
+      <jump line="32" column="25" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/groups.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2688,7 +2680,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8P3BocCBlbmRpZjsgPz4KICAgICAgICAgICAgICAgICAgICA8P3BocCBpZiAoISBlbXB0eSgkc3lzdGVtc1tTeXN0ZW1fbTo6U1lTVEVNX0lEX0ZSRUVUSEVOSUdIVF0pKSA6ID8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0aD48L3RoPgo=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -2742,52 +2734,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>EVOLVEMENT</text>
+        <text encoding="base64">PGEgaHJlZj0iPD9waHAgbyh1cmxfZ3JvdXBfZWRpdCgkZ3JvdXBbJ2lkJ10pKSA/PiI+ZWRpdDwvYT4=</text>
       </register>
       <register name="/" type="4">
-        <text>elisa</text>
+        <text>manage</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8P3BocCBlbmRpZjsgPz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0aD48L3RoPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8P3BocCBlbmRpZjsgPz4KICAgICAgICAgICAgICAgICAgICA8P3BocCBpZiAoISBlbXB0eSgkc3lzdGVtc1tTeXN0ZW1fbTo6U1lTVEVNX0lEX0ZSRUVUSEVOSUdIVF0pKSA6ID8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8P3BocCBlbmRpZjsgPz4KICAgICAgICAgICAgICAgICAgICA8P3BocCBpZiAoISBlbXB0eSgkc3lzdGVtc1tTeXN0ZW1fbTo6U1lTVEVNX0lEX0NPVU5URVJCQUxBTkNFXSkpIDogPz4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGEgaHJlZj0iPD9waHAgbyh1cmxfZ3JvdXBfZWRpdCgkZ3JvdXBbJ2lkJ10pKSA/PiI+ZWRpdDwvYT4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8P3BocCBlbmRpZjsgPz4KICAgICAgICAgICAgICAgICAgICA8P3BocCBpZiAoISBlbXB0eSgkc3lzdGVtc1tTeXN0ZW1fbTo6U1lTVEVNX0lEX0JSRUFLRE9XTl0pKSA6ID8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8P3BocCBlbmRpZjsgPz4KICAgICAgICAgICAgICAgICAgICA8P3BocCBpZiAoISBlbXB0eSgkc3lzdGVtc1tTeXN0ZW1fbTo6U1lTVEVNX0lEX1lTVFJFRVRdKSkgOiA/Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8P3BocCBlbmRpZjsgPz4KICAgICAgICAgICAgICAgICAgICA8P3BocCBpZiAoISBlbXB0eSgkc3lzdGVtc1tTeXN0ZW1fbTo6U1lTVEVNX0lEX0ZSRUVUSEVOSUdIVF0pKSA6ID8+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8P3BocCBlbmRpZjsgPz4KICAgICAgICAgICAgICAgICAgICA8P3BocCBpZiAoISBlbXB0eSgkc3lzdGVtc1tTeXN0ZW1fbTo6U1lTVEVNX0lEX0VWT0xWRU1FTlRdKSkgOiA/Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8P3BocCBlbmRpZjsgPz4KICAgICAgICAgICAgICAgICAgICA8P3BocCBpZiAoISBlbXB0eSgkc3lzdGVtc1tTeXN0ZW1fbTo6U1lTVEVNX0lEX0NPVU5URVJCQUxBTkNFXSkpIDogPz4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8P3BocCBpZiAoISBlbXB0eSgkc3lzdGVtW10pKSA/Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8P3BocCBlbmRpZjsgPz4KICAgICAgICAgICAgICAgICAgICA8P3BocCBpZiAoISBlbXB0eSgkc3lzdGVtc1tTeXN0ZW1fbTo6U1lTVEVNX0lEX0JSRUFLRE9XTl0pKSA6ID8+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkYmcoJHN5c3RlbXMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8P3BocCBlbmRpZjsgPz4KICAgICAgICAgICAgICAgICAgICA8P3BocCBpZiAoISBlbXB0eSgkc3lzdGVtc1tTeXN0ZW1fbTo6U1lTVEVNX0lEX1lTVFJFRVRdKSkgOiA/Pgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJHN5c3RlbXMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8P3BocCBlbmRpZjsgPz4KICAgICAgICAgICAgICAgICAgICA8P3BocCBpZiAoISBlbXB0eSgkc3lzdGVtc1tTeXN0ZW1fbTo6U1lTVEVNX0lEX0VWT0xWRU1FTlRdKSkgOiA/Pgo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCRuLCAkc3lzdGVtSWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8P3BocCBpZiAoISBlbXB0eSgkc3lzdGVtW10pKSA/Pgo=</text>
       </register>
       <register name=":" type="4">
-        <text>19</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>elisa</last-search>
+      <last-search>manage</last-search>
       <last-offset />
-      <last-pattern>elisa</last-pattern>
+      <last-pattern>manage</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxzaG93UmVzdWx0c1w+</last-substitute>
       <last-dir>1</last-dir>
@@ -2870,6 +2862,7 @@
         <entry>coord</entry>
         <entry>Elisa</entry>
         <entry>elisa</entry>
+        <entry>manage</entry>
       </history-search>
       <history-cmd>
         <entry>374</entry>
@@ -2893,8 +2886,8 @@
         <entry>W</entry>
         <entry>260</entry>
         <entry>196</entry>
-        <entry>w</entry>
         <entry>19</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
