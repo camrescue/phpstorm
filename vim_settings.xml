@@ -22,7 +22,7 @@
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/animation/TFL-Logo/logo.js" timestamp="1470175809654">
         <mark key="'" line="21" column="16" />
       </file>
-      <file name="/a.dummy" timestamp="1470962806924">
+      <file name="/a.dummy" timestamp="1471022860934">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Mine/udacity/meetup-planner/gulpfile.js" timestamp="1470203144118">
@@ -84,6 +84,12 @@
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/sass/_main.scss" timestamp="1470780987838">
         <mark key="'" line="16" column="8" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/project_repo.php" timestamp="1470875800423">
+        <mark key="'" line="38" column="37" />
+        <mark key="[" line="1264" column="0" />
+        <mark key="]" line="1264" column="0" />
+        <mark key="." line="1264" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/views/ngtemplate/profile_image_box.php" timestamp="1470702292311">
         <mark key="[" line="5" column="9" />
@@ -196,12 +202,6 @@
         <mark key="^" line="69" column="46" />
         <mark key="." line="69" column="46" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/Http/Controllers/SurveyController.php" timestamp="1470757078940">
-        <mark key="'" line="693" column="9" />
-        <mark key="[" line="702" column="0" />
-        <mark key="]" line="702" column="0" />
-        <mark key="." line="702" column="0" />
-      </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/models/core/import_base_m.php" timestamp="1470932125099">
         <mark key="'" line="21" column="35" />
       </file>
@@ -224,9 +224,6 @@
         <mark key="]" line="120" column="29" />
         <mark key="." line="120" column="29" />
         <mark key="^" line="120" column="29" />
-      </file>
-      <file name="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_screen/src/main.js" timestamp="1470872185663">
-        <mark key="'" line="9" column="4" />
       </file>
       <file name="$USER_HOME$/Sites/Mine/udacity/meetup-planner/src/js/controllers/events.js" timestamp="1470626471449">
         <mark key="[" line="4" column="0" />
@@ -276,11 +273,11 @@
         <mark key="." line="132" column="87" />
         <mark key="^" line="132" column="81" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/views/profile/basic.php" timestamp="1470701944580">
-        <mark key="'" line="23" column="50" />
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
+      <file name="$USER_HOME$/Sites/Rescue/helix/js/app/user_signup.js" timestamp="1470863839485">
+        <mark key="'" line="214" column="5" />
+        <mark key="[" line="218" column="0" />
+        <mark key="]" line="218" column="0" />
+        <mark key="." line="218" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/survey-admin/resources/views/dashboard/screener-circle.blade.php" timestamp="1469211720904">
         <mark key="[" line="9" column="39" />
@@ -360,12 +357,6 @@
         <mark key="^" line="1721" column="4" />
         <mark key="." line="1723" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/js/app/project.js" timestamp="1470790733561">
-        <mark key="'" line="890" column="34" />
-        <mark key="[" line="902" column="0" />
-        <mark key="]" line="902" column="0" />
-        <mark key="." line="902" column="0" />
-      </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/models/core/import_old_m.php" timestamp="1470932180045">
         <mark key="'" line="2601" column="102" />
       </file>
@@ -392,8 +383,8 @@
         <mark key="^" line="9" column="47" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/surveys/app/Http/Controllers/LgbtCultureController.php" timestamp="1470872993048" />
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/libraries/milestones/MilestoneOne.php" timestamp="1470960117322">
-        <mark key="'" line="37" column="13" />
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/libraries/milestones/MilestoneOne.php" timestamp="1471022887095">
+        <mark key="'" line="2" column="27" />
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
@@ -460,9 +451,6 @@
       <file name="$USER_HOME$/Sites/Rescue/helix/bower_components/jquery-ui/jquery-ui.js" timestamp="1470851360013">
         <mark key="'" line="4768" column="13" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/survey-data-merge/fe/uniqueIds.php" timestamp="1470867696336">
-        <mark key="'" line="56" column="26" />
-      </file>
       <file name="$USER_HOME$/Sites/Mine/udacity/meetup-planner/src/js/route.js" timestamp="1470627937099">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="2" column="36" />
@@ -510,8 +498,11 @@
         <mark key="." line="1092" column="0" />
         <mark key="^" line="1094" column="27" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/libraries/MilestoneHelper.php" timestamp="1470962898681">
-        <mark key="'" line="125" column="20" />
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/libraries/MilestoneHelper.php" timestamp="1471022618259">
+        <mark key="'" line="662" column="20" />
+        <mark key="[" line="600" column="0" />
+        <mark key="]" line="600" column="0" />
+        <mark key="." line="600" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/group_repo.php" timestamp="1470170649528">
         <mark key="'" line="0" column="0" />
@@ -567,11 +558,11 @@
         <mark key="." line="24" column="11" />
         <mark key="^" line="24" column="11" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/libraries/MilestoneLib.php" timestamp="1470963250590">
-        <mark key="'" line="176" column="29" />
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="0" />
-        <mark key="." line="56" column="0" />
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/libraries/MilestoneLib.php" timestamp="1471022975034">
+        <mark key="'" line="14" column="41" />
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
         <mark key="^" line="55" column="78" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/sass/_head.scss" timestamp="1470781839117">
@@ -598,9 +589,6 @@
         <mark key="." line="85" column="60" />
         <mark key="^" line="85" column="60" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/shared/adminController.js" timestamp="1470847807101">
-        <mark key="'" line="154" column="7" />
-      </file>
       <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/less/socialmashup.less" timestamp="1470432745407">
         <mark key="'" line="407" column="23" />
       </file>
@@ -611,11 +599,12 @@
         <mark key="." line="149" column="82" />
         <mark key="^" line="149" column="82" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/libraries/abstracts/OrganizationMilestone.php" timestamp="1470960885342">
-        <mark key="'" line="209" column="23" />
-        <mark key="[" line="89" column="0" />
-        <mark key="]" line="89" column="0" />
-        <mark key="." line="89" column="0" />
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/libraries/abstracts/OrganizationMilestone.php" timestamp="1471023179243">
+        <mark key="'" line="74" column="6" />
+        <mark key="[" line="85" column="0" />
+        <mark key="]" line="85" column="0" />
+        <mark key="." line="85" column="0" />
+        <mark key="^" line="85" column="33" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/survey-admin/vendor/laravel/framework/src/Illuminate/Support/helpers.php" timestamp="1470328506951">
         <mark key="'" line="232" column="53" />
@@ -666,12 +655,6 @@
         <mark key="]" line="1470" column="26" />
         <mark key="^" line="1470" column="24" />
         <mark key="." line="1470" column="26" />
-      </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/system/core/CodeIgniter.php" timestamp="1470763827645">
-        <mark key="'" line="145" column="0" />
-        <mark key="[" line="401" column="0" />
-        <mark key="]" line="401" column="0" />
-        <mark key="." line="401" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/views/group/manage.php" timestamp="1470940262637">
         <mark key="[" line="66" column="0" />
@@ -734,6 +717,11 @@
         <mark key="^" line="42" column="43" />
         <mark key="." line="43" column="0" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/models/entities/Organization.php" timestamp="1471022561652">
+        <mark key="[" line="202" column="0" />
+        <mark key="]" line="202" column="0" />
+        <mark key="." line="202" column="0" />
+      </file>
       <file name="$USER_HOME$/Sites/Mine/udacity/meetup-planner/src/js/partials/login.js" timestamp="1470618839588">
         <mark key="'" line="35" column="8" />
         <mark key="[" line="35" column="8" />
@@ -795,22 +783,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="84" filename="$USER_HOME$/Sites/Rescue/helix/application/views/milestone/manage.php" />
-      <jump line="17" column="55" filename="$USER_HOME$/Sites/Rescue/helix/application/views/milestone/manage.php" />
-      <jump line="18" column="36" filename="$USER_HOME$/Sites/Rescue/helix/application/views/milestone/manage.php" />
-      <jump line="62" column="20" filename="$USER_HOME$/Sites/Rescue/helix/application/views/milestone/manage.php" />
-      <jump line="116" column="59" filename="$USER_HOME$/Sites/Rescue/helix/application/views/milestone/manage.php" />
-      <jump line="117" column="34" filename="$USER_HOME$/Sites/Rescue/helix/application/views/milestone/manage.php" />
-      <jump line="193" column="4" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/milestones.php" />
-      <jump line="698" column="0" filename="$USER_HOME$/Sites/Rescue/helix/js/app/milestone_form_view.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Sites/Rescue/helix/js/app/milestone_form_view.js" />
-      <jump line="353" column="13" filename="$USER_HOME$/Sites/Rescue/helix/js/app/milestone_form_view.js" />
-      <jump line="631" column="35" filename="$USER_HOME$/Sites/Rescue/helix/js/app/milestone_form_view.js" />
-      <jump line="607" column="35" filename="$USER_HOME$/Sites/Rescue/helix/js/app/milestone_form_view.js" />
-      <jump line="506" column="13" filename="$USER_HOME$/Sites/Rescue/helix/js/app/milestone_form_view.js" />
-      <jump line="480" column="12" filename="$USER_HOME$/Sites/Rescue/helix/js/app/milestone_form_view.js" />
-      <jump line="459" column="12" filename="$USER_HOME$/Sites/Rescue/helix/js/app/milestone_form_view.js" />
-      <jump line="390" column="43" filename="$USER_HOME$/Sites/Rescue/helix/js/app/milestone_form_view.js" />
       <jump line="500" column="0" filename="$USER_HOME$/Sites/Rescue/helix/js/app/milestone_form_view.js" />
       <jump line="608" column="0" filename="$USER_HOME$/Sites/Rescue/helix/js/app/milestone_form_view.js" />
       <jump line="792" column="9" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/milestones.php" />
@@ -832,7 +804,6 @@
       <jump line="260" column="22" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/abstracts/OrganizationMilestone.php" />
       <jump line="331" column="22" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/abstracts/OrganizationMilestone.php" />
       <jump line="90" column="21" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/milestones/MilestoneOne.php" />
-      <jump line="16" column="15" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/milestones/MilestoneOne.php" />
       <jump line="76" column="21" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/milestones/MilestoneOne.php" />
       <jump line="10" column="10" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/milestones/MilestoneOne.php" />
       <jump line="72" column="47" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/milestones/MilestoneOne.php" />
@@ -843,7 +814,6 @@
       <jump line="193" column="19" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/milestones/MilestoneOne.php" />
       <jump line="200" column="22" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/milestones/MilestoneOne.php" />
       <jump line="26" column="96" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/milestones/MilestoneOne.php" />
-      <jump line="44" column="51" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/milestones/MilestoneOne.php" />
       <jump line="139" column="19" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/milestones/MilestoneOne.php" />
       <jump line="189" column="21" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/milestones/MilestoneOne.php" />
       <jump line="114" column="21" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/milestones/MilestoneOne.php" />
@@ -895,6 +865,24 @@
       <jump line="93" column="20" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/MilestoneHelper.php" />
       <jump line="111" column="20" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/MilestoneHelper.php" />
       <jump line="125" column="20" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/MilestoneHelper.php" />
+      <jump line="17" column="15" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/milestones/MilestoneOne.php" />
+      <jump line="44" column="21" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/milestones/MilestoneOne.php" />
+      <jump line="16" column="15" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/milestones/MilestoneOne.php" />
+      <jump line="663" column="25" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/MilestoneHelper.php" />
+      <jump line="580" column="23" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/MilestoneHelper.php" />
+      <jump line="552" column="20" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/MilestoneHelper.php" />
+      <jump line="678" column="24" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/MilestoneHelper.php" />
+      <jump line="56" column="30" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/abstracts/OrganizationMilestone.php" />
+      <jump line="61" column="47" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/abstracts/OrganizationMilestone.php" />
+      <jump line="85" column="24" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/abstracts/OrganizationMilestone.php" />
+      <jump line="98" column="22" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/abstracts/OrganizationMilestone.php" />
+      <jump line="21" column="13" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/abstracts/OrganizationMilestone.php" />
+      <jump line="662" column="20" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/MilestoneHelper.php" />
+      <jump line="4" column="27" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/milestones/MilestoneOne.php" />
+      <jump line="2" column="27" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/milestones/MilestoneOne.php" />
+      <jump line="14" column="41" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/MilestoneLib.php" />
+      <jump line="80" column="25" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/abstracts/OrganizationMilestone.php" />
+      <jump line="74" column="6" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/abstracts/OrganizationMilestone.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2740,7 +2728,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Ly8gICAgICAgICRtaWxlc3RvbmVJZCA9IE1pbGVzdG9uZUhlbHBlcjo6bWFwVHlwZVRvTWlsZXN0b25lSWQoJG1pbGVzdG9uZVR5cGUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -2794,52 +2782,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">TG9va3VwIA==</text>
+        <text>rgGoals</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxUWVBFX01JTEVTVE9ORV9FVkVOVF9UV09fTU9QX0NPVU5UXD4=</text>
+        <text>getGoal</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIDx0aD48L3RoPgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Ly8gICAgICAgICRtaWxlc3RvbmVJZCA9IE1pbGVzdG9uZUhlbHBlcjo6bWFwVHlwZVRvTWlsZXN0b25lSWQoJG1pbGVzdG9uZVR5cGUpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+Z29hbE1pbGVzdG9uZXMpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkbWkpCg==</text>
+        <text encoding="base64">ICAgICAgICBkYmcoc3RhdGljOjpnZXRBbGxNaWxlc3RvbmVJZHMoKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJHJlc3VsdFsnb3JnX21pbGVzdG9uZXMnXSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdGhpcy0+Z29hbE1pbGVzdG9uZXMpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcmVzdWx0WydvcmdfbWlsZXN0b25lcyddKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCRnb2FsKTsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkYWN0dWFsQXR0ZW5kYW5jZUNvdW50KTsK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcmVzdWx0cyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkbWluQXR0ZW5kYW5jZUNvdW50KTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCRyZXN1bHRzKTsK</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxUWVBFX01JTEVTVE9ORV9FVkVOVF9UV09fTU9QX0NPVU5UXD4=</last-search>
+      <last-search>getGoal</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxUWVBFX01JTEVTVE9ORV9FVkVOVF9UV09fTU9QX0NPVU5UXD4=</last-pattern>
+      <last-pattern>getGoal</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxzaG93UmVzdWx0c1w+</last-substitute>
       <last-dir>1</last-dir>
@@ -2939,11 +2927,9 @@
         <entry>dashboard</entry>
         <entry>function organizatio</entry>
         <entry encoding="base64">XDxvcmdJZFw+</entry>
-        <entry encoding="base64">XDxvcmdcPg==</entry>
         <entry>milestones</entry>
         <entry>dd</entry>
         <entry>dd(</entry>
-        <entry encoding="base64">XDx0ZXN0TWVtYmVyQ291bnRcPg==</entry>
         <entry encoding="base64">XDxNSU5JTVVNX1RSQUlOSU5HX0FUVEVOREFOQ0VcPg==</entry>
         <entry>TYPE_MILESTONE_TRAINING_ATTENDANCE_MIN</entry>
         <entry encoding="base64">XDxnZXRBdHRlbmRhbmNlUmVzdWx0XD4=</entry>
@@ -2969,6 +2955,15 @@
         <entry encoding="base64">XDxnZXRNaWxlc3RvbmVUeXBlRHJvcGRvd25zXD4=</entry>
         <entry encoding="base64">XDxUWVBFX01JTEVTVE9ORV9FVkVOVF9NT1BfQ09VTlRcPg==</entry>
         <entry encoding="base64">XDxUWVBFX01JTEVTVE9ORV9FVkVOVF9UV09fTU9QX0NPVU5UXD4=</entry>
+        <entry encoding="base64">XDx0ZXN0VHJhaW5pbmdQZW5hbHR5XD4=</entry>
+        <entry encoding="base64">XDx0ZXN0TWVtYmVyQ291bnRcPg==</entry>
+        <entry encoding="base64">XDxvcmdHb2Fsc1w+</entry>
+        <entry encoding="base64">XDxvcmdhbml6YXRpb25Hb2Fsc1w+</entry>
+        <entry encoding="base64">XDxvcmdhbml6YXRpb25Hb2FsXD4=</entry>
+        <entry encoding="base64">XDxPcmdhbml6YXRpb25NaWxlc3RvbmVcPg==</entry>
+        <entry encoding="base64">XDxvcmdcPg==</entry>
+        <entry encoding="base64">XDxnb2FsTWlsZXN0b25lc1w+</entry>
+        <entry>getGoal</entry>
       </history-search>
       <history-cmd>
         <entry>374</entry>
