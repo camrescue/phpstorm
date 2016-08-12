@@ -125,12 +125,12 @@
       <file name="$USER_HOME$/Sites/Rescue/helix/application/controllers/organizations.php" timestamp="1470958269824">
         <mark key="'" line="161" column="13" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/libraries/milestones/OrganizationMilestoneSrv.php" timestamp="1471028695094">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="55" column="43" />
-        <mark key="]" line="55" column="43" />
-        <mark key="^" line="55" column="43" />
-        <mark key="." line="55" column="43" />
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/libraries/milestones/OrganizationMilestoneSrv.php" timestamp="1471033414550">
+        <mark key="'" line="48" column="32" />
+        <mark key="[" line="133" column="5" />
+        <mark key="]" line="135" column="0" />
+        <mark key="." line="135" column="0" />
+        <mark key="^" line="135" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/js/libs.js" timestamp="1469658728080">
         <mark key="'" line="54720" column="17" />
@@ -148,14 +148,20 @@
         <mark key="^" line="282" column="31" />
         <mark key="." line="282" column="31" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/libraries/milestones/TrainingProjectSrv.php" timestamp="1471033008707">
+        <mark key="[" line="2" column="6" />
+        <mark key="]" line="2" column="23" />
+        <mark key="." line="2" column="23" />
+        <mark key="^" line="2" column="23" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/libraries/milestones/MilestoneTypeBase.php" timestamp="1471024807849">
         <mark key="[" line="33" column="5" />
         <mark key="]" line="46" column="4" />
         <mark key="^" line="46" column="4" />
         <mark key="." line="46" column="4" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/libraries/milestones/MilestoneTwo.php" timestamp="1470961770166">
-        <mark key="'" line="86" column="13" />
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/libraries/milestones/MilestoneTwo.php" timestamp="1471032876401">
+        <mark key="'" line="25" column="21" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/templates/node--event.tpl.php" timestamp="1470434501458">
         <mark key="'" line="113" column="55" />
@@ -291,7 +297,6 @@
       <file name="$USER_HOME$/Sites/Rescue/helix/js/controllers/milestone_manage.js" timestamp="1470942230503">
         <mark key="'" line="18" column="45" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/libraries/milestones/MilestoneFive.php" timestamp="1470956958209" />
       <file name="$USER_HOME$/Sites/Mine/udacity/meetup-planner/src/index.html" timestamp="1470636683021">
         <mark key="'" line="105" column="57" />
         <mark key="[" line="132" column="87" />
@@ -349,11 +354,11 @@
       <file name="$USER_HOME$/Sites/Rescue/helix/application/controllers/groups.php" timestamp="1470940095911">
         <mark key="'" line="32" column="25" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/libraries/milestones/MilestoneTypeSrv.php" timestamp="1471029580292">
-        <mark key="[" line="2" column="19" />
-        <mark key="]" line="2" column="21" />
-        <mark key="^" line="2" column="21" />
-        <mark key="." line="2" column="21" />
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/libraries/milestones/MilestoneTypeSrv.php" timestamp="1471033365273">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="20" column="3" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_quest/src/main.js" timestamp="1469032171737">
         <mark key="'" line="353" column="21" />
@@ -374,11 +379,11 @@
         <mark key="^" line="6" column="19" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/controllers/milestones.php" timestamp="1471028165166">
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/controllers/milestones.php" timestamp="1471033521884">
         <mark key="'" line="60" column="32" />
-        <mark key="[" line="46" column="75" />
-        <mark key="]" line="46" column="76" />
-        <mark key="." line="46" column="76" />
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
         <mark key="^" line="46" column="76" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/survey-admin/resources/views/surveys/tracker.blade.php" timestamp="1468968514693">
@@ -412,7 +417,6 @@
         <mark key="^" line="253" column="51" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/shared/randomizer.js" timestamp="1470868031864" />
       <file name="$USER_HOME$/Sites/Mine/udacity/meetup-planner/src/js/controllers/login.js" timestamp="1470636969291">
         <mark key="'" line="23" column="16" />
         <mark key="[" line="9" column="48" />
@@ -420,9 +424,8 @@
         <mark key="." line="9" column="47" />
         <mark key="^" line="9" column="47" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/surveys/app/Http/Controllers/LgbtCultureController.php" timestamp="1470872993048" />
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/libraries/milestones/MilestoneOne.php" timestamp="1471026359812">
-        <mark key="'" line="73" column="32" />
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/libraries/milestones/MilestoneOne.php" timestamp="1471033543273">
+        <mark key="'" line="23" column="41" />
         <mark key="[" line="35" column="0" />
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
@@ -542,7 +545,7 @@
         <mark key="." line="1092" column="0" />
         <mark key="^" line="1094" column="27" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/libraries/MilestoneHelper.php" timestamp="1471028107923">
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/libraries/MilestoneHelper.php" timestamp="1471032109400">
         <mark key="'" line="662" column="20" />
         <mark key="[" line="600" column="0" />
         <mark key="]" line="600" column="0" />
@@ -643,8 +646,8 @@
         <mark key="." line="149" column="82" />
         <mark key="^" line="149" column="82" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/libraries/abstracts/OrganizationMilestone.php" timestamp="1471025582716">
-        <mark key="'" line="244" column="44" />
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/libraries/abstracts/OrganizationMilestone.php" timestamp="1471033463763">
+        <mark key="'" line="513" column="44" />
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
@@ -772,7 +775,7 @@
         <mark key="]" line="202" column="0" />
         <mark key="." line="202" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/helpers/core_helper.php" timestamp="1470875015082">
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/helpers/core_helper.php" timestamp="1471032509633">
         <mark key="[" line="941" column="40" />
         <mark key="]" line="941" column="40" />
         <mark key="." line="941" column="40" />
@@ -795,7 +798,6 @@
         <mark key="." line="15" column="45" />
         <mark key="^" line="15" column="45" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/views/milestone/manage_org.php" timestamp="1470942666534" />
       <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/less/social-mashup.less" timestamp="1469490790123">
         <mark key="'" line="693" column="15" />
       </file>
@@ -839,44 +841,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="247" column="16" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/abstracts/OrganizationMilestone.php" />
-      <jump line="248" column="24" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/abstracts/OrganizationMilestone.php" />
-      <jump line="252" column="28" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/abstracts/OrganizationMilestone.php" />
-      <jump line="260" column="22" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/abstracts/OrganizationMilestone.php" />
-      <jump line="90" column="21" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/milestones/MilestoneOne.php" />
-      <jump line="76" column="21" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/milestones/MilestoneOne.php" />
-      <jump line="10" column="10" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/milestones/MilestoneOne.php" />
-      <jump line="72" column="47" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/milestones/MilestoneOne.php" />
-      <jump line="28" column="65" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/milestones/MilestoneOne.php" />
-      <jump line="47" column="13" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/milestones/MilestoneOne.php" />
-      <jump line="191" column="27" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/milestones/MilestoneOne.php" />
-      <jump line="193" column="19" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/milestones/MilestoneOne.php" />
-      <jump line="200" column="22" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/milestones/MilestoneOne.php" />
-      <jump line="139" column="19" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/milestones/MilestoneOne.php" />
-      <jump line="189" column="21" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/milestones/MilestoneOne.php" />
-      <jump line="114" column="21" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/milestones/MilestoneOne.php" />
-      <jump line="45" column="51" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/milestones/MilestoneOne.php" />
-      <jump line="194" column="19" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/milestones/MilestoneOne.php" />
-      <jump line="192" column="27" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/milestones/MilestoneOne.php" />
-      <jump line="140" column="27" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/milestones/MilestoneOne.php" />
-      <jump line="27" column="35" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/milestones/MilestoneOne.php" />
-      <jump line="38" column="13" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/milestones/MilestoneOne.php" />
-      <jump line="37" column="13" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/milestones/MilestoneOne.php" />
-      <jump line="74" column="0" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/milestones.php" />
-      <jump line="85" column="68" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/milestones.php" />
-      <jump line="216" column="21" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/abstracts/OrganizationMilestone.php" />
-      <jump line="209" column="23" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/abstracts/OrganizationMilestone.php" />
-      <jump line="97" column="28" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/MilestoneLib.php" />
-      <jump line="36" column="20" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/MilestoneLib.php" />
-      <jump line="29" column="7" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/MilestoneLib.php" />
-      <jump line="20" column="44" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/MilestoneLib.php" />
-      <jump line="8" column="7" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/MilestoneLib.php" />
-      <jump line="14" column="15" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/milestones/MilestoneTwo.php" />
-      <jump line="15" column="15" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/milestones/MilestoneTwo.php" />
-      <jump line="62" column="9" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/milestones/MilestoneTwo.php" />
-      <jump line="86" column="13" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/milestones/MilestoneTwo.php" />
-      <jump line="2344" column="52" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/projects.php" />
-      <jump line="2343" column="20" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/projects.php" />
       <jump line="2192" column="42" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/projects.php" />
       <jump line="2115" column="9" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/projects.php" />
       <jump line="54" column="20" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/MilestoneLib.php" />
@@ -922,10 +886,7 @@
       <jump line="80" column="25" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/abstracts/OrganizationMilestone.php" />
       <jump line="74" column="6" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/abstracts/OrganizationMilestone.php" />
       <jump line="93" column="26" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/MilestoneLib.php" />
-      <jump line="15" column="15" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/milestones/MilestoneOne.php" />
-      <jump line="124" column="31" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/milestones/MilestoneOne.php" />
       <jump line="100" column="31" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/milestones/MilestoneOne.php" />
-      <jump line="167" column="21" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/milestones/MilestoneOne.php" />
       <jump line="13" column="31" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/milestones/MilestoneTrainingProjectPercent.php" />
       <jump line="32" column="0" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/milestones/MilestoneTypeBase.php" />
       <jump line="26" column="36" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/milestones/MilestoneOne.php" />
@@ -937,8 +898,49 @@
       <jump line="54" column="16" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/milestones.php" />
       <jump line="60" column="32" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/milestones.php" />
       <jump line="73" column="32" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/milestones/MilestoneOne.php" />
-      <jump line="56" column="4" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/milestones/OrganizationMilestoneSrv.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/milestones/OrganizationMilestoneSrv.php" />
+      <jump line="15" column="15" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/milestones/MilestoneOne.php" />
+      <jump line="191" column="21" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/milestones/MilestoneOne.php" />
+      <jump line="125" column="31" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/milestones/MilestoneOne.php" />
+      <jump line="68" column="35" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/milestones/MilestoneTwo.php" />
+      <jump line="359" column="17" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/milestones/MilestoneTypeSrv.php" />
+      <jump line="366" column="27" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/milestones/OrganizationMilestoneSrv.php" />
+      <jump line="206" column="0" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/milestones/OrganizationMilestoneSrv.php" />
+      <jump line="182" column="27" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/milestones/MilestoneTypeSrv.php" />
+      <jump line="44" column="0" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/milestones/MilestoneTypeSrv.php" />
+      <jump line="128" column="0" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/milestones/MilestoneOne.php" />
+      <jump line="176" column="12" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/milestones/MilestoneOne.php" />
+      <jump line="23" column="48" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/milestones/MilestoneTypeSrv.php" />
+      <jump line="84" column="8" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/milestones/MilestoneOne.php" />
+      <jump line="51" column="28" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/milestones/OrganizationMilestoneSrv.php" />
+      <jump line="367" column="29" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/milestones/MilestoneTypeSrv.php" />
+      <jump line="307" column="45" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/milestones/MilestoneTypeSrv.php" />
+      <jump line="305" column="23" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/milestones/MilestoneTypeSrv.php" />
+      <jump line="19" column="33" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/milestones/OrganizationMilestoneSrv.php" />
+      <jump line="382" column="0" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/milestones/OrganizationMilestoneSrv.php" />
+      <jump line="56" column="4" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/milestones/OrganizationMilestoneSrv.php" />
+      <jump line="167" column="21" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/milestones/MilestoneOne.php" />
+      <jump line="124" column="31" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/milestones/MilestoneOne.php" />
+      <jump line="87" column="21" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/milestones/OrganizationMilestoneSrv.php" />
+      <jump line="83" column="19" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/milestones/OrganizationMilestoneSrv.php" />
+      <jump line="134" column="22" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/milestones/OrganizationMilestoneSrv.php" />
+      <jump line="195" column="19" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/milestones/MilestoneOne.php" />
+      <jump line="193" column="27" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/milestones/MilestoneOne.php" />
+      <jump line="141" column="19" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/milestones/MilestoneOne.php" />
+      <jump line="46" column="51" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/milestones/MilestoneOne.php" />
+      <jump line="39" column="13" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/milestones/MilestoneOne.php" />
+      <jump line="27" column="29" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/milestones/MilestoneOne.php" />
+      <jump line="25" column="9" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/milestones/MilestoneOne.php" />
+      <jump line="25" column="10" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/milestones/OrganizationMilestoneSrv.php" />
+      <jump line="124" column="21" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/milestones/OrganizationMilestoneSrv.php" />
+      <jump line="67" column="31" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/milestones/OrganizationMilestoneSrv.php" />
+      <jump line="25" column="21" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/milestones/MilestoneTwo.php" />
+      <jump line="126" column="45" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/milestones/OrganizationMilestoneSrv.php" />
+      <jump line="202" column="20" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/milestones/OrganizationMilestoneSrv.php" />
+      <jump line="48" column="32" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/milestones/OrganizationMilestoneSrv.php" />
+      <jump line="510" column="66" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/abstracts/OrganizationMilestone.php" />
+      <jump line="514" column="44" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/abstracts/OrganizationMilestone.php" />
+      <jump line="23" column="41" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/milestones/MilestoneOne.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2783,8 +2785,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>16</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJHJlc3VsdFsnb3JnX21pbGVzdG9uZXMnXSk7Cg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -2838,52 +2840,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>16</text>
+        <text />
       </register>
       <register name="/" type="4">
-        <text>getGoal</text>
+        <text>getEvent</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">cmVxdWlyZV9vbmNlKEFQUFBBVEggLiAnbW9kZWxzL0dvYWxCYW5rLnBocCcpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkbWlsKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJHJlc3VsdFsnb3JnX21pbGVzdG9uZXMnXSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJG1pbGVzdG9uZVNydiA9IG5ldyBPcmdhbml6YXRpb25NaWxlc3RvbmVTcnYoJG9yZywgJGZpc2NhbFllYXIpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkZ29hbE1pbGVzdG9uZU1hcCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJG1pbGVzdG9uZVNydi0+cnVuVGVzdHMoKSk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpbmRleF9yZXN1bHRfc2V0KCRnb2Fscyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJG9yZywkZmlzY2FsWWVhcik7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByb3RlY3RlZCAkZ3JvdXBUeXBlczsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgJHByb2plY3RNb3BzID0gYXJyYXkoKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgJGV2ZW50TW9wcyA9IGFycmF5KCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGdvYWxNaWxlc3RvbmVNYXBbJGdvYWwtPmluZGV4XSA9ICRnb2FsOwo=</text>
+        <text encoding="base64">CiAgICBwcml2YXRlIGZ1bmN0aW9uIGdldE1lbWJlcnNoaXBSZXN1bHQoKQogICAgewogICAgICAgICRncm91cFVzZXJzICAgICAgICA9ICR0aGlzLT5nZXRHcm91cFVzZXJzKCk7CiAgICAgICAgJGN1cnJlbnRHcm91cFVzZXJzID0gJGdyb3VwVXNlcnNbc2VsZjo6TUVNQkVSX0NVUlJFTlRdOwoKICAgICAgICAkbWVtYmVySWQgPSByb2xlVG9JZChBZG1pblJvbGVfbTo6Uk9MRV9NRU1CRVIpOwogICAgICAgICRhbHVtbmlJZCA9IHJvbGVUb0lkKEFkbWluUm9sZV9tOjpST0xFX0FMVU1OSSk7Ci8vICAgICAgICAkbWVtYmVycyA9IGFycmF5X2ZpbHRlcigkY3VycmVudEdyb3VwVXNlcnMsIGZ1bmN0aW9uICgkbikgdXNlICgkbWVtYmVySWQsICRhbHVtbmlJZCkgewovLyAgICAgICAgICAgIHJldHVybiBpbl9hcnJheV9pbnQoJG5bJ3JvbGVfaWQnXSwgWyRtZW1iZXJJZCwgJGFsdW1uaUlkXSk7Ci8vICAgICAgICB9KTsKCiAgICAgICAgJG1lbWJlcnMgPSBhcnJheV9tYXAoZnVuY3Rpb24gKCRuKSB1c2UgKCRtZW1iZXJJZCwgJGFsdW1uaUlkKSB7CiAgICAgICAgICAgICRuWyd1c2VyX2Z1bGxfbmFtZSddID0gam9pbldvcmRzKCRuWydmaXJzdF9uYW1lJ10sICRuWydsYXN0X25hbWUnXSk7CgogICAgICAgICAgICBpZiAoaW5fYXJyYXlfaW50KCRuWydyb2xlX2lkJ10sIFskbWVtYmVySWQsICRhbHVtbmlJZF0pKSB7CiAgICAgICAgICAgICAgICByZXR1cm4gJG47CiAgICAgICAgICAgIH0KICAgICAgICB9LCAkY3VycmVudEdyb3VwVXNlcnMpOwoKICAgICAgICAkbWVtYmVycyA9IGFycmF5X2ZpbHRlcigkbWVtYmVycyk7CgogICAgICAgIHJldHVybiAkbWVtYmVyczsKICAgIH0KCiAgICBwcml2YXRlIGZ1bmN0aW9uIGdldFRyYWluaW5nUGVyY2VudCgpCiAgICB7CiAgICAgICAgJG1lbWJlclJlc3VsdCA9ICR0aGlzLT5nZXRNZW1iZXJzaGlwUmVzdWx0KCk7CiAgICAgICAgJGF0dGVuZFJlc3VsdCA9ICR0aGlzLT5nZXRBdHRlbmRhbmNlUmVzdWx0KCk7CgogICAgICAgIHJldHVybiAkdGhpcy0+dHJhaW5pbmdQcm9qZWN0UGVyY2VudCgKICAgICAgICAgICAgY291bnQoJG1lbWJlclJlc3VsdCksCiAgICAgICAgICAgIGNvdW50KCRhdHRlbmRSZXN1bHRbc2VsZjo6TUVNQkVSX0NVUlJFTlRdKQogICAgICAgICk7CiAgICB9CgogICAgcHJpdmF0ZSBmdW5jdGlvbiB0cmFpbmluZ1Byb2plY3RQZXJjZW50KCRjb21wbGV0ZWRQcm9qZWN0cywgJHRyYWluaW5nQXR0ZW5kYW5jZSkKICAgIHsKICAgICAgICAkY29tcGxldGVkUHJvamVjdHMgID0gKGludCkkY29tcGxldGVkUHJvamVjdHM7CiAgICAgICAgJHRyYWluaW5nQXR0ZW5kYW5jZSA9IChpbnQpJHRyYWluaW5nQXR0ZW5kYW5jZTsKICAgICAgICBpZiAoJHRyYWluaW5nQXR0ZW5kYW5jZSA9PT0gMCkgewogICAgICAgICAgICByZXR1cm4gMDsKICAgICAgICB9CgogICAgICAgICRwZXJjZW50RGVjaW1hbCA9ICgkY29tcGxldGVkUHJvamVjdHMgLyAkdHJhaW5pbmdBdHRlbmRhbmNlKTsKCiAgICAgICAgcmV0dXJuIHJvdW5kKCRwZXJjZW50RGVjaW1hbCAqIDEwMCk7CiAgICB9CgogICAgcHJvdGVjdGVkIGZ1bmN0aW9uIGdldEF0dGVuZGFuY2VSZXN1bHQoKQogICAgewogICAgICAgIGlmICghaXNzZXQoJHRoaXMtPmF0dGVuZGFuY2VSZXN1bHQpKSB7CiAgICAgICAgICAgICR0aGlzLT5hdHRlbmRhbmNlUmVzdWx0ID0gJHRoaXMtPmdldEV2ZW50QXR0ZW5kYW5jZUNsYXVzZSgpCiAgICAgICAgICAgICAgICAtPm1pbGVzdG9uZUNsYXVzZShNaWxlc3RvbmVIZWxwZXI6OlRZUEVfVFJBSU5JTkdfUFJPSkVDVF9QRVJDRU5UKQogICAgICAgICAgICAgICAgLT5vcmRlckJ5TmFtZSgpCiAgICAgICAgICAgICAgICAtPmdyb3VwZWRSZXN1bHRzKCk7CgogICAgICAgIH0KCiAgICAgICAgcmV0dXJuICR0aGlzLT5hdHRlbmRhbmNlUmVzdWx0OwogICAgfQoKCiAgICBwcm90ZWN0ZWQgZnVuY3Rpb24gZ2V0RXZlbnRBdHRlbmRhbmNlQ2xhdXNlKCkKICAgIHsKICAgICAgICAkdGhpcy0+Z2V0RXZlbnRDbGF1c2UoKQogICAgICAgICAgICAtPmdyb3VwQnlVc2VycygpCiAgICAgICAgICAgIC0+YXR0ZW5kQ2xhdXNlKDEpOwoKICAgICAgICByZXR1cm4gJHRoaXM7CiAgICB9CgogICAgcHVibGljIGZ1bmN0aW9uIGdldFByb2plY3RNb3BzQnlNaWxlc3RvbmVUeXBlSWQoJG1pbGVzdG9uZVR5cGVJZCkKICAgIHsKICAgICAgICAkcHJlZml4ID0gJ21pbGVzdG9uZSc7CiAgICAgICAgJGtleSAgICA9ICRwcmVmaXggLiAnXycgLiAkbWlsZXN0b25lVHlwZUlkOwogICAgICAgIGlmICghaXNzZXQoJHRoaXMtPnByb2plY3RNb3BzWyRrZXldKSkgewogICAgICAgICAgICAkdGhpcy0+cHJvamVjdE1vcHNbJGtleV0gPSAkdGhpcy0+Z2V0UHJvamVjdENsYXVzZSgpCiAgICAgICAgICAgICAgICAtPm1pbGVzdG9uZUNsYXVzZSgkbWlsZXN0b25lVHlwZUlkKQogICAgICAgICAgICAgICAgLT5vcmRlckJ5TmFtZSgpCiAgICAgICAgICAgICAgICAtPmdldFJlc3VsdHMoKTsKICAgICAgICB9CgogICAgICAgIHJldHVybiAkdGhpcy0+cHJvamVjdE1vcHNbJGtleV07CiAgICB9CgogICAgcHVibGljIGZ1bmN0aW9uIGdldFByb2plY3RNb3BzQnlQcm9qZWN0VHlwZUlkKCRwcm9qZWN0VHlwZUlkKQogICAgewogICAgICAgICRwcmVmaXggPSAncHJvamVjdF90eXBlJzsKICAgICAgICAka2V5ICAgID0gJHByZWZpeCAuICdfJyAuICRwcm9qZWN0VHlwZUlkOwogICAgICAgIGlmICghaXNzZXQoJHRoaXMtPnByb2plY3RNb3BzWyRrZXldKSkgewogICAgICAgICAgICAkdGhpcy0+cHJvamVjdE1vcHNbJGtleV0gPSAkdGhpcy0+Z2V0UHJvamVjdENsYXVzZSgpCiAgICAgICAgICAgICAgICAtPnByb2plY3RUeXBlQ2xhdXNlKCRwcm9qZWN0VHlwZUlkKQogICAgICAgICAgICAgICAgLT5vcmRlckJ5TmFtZSgpCiAgICAgICAgICAgICAgICAtPmdyb3VwQnlVc2VycygpCiAgICAgICAgICAgICAgICAtPmdyb3VwZWRSZXN1bHRzKCk7CiAgICAgICAgfQoKICAgICAgICByZXR1cm4gJHRoaXMtPnByb2plY3RNb3BzWyRrZXldOwogICAgfQoKICAgIHByb3RlY3RlZCBmdW5jdGlvbiBnZXRFdmVudE1vcHNCeU1pbGVzdG9uZVR5cGVJZCgkbWlsZXN0b25lVHlwZUlkKQogICAgewogICAgICAgICRwcmVmaXggPSAnbWlsZXN0b25lJzsKICAgICAgICAka2V5ICAgID0gJHByZWZpeCAuICdfJyAuICRtaWxlc3RvbmVUeXBlSWQ7CiAgICAgICAgaWYgKCFpc3NldCgkdGhpcy0+ZXZlbnRNb3BzWyRrZXldKSkgewogICAgICAgICAgICAkcXVlcnkgICAgICAgICAgICAgICAgID0gYXJyYXkoJHByZWZpeCA9PiAkbWlsZXN0b25lVHlwZUlkKTsKICAgICAgICAgICAgJHRoaXMtPmV2ZW50TW9wc1ska2V5XSA9ICR0aGlzLT5ldmVudE1vcFF1ZXJ5KCRxdWVyeSk7CiAgICAgICAgfQoKICAgICAgICByZXR1cm4gJHRoaXMtPmV2ZW50TW9wc1ska2V5XTsKICAgIH0KCiAgICBwcm90ZWN0ZWQgZnVuY3Rpb24gZ2V0RXZlbnRNb3BzQnlQcm9qZWN0VHlwZUlkKCRwcm9qZWN0VHlwZUlkKQogICAgewogICAgICAgICRwcmVmaXggPSAncHJvamVjdF90eXBlJzsKICAgICAgICAka2V5ICAgID0gJHByZWZpeCAuICdfJyAuICRwcm9qZWN0VHlwZUlkOwogICAgICAgIGlmICghaXNzZXQoJHRoaXMtPmV2ZW50TW9wc1ska2V5XSkpIHsKICAgICAgICAgICAgJHF1ZXJ5ICAgICAgICAgICAgICAgICA9IGFycmF5KCRwcmVmaXggPT4gJHByb2plY3RUeXBlSWQpOwogICAgICAgICAgICAkdGhpcy0+ZXZlbnRNb3BzWyRrZXldID0gJHRoaXMtPmV2ZW50TW9wUXVlcnkoJHF1ZXJ5KTsKICAgICAgICB9CgogICAgICAgIHJldHVybiAkdGhpcy0+ZXZlbnRNb3BzWyRrZXldOwogICAgfQoKICAgIHByb3RlY3RlZCBmdW5jdGlvbiBnZXRQcm9qZWN0SW5zdGFuY2VDb21wbGV0ZUNsYXVzZSgpCiAgICB7CiAgICAgICAgJHRoaXMtPmRiLT53aGVyZV9pbigncHJvamVjdF9pbnN0YW5jZS5zdGF0dXMnLCAkdGhpcy0+Z2V0UHJvamVjdEluc3RhbmNlQ29tcGxldGVTdGF0dXNJZHMoKSk7CiAgICB9CgogICAgcHJvdGVjdGVkIGZ1bmN0aW9uIGdldFByb2plY3RJbnN0YW5jZUNvbXBsZXRlU3RhdHVzSWRzKCkKICAgIHsKICAgICAgICByZXR1cm4gYXJyYXkoUHJvamVjdF9JbnN0YW5jZV9SZXBvOjpTVEFUVVNfQ09NUExFVEUsIFByb2plY3RfSW5zdGFuY2VfUmVwbzo6U1RBVFVTX1VOUVVBTElGSUVEKTsKICAgIH0KCiAgICBwcm90ZWN0ZWQgZnVuY3Rpb24gYWRkV2hlcmVGaWVsZENsYXVzZSgkdmFsdWUsICRmaWVsZCkKICAgIHsKICAgICAgICBpZiAoIWVtcHR5KCR2YWx1ZSkpIHsKICAgICAgICAgICAgcmV0dXJuICIgQU5EIGAkZmllbGRgID0gICR2YWx1ZSI7CiAgICAgICAgfQoKICAgICAgICByZXR1cm4gJyc7CiAgICB9CgogICAgcHJvdGVjdGVkIGZ1bmN0aW9uIHByb2plY3RUeXBlQ2xhdXNlKCRwcm9qZWN0VHlwZUlkKQogICAgewogICAgICAgICR0aGlzLT5kYi0+d2hlcmUoJ3Byb2plY3RfdHlwZScsICRwcm9qZWN0VHlwZUlkKTsKCiAgICAgICAgcmV0dXJuICR0aGlzOwoKICAgIH0KCiAgICBwcm90ZWN0ZWQgZnVuY3Rpb24gYWRkTWlsZXN0b25lSWRDbGF1c2UoJHF1ZXJ5U3RyLCAkbWlsZXN0b25lSWQpCiAgICB7CiAgICAgICAgJHF1ZXJ5U3RyIC49ICcgQU5EIG1pbGVzdG9uZSA9ICcgLiAkbWlsZXN0b25lSWQ7CgogICAgICAgIHJldHVybiAkcXVlcnlTdHI7CiAgICB9CgoKICAgIHByb3RlY3RlZCBmdW5jdGlvbiBncm91cGVkUmVzdWx0cygpCiAgICB7CiAgICAgICAgJHJvd3MgID0gJHRoaXMtPmdldFJlc3VsdHMoKTsKICAgICAgICAkdHlwZXMgPSAkdGhpcy0+Z2V0QXZhaWxhYmxlR3JvdXBUeXBlcygpOwoKICAgICAgICAkcmVzdWx0cyA9IGFycmF5KCk7CiAgICAgICAgZm9yZWFjaCAoJHR5cGVzIGFzICR0eXBlKSB7CiAgICAgICAgICAgICRyZXN1bHRzWyR0eXBlXSA9IGFycmF5KCk7CiAgICAgICAgfQoKICAgICAgICBmb3JlYWNoICgkcm93cyBhcyAkcm93KSB7CiAgICAgICAgICAgICR0eXBlICAgICAgICAgICAgID0gaW50Y21wKCRyb3dbJ2Zpc2NhbF95ZWFyJ10sICR0aGlzLT5maXNjYWxZZWFyKSA/IHNlbGY6Ok1FTUJFUl9DVVJSRU5UIDogc2VsZjo6TUVNQkVSX1ZFVEVSQU47CiAgICAgICAgICAgICRyZXN1bHRzWyR0eXBlXVtdID0gJHJvdzsKICAgICAgICB9CgogICAgICAgIHJldHVybiAkcmVzdWx0czsKCiAgICB9CgogICAgcHJpdmF0ZSBmdW5jdGlvbiBnZXRBdmFpbGFibGVHcm91cFR5cGVzKCkKICAgIHsKICAgICAgICByZXR1cm4gYXJyYXkoc3RhdGljOjpNRU1CRVJfQ1VSUkVOVCwgc3RhdGljOjpNRU1CRVJfVkVURVJBTik7CiAgICB9CgoKICAgIHByb3RlY3RlZCBmdW5jdGlvbiBnZXRSZXN1bHRzKCkKICAgIHsKICAgICAgICAkcXVlcnkgPSAkdGhpcy0+ZGItPmdldCgpOwogICAgICAgIGNoZWNrRGJFcnJvcigpOwoKICAgICAgICByZXR1cm4gJHF1ZXJ5LT5yZXN1bHRfYXJyYXkoKTsKICAgIH0KCiAgICBwcm90ZWN0ZWQgZnVuY3Rpb24gbWlsZXN0b25lQ2xhdXNlKCRtaWxlc3RvbmVJZCkKICAgIHsKICAgICAgICAkdGhpcy0+ZGItPndoZXJlKCdtaWxlc3RvbmUnLCAkbWlsZXN0b25lSWQpOwoKICAgICAgICByZXR1cm4gJHRoaXM7CiAgICB9CgogICAgcHJvdGVjdGVkIGZ1bmN0aW9uIGF0dGVuZENsYXVzZSgkYXR0ZW5kU3RhdHVzID0gMSkKICAgIHsKICAgICAgICAkdGhpcy0+ZGItPndoZXJlKCdldmVudF9zZXNzaW9uX2luc3RhbmNlLmF0dGVuZF9zdGF0dXMnLCAkYXR0ZW5kU3RhdHVzKTsKCiAgICAgICAgcmV0dXJuICR0aGlzOwogICAgfQoKICAgIHByb3RlY3RlZCBmdW5jdGlvbiBncm91cENsYXVzZSgkZ3JvdXBJZHMpCiAgICB7CiAgICAgICAgJHRoaXMtPmRiLT53aGVyZV9pbigndXNlci5ncm91cCcsICRncm91cElkcyk7CgogICAgICAgIHJldHVybiAkdGhpczsKICAgIH0KCiAgICBwcm90ZWN0ZWQgZnVuY3Rpb24gZ2V0R3JvdXBVc2VycygpCiAgICB7CiAgICAgICAgJGN1cnJlbnRHcm91cElkcyA9IGFycmF5X3BsdWNrKGVtcHR5RmFsbGJhY2soJHRoaXMtPmdyb3VwVHlwZXNbc2VsZjo6TUVNQkVSX0NVUlJFTlRdLCBbXSksICdpZCcpOwogICAgICAgICR2ZXRlcmFuR3JvdXBJZHMgPSBhcnJheV9wbHVjayhlbXB0eUZhbGxiYWNrKCR0aGlzLT5ncm91cFR5cGVzW3NlbGY6Ok1FTUJFUl9WRVRFUkFOXSwgW10pLCAnaWQnKTsKCiAgICAgICAgcmV0dXJuIFsKICAgICAgICAgICAgc2VsZjo6TUVNQkVSX0NVUlJFTlQgPT4gVXNlclNydjo6ZmV0Y2hRdWVyeShbJ2dyb3VwJyA9PiAkY3VycmVudEdyb3VwSWRzXSwgdHJ1ZSksCiAgICAgICAgICAgIHNlbGY6Ok1FTUJFUl9WRVRFUkFOID0+IFVzZXJTcnY6OmZldGNoUXVlcnkoWydncm91cCcgPT4gJHZldGVyYW5Hcm91cElkc10sIHRydWUpCiAgICAgICAgXTsKICAgIH0KCiAgICBwcm90ZWN0ZWQgZnVuY3Rpb24gZ2V0TW9wU3VtKCRyb3dzLCAkZmllbGQgPSAnbW9wX3ZhbHVlJykKICAgIHsKICAgICAgICAkc3VtID0gMDsKICAgICAgICBmb3JlYWNoICgkcm93cyBhcyAkcm93KSB7CiAgICAgICAgICAgICRzdW0gKz0gKGludCkkcm93WyRmaWVsZF07CiAgICAgICAgfQoKICAgICAgICByZXR1cm4gJHN1bTsKICAgIH0KCiAgICBwcm90ZWN0ZWQgZnVuY3Rpb24gZ2V0RXZlbnRBdHRlbmRhbmNlUmVzdWx0KCRyb3dzKQogICAgewogICAgICAgICR0eXBlcyAgICAgICAgICAgICAgICA9IGFycmF5KHNlbGY6Ok1FTUJFUl9DVVJSRU5ULCBzZWxmOjpNRU1CRVJfVkVURVJBTik7CiAgICAgICAgJHJlc3VsdHMgICAgICAgICAgICAgID0gYXJyYXkoKTsKICAgICAgICAkcmVzdWx0c1snbW9wX3ZhbHVlJ10gPSAwOwogICAgICAgIGZvcmVhY2ggKCR0eXBlcyBhcyAkdHlwZSkgewogICAgICAgICAgICAkcmVzdWx0c1skdHlwZV0gPSBhcnJheSgKICAgICAgICAgICAgICAgICdhdHRlbmRDb3VudCcgPT4gMCwKICAgICAgICAgICAgICAgICdyZXBvcnQnICAgICAgPT4gYXJyYXkoKSwKICAgICAgICAgICAgKTsKICAgICAgICB9CgogICAgICAgIGZvcmVhY2ggKCRyb3dzIGFzICRyb3cpIHsKICAgICAgICAgICAgJHR5cGUgPSBpbnRjbXAoJHJvd1snZmlzY2FsX3llYXInXSwgJHRoaXMtPmZpc2NhbFllYXIpID8gc2VsZjo6TUVNQkVSX0NVUlJFTlQgOiBzZWxmOjpNRU1CRVJfVkVURVJBTjsKICAgICAgICAgICAgJHJlc3VsdHNbJHR5cGVdWydhdHRlbmRDb3VudCddKys7CiAgICAgICAgICAgICRyZXN1bHRzWyR0eXBlXVsncmVwb3J0J11bXSA9ICRyb3c7CiAgICAgICAgICAgICRyZXN1bHRzWydtb3BfdmFsdWUnXSArPSAoaW50KSRyb3dbJ21vcF92YWx1ZSddOwogICAgICAgIH0KICAgIH0KCiAgICBwcm90ZWN0ZWQgZnVuY3Rpb24gZ3JvdXBCeVByb2plY3RJbnN0YW5jZSgpCiAgICB7CiAgICAgICAgJHRoaXMtPmRiLT5ncm91cF9ieSgncHJvamVjdF9pbnN0YW5jZS5pZCcpOwoKICAgICAgICByZXR1cm4gJHRoaXM7CiAgICB9CgogICAgcHJvdGVjdGVkIGZ1bmN0aW9uIGdyb3VwQnlTZXNzaW9uSW5zdGFuY2UoKQogICAgewogICAgICAgICR0aGlzLT5kYi0+Z3JvdXBfYnkoJ2V2ZW50X3Nlc3Npb25faW5zdGFuY2UuaWQnKTsKCiAgICAgICAgcmV0dXJuICR0aGlzOwogICAgfQoKICAgIHByb3RlY3RlZCBmdW5jdGlvbiBncm91cEJ5VXNlcnMoKQogICAgewogICAgICAgICR0aGlzLT5kYi0+Z3JvdXBfYnkoJ3VzZXIuaWQnKTsKCiAgICAgICAgcmV0dXJuICR0aGlzOwogICAgfQoKICAgIHByb3RlY3RlZCBmdW5jdGlvbiBvcmRlckJ5TmFtZSgkdHlwZSA9ICdBU0MnKQogICAgewogICAgICAgICR0aGlzLT5kYi0+b3JkZXJfYnkoJ3VzZXJfZnVsbF9uYW1lICcgLiAkdHlwZSk7CgogICAgICAgIHJldHVybiAkdGhpczsKICAgIH0KCiAgICBwcm90ZWN0ZWQgZnVuY3Rpb24gZ2V0R3JvdXBJZHMoKQogICAgewogICAgICAgIHJldHVybiBvYmpfYXJyYXlfdmFsdWVzKCdpZCcsICR0aGlzLT5ncm91cHMpOwogICAgfQoKICAgIHByb3RlY3RlZCBmdW5jdGlvbiBnZXREYXRlU3RyKCRmaWVsZCkKICAgIHsKICAgICAgICAkZGF0ZVN0ciA9ICIoJGZpZWxkID49ICciIC4gZ2V0RmlzY2FsU3RhcnREYXRlKCR0aGlzLT5maXNjYWxZZWFyKSAuICInIEFORCAkZmllbGQgPCAnIiAuIGdldEZpc2NhbEVuZERhdGUoJHRoaXMtPmZpc2NhbFllYXIpIC4gIicpIjsKCiAgICAgICAgcmV0dXJuICRkYXRlU3RyOwogICAgfQoKICAgIHByb3RlY3RlZCBmdW5jdGlvbiBkYXRlQ2xhdXNlKCRmaWVsZCkKICAgIHsKICAgICAgICAkdGhpcy0+ZGItPndoZXJlKCR0aGlzLT5nZXREYXRlU3RyKCRmaWVsZCksIG51bGwsIGZhbHNlKTsKCiAgICAgICAgcmV0dXJuICR0aGlzOwogICAgfQoKICAgIHByaXZhdGUgZnVuY3Rpb24gZXZlbnRNb3BRdWVyeSgkZmlsdGVyT3B0cyA9IGFycmF5KCkpCiAgICB7CiAgICAgICAgJG1pbGVzdG9uZVR5cGVJZCA9IGdldFZhbHVlKCRmaWx0ZXJPcHRzWydtaWxlc3RvbmUnXSk7CiAgICAgICAgJHByb2plY3RUeXBlSWQgICA9IGdldFZhbHVlKCRmaWx0ZXJPcHRzWydwcm9qZWN0X3R5cGUnXSk7CgogICAgICAgICRxdWVyeVN0ciA9ICIKICAgICAgICAgICAgU0VMRUNUCiAgICAgICAgICAgICAgcHJvamVjdC5pc19ldmVudCwKICAgICAgICAgICAgICBwcm9qZWN0X2luc3RhbmNlLnVzZXJfaWQsCiAgICAgICAgICAgICAgcHJvamVjdF9pbnN0YW5jZS5wcm9qZWN0X2lkLAogICAgICAgICAgICAgIHByb2plY3RfaW5zdGFuY2UuaWQgYXMgcHJvamVjdF9pbnN0YW5jZV9pZCwKICAgICAgICAgICAgICBwcm9qZWN0Lm5hbWUgYXMgcHJvamVjdF9uYW1lLAogICAgICAgICAgICAgIChwcm9qZWN0X2luc3RhbmNlX21vcC5jb25maXJtZWRfY291bnQgKiBwcm9qZWN0X2luc3RhbmNlX21vcC5tb3BfbWlsZXN0b25lX3ZhbHVlKSBhcyBtb3BfdmFsdWUsCiAgICAgICAgICAgICAgQ09OQ0FUX1dTKCcgJywgZmlyc3RfbmFtZSwgbGFzdF9uYW1lKSBhcyB1c2VyX2Z1bGxfbmFtZSwKICAgICAgICAgICAgICB1c2VyLmdyb3VwIGFzIHVzZXJfZ3JvdXAsCiAgICAgICAgICAgICAgZ3JvdXAubmFtZSBhcyBncm91cF9uYW1lLAogICAgICAgICAgICAgIGdyb3VwLmZpc2NhbF95ZWFyLAogICAgICAgICAgICAgIHQxLmNyZWF0ZWQsCiAgICAgICAgICAgICAgbW9wLmlkIGFzIG1vcF9pZCwKICAgICAgICAgICAgICBtb3AubmFtZSBhcyBtb3BfbmFtZQogICAgICAgICAgICBGUk9NIChgcHJvamVjdF9pbnN0YW5jZV9tb3BgKQogICAgICAgICAgICBKT0lOIGBwcm9qZWN0X2luc3RhbmNlYCBPTiBgcHJvamVjdF9pbnN0YW5jZWAuYGlkYCA9IGBwcm9qZWN0X2luc3RhbmNlX21vcGAuYHByb2plY3RfaW5zdGFuY2VfaWRgCiAgICAgICAgICAgIExFRlQgSk9JTiBgbW9wYCBPTiBgcHJvamVjdF9pbnN0YW5jZV9tb3BgLmBtb3BfaWRgID0gYG1vcGAuYGlkYAogICAgICAgICAgICBKT0lOIGBwcm9qZWN0YCBPTiBgcHJvamVjdGAuYGlkYCA9IGBwcm9qZWN0X2luc3RhbmNlYC5gcHJvamVjdF9pZGAKICAgICAgICAgICAgSk9JTiBgdXNlcmAgT04gYHVzZXJgLmBpZGAgPSBgcHJvamVjdF9pbnN0YW5jZWAuYHVzZXJfaWRgCiAgICAgICAgICAgIEpPSU4gYGdyb3VwYCBPTiBgdXNlcmAuYGdyb3VwYCA9IGBncm91cGAuYGlkYAogICAgICAgICAgICBKT0lOCiAgICAgICAgICAgICgKICAgICAgICAgICAgICAgIFNFTEVDVCBjb3VudCgqKSBhcyBzZXNzaW9uX2NvdW50LCBzdGFydCBhcyBjcmVhdGVkLCBwcm9qZWN0X2lkCiAgICAgICAgICAgICAgICBGUk9NIGV2ZW50X3Nlc3Npb24KICAgICAgICAgICAgICAgIFdIRVJFICIgLiAkdGhpcy0+Z2V0RGF0ZVN0cignZXZlbnRfc2Vzc2lvbi5zdGFydCcpIC4gIgogICAgICAgICAgICAgICAgR1JPVVAgQlkgcHJvamVjdF9pZAogICAgICAgICAgICApIGFzIHQxCiAgICAgICAgICAgIE9OIHQxLnByb2plY3RfaWQgPSBwcm9qZWN0X2luc3RhbmNlLnByb2plY3RfaWQKICAgICAgICAgICAgV0hFUkUgYHByb2plY3RgLmBpc19ldmVudGAgPSAgMSBBTkQKICAgICAgICAgICAgICAgIGB1c2VyYC5gZ3JvdXBgIElOICIgLiBzcWxMaXN0KCR0aGlzLT5nZXRHcm91cElkcygpKSAuICIKICAgICAgICAgICAgIiAuCiAgICAgICAgICAgICR0aGlzLT5hZGRXaGVyZUZpZWxkQ2xhdXNlKCRtaWxlc3RvbmVUeXBlSWQsICdtaWxlc3RvbmUnKSAuCiAgICAgICAgICAgICR0aGlzLT5hZGRXaGVyZUZpZWxkQ2xhdXNlKCRwcm9qZWN0VHlwZUlkLCAncHJvamVjdF90eXBlJykgLgogICAgICAgICAgICAiIEFORCBgcHJvamVjdF9pbnN0YW5jZWAuc3RhdHVzIElOICIgLiBzcWxMaXN0KCR0aGlzLT5nZXRQcm9qZWN0SW5zdGFuY2VDb21wbGV0ZVN0YXR1c0lkcygpLCBjaSgpKSAuICIKICAgICAgICAgICAgT1JERVIgQlkgYHVzZXJfZnVsbF9uYW1lYCBBU0MKICAgICAgICAiOwoKICAgICAgICAkcXVlcnkgPSAkdGhpcy0+ZGItPnF1ZXJ5KCRxdWVyeVN0cik7CiAgICAgICAgY2hlY2tEYkVycm9yKCk7CgogICAgICAgIHJldHVybiAkcXVlcnktPnJlc3VsdF9hcnJheSgpOwogICAgfQoKICAgIHByaXZhdGUgZnVuY3Rpb24gZ2V0RXZlbnRDbGF1c2UoKQogICAgewogICAgICAgICR0aGlzLT5kYi0+c2VsZWN0KCIKICAgICAgICAgICAgZXZlbnRfc2Vzc2lvbl9pbnN0YW5jZS4qLAogICAgICAgICAgICBldmVudF9zZXNzaW9uX2luc3RhbmNlLmlkIGFzIGV2ZW50X3Nlc3Npb25faW5zdGFuY2VfaWQsCiAgICAgICAgICAgIGV2ZW50X3Nlc3Npb24uc3RhcnQgYXMgY3JlYXRlZCwKICAgICAgICAgICAgcHJvamVjdC5pc19ldmVudCwKICAgICAgICAgICAgcHJvamVjdF9pbnN0YW5jZS5pZCBhcyBwcm9qZWN0X2luc3RhbmNlX2lkLAogICAgICAgICAgICBwcm9qZWN0X2luc3RhbmNlLnVzZXJfaWQsCiAgICAgICAgICAgIHByb2plY3RfaW5zdGFuY2UucHJvamVjdF9pZCwKICAgICAgICAgICAgcHJvamVjdC5uYW1lIGFzIHByb2plY3RfbmFtZSwKICAgICAgICAgICAgKHByb2plY3RfaW5zdGFuY2VfbW9wLmNvbmZpcm1lZF9jb3VudCAqIHByb2plY3RfaW5zdGFuY2VfbW9wLm1vcF9taWxlc3RvbmVfdmFsdWUpIGFzIG1vcF92YWx1ZSwKICAgICAgICAgICAgQ09OQ0FUX1dTKCcgJywgZmlyc3RfbmFtZSwgbGFzdF9uYW1lKSBhcyB1c2VyX2Z1bGxfbmFtZSwKICAgICAgICAgICAgdXNlci5ncm91cCBhcyB1c2VyX2dyb3VwLAogICAgICAgICAgICB1c2VyLmlkIGFzIHVzZXJfaWQsCiAgICAgICAgICAgIHVzZXIucm9sZV9pZCwKICAgICAgICAgICAgZ3JvdXAubmFtZSBhcyBncm91cF9uYW1lLAogICAgICAgICAgICBncm91cC5maXNjYWxfeWVhciwKICAgICAgICAgICAgbW9wLmlkIGFzIG1vcF9pZCwKICAgICAgICAgICAgbW9wLm5hbWUgYXMgbW9wX25hbWUKICAgICAgICAiLCBmYWxzZSk7CgogICAgICAgICR0aGlzLT5kYi0+ZnJvbSgnZXZlbnRfc2Vzc2lvbl9pbnN0YW5jZScpOwoKICAgICAgICAkdGhpcy0+ZGItPmpvaW4oJ3Byb2plY3RfaW5zdGFuY2UnLCAncHJvamVjdF9pbnN0YW5jZS5pZCA9IGV2ZW50X3Nlc3Npb25faW5zdGFuY2UucHJvamVjdF9pbnN0YW5jZV9pZCcpOwogICAgICAgICR0aGlzLT5kYi0+am9pbigncHJvamVjdF9pbnN0YW5jZV9tb3AnLCAncHJvamVjdF9pbnN0YW5jZV9tb3AucHJvamVjdF9pbnN0YW5jZV9pZCA9IHByb2plY3RfaW5zdGFuY2UuaWQnLCAnbGVmdCcpOwogICAgICAgICR0aGlzLT5kYi0+am9pbignbW9wJywgJ3Byb2plY3RfaW5zdGFuY2VfbW9wLm1vcF9pZCA9IG1vcC5pZCcsICdsZWZ0Jyk7CiAgICAgICAgJHRoaXMtPmRiLT5qb2luKCdwcm9qZWN0JywgJ3Byb2plY3QuaWQgPSBwcm9qZWN0X2luc3RhbmNlLnByb2plY3RfaWQnKTsKICAgICAgICAkdGhpcy0+ZGItPmpvaW4oJ3VzZXInLCAndXNlci5pZCA9IHByb2plY3RfaW5zdGFuY2UudXNlcl9pZCcpOwogICAgICAgICR0aGlzLT5kYi0+am9pbignZ3JvdXAnLCAndXNlci5ncm91cCA9IGdyb3VwLmlkJyk7CiAgICAgICAgJHRoaXMtPmRiLT5qb2luKCdldmVudF9zZXNzaW9uJywgJ2V2ZW50X3Nlc3Npb24ucHJvamVjdF9pZCA9IHByb2plY3RfaW5zdGFuY2UucHJvamVjdF9pZCcpOwogICAgICAgICR0aGlzLT5kYi0+d2hlcmUoJ3Byb2plY3QuaXNfZXZlbnQnLCAxKTsKICAgICAgICAkdGhpcy0+Z2V0UHJvamVjdEluc3RhbmNlQ29tcGxldGVDbGF1c2UoKTsKICAgICAgICAkdGhpcy0+Z3JvdXBDbGF1c2UoJHRoaXMtPmdldEdyb3VwSWRzKCkpOwogICAgICAgICR0aGlzLT5kYXRlQ2xhdXNlKCdldmVudF9zZXNzaW9uLnN0YXJ0Jyk7CgogICAgICAgIHJldHVybiAkdGhpczsKICAgIH0KCiAgICBwcml2YXRlIGZ1bmN0aW9uIGdldFByb2plY3RDbGF1c2UoKQogICAgewogICAgICAgICR0aGlzLT5kYi0+c2VsZWN0KCIKICAgICAgICAgICAgKHByb2plY3RfaW5zdGFuY2VfbW9wLmNvbmZpcm1lZF9jb3VudCAqIHByb2plY3RfaW5zdGFuY2VfbW9wLm1vcF9taWxlc3RvbmVfdmFsdWUpIGFzIG1vcF92YWx1ZSwKICAgICAgICAgICAgcHJvamVjdF9pbnN0YW5jZS4qLAogICAgICAgICAgICBwcm9qZWN0X2luc3RhbmNlLmlkIGFzIHByb2plY3RfaW5zdGFuY2VfaWQsCiAgICAgICAgICAgIHByb2plY3QubmFtZSBhcyBwcm9qZWN0X25hbWUsCiAgICAgICAgICAgIENPTkNBVF9XUygnICcsIGZpcnN0X25hbWUsIGxhc3RfbmFtZSkgYXMgdXNlcl9mdWxsX25hbWUsCiAgICAgICAgICAgIHVzZXIuaWQgYXMgdXNlcl9pZCwKICAgICAgICAgICAgdXNlci5ncm91cCBhcyB1c2VyX2dyb3VwLAogICAgICAgICAgICBncm91cC5uYW1lIGFzIGdyb3VwX25hbWUsCiAgICAgICAgICAgIGdyb3VwLmZpc2NhbF95ZWFyLAogICAgICAgICAgICBtb3AuaWQgYXMgbW9wX2lkLAogICAgICAgICAgICBtb3AubmFtZSBhcyBtb3BfbmFtZQogICAgICAgICIsIGZhbHNlKTsKCiAgICAgICAgJHRoaXMtPmRiLT5mcm9tKCdwcm9qZWN0X2luc3RhbmNlJyk7CiAgICAgICAgJHRoaXMtPmRiLT5qb2luKCd1c2VyJywgJ3VzZXIuaWQgPSBwcm9qZWN0X2luc3RhbmNlLnVzZXJfaWQnKTsKICAgICAgICAkdGhpcy0+ZGItPmpvaW4oJ3Byb2plY3QnLCAncHJvamVjdC5pZCA9IHByb2plY3RfaW5zdGFuY2UucHJvamVjdF9pZCcpOwogICAgICAgICR0aGlzLT5kYi0+am9pbigncHJvamVjdF9pbnN0YW5jZV9tb3AnLCAncHJvamVjdF9pbnN0YW5jZV9tb3AucHJvamVjdF9pbnN0YW5jZV9pZCA9IHByb2plY3RfaW5zdGFuY2UuaWQnKTsKICAgICAgICAkdGhpcy0+ZGItPmpvaW4oJ2dyb3VwJywgJ2dyb3VwLmlkID0gdXNlci5ncm91cCcpOwogICAgICAgICR0aGlzLT5kYi0+am9pbignbW9wJywgJ3Byb2plY3RfaW5zdGFuY2VfbW9wLm1vcF9pZCA9IG1vcC5pZCcsICdsZWZ0Jyk7CiAgICAgICAgJHRoaXMtPmRiLT53aGVyZSgncHJvamVjdC5pc19ldmVudCcsIDApOwogICAgICAgICR0aGlzLT5nZXRQcm9qZWN0SW5zdGFuY2VDb21wbGV0ZUNsYXVzZSgpOwogICAgICAgICR0aGlzLT5kYXRlQ2xhdXNlKCdwcm9qZWN0X2luc3RhbmNlLmNvbXBsZXRlZCcpOwogICAgICAgICR0aGlzLT5ncm91cENsYXVzZSgkdGhpcy0+Z2V0R3JvdXBJZHMoKSk7CgogICAgICAgIHJldHVybiAkdGhpczsKICAgIH0KCn0K</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkKQo=</text>
+        <text encoding="base64">CiAgICBwcm90ZWN0ZWQgZnVuY3Rpb24gbWlsZXN0b25lVHlwZVRlc3QoJGFjaGlldmVkVmFsdWUsICRyZXF1aXJlZFZhbHVlLCBHb2FsTWlsZXN0b25lICRnb2FsTWlsZXN0b25lLCAkcmVwb3J0KQogICAgewogICAgICAgICRkYXRhID0gYXJyYXkoCiAgICAgICAgICAgICdtaWxlc3RvbmVfaWQnICAgPT4gJGdvYWxNaWxlc3RvbmUtPm1pbGVzdG9uZV9pZCwKICAgICAgICAgICAgJ2dvYWxfaWQnICAgICAgICA9PiAkZ29hbE1pbGVzdG9uZS0+aWQsCiAgICAgICAgICAgICd0eXBlX2lkJyAgICAgICAgPT4gJGdvYWxNaWxlc3RvbmUtPm1pbGVzdG9uZV90eXBlX2lkLAogICAgICAgICAgICAndHlwZV9uYW1lJyAgICAgID0+IE1pbGVzdG9uZUhlbHBlcjo6Z2V0VHlwZU5hbWUoJGdvYWxNaWxlc3RvbmUtPm1pbGVzdG9uZV90eXBlX2lkKSwKICAgICAgICAgICAgJ3R5cGVfbmFtZV9hYmJyJyA9PiBNaWxlc3RvbmVIZWxwZXI6OmdldEFiYnJOYW1lKCRnb2FsTWlsZXN0b25lLT5taWxlc3RvbmVfdHlwZV9pZCksCiAgICAgICAgICAgICdhY2hpZXZlZCcgICAgICAgPT4gJGFjaGlldmVkVmFsdWUsCiAgICAgICAgICAgICdyZXF1aXJlZCcgICAgICAgPT4gJHJlcXVpcmVkVmFsdWUsCiAgICAgICAgICAgICdwYXNzZWQnICAgICAgICAgPT4gJGFjaGlldmVkVmFsdWUgPj0gJHJlcXVpcmVkVmFsdWUsCiAgICAgICAgICAgICdnb2FsX2luZm8nICAgICAgPT4gJGdvYWxNaWxlc3RvbmUsCiAgICAgICAgICAgICdub3RlJyAgICAgICAgICAgPT4gZ2V0VmFsdWUoJHRoaXMtPm5vdGUpCiAgICAgICAgKTsKCiAgICAgICAgJHRoaXMtPm5vdGUgPSAnJzsKCiAgICAgICAgaWYgKCR0aGlzLT5yZXBvcnRzRW5hYmxlZCkKICAgICAgICB7CiAgICAgICAgICAgICRkYXRhWydyZXBvcnQnXSA9ICRyZXBvcnQ7CiAgICAgICAgfQogICAgICAgIHJldHVybiAkZGF0YTsKICAgIH0KCiAgICBwcm90ZWN0ZWQgZnVuY3Rpb24gaGFzR29hbCgkZ29hbE1pbGVzdG9uZVR5cGVJZCkKICAgIHsKICAgICAgICAkZ29hbE1pbGVzdG9uZSA9ICR0aGlzLT5nZXRHb2FsKCRnb2FsTWlsZXN0b25lVHlwZUlkKTsKICAgICAgICAkdmFsdWUgPSAoaW50KSBnZXRWYWx1ZSgkZ29hbE1pbGVzdG9uZS0+dmFsdWUsIDApOwogICAgICAgIHJldHVybiAkdmFsdWUgPiAwOwogICAgfQoKICAgIHByb3RlY3RlZCBmdW5jdGlvbiBhZGRNaWxlc3RvbmVUZXN0KCRhY2hpZXZlZFZhbHVlLCAkcmVxdWlyZWRWYWx1ZSwgR29hbE1pbGVzdG9uZSAkZ29hbE1pbGVzdG9uZSwgJHJlcG9ydCkKICAgIHsKICAgICAgICAkZGF0YSA9IGFycmF5KAogICAgICAgICAgICAnbWlsZXN0b25lX2lkJyAgID0+ICRnb2FsTWlsZXN0b25lLT5taWxlc3RvbmVfaWQsCiAgICAgICAgICAgICdnb2FsX2lkJyAgICAgICAgPT4gJGdvYWxNaWxlc3RvbmUtPmlkLAogICAgICAgICAgICAndHlwZV9pZCcgICAgICAgID0+ICRnb2FsTWlsZXN0b25lLT5taWxlc3RvbmVfdHlwZV9pZCwKICAgICAgICAgICAgJ25hbWUnICAgICAgICAgICA9PiBNaWxlc3RvbmVIZWxwZXI6OmdldE1pbGVzdG9uZU5hbWUoJGdvYWxNaWxlc3RvbmUtPm1pbGVzdG9uZV9pZCksCiAgICAgICAgICAgICdkZXNjcmlwdGlvbicgICAgPT4gTWlsZXN0b25lSGVscGVyOjpnZXREZXNjcmlwdGlvbigkZ29hbE1pbGVzdG9uZS0+bWlsZXN0b25lX2lkKSwKICAgICAgICAgICAgJ3R5cGVfbmFtZScgICAgICA9PiBNaWxlc3RvbmVIZWxwZXI6OmdldFR5cGVOYW1lKCRnb2FsTWlsZXN0b25lLT5taWxlc3RvbmVfdHlwZV9pZCksCiAgICAgICAgICAgICd0eXBlX25hbWVfYWJicicgPT4gTWlsZXN0b25lSGVscGVyOjpnZXRBYmJyTmFtZSgkZ29hbE1pbGVzdG9uZS0+bWlsZXN0b25lX3R5cGVfaWQpLAogICAgICAgICAgICAnYWNoaWV2ZWQnICAgICAgID0+ICRhY2hpZXZlZFZhbHVlLAogICAgICAgICAgICAncmVxdWlyZWQnICAgICAgID0+ICRyZXF1aXJlZFZhbHVlLAogICAgICAgICAgICAncGFzc2VkJyAgICAgICAgID0+ICRhY2hpZXZlZFZhbHVlID49ICRyZXF1aXJlZFZhbHVlLAogICAgICAgICAgICAnZ29hbF9pbmZvJyAgICAgID0+ICRnb2FsTWlsZXN0b25lLAogICAgICAgICAgICAncGFzc2VkX292ZXJyaWRlJyA9PiBpbl9hcnJheSgkZ29hbE1pbGVzdG9uZS0+bWlsZXN0b25lX2lkLCAkdGhpcy0+Z29hbHNBY2hpZXZlZCksCiAgICAgICAgICAgICdub3RlJyAgICAgICAgICAgPT4gZ2V0VmFsdWUoJHRoaXMtPm5vdGUpCiAgICAgICAgKTsKCiAgICAgICAgJHRoaXMtPm5vdGUgPSAnJzsKCiAgICAgICAgaWYgKCR0aGlzLT5yZXBvcnRzRW5hYmxlZCkKICAgICAgICB7CiAgICAgICAgICAgICRkYXRhWydyZXBvcnQnXSA9ICRyZXBvcnQ7CiAgICAgICAgfQoKICAgICAgICAkdGhpcy0+dGVzdHNbXSA9ICRkYXRhOwogICAgfQoKICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRUZXN0cygpCiAgICB7CiAgICAgICAgcmV0dXJuICR0aGlzLT5wcmVwYXJlUmVzdWx0RnJvbUFycmF5KCR0aGlzLT50ZXN0cyk7CiAgICB9CgogICAgcHJpdmF0ZSBmdW5jdGlvbiBnZXRBdmFpbGFibGVHcm91cFR5cGVzKCkKICAgIHsKICAgICAgICByZXR1cm4gYXJyYXkoc3RhdGljOjpNRU1CRVJfQ1VSUkVOVCwgc3RhdGljOjpNRU1CRVJfVkVURVJBTik7CiAgICB9CgogICAgcHJvdGVjdGVkIGZ1bmN0aW9uIGhhc0FjdGl2ZUdyb3VwKCkKICAgIHsKICAgICAgICByZXR1cm4gISBlbXB0eSgkdGhpcy0+Z3JvdXBUeXBlc1tzdGF0aWM6Ok1FTUJFUl9DVVJSRU5UXSk7CiAgICB9CgogICAgcHVibGljIGZ1bmN0aW9uIGVuYWJsZVJlcG9ydCgkZW5hYmxlID0gdHJ1ZSkKICAgIHsKICAgICAgICAkdGhpcy0+cmVwb3J0c0VuYWJsZWQgPSAkZW5hYmxlOwogICAgfQoKICAgIHB1YmxpYyBmdW5jdGlvbiByZWZyZXNoTG9ncygkZW5hYmxlID0gdHJ1ZSkKICAgIHsKICAgICAgICAkdGhpcy0+cmVmcmVzaExvZ3MgPSAkZW5hYmxlOwogICAgfQoKICAgIHByb3RlY3RlZCBmdW5jdGlvbiBwcmVwYXJlUmVzdWx0cygvKiB2YXJpYWRpYyAqLykKICAgIHsKICAgICAgICAkbWlsZXN0b25lVGVzdHMgPSBmdW5jX2dldF9hcmdzKCk7CgogICAgICAgIHJldHVybiAkdGhpcy0+cHJlcGFyZVJlc3VsdEZyb21BcnJheSgkbWlsZXN0b25lVGVzdHMpOwogICAgfQoKICAgIHByaXZhdGUgZnVuY3Rpb24gcHJlcGFyZVJlc3VsdEZyb21BcnJheSgkbWlsZXN0b25lVGVzdHMpCiAgICB7CiAgICAgICAgJG1pbGVzdG9uZVRlc3RzID0gYXJyYXlfZmlsdGVyKGZvcmNlQXJyYXkoJG1pbGVzdG9uZVRlc3RzKSk7CiAgICAgICAgLy8gQ2hlY2sgZm9yIGVuYWJsZWQgdGVzdHMKICAgICAgICBpZiAoZW1wdHkoJG1pbGVzdG9uZVRlc3RzKSkKICAgICAgICB7CiAgICAgICAgICAgIC8vIE5vIHRlc3RzIGVuYWJsZWQKICAgICAgICAgICAgcmV0dXJuIGZhbHNlOwogICAgICAgIH0KCiAgICAgICAgJG1pbGVzdG9uZUlkICAgICA9ICR0aGlzLT5nZXRUZXN0ZWRNaWxlc3RvbmVJZCgkbWlsZXN0b25lVGVzdHMpOwogICAgICAgICRtaWxlc3RvbmVQYXNzZWQgPSAkdGhpcy0+bWlsZXN0b25lVGVzdHNQYXNzZWQoJG1pbGVzdG9uZVRlc3RzKTsKICAgICAgICAkbWlsZXN0b25lUGFzc2VkT3ZlcnJpZGUgPSAkdGhpcy0+bWlsZXN0b25lVGVzdHNQYXNzZWRPdmVycmlkZSgkbWlsZXN0b25lVGVzdHMpOwogICAgICAgICRtaWxlc3RvbmVBY3RpdmUgPSAkdGhpcy0+bWlsZXN0b25lVGVzdHNBY3RpdmUoJG1pbGVzdG9uZVRlc3RzKTsKCiAgICAgICAgJHJlc3VsdHMgICAgICAgICAgID0gYXJyYXkoKTsKICAgICAgICAkcmVzdWx0c1sndGVzdHMnXSAgPSAkbWlsZXN0b25lVGVzdHM7CiAgICAgICAgJHJlc3VsdHNbJ3Bhc3NlZCddID0gJG1pbGVzdG9uZVBhc3NlZDsKICAgICAgICAkcmVzdWx0c1sncGFzc2VkX292ZXJyaWRlJ10gPSAkbWlsZXN0b25lUGFzc2VkT3ZlcnJpZGU7CiAgICAgICAgJHJlc3VsdHNbJ2FjdGl2ZSddID0gJG1pbGVzdG9uZUFjdGl2ZTsKICAgICAgICAkcmVzdWx0c1snaWQnXSA9ICRtaWxlc3RvbmVJZDsKICAgICAgICAkcmVzdWx0c1snbmFtZSddID0gTWlsZXN0b25lSGVscGVyOjpnZXRNaWxlc3RvbmVOYW1lKCRtaWxlc3RvbmVJZCk7CiAgICAgICAgJHJlc3VsdHNbJ2Rlc2NyaXB0aW9uJ10gPSBNaWxlc3RvbmVIZWxwZXI6OmdldERlc2NyaXB0aW9uKCRtaWxlc3RvbmVJZCk7CgogICAgICAgIGlmICgkbWlsZXN0b25lUGFzc2VkKQogICAgICAgIHsKICAgICAgICAgICAgaWYgKCR0aGlzLT5yZWZyZXNoTG9ncykKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgJHRoaXMtPmFkZExvZygkbWlsZXN0b25lVGVzdHMpOwogICAgICAgICAgICB9CgogICAgICAgICAgICAvLyBBZGQgZ29hbCBhbGVydCBmb3IgcGFzc2VkIG1pbGVzdG9uZQogICAgICAgICAgICBpZiAoJHRoaXMtPmFkZEdvYWxBbGVydCgkbWlsZXN0b25lSWQpKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICBpZiAoISAkdGhpcy0+cmVmcmVzaExvZ3MpCiAgICAgICAgICAgICAgICB7CiAgICAgICAgICAgICAgICAgICAgJHRoaXMtPmFkZExvZygkbWlsZXN0b25lVGVzdHMpOwogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfQoKICAgICAgICByZXR1cm4gJHJlc3VsdHM7CiAgICB9CgogICAgcHJpdmF0ZSBmdW5jdGlvbiBhZGRMb2coJG1pbGVzdG9uZVRlc3RzKQogICAgewogICAgICAgIGZvcmVhY2ggKCRtaWxlc3RvbmVUZXN0cyBhcyAkdGVzdCkKICAgICAgICB7CiAgICAgICAgICAgICAkdGhpcy0+bWlsZXN0b25lTG9nTWFwKCR0ZXN0WydyZXBvcnQnXSwgJHRlc3RbJ2dvYWxfaW5mbyddKTsKICAgICAgICB9CiAgICB9CgogICAgcHJpdmF0ZSBmdW5jdGlvbiBnZXRUZXN0ZWRNaWxlc3RvbmVJZCgkdGVzdHMpCiAgICB7CiAgICAgICAgJG1pbGVzdG9uZUlkcyA9IGFycmF5KCk7CiAgICAgICAgZm9yZWFjaCAoJHRlc3RzIGFzICR0ZXN0KQogICAgICAgIHsKICAgICAgICAgICAgJHRlc3RNaWxlc3RvbmVJZCA9IGdldFZhbHVlKCR0ZXN0WydtaWxlc3RvbmVfaWQnXSk7CiAgICAgICAgICAgIGlmICghIGFyZVZhbGlkSWRzKCR0ZXN0TWlsZXN0b25lSWQpKQogICAgICAgICAgICB7CiAgICAgICAgICAgICAgICB0aHJvd0Vycm9yKCd0ZXN0IG1pbGVzdG9uZSBpZCBpcyBub3Qgc2V0Jyk7CiAgICAgICAgICAgIH0KICAgICAgICAgICAgJG1pbGVzdG9uZUlkc1tdID0gJHRlc3RNaWxlc3RvbmVJZDsKICAgICAgICB9CgogICAgICAgICR1bmlxdWVJZHMgPSBhcnJheV91bmlxdWUoJG1pbGVzdG9uZUlkcyk7CiAgICAgICAgaWYgKGNvdW50KCR1bmlxdWVJZHMpID4gMSkKICAgICAgICB7CiAgICAgICAgICAgICRpZFN0ciA9IGltcGxvZGUoJywnIC4gJHVuaXF1ZUlkcyk7CiAgICAgICAgICAgIHRocm93RXJyb3IoImNvbXBhcmVkIG1pbGVzdG9uZSBpZHMgZG8gbm90IG1hdGNoICgkaWRTdHIpIik7CiAgICAgICAgfQoKICAgICAgICBpZiAoY291bnQoJHVuaXF1ZUlkcykgPT09IDApCiAgICAgICAgewogICAgICAgICAgICB0aHJvd0Vycm9yKCJubyBtaWxlc3RvbmUgaWQgZm91bmQgdG8gdGVzdCIpOwogICAgICAgIH0KCiAgICAgICAgcmV0dXJuIGFycmF5X3NoaWZ0KCR1bmlxdWVJZHMpOwogICAgfQoKICAgIHByaXZhdGUgZnVuY3Rpb24gbWlsZXN0b25lVGVzdHNBY3RpdmUoJHRlc3RzKQogICAgewogICAgICAgIHJldHVybiBhcnJheV9zdW0oYXJyYXlfcGx1Y2soJHRlc3RzLCAnYWNoaWV2ZWQnKSkgPiAwOwogICAgfQoKICAgIHByaXZhdGUgZnVuY3Rpb24gbWlsZXN0b25lVGVzdHNQYXNzZWQoJHRlc3RzKQogICAgewogICAgICAgICRwYXNzZWQgPSB0cnVlOwogICAgICAgIGZvcmVhY2ggKCR0ZXN0cyBhcyAkcmVzdWx0KQogICAgICAgIHsKICAgICAgICAgICAgaWYgKCFpc3NldCgkcmVzdWx0WydwYXNzZWQnXSkpCiAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgIHRocm93RXJyb3IoJ3Bhc3NlZCBpcyBub3Qgc2V0Jyk7CiAgICAgICAgICAgIH0KCiAgICAgICAgICAgICRwYXNzZWQgPSAkcGFzc2VkICYmICgkcmVzdWx0WydwYXNzZWQnXSA9PT0gdHJ1ZSk7CiAgICAgICAgfQoKICAgICAgICByZXR1cm4gJHBhc3NlZDsKICAgIH0KCiAgICBwcml2YXRlIGZ1bmN0aW9uIG1pbGVzdG9uZVRlc3RzUGFzc2VkT3ZlcnJpZGUoJHRlc3RzKQogICAgewogICAgICAgICRwYXNzZWQgPSB0cnVlOwogICAgICAgIGZvcmVhY2ggKCR0ZXN0cyBhcyAkcmVzdWx0KSB7CiAgICAgICAgICAgIGlmICghaXNzZXQoJHJlc3VsdFsncGFzc2VkX292ZXJyaWRlJ10pKSB7CiAgICAgICAgICAgICAgICB0aHJvd0Vycm9yKCdwYXNzZWQgaXMgbm90IHNldCcpOwogICAgICAgICAgICB9CgogICAgICAgICAgICAkcGFzc2VkID0gJHBhc3NlZCAmJiAoJHJlc3VsdFsncGFzc2VkX292ZXJyaWRlJ10gPT09IHRydWUpOwogICAgICAgIH0KCiAgICAgICAgcmV0dXJuICRwYXNzZWQ7CiAgICB9CgogICAgcHJpdmF0ZSBmdW5jdGlvbiBhZGRHb2FsQWxlcnQoJG1pbGVzdG9uZUlkLCAkbm90ZSA9ICcnKQogICAgewogICAgICAgICRnb2FsQWxlcnQgICAgICAgICAgICAgICAgICA9IG5ldyBHb2FsQWxlcnQoKTsKICAgICAgICAkZ29hbEFsZXJ0LT5maXNjYWxfeWVhciAgICAgPSAkdGhpcy0+ZmlzY2FsWWVhcjsKICAgICAgICAkZ29hbEFsZXJ0LT5vcmdhbml6YXRpb25faWQgPSAkdGhpcy0+b3JnYW5pemF0aW9uLT5pZDsKICAgICAgICAkZ29hbEFsZXJ0LT5ub3RlICAgICAgICAgICAgPSAnJzsKICAgICAgICAkZ29hbEFsZXJ0LT5taWxlc3RvbmVfaWQgICAgPSAkbWlsZXN0b25lSWQ7CiAgICAgICAgJGdvYWxBbGVydC0+ZGF0ZV9jcmVhdGVkICAgID0gc3FsRGF0ZSgnbm93Jyk7CiAgICAgICAgcmV0dXJuICRnb2FsQWxlcnQtPmFkZCgpOwogICAgfQoKCiAgICBwcml2YXRlIGZ1bmN0aW9uIG1pbGVzdG9uZUxvZ01hcCgkcmVwb3J0LCBHb2FsTWlsZXN0b25lICRnb2FsTWlsZXN0b25lKQogICAgewogICAgICAgIGZvcmVhY2ggKCRyZXBvcnQgYXMgJGRhdGEpCiAgICAgICAgewogICAgICAgICAgICAkbWlsZXN0b25lTG9nID0gbmV3IE1pbGVzdG9uZUxvZygpOwogICAgICAgICAgICAkbWlsZXN0b25lTG9nLT5maXNjYWxfeWVhciA9ICR0aGlzLT5maXNjYWxZZWFyOwogICAgICAgICAgICAkbWlsZXN0b25lTG9nLT5wcm9qZWN0X2lkID0gJGRhdGFbJ3Byb2plY3RfaWQnXTsKICAgICAgICAgICAgJG1pbGVzdG9uZUxvZy0+cHJvamVjdF9pbnN0YW5jZV9pZCA9ICRkYXRhWydwcm9qZWN0X2luc3RhbmNlX2lkJ107CiAgICAgICAgICAgICRtaWxlc3RvbmVMb2ctPnVzZXJfaWQgPSAkZGF0YVsndXNlcl9pZCddOwogICAgICAgICAgICAkbWlsZXN0b25lTG9nLT5vcmdhbml6YXRpb25faWQgPSAkdGhpcy0+b3JnYW5pemF0aW9uLT5pZDsKICAgICAgICAgICAgJG1pbGVzdG9uZUxvZy0+bW9wX2lkID0gJGRhdGFbJ21vcF9pZCddOwogICAgICAgICAgICAkbWlsZXN0b25lTG9nLT5tb3BfdmFsdWUgPSAkZGF0YVsnbW9wX3ZhbHVlJ107CiAgICAgICAgICAgICRtaWxlc3RvbmVMb2ctPm1pbGVzdG9uZV90eXBlX2lkID0gJGdvYWxNaWxlc3RvbmUtPm1pbGVzdG9uZV90eXBlX2lkOwogICAgICAgICAgICAkbWlsZXN0b25lTG9nLT5zYXZlKCk7CiAgICAgICAgfQogICAgfQoKICAgIHByb3RlY3RlZCBmdW5jdGlvbiBnZXRFdmVudEF0dGVuZGFuY2VDbGF1c2UoKQogICAgewogICAgICAgICR0aGlzLT5nZXRFdmVudENsYXVzZSgpCiAgICAgICAgICAgIC0+Z3JvdXBCeVVzZXJzKCkKICAgICAgICAgICAgLT5hdHRlbmRDbGF1c2UoMSk7CiAgICAgICAgcmV0dXJuICR0aGlzOwogICAgfQoKICAgIHB1YmxpYyBmdW5jdGlvbiBnZXRQcm9qZWN0TW9wc0J5TWlsZXN0b25lVHlwZUlkKCRtaWxlc3RvbmVUeXBlSWQpCiAgICB7CiAgICAgICAgJHByZWZpeCA9ICdtaWxlc3RvbmUnOwogICAgICAgICRrZXkgPSAkcHJlZml4IC4gJ18nIC4gJG1pbGVzdG9uZVR5cGVJZDsKICAgICAgICBpZiAoIWlzc2V0KCR0aGlzLT5wcm9qZWN0TW9wc1ska2V5XSkpCiAgICAgICAgewogICAgICAgICAgICAkdGhpcy0+cHJvamVjdE1vcHNbJGtleV0gPSAkdGhpcy0+Z2V0UHJvamVjdENsYXVzZSgpCiAgICAgICAgICAgICAgICAtPm1pbGVzdG9uZUNsYXVzZSgkbWlsZXN0b25lVHlwZUlkKQogICAgICAgICAgICAgICAgLT5vcmRlckJ5TmFtZSgpCiAgICAgICAgICAgICAgICAtPmdldFJlc3VsdHMoKTsKICAgICAgICB9CgogICAgICAgIHJldHVybiAkdGhpcy0+cHJvamVjdE1vcHNbJGtleV07CiAgICB9CgogICAgcHVibGljIGZ1bmN0aW9uIGdldFByb2plY3RNb3BzQnlQcm9qZWN0VHlwZUlkKCRwcm9qZWN0VHlwZUlkKQogICAgewogICAgICAgICRwcmVmaXggPSAncHJvamVjdF90eXBlJzsKICAgICAgICAka2V5ICAgID0gJHByZWZpeCAuICdfJyAuICRwcm9qZWN0VHlwZUlkOwogICAgICAgIGlmICghaXNzZXQoJHRoaXMtPnByb2plY3RNb3BzWyRrZXldKSkKICAgICAgICB7CiAgICAgICAgICAgICR0aGlzLT5wcm9qZWN0TW9wc1ska2V5XSA9ICR0aGlzLT5nZXRQcm9qZWN0Q2xhdXNlKCkKICAgICAgICAgICAgICAgIC0+cHJvamVjdFR5cGVDbGF1c2UoJHByb2plY3RUeXBlSWQpCiAgICAgICAgICAgICAgICAtPm9yZGVyQnlOYW1lKCkKICAgICAgICAgICAgICAgIC0+Z3JvdXBCeVVzZXJzKCkKICAgICAgICAgICAgICAgIC0+Z3JvdXBlZFJlc3VsdHMoKTsKICAgICAgICB9CgogICAgICAgIHJldHVybiAkdGhpcy0+cHJvamVjdE1vcHNbJGtleV07CiAgICB9CgogICAgcHJvdGVjdGVkIGZ1bmN0aW9uIGdldEV2ZW50TW9wc0J5TWlsZXN0b25lVHlwZUlkKCRtaWxlc3RvbmVUeXBlSWQpCiAgICB7CiAgICAgICAgJHByZWZpeCA9ICdtaWxlc3RvbmUnOwogICAgICAgICRrZXkgPSAkcHJlZml4IC4gJ18nIC4gJG1pbGVzdG9uZVR5cGVJZDsKICAgICAgICBpZiAoISBpc3NldCgkdGhpcy0+ZXZlbnRNb3BzWyRrZXldKSkKICAgICAgICB7CiAgICAgICAgICAgICRxdWVyeSA9IGFycmF5KCRwcmVmaXggPT4gJG1pbGVzdG9uZVR5cGVJZCk7CiAgICAgICAgICAgICR0aGlzLT5ldmVudE1vcHNbJGtleV0gPSAkdGhpcy0+ZXZlbnRNb3BRdWVyeSgkcXVlcnkpOwogICAgICAgIH0KCiAgICAgICAgcmV0dXJuICR0aGlzLT5ldmVudE1vcHNbJGtleV07CiAgICB9CgogICAgcHJvdGVjdGVkIGZ1bmN0aW9uIGdldEV2ZW50TW9wc0J5UHJvamVjdFR5cGVJZCgkcHJvamVjdFR5cGVJZCkKICAgIHsKICAgICAgICAkcHJlZml4ID0gJ3Byb2plY3RfdHlwZSc7CiAgICAgICAgJGtleSA9ICRwcmVmaXggLiAnXycgLiAkcHJvamVjdFR5cGVJZDsKICAgICAgICBpZiAoIWlzc2V0KCR0aGlzLT5ldmVudE1vcHNbJGtleV0pKQogICAgICAgIHsKICAgICAgICAgICAgJHF1ZXJ5ICAgICAgICAgICAgPSBhcnJheSgkcHJlZml4ID0+ICRwcm9qZWN0VHlwZUlkKTsKICAgICAgICAgICAgJHRoaXMtPmV2ZW50TW9wc1ska2V5XSA9ICR0aGlzLT5ldmVudE1vcFF1ZXJ5KCRxdWVyeSk7CiAgICAgICAgfQoKICAgICAgICByZXR1cm4gJHRoaXMtPmV2ZW50TW9wc1ska2V5XTsKICAgIH0KCiAgICBwcm90ZWN0ZWQgZnVuY3Rpb24gZ2V0UHJvamVjdEluc3RhbmNlQ29tcGxldGVDbGF1c2UoKQogICAgewogICAgICAgICR0aGlzLT5kYi0+d2hlcmVfaW4oJ3Byb2plY3RfaW5zdGFuY2Uuc3RhdHVzJywgJHRoaXMtPmdldFByb2plY3RJbnN0YW5jZUNvbXBsZXRlU3RhdHVzSWRzKCkpOwogICAgfQoKICAgIHByb3RlY3RlZCBmdW5jdGlvbiBnZXRQcm9qZWN0SW5zdGFuY2VDb21wbGV0ZVN0YXR1c0lkcygpCiAgICB7CiAgICAgICAgcmV0dXJuIGFycmF5KFByb2plY3RfSW5zdGFuY2VfUmVwbzo6U1RBVFVTX0NPTVBMRVRFLCBQcm9qZWN0X0luc3RhbmNlX1JlcG86OlNUQVRVU19VTlFVQUxJRklFRCk7CiAgICB9CgogICAgcHJvdGVjdGVkIGZ1bmN0aW9uIGFkZFdoZXJlRmllbGRDbGF1c2UoJHZhbHVlLCAkZmllbGQpCiAgICB7CiAgICAgICAgaWYgKCEgZW1wdHkoJHZhbHVlKSkKICAgICAgICB7CiAgICAgICAgICAgIHJldHVybiAiIEFORCBgJGZpZWxkYCA9ICAkdmFsdWUiOwogICAgICAgIH0KCiAgICAgICAgcmV0dXJuICcnOwogICAgfQoKICAgIHByb3RlY3RlZCBmdW5jdGlvbiBwcm9qZWN0VHlwZUNsYXVzZSgkcHJvamVjdFR5cGVJZCkKICAgIHsKICAgICAgICAkdGhpcy0+ZGItPndoZXJlKCdwcm9qZWN0X3R5cGUnLCAkcHJvamVjdFR5cGVJZCk7CgogICAgICAgIHJldHVybiAkdGhpczsKCiAgICB9CgogICAgcHJvdGVjdGVkIGZ1bmN0aW9uIGFkZE1pbGVzdG9uZUlkQ2xhdXNlKCRxdWVyeVN0ciwgJG1pbGVzdG9uZUlkKQogICAgewogICAgICAgICRxdWVyeVN0ciAuPSAnIEFORCBtaWxlc3RvbmUgPSAnIC4gJG1pbGVzdG9uZUlkOwoKICAgICAgICByZXR1cm4gJHF1ZXJ5U3RyOwogICAgfQoKCiAgICBwcm90ZWN0ZWQgZnVuY3Rpb24gZ3JvdXBlZFJlc3VsdHMoKQogICAgewogICAgICAgICRyb3dzID0gJHRoaXMtPmdldFJlc3VsdHMoKTsKICAgICAgICAkdHlwZXMgICA9ICR0aGlzLT5nZXRBdmFpbGFibGVHcm91cFR5cGVzKCk7CgogICAgICAgICRyZXN1bHRzID0gYXJyYXkoKTsKICAgICAgICBmb3JlYWNoICgkdHlwZXMgYXMgJHR5cGUpCiAgICAgICAgewogICAgICAgICAgICAkcmVzdWx0c1skdHlwZV0gPSBhcnJheSgpOwogICAgICAgIH0KCiAgICAgICAgZm9yZWFjaCAoJHJvd3MgYXMgJHJvdykKICAgICAgICB7CiAgICAgICAgICAgICR0eXBlICAgICAgICAgICAgID0gaW50Y21wKCRyb3dbJ2Zpc2NhbF95ZWFyJ10sICR0aGlzLT5maXNjYWxZZWFyKSA/IHNlbGY6Ok1FTUJFUl9DVVJSRU5UIDogc2VsZjo6TUVNQkVSX1ZFVEVSQU47CiAgICAgICAgICAgICRyZXN1bHRzWyR0eXBlXVtdID0gJHJvdzsKICAgICAgICB9CgogICAgICAgIHJldHVybiAkcmVzdWx0czsKCiAgICB9CgoKCn0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>getGoal</last-search>
+      <last-search>getEvent</last-search>
       <last-offset />
-      <last-pattern>getGoal</last-pattern>
+      <last-pattern>getEvent</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxzaG93UmVzdWx0c1w+</last-substitute>
       <last-dir>1</last-dir>
@@ -2986,8 +2988,6 @@
         <entry>dd(</entry>
         <entry encoding="base64">XDxNSU5JTVVNX1RSQUlOSU5HX0FUVEVOREFOQ0VcPg==</entry>
         <entry>TYPE_MILESTONE_TRAINING_ATTENDANCE_MIN</entry>
-        <entry encoding="base64">XDxnZXRBdHRlbmRhbmNlUmVzdWx0XD4=</entry>
-        <entry encoding="base64">XDxhdHRlbmRhbmNlUmVzdWx0XD4=</entry>
         <entry encoding="base64">XDxtaW5BdHRlbmRhbmNlR29hbFw+</entry>
         <entry encoding="base64">XDxtaW5BdHRlbmRhbmNlQ291bnRcPg==</entry>
         <entry>report</entry>
@@ -3017,14 +3017,24 @@
         <entry encoding="base64">XDxvcmdcPg==</entry>
         <entry encoding="base64">XDxnb2FsTWlsZXN0b25lc1w+</entry>
         <entry>milestones</entry>
-        <entry encoding="base64">XDx0ZXN0VHJhaW5pbmdQZXJjZW50XD4=</entry>
-        <entry encoding="base64">XDxnZXRNZW1iZXJzaGlwUmVzdWx0XD4=</entry>
         <entry encoding="base64">XDxnZXRHb2FsXD4=</entry>
         <entry>dd</entry>
         <entry encoding="base64">XDxtaWxlc3RvbmVMb2dNYXBcPg==</entry>
         <entry encoding="base64">XDxhZGRHb2FsQWxlcnRcPg==</entry>
         <entry encoding="base64">XDxPcmdhbml6YXRpb25NaWxlc3RvbmVTcnZcPg==</entry>
         <entry>getGoal</entry>
+        <entry encoding="base64">XDx0ZXN0VHJhaW5pbmdNaW5pbXVtXD4=</entry>
+        <entry encoding="base64">XDx0ZXN0VHJhaW5pbmdQZXJjZW50XD4=</entry>
+        <entry>getAvailableGroupTypes</entry>
+        <entry encoding="base64">XDxncm91cHNcPg==</entry>
+        <entry encoding="base64">XDxnZXRHcm91cElkc1w+</entry>
+        <entry encoding="base64">XDxnZXRNZW1iZXJzaGlwUmVzdWx0XD4=</entry>
+        <entry encoding="base64">XDxhdHRlbmRhbmNlUmVzdWx0XD4=</entry>
+        <entry>attendanceR</entry>
+        <entry encoding="base64">XDxnZXRBdHRlbmRhbmNlUmVzdWx0XD4=</entry>
+        <entry encoding="base64">XDxnZXRUZXN0c1w+</entry>
+        <entry encoding="base64">XDxnZXRQcm9qZWN0SW5zdGFuY2VDb21wbGV0ZVN0YXR1c0lkc1w+</entry>
+        <entry>getEvent</entry>
       </history-search>
       <history-cmd>
         <entry>374</entry>
@@ -3050,6 +3060,7 @@
         <entry>196</entry>
         <entry>19</entry>
         <entry>87</entry>
+        <entry>370</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
