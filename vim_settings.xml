@@ -357,6 +357,9 @@
       <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/SurveyTracking.php" timestamp="1469135477224">
         <mark key="'" line="8" column="22" />
       </file>
+      <file name="/Dummy.txt" timestamp="1471276072843">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/config.js" timestamp="1470175723852">
         <mark key="'" line="52" column="6" />
         <mark key="[" line="43" column="0" />
@@ -544,12 +547,12 @@
         <mark key="^" line="31" column="9" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/DataFormat.php" timestamp="1470695124635">
-        <mark key="'" line="1605" column="41" />
-        <mark key="[" line="1607" column="49" />
-        <mark key="]" line="1607" column="49" />
-        <mark key="^" line="1607" column="49" />
-        <mark key="." line="1607" column="49" />
+      <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/DataFormat.php" timestamp="1471276037808">
+        <mark key="'" line="1573" column="12" />
+        <mark key="[" line="1609" column="38" />
+        <mark key="]" line="1609" column="44" />
+        <mark key="^" line="1609" column="44" />
+        <mark key="." line="1609" column="44" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/views/project/dashboard.php" timestamp="1470169882163">
         <mark key="[" line="69" column="35" />
@@ -704,6 +707,9 @@
         <mark key="]" line="47" column="43" />
         <mark key="^" line="47" column="43" />
         <mark key="." line="47" column="43" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/helix/sass/_applymanage.scss" timestamp="1470874540173">
+        <mark key="[" line="257" column="37" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/libraries/MilestoneEventTwo.php" timestamp="1471130999578">
         <mark key="[" line="4" column="32" />
@@ -923,7 +929,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="29" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/milestones/MilestoneThree.php" />
       <jump line="22" column="21" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/milestones/MilestoneThree.php" />
       <jump line="189" column="20" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/MilestoneSrv.php" />
       <jump line="212" column="4" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/abstracts/OrganizationMilestone.php" />
@@ -1023,6 +1028,7 @@
       <jump line="587" column="42" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/organizations.php" />
       <jump line="14" column="0" filename="$USER_HOME$/Sites/Rescue/helix/sass/_head.scss" />
       <jump line="1919" column="0" filename="$USER_HOME$/Sites/Rescue/helix/sass/_head.scss" />
+      <jump line="1573" column="12" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/DataFormat.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2868,7 +2874,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>left</text>
+        <text>Lookalike</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -2922,13 +2928,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>left</text>
+        <text>Lookalike</text>
       </register>
       <register name="/" type="4">
-        <text>stat-lis</text>
+        <text>Look</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Ly8gICAgICAgICAgICAgICAgJGdvYWwgPSBNaWxlc3RvbmVMaWI6Om1pbGVzdG9uZVR5cGVHb2FsKHN0YXRpYzo6VFlQRV9UUkFJTklOR19QRU5BTFRZX01PUFMsICRvcmcsIHByZXBGaXNjYWxZZWFyKCRmaXNjYWxZZWFyRGF0ZVN0cikpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGNhc2UgIkxvb2thbGlrZXMiOgogICAgICAgICAgICAgICAgICAgIHJldHVybiAiQWQgU2V0IDUgKExvb2thbGlrZSkiOwo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -2965,9 +2971,9 @@
       </register>
     </registers>
     <search>
-      <last-search>stat-lis</last-search>
+      <last-search>Look</last-search>
       <last-offset />
-      <last-pattern>stat-lis</last-pattern>
+      <last-pattern>Look</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxzaG93UmVzdWx0c1w+</last-substitute>
       <last-dir>1</last-dir>
@@ -3248,6 +3254,7 @@
         <entry>profile</entry>
         <entry>detail</entry>
         <entry>stat-lis</entry>
+        <entry>Look</entry>
       </history-search>
       <history-cmd>
         <entry>374</entry>
