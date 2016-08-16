@@ -29,7 +29,12 @@
       <file name="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_quest/main-with-admin.html" timestamp="1469467583301">
         <mark key="'" line="539" column="21" />
       </file>
-      <file name="/a.dummy" timestamp="1471297170318">
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless.ctrl.js" timestamp="1471375407028">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1471372702575">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Mine/udacity/meetup-planner/gulpfile.js" timestamp="1470203144118">
@@ -346,6 +351,7 @@
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/events.ctrl.js" timestamp="1469657017920">
         <mark key="'" line="25" column="48" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" timestamp="1471372627517" />
       <file name="$USER_HOME$/Sites/Rescue/helix/application/libraries/MilestoneTypeHelper.php" timestamp="1471113700372">
         <mark key="'" line="275" column="43" />
       </file>
@@ -541,11 +547,11 @@
         <mark key="." line="2" column="41" />
         <mark key="^" line="2" column="41" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/.jshintrc" timestamp="1471300060404">
-        <mark key="[" line="8" column="18" />
-        <mark key="]" line="8" column="18" />
-        <mark key="^" line="8" column="18" />
-        <mark key="." line="8" column="18" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/.jshintrc" timestamp="1471372684947">
+        <mark key="[" line="9" column="26" />
+        <mark key="]" line="9" column="26" />
+        <mark key="^" line="9" column="26" />
+        <mark key="." line="9" column="26" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/views/milestone/log.php" timestamp="1471216721351">
         <mark key="'" line="89" column="42" />
@@ -736,8 +742,8 @@
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/Gruntfile.js" timestamp="1471298321726">
         <mark key="'" line="64" column="12" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/full-fact.ctrl.js" timestamp="1471371121848">
-        <mark key="'" line="290" column="27" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/full-fact.ctrl.js" timestamp="1471372628767">
+        <mark key="'" line="57" column="5" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/js/ng/providers/social-post.js" timestamp="1470788462842">
         <mark key="'" line="447" column="31" />
@@ -840,6 +846,13 @@
       <file name="/Dummy.txt" timestamp="1471369798591">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/config.js" timestamp="1471374823783">
+        <mark key="'" line="41" column="5" />
+        <mark key="[" line="46" column="10" />
+        <mark key="]" line="46" column="28" />
+        <mark key="^" line="46" column="28" />
+        <mark key="." line="46" column="28" />
+      </file>
       <file name="$USER_HOME$/Sites/Mine/udacity/meetup-planner/src/js/partials/login.js" timestamp="1470618839588">
         <mark key="'" line="35" column="8" />
         <mark key="[" line="35" column="8" />
@@ -860,12 +873,12 @@
       <file name="$USER_HOME$/Sites/Rescue/helix/application/models/entities/GoalAlert.php" timestamp="1471194135990">
         <mark key="'" line="41" column="19" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/routes.js" timestamp="1471370906858">
-        <mark key="'" line="148" column="15" />
-        <mark key="[" line="151" column="6" />
-        <mark key="]" line="156" column="5" />
-        <mark key="^" line="156" column="5" />
-        <mark key="." line="156" column="5" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/routes.js" timestamp="1471375596858">
+        <mark key="'" line="146" column="8" />
+        <mark key="[" line="154" column="56" />
+        <mark key="]" line="154" column="60" />
+        <mark key="^" line="154" column="60" />
+        <mark key="." line="154" column="60" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/less/social-mashup.less" timestamp="1469490790123">
         <mark key="'" line="693" column="15" />
@@ -916,13 +929,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="46" column="39" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/milestones.php" />
-      <jump line="89" column="42" filename="$USER_HOME$/Sites/Rescue/helix/application/views/milestone/log.php" />
-      <jump line="25" column="27" filename="$USER_HOME$/Sites/Rescue/helix/application/models/entities/MilestoneLog.php" />
-      <jump line="31" column="12" filename="$USER_HOME$/Sites/Rescue/helix/application/models/entities/MilestoneLog.php" />
-      <jump line="34" column="20" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/MilestoneHelper.php" />
-      <jump line="402" column="40" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/MilestoneHelper.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/organizations.php" />
       <jump line="332" column="63" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/MilestoneLib.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/MilestoneLib.php" />
       <jump line="375" column="84" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/MilestoneHelper.php" />
@@ -1016,6 +1022,13 @@
       <jump line="326" column="27" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/full-fact.ctrl.js" />
       <jump line="0" column="103" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/full-fact.ctrl.js" />
       <jump line="290" column="27" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/full-fact.ctrl.js" />
+      <jump line="327" column="24" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/full-fact.ctrl.js" />
+      <jump line="363" column="23" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/full-fact.ctrl.js" />
+      <jump line="362" column="11" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/full-fact.ctrl.js" />
+      <jump line="57" column="5" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/full-fact.ctrl.js" />
+      <jump line="146" column="8" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/routes.js" />
+      <jump line="317" column="38" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/config.js" />
+      <jump line="41" column="5" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/config.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2861,7 +2874,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>landing</text>
+        <text>video</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -2915,31 +2928,31 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>landing</text>
+        <text>video</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyb3V0ZVw+</text>
+        <text>fwefwe</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICRzdXJ2ZXlUcmFja2luZy0+Ym91bmNlX2JhY2tfc3RhdHVzID0gVHJhY2tpbmdEYXRhOjpCT1VOQ0VfTk9ORTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJzJBQzctWVJXOVotNScsCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkc3VydmV5UmVzcG9uc2VzKTsKICAgICAgICBleGl0Owo=</text>
+        <text encoding="base64">ICAgIGZ1bmN0aW9uIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRzdXJ2ZXlUcmFja2luZy0+Ym91bmNlX2JhY2tfZGF0ZSA9IFRyYWNraW5nRGF0YTo6Qk9VTkNFX05PTkU7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZChjb3VudCgkc3VydmV5UmVzcG9uc2VzKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkCg==</text>
+        <text encoding="base64">ICAgICAgICBsZXNzb247Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkc3VydmV5UmVzcG9uc2VzLT5pc0VtcHR5KCkpOwo=</text>
+        <text encoding="base64">ICAgIHZhciBjb3Vyc2UsCg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -2951,16 +2964,16 @@
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">YQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyb3V0ZVw+</last-search>
+      <last-search>fwefwe</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyb3V0ZVw+</last-pattern>
+      <last-pattern>fwefwe</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxzaG93UmVzdWx0c1w+</last-substitute>
       <last-dir>1</last-dir>
@@ -2990,7 +3003,6 @@
         <entry encoding="base64">XDxzdXJ2ZXlJZFw+</entry>
         <entry>emoji-</entry>
         <entry>emoji-challenge</entry>
-        <entry>fwefwe</entry>
         <entry encoding="base64">XDxqc2hpbnRcPg==</entry>
         <entry encoding="base64">XDxiZWZvcmVjb25jYXRcPg==</entry>
         <entry encoding="base64">XDxURkxfQ09ORklHXD4=</entry>
@@ -2998,6 +3010,11 @@
         <entry>getEmail</entry>
         <entry encoding="base64">XDxyb3V0ZVBhcmFtc1w+</entry>
         <entry encoding="base64">XDxyb3V0ZVw+</entry>
+        <entry encoding="base64">XDxmYWN0c1w+</entry>
+        <entry encoding="base64">XDxwYXRoXD4=</entry>
+        <entry encoding="base64">XDxnb1w+</entry>
+        <entry>less</entry>
+        <entry>fwefwe</entry>
       </history-search>
       <history-cmd>
         <entry>h it</entry>
