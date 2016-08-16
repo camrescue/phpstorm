@@ -769,8 +769,8 @@
         <mark key="." line="66" column="0" />
         <mark key="^" line="84" column="23" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/Http/Controllers/Api.php" timestamp="1471366685300">
-        <mark key="'" line="697" column="0" />
+      <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/Http/Controllers/Api.php" timestamp="1471369794780">
+        <mark key="'" line="673" column="10" />
         <mark key="[" line="1522" column="28" />
         <mark key="]" line="1522" column="28" />
         <mark key="." line="1522" column="28" />
@@ -834,7 +834,7 @@
       <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/utils.php" timestamp="1469136292214">
         <mark key="'" line="310" column="50" />
       </file>
-      <file name="/Dummy.txt" timestamp="1471366703847">
+      <file name="/Dummy.txt" timestamp="1471369798591">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Mine/udacity/meetup-planner/src/js/partials/login.js" timestamp="1470618839588">
@@ -913,10 +913,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="13" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/MilestoneTraining.php" />
-      <jump line="38" column="106" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/MilestoneTraining.php" />
-      <jump line="249" column="21" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/MilestoneSrv.php" />
-      <jump line="242" column="21" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/MilestoneSrv.php" />
       <jump line="1127" column="39" filename="$USER_HOME$/Sites/Rescue/helix/application/models/core/import_m.php" />
       <jump line="420" column="30" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/milestones.php" />
       <jump line="105" column="70" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/MilestoneHelper.php" />
@@ -1013,6 +1009,10 @@
       <jump line="64" column="12" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/Gruntfile.js" />
       <jump line="148" column="15" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/routes.js" />
       <jump line="697" column="0" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Http/Controllers/Api.php" />
+      <jump line="1504" column="37" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Http/Controllers/Api.php" />
+      <jump line="137" column="20" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Http/Controllers/Api.php" />
+      <jump line="176" column="32" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Http/Controllers/Api.php" />
+      <jump line="673" column="10" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Http/Controllers/Api.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2915,7 +2915,7 @@
         <text>TgetrackingData::BOUNCE_NONE;</text>
       </register>
       <register name="/" type="4">
-        <text>fwefwf</text>
+        <text>getEmail</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICRzdXJ2ZXlUcmFja2luZy0+Ym91bmNlX2JhY2tfc3RhdHVzID0gVHJhY2tpbmdEYXRhOjpCT1VOQ0VfTk9ORTsK</text>
@@ -2955,9 +2955,9 @@
       </register>
     </registers>
     <search>
-      <last-search>fwefwf</last-search>
+      <last-search>getEmail</last-search>
       <last-offset />
-      <last-pattern>fwefwf</last-pattern>
+      <last-pattern>getEmail</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxzaG93UmVzdWx0c1w+</last-substitute>
       <last-dir>1</last-dir>
@@ -2992,6 +2992,7 @@
         <entry encoding="base64">XDxiZWZvcmVjb25jYXRcPg==</entry>
         <entry encoding="base64">XDxURkxfQ09ORklHXD4=</entry>
         <entry>fwefwf</entry>
+        <entry>getEmail</entry>
       </history-search>
       <history-cmd>
         <entry>h it</entry>
