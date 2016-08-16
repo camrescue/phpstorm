@@ -183,6 +183,11 @@
         <mark key="." line="2" column="26" />
         <mark key="^" line="2" column="26" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/LessonsInFlawless.js" timestamp="1471383019782">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/libraries/milestones/MilestoneTwo.php" timestamp="1471048439720">
         <mark key="'" line="32" column="21" />
         <mark key="[" line="24" column="22" />
@@ -279,6 +284,11 @@
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/js/app.js" timestamp="1469646365916">
         <mark key="'" line="1034" column="17" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-intro.ctrl.js" timestamp="1471383063383">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_screen/src/main.js" timestamp="1471289534069">
         <mark key="'" line="190" column="35" />
@@ -529,6 +539,9 @@
         <mark key="." line="4" column="45" />
         <mark key="^" line="4" column="45" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/PageScroll.js" timestamp="1471382842590">
+        <mark key="'" line="16" column="49" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/survey-admin/database/seeds/UserTableSeeder.php" timestamp="1468972487149">
         <mark key="'" line="9" column="21" />
         <mark key="[" line="49" column="47" />
@@ -536,7 +549,7 @@
         <mark key="." line="49" column="51" />
         <mark key="^" line="49" column="51" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-landing.ctrl.js" timestamp="1471377435578">
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-landing.ctrl.js" timestamp="1471382033344">
         <mark key="[" line="4" column="27" />
         <mark key="]" line="4" column="61" />
         <mark key="." line="4" column="61" />
@@ -700,6 +713,12 @@
         <mark key="]" line="1952" column="0" />
         <mark key="." line="1952" column="0" />
         <mark key="^" line="1952" column="0" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-quiz.ctrl.js" timestamp="1471383791437">
+        <mark key="[" line="1" column="99" />
+        <mark key="]" line="2" column="71" />
+        <mark key="." line="2" column="71" />
+        <mark key="^" line="2" column="71" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/system/database/drivers/mysqli/mysqli_driver.php" timestamp="1470767761713">
         <mark key="'" line="72" column="8" />
@@ -896,12 +915,12 @@
       <file name="$USER_HOME$/Sites/Rescue/helix/application/models/entities/GoalAlert.php" timestamp="1471194135990">
         <mark key="'" line="41" column="19" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/routes.js" timestamp="1471378436704">
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/routes.js" timestamp="1471383038060">
         <mark key="'" line="149" column="37" />
-        <mark key="[" line="150" column="38" />
-        <mark key="]" line="150" column="38" />
-        <mark key="^" line="149" column="61" />
-        <mark key="." line="150" column="38" />
+        <mark key="[" line="157" column="38" />
+        <mark key="]" line="157" column="41" />
+        <mark key="^" line="157" column="41" />
+        <mark key="." line="157" column="41" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/less/social-mashup.less" timestamp="1469490790123">
         <mark key="'" line="693" column="15" />
@@ -952,7 +971,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="186" column="28" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/MilestoneLib.php" />
       <jump line="22" column="27" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/MilestoneLib.php" />
       <jump line="202" column="27" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/MilestoneLib.php" />
       <jump line="272" column="27" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/MilestoneLib.php" />
@@ -1052,6 +1070,7 @@
       <jump line="183" column="63" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/events.ctrl.js" />
       <jump line="45" column="3" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless.ctrl.js" />
       <jump line="69" column="16" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless.ctrl.js" />
+      <jump line="16" column="49" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/PageScroll.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2897,7 +2916,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>Quiz</text>
+        <text>)</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -2951,43 +2970,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Quiz</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxsb2FkUXVpelw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvYWRRdWl6KCk7CiAgICAgICAgICAgICAgICByZXR1cm47Cg==</text>
+        <text encoding="base64">ICAgICAgICAkc2NvcGUubGVzc29uID0gcGFyYW1zLmxlc3NvbiB8fCAnJzsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHZhciBjYWNoZSA9IHt9Owo=</text>
+        <text encoding="base64">ICAgIHZhciBzdGFydFBhZ2UK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGxvY2F0aW9uLnBhdGgoJy9sZXNzb25zLWluLWZsYXdsZXNzLycpOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAKICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHNjb3BlLmNvdXJzZSArICcgTGVzc29uOicgKyAkc2NvcGUubGVzc29uOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cgo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
