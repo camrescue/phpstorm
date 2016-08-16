@@ -736,6 +736,9 @@
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/Gruntfile.js" timestamp="1471298321726">
         <mark key="'" line="64" column="12" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/full-fact.ctrl.js" timestamp="1471371121848">
+        <mark key="'" line="290" column="27" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/js/ng/providers/social-post.js" timestamp="1470788462842">
         <mark key="'" line="447" column="31" />
         <mark key="[" line="378" column="0" />
@@ -857,12 +860,12 @@
       <file name="$USER_HOME$/Sites/Rescue/helix/application/models/entities/GoalAlert.php" timestamp="1471194135990">
         <mark key="'" line="41" column="19" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/routes.js" timestamp="1471301704965">
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/routes.js" timestamp="1471370906858">
         <mark key="'" line="148" column="15" />
-        <mark key="[" line="146" column="0" />
-        <mark key="]" line="146" column="0" />
-        <mark key="^" line="145" column="41" />
-        <mark key="." line="146" column="0" />
+        <mark key="[" line="151" column="6" />
+        <mark key="]" line="156" column="5" />
+        <mark key="^" line="156" column="5" />
+        <mark key="." line="156" column="5" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/less/social-mashup.less" timestamp="1469490790123">
         <mark key="'" line="693" column="15" />
@@ -913,9 +916,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1127" column="39" filename="$USER_HOME$/Sites/Rescue/helix/application/models/core/import_m.php" />
-      <jump line="420" column="30" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/milestones.php" />
-      <jump line="105" column="70" filename="$USER_HOME$/Sites/Rescue/helix/application/libraries/MilestoneHelper.php" />
       <jump line="46" column="39" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/milestones.php" />
       <jump line="89" column="42" filename="$USER_HOME$/Sites/Rescue/helix/application/views/milestone/log.php" />
       <jump line="25" column="27" filename="$USER_HOME$/Sites/Rescue/helix/application/models/entities/MilestoneLog.php" />
@@ -1013,6 +1013,9 @@
       <jump line="137" column="20" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Http/Controllers/Api.php" />
       <jump line="176" column="32" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Http/Controllers/Api.php" />
       <jump line="673" column="10" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Http/Controllers/Api.php" />
+      <jump line="326" column="27" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/full-fact.ctrl.js" />
+      <jump line="0" column="103" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/full-fact.ctrl.js" />
+      <jump line="290" column="27" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/full-fact.ctrl.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2857,8 +2860,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJzJBQzctWVJXOVotNScsCg==</text>
+      <register name="&quot;" type="4">
+        <text>landing</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -2912,10 +2915,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>TgetrackingData::BOUNCE_NONE;</text>
+        <text>landing</text>
       </register>
       <register name="/" type="4">
-        <text>getEmail</text>
+        <text encoding="base64">XDxyb3V0ZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICRzdXJ2ZXlUcmFja2luZy0+Ym91bmNlX2JhY2tfc3RhdHVzID0gVHJhY2tpbmdEYXRhOjpCT1VOQ0VfTk9ORTsK</text>
@@ -2955,9 +2958,9 @@
       </register>
     </registers>
     <search>
-      <last-search>getEmail</last-search>
+      <last-search encoding="base64">XDxyb3V0ZVw+</last-search>
       <last-offset />
-      <last-pattern>getEmail</last-pattern>
+      <last-pattern encoding="base64">XDxyb3V0ZVw+</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxzaG93UmVzdWx0c1w+</last-substitute>
       <last-dir>1</last-dir>
@@ -2993,6 +2996,8 @@
         <entry encoding="base64">XDxURkxfQ09ORklHXD4=</entry>
         <entry>fwefwf</entry>
         <entry>getEmail</entry>
+        <entry encoding="base64">XDxyb3V0ZVBhcmFtc1w+</entry>
+        <entry encoding="base64">XDxyb3V0ZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>h it</entry>
