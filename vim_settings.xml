@@ -208,7 +208,6 @@
         <mark key="." line="24" column="32" />
         <mark key="^" line="24" column="32" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/ourStoryVideo.php" timestamp="1471386115954" />
       <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/templates/node--event.tpl.php" timestamp="1470434501458">
         <mark key="'" line="113" column="55" />
         <mark key="[" line="108" column="35" />
@@ -384,7 +383,6 @@
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/events.ctrl.js" timestamp="1471378766554">
         <mark key="'" line="183" column="63" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" timestamp="1471378794745" />
       <file name="$USER_HOME$/Sites/Rescue/helix/application/libraries/MilestoneTypeHelper.php" timestamp="1471113700372">
         <mark key="'" line="275" column="43" />
       </file>
@@ -494,7 +492,6 @@
         <mark key="^" line="253" column="51" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/templates/views-view-masonry--socialmashup.tpl.php" timestamp="1471384816451" />
       <file name="$USER_HOME$/Sites/Mine/udacity/meetup-planner/src/js/controllers/login.js" timestamp="1470636969291">
         <mark key="'" line="23" column="16" />
         <mark key="[" line="9" column="48" />
@@ -961,12 +958,12 @@
       <file name="$USER_HOME$/Sites/Rescue/helix/application/models/entities/GoalAlert.php" timestamp="1471194135990">
         <mark key="'" line="41" column="19" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/routes.js" timestamp="1471383038060">
-        <mark key="'" line="149" column="37" />
-        <mark key="[" line="157" column="38" />
-        <mark key="]" line="157" column="41" />
-        <mark key="^" line="157" column="41" />
-        <mark key="." line="157" column="41" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/routes.js" timestamp="1471404723563">
+        <mark key="'" line="120" column="29" />
+        <mark key="[" line="155" column="12" />
+        <mark key="]" line="143" column="20" />
+        <mark key="^" line="143" column="20" />
+        <mark key="." line="155" column="20" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/less/social-mashup.less" timestamp="1469490790123">
         <mark key="'" line="693" column="15" />
@@ -1023,7 +1020,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="14" column="0" filename="$USER_HOME$/Sites/Rescue/helix/sass/_head.scss" />
       <jump line="1919" column="0" filename="$USER_HOME$/Sites/Rescue/helix/sass/_head.scss" />
       <jump line="1573" column="12" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/DataFormat.php" />
       <jump line="1442" column="4" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Http/Controllers/Api.php" />
@@ -1123,6 +1119,7 @@
       <jump line="215" column="33" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" />
       <jump line="114" column="13" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/Gruntfile.js" />
       <jump line="14" column="49" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/emoji-challenge.php" />
+      <jump line="120" column="29" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/routes.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3025,7 +3022,7 @@
         <text>padding</text>
       </register>
       <register name="/" type="4">
-        <text>ng-incl</text>
+        <text>flawless</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHBhZGRpbmctYm90dG9tOiAyMHB4Owo=</text>
@@ -3065,9 +3062,9 @@
       </register>
     </registers>
     <search>
-      <last-search>ng-incl</last-search>
+      <last-search>flawless</last-search>
       <last-offset />
-      <last-pattern>ng-incl</last-pattern>
+      <last-pattern>flawless</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxzaG93UmVzdWx0c1w+</last-substitute>
       <last-dir>1</last-dir>
@@ -3118,6 +3115,7 @@
         <entry>renderAlbumPhoto</entry>
         <entry>tfl-bu</entry>
         <entry>ng-incl</entry>
+        <entry>flawless</entry>
       </history-search>
       <history-cmd>
         <entry>h it</entry>
