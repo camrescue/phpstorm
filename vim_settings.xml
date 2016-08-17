@@ -499,11 +499,12 @@
         <mark key="^" line="69" column="46" />
         <mark key="." line="69" column="46" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-intro.ctrl.js" timestamp="1471390488720">
-        <mark key="[" line="21" column="44" />
-        <mark key="]" line="21" column="45" />
-        <mark key="." line="21" column="45" />
-        <mark key="^" line="26" column="26" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-intro.ctrl.js" timestamp="1471414063066">
+        <mark key="'" line="12" column="27" />
+        <mark key="[" line="48" column="100" />
+        <mark key="]" line="48" column="100" />
+        <mark key="^" line="48" column="100" />
+        <mark key="." line="48" column="100" />
       </file>
       <file name="$USER_HOME$/Sites/Mine/udacity/meetup-planner/src/js/controllers/events.js" timestamp="1470626471449">
         <mark key="[" line="4" column="0" />
@@ -886,8 +887,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="598" column="30" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_screen/src/main.js" />
-      <jump line="597" column="41" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_screen/src/main.js" />
       <jump line="201" column="52" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_screen/src/main.js" />
       <jump line="48" column="26" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/shared/adminController.js" />
       <jump line="7" column="4" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/shared/adminController.js" />
@@ -986,6 +985,8 @@
       <jump line="193" column="40" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/lessons-in-flawless.less" />
       <jump line="201" column="13" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/lessons-in-flawless.less" />
       <jump line="0" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/lessons-in-flawless.less" />
+      <jump line="42" column="35" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-intro.ctrl.js" />
+      <jump line="12" column="27" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-intro.ctrl.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2831,7 +2832,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>Page</text>
+        <text>1</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -2885,19 +2886,19 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Page</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>card</text>
+        <text>all</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZvbnQtd2VpZ2h0OiBub3JtYWw7CiAgICAgICAgICAgICAgICBmb250LXNpemU6IDYwJTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICdodHRwczovL3d3dy55b3V0dWJlLmNvbS9lbWJlZC9hTFBsVzZZc0hONCcsCiAgICAgICAgICAgICAgICAnaHR0cHM6Ly93d3cueW91dHViZS5jb20vZW1iZWQvYUxQbFc2WXNITjQnLAogICAgICAgICAgICAgICAgJ2h0dHBzOi8vd3d3LnlvdXR1YmUuY29tL2VtYmVkL2FMUGxXNllzSE40JywKICAgICAgICAgICAgICAgICdodHRwczovL3d3dy55b3V0dWJlLmNvbS9lbWJlZC9hTFBsVzZZc0hONCcK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
@@ -2915,7 +2916,7 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaGVpZ2h0OiAycHg7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
@@ -2928,9 +2929,9 @@
       </register>
     </registers>
     <search>
-      <last-search>card</last-search>
+      <last-search>all</last-search>
       <last-offset />
-      <last-pattern>card</last-pattern>
+      <last-pattern>all</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxzaG93UmVzdWx0c1w+</last-substitute>
       <last-dir>1</last-dir>
@@ -2986,6 +2987,7 @@
         <entry>card-tit</entry>
         <entry>card-</entry>
         <entry>card</entry>
+        <entry>all</entry>
       </history-search>
       <history-cmd>
         <entry>h it</entry>
