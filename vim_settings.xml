@@ -794,6 +794,9 @@
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/PageScroll.js" timestamp="1471382842590">
         <mark key="'" line="16" column="49" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/surveys/resources/assets/js/trackers.js" timestamp="1471540942716">
+        <mark key="'" line="3" column="9" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/survey-data-merge/fe/uniqueIds.php" timestamp="1470867696336">
         <mark key="'" line="56" column="26" />
       </file>
@@ -941,7 +944,7 @@
       <file name="$USER_HOME$/Sites/Rescue/helix/application/controllers/my.php" timestamp="1470958061124">
         <mark key="'" line="47" column="27" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/Gruntfile.js" timestamp="1471471724328">
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/Gruntfile.js" timestamp="1471540363240">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="124" column="47" />
         <mark key="]" line="124" column="47" />
@@ -1076,7 +1079,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="55" column="30" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/LessonsInFlawless.js" />
       <jump line="34" column="13" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/LessonsInFlawless.js" />
       <jump line="56" column="26" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/LessonsInFlawless.js" />
       <jump line="3" column="8" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-quiz.ctrl.js" />
@@ -1176,6 +1178,7 @@
       <jump line="65" column="8" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-quiz.ctrl.js" />
       <jump line="46" column="65" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/emoji-challenge.php" />
       <jump line="52" column="13" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-quiz.ctrl.js" />
+      <jump line="3" column="9" filename="$USER_HOME$/Sites/Rescue/surveys/resources/assets/js/trackers.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3078,7 +3081,7 @@
         <text>if</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxpc1NlbGVjdGVkQW5zd2VyQ29ycmVjdFw+</text>
+        <text encoding="base64">XDxiaXJ0aGRheUlucHV0XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPC9kaXY+Cg==</text>
@@ -3118,12 +3121,12 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxpc1NlbGVjdGVkQW5zd2VyQ29ycmVjdFw+</last-search>
+      <last-search encoding="base64">XDxiaXJ0aGRheUlucHV0XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxpc1NlbGVjdGVkQW5zd2VyQ29ycmVjdFw+</last-pattern>
+      <last-pattern encoding="base64">XDxiaXJ0aGRheUlucHV0XD4=</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxzaG93UmVzdWx0c1w+</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -3236,6 +3239,7 @@
         <entry encoding="base64">XDxzaG93QW5zd2Vyc1w+</entry>
         <entry encoding="base64">XDxyZXN1bHRcPg==</entry>
         <entry encoding="base64">XDxpc1NlbGVjdGVkQW5zd2VyQ29ycmVjdFw+</entry>
+        <entry encoding="base64">XDxiaXJ0aGRheUlucHV0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>h it</entry>
