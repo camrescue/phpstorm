@@ -278,11 +278,12 @@
         <mark key="." line="37" column="23" />
         <mark key="^" line="37" column="23" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/lessons-in-flawless-quiz.php" timestamp="1471479309738">
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/lessons-in-flawless-quiz.php" timestamp="1471539751956">
         <mark key="'" line="31" column="32" />
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
+        <mark key="[" line="25" column="115" />
+        <mark key="]" line="25" column="121" />
+        <mark key="." line="25" column="121" />
+        <mark key="^" line="25" column="121" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/animation/btn-fill/btn-fill.js" timestamp="1470175662867">
         <mark key="'" line="2" column="12" />
@@ -339,11 +340,12 @@
         <mark key="." line="1952" column="0" />
         <mark key="^" line="1952" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-quiz.ctrl.js" timestamp="1471477941561">
-        <mark key="'" line="8" column="55" />
-        <mark key="[" line="132" column="0" />
-        <mark key="]" line="132" column="0" />
-        <mark key="." line="132" column="0" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-quiz.ctrl.js" timestamp="1471539223779">
+        <mark key="'" line="52" column="13" />
+        <mark key="[" line="60" column="37" />
+        <mark key="]" line="61" column="16" />
+        <mark key="." line="61" column="16" />
+        <mark key="^" line="61" column="16" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/gulpfile.js" timestamp="1470852576436">
         <mark key="'" line="106" column="26" />
@@ -407,12 +409,6 @@
       </file>
       <file name="/usr/local/lib/node_modules/eslint/lib/config/config-file.js" timestamp="1469399116141">
         <mark key="'" line="43" column="17" />
-      </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/root.ctrl.js" timestamp="1471455848985">
-        <mark key="'" line="79" column="28" />
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/SurveyTracking.php" timestamp="1471366317309">
         <mark key="'" line="8" column="22" />
@@ -578,8 +574,8 @@
         <mark key="." line="2" column="26" />
         <mark key="^" line="2" column="26" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/emoji-challenge.php" timestamp="1471388786930">
-        <mark key="'" line="14" column="49" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/emoji-challenge.php" timestamp="1471539065762">
+        <mark key="'" line="46" column="65" />
         <mark key="[" line="44" column="45" />
         <mark key="]" line="44" column="49" />
         <mark key="." line="44" column="49" />
@@ -1080,11 +1076,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="446" column="23" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
-      <jump line="254" column="22" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
-      <jump line="18" column="4" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/LessonsInFlawless.js" />
-      <jump line="13" column="18" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-quiz.ctrl.js" />
-      <jump line="4" column="28" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-quiz.ctrl.js" />
       <jump line="55" column="30" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/LessonsInFlawless.js" />
       <jump line="34" column="13" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/LessonsInFlawless.js" />
       <jump line="56" column="26" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/LessonsInFlawless.js" />
@@ -1180,6 +1171,11 @@
       <jump line="7" column="10" filename="$USER_HOME$/Sites/Rescue/surveys/app/Libraries/Survey.php" />
       <jump line="782" column="46" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Http/Controllers/Api.php" />
       <jump line="21" column="10" filename="$USER_HOME$/Sites/Rescue/surveys/app/Libraries/Survey.php" />
+      <jump line="125" column="8" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-quiz.ctrl.js" />
+      <jump line="129" column="15" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-quiz.ctrl.js" />
+      <jump line="65" column="8" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-quiz.ctrl.js" />
+      <jump line="46" column="65" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/emoji-challenge.php" />
+      <jump line="52" column="13" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-quiz.ctrl.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3025,7 +3021,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>false</text>
+        <text>if</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -3079,55 +3075,55 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>false</text>
+        <text>if</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxDT1VOVFJZX1YyXD4=</text>
+        <text encoding="base64">XDxpc1NlbGVjdGVkQW5zd2VyQ29ycmVjdFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBwYWRkaW5nOiAxMHB4Owo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJxdWVzdGlvbiBmYWRlSW4iIG5nLWlmPSJyZXN1bHQuYm9keSI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InAiIG5nLWJpbmQtaHRtbD0icmVzdWx0LmJvZHkiPjwvZGl2PgogICAgICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBiYWNrZ3JvdW5kLWltYWdlOiB1cmwoIi9pbWFnZXMvMy0wLUhvdy1Ub2JhY2NvLzMtMy8zLTMtMi1GbG93ZXJzL1dlYi9GbG93ZXJzMDAuanBnIik7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAucXVpei1zZWN0aW9uCg==</text>
+        <text encoding="base64">ICAgICAgICBwYWRkaW5nOiAxMHB4Owo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJxdWl6LXdyYXAiPjwvZGl2Pgo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBiYWNrZ3JvdW5kLWltYWdlOiB1cmwoIi9pbWFnZXMvMy0wLUhvdy1Ub2JhY2NvLzMtMy8zLTMtMi1GbG93ZXJzL1dlYi9GbG93ZXJzMDAuanBnIik7Cg==</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8L2Rpdj4K</text>
+        <text encoding="base64">ICAgICAgICAucXVpei1zZWN0aW9uCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgb3ZlcmZsb3cteDpzY3JvbGw7Cg==</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJxdWl6LXdyYXAiPjwvZGl2Pgo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWluLWhlaWdodDogODAwcHg7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxDT1VOVFJZX1YyXD4=</last-search>
+      <last-search encoding="base64">XDxpc1NlbGVjdGVkQW5zd2VyQ29ycmVjdFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxDT1VOVFJZX1YyXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxpc1NlbGVjdGVkQW5zd2VyQ29ycmVjdFw+</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxzaG93UmVzdWx0c1w+</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -3209,13 +3205,11 @@
         <entry>debugg</entry>
         <entry encoding="base64">XDxzZXRQYWdlRGF0YVw+</entry>
         <entry>sectionName</entry>
-        <entry>selectAnswer</entry>
         <entry>answerSet</entry>
         <entry encoding="base64">XDxnZXRTY29yZVw+</entry>
         <entry encoding="base64">XDxhZGRVc2VyQW5zd2VyXD4=</entry>
         <entry>showAnswer</entry>
         <entry encoding="base64">XDxnZXRQYWdlQW5zd2VyUmVzdWx0c1w+</entry>
-        <entry encoding="base64">XDxzZWxlY3RBbnN3ZXJcPg==</entry>
         <entry encoding="base64">XDxuZXh0XD4=</entry>
         <entry>circle</entry>
         <entry>ripple-</entry>
@@ -3237,6 +3231,11 @@
         <entry>teen-culture</entry>
         <entry encoding="base64">XDxDT1VOVFJZXD4=</entry>
         <entry encoding="base64">XDxDT1VOVFJZX1YyXD4=</entry>
+        <entry>selectAnswer</entry>
+        <entry encoding="base64">XDxzZWxlY3RBbnN3ZXJcPg==</entry>
+        <entry encoding="base64">XDxzaG93QW5zd2Vyc1w+</entry>
+        <entry encoding="base64">XDxyZXN1bHRcPg==</entry>
+        <entry encoding="base64">XDxpc1NlbGVjdGVkQW5zd2VyQ29ycmVjdFw+</entry>
       </history-search>
       <history-cmd>
         <entry>h it</entry>
