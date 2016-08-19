@@ -26,9 +26,6 @@
         <mark key="^" line="38" column="26" />
         <mark key="." line="38" column="26" />
       </file>
-      <file name="/a.dummy" timestamp="1471553249039">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Sites/Rescue/survey-admin/public/css/style.css" timestamp="1469211759957">
         <mark key="'" line="2094" column="7" />
       </file>
@@ -199,12 +196,12 @@
         <mark key="." line="0" column="60" />
         <mark key="^" line="0" column="60" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_quest/src/main.js" timestamp="1471626611305">
+      <file name="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_quest/src/main.js" timestamp="1471629936080">
         <mark key="'" line="353" column="21" />
-        <mark key="[" line="802" column="0" />
-        <mark key="]" line="802" column="0" />
-        <mark key="^" line="67" column="5" />
-        <mark key="." line="802" column="0" />
+        <mark key="[" line="369" column="21" />
+        <mark key="]" line="369" column="22" />
+        <mark key="^" line="369" column="22" />
+        <mark key="." line="369" column="22" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/social.php" timestamp="1469221677873">
         <mark key="[" line="2" column="140" />
@@ -381,15 +378,17 @@
         <mark key="." line="138" column="27" />
         <mark key="^" line="138" column="27" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/current_survey" timestamp="1471629970900">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="8" />
+        <mark key="." line="2" column="0" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/providers/FacebookApp.js" timestamp="1471454804109">
         <mark key="'" line="20" column="89" />
         <mark key="[" line="20" column="62" />
         <mark key="]" line="20" column="70" />
         <mark key="^" line="20" column="70" />
         <mark key="." line="20" column="70" />
-      </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/full-fact.ctrl.js" timestamp="1471477402460">
-        <mark key="'" line="294" column="8" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/js/ng/providers/social-post.js" timestamp="1470788462842">
         <mark key="'" line="447" column="31" />
@@ -421,10 +420,7 @@
       <file name="/usr/local/lib/node_modules/eslint/lib/config/config-file.js" timestamp="1469399116141">
         <mark key="'" line="43" column="17" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/SurveyTracking.php" timestamp="1471366317309">
-        <mark key="'" line="8" column="22" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1471542624441">
+      <file name="/Dummy.txt" timestamp="1471629707504">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/config.js" timestamp="1471569049667">
@@ -463,8 +459,8 @@
         <mark key="^" line="73" column="1" />
         <mark key="." line="73" column="1" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_quest/main-with-admin.html" timestamp="1469467583301">
-        <mark key="'" line="539" column="21" />
+      <file name="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_quest/main-with-admin.html" timestamp="1471630011637">
+        <mark key="'" line="546" column="16" />
       </file>
       <file name="$USER_HOME$/Sites/Mine/udacity/meetup-planner/gulpfile.js" timestamp="1471406004537">
         <mark key="'" line="14" column="4" />
@@ -504,9 +500,6 @@
         <mark key="]" line="30" column="0" />
         <mark key="^" line="37" column="29" />
         <mark key="." line="30" column="0" />
-      </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/emoji-challenge.less" timestamp="1471476162119">
-        <mark key="'" line="589" column="18" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/goalalert_repo.php" timestamp="1471204480245">
         <mark key="'" line="45" column="20" />
@@ -572,9 +565,6 @@
         <mark key="]" line="2" column="26" />
         <mark key="." line="2" column="26" />
         <mark key="^" line="2" column="26" />
-      </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/emoji-challenge.php" timestamp="1471553226977">
-        <mark key="'" line="46" column="65" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/libraries/milestones/MilestoneTwo.php" timestamp="1471048439720">
         <mark key="'" line="32" column="21" />
@@ -790,9 +780,6 @@
         <mark key="." line="4" column="45" />
         <mark key="^" line="4" column="45" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/PageScroll.js" timestamp="1471382842590">
-        <mark key="'" line="16" column="49" />
-      </file>
       <file name="$USER_HOME$/Sites/Rescue/surveys/resources/assets/js/trackers.js" timestamp="1471540942716">
         <mark key="'" line="3" column="9" />
       </file>
@@ -919,6 +906,9 @@
         <mark key="." line="275" column="42" />
         <mark key="^" line="275" column="42" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/survey-data-merge/gulpfile.js" timestamp="1471629964072">
+        <mark key="'" line="306" column="35" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/system/database/drivers/mysqli/mysqli_driver.php" timestamp="1470767761713">
         <mark key="'" line="72" column="8" />
         <mark key="[" line="318" column="12" />
@@ -938,9 +928,6 @@
       </file>
       <file name="$USER_HOME$/Sites/Rescue/survey-admin/vendor/laravel/framework/src/Illuminate/Support/helpers.php" timestamp="1470328506951">
         <mark key="'" line="232" column="53" />
-      </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/variables.less" timestamp="1471456174903">
-        <mark key="'" line="160" column="39" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/models/services/UserEdit.php" timestamp="1470873624513">
         <mark key="'" line="51" column="27" />
@@ -971,6 +958,13 @@
         <mark key="]" line="39" column="0" />
         <mark key="." line="39" column="0" />
         <mark key="^" line="18" column="50" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/Http/Controllers/Api.php" timestamp="1471629705082">
+        <mark key="'" line="903" column="24" />
+        <mark key="[" line="1526" column="26" />
+        <mark key="]" line="1526" column="26" />
+        <mark key="^" line="1526" column="26" />
+        <mark key="." line="1526" column="26" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/lessons-in-flawless-landing.js" timestamp="1471376939499">
         <mark key="[" line="1" column="0" />
@@ -1086,15 +1080,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="37" column="26" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-quiz.ctrl.js" />
-      <jump line="60" column="15" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/lessons-in-flawless-quiz.less" />
-      <jump line="137" column="29" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-quiz.ctrl.js" />
-      <jump line="19" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-quiz.ctrl.js" />
-      <jump line="140" column="13" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-quiz.ctrl.js" />
-      <jump line="133" column="8" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-quiz.ctrl.js" />
-      <jump line="166" column="8" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-quiz.ctrl.js" />
-      <jump line="113" column="15" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-quiz.ctrl.js" />
-      <jump line="25" column="31" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/DataTranslator.js" />
       <jump line="150" column="8" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-quiz.ctrl.js" />
       <jump line="105" column="13" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-quiz.ctrl.js" />
       <jump line="148" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-quiz.ctrl.js" />
@@ -1186,6 +1171,15 @@
       <jump line="588" column="13" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_screen/src/main.js" />
       <jump line="645" column="42" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_screen/src/main.js" />
       <jump line="20" column="51" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/Gruntfile.js" />
+      <jump line="1245" column="49" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Http/Controllers/Api.php" />
+      <jump line="1172" column="49" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Http/Controllers/Api.php" />
+      <jump line="1051" column="48" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Http/Controllers/Api.php" />
+      <jump line="903" column="24" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Http/Controllers/Api.php" />
+      <jump line="306" column="35" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/gulpfile.js" />
+      <jump line="532" column="6" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_quest/main-with-admin.html" />
+      <jump line="535" column="38" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_quest/main-with-admin.html" />
+      <jump line="539" column="33" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_quest/main-with-admin.html" />
+      <jump line="546" column="16" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_quest/main-with-admin.html" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -3031,7 +3025,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">ZmVfcXVlc3QK</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -3085,34 +3079,34 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>100</text>
       </register>
       <register name="/" type="4">
-        <text>ratio</text>
+        <text>control</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">fQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">ZmVfcXVlc3QK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICYuY291cnNlLTEtMiwK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICYuY291cnNlLTEtMiwK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -3128,9 +3122,9 @@
       </register>
     </registers>
     <search>
-      <last-search>ratio</last-search>
+      <last-search>control</last-search>
       <last-offset />
-      <last-pattern>ratio</last-pattern>
+      <last-pattern>control</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxzaG93UmVzdWx0c1w+</last-substitute>
       <last-dir>1</last-dir>
@@ -3293,6 +3287,9 @@
         <entry>roll</entry>
         <entry>Rol</entry>
         <entry>ratio</entry>
+        <entry>Parent</entry>
+        <entry>current</entry>
+        <entry>control</entry>
       </history-search>
       <history-cmd>
         <entry>h it</entry>
