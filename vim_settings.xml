@@ -494,6 +494,12 @@
         <mark key="." line="1092" column="0" />
         <mark key="^" line="1094" column="27" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/FullPage.js" timestamp="1471664439541">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="9" column="2" />
+        <mark key="^" line="9" column="2" />
+        <mark key="." line="9" column="2" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/libraries/MilestoneHelper.php" timestamp="1471239076216">
         <mark key="'" line="383" column="53" />
         <mark key="[" line="90" column="78" />
@@ -723,6 +729,7 @@
       <file name="/usr/local/lib/node_modules/eslint/lib/config/config-file.js" timestamp="1469399116141">
         <mark key="'" line="43" column="17" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/isMobile.js" timestamp="1471664423370" />
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/PageShare.js" timestamp="1469231004848">
         <mark key="'" line="0" column="53" />
       </file>
@@ -763,8 +770,8 @@
         <mark key="]" line="28" column="33" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/config.js" timestamp="1471569049667">
-        <mark key="'" line="57" column="0" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/config.js" timestamp="1471664299978">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="46" column="57" />
         <mark key="]" line="46" column="59" />
         <mark key="." line="46" column="59" />
@@ -790,8 +797,8 @@
       <file name="$USER_HOME$/Sites/Rescue/helix/application/models/entities/GoalAlert.php" timestamp="1471194135990">
         <mark key="'" line="41" column="19" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/routes.js" timestamp="1471652417425">
-        <mark key="'" line="120" column="29" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/routes.js" timestamp="1471664312675">
+        <mark key="'" line="1" column="70" />
         <mark key="[" line="155" column="12" />
         <mark key="]" line="143" column="20" />
         <mark key="^" line="143" column="20" />
@@ -826,9 +833,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="164" column="29" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/drupal_translators/LessonsInFlawlessTranslator.js" />
-      <jump line="70" column="26" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/drupal_translators/LessonsInFlawlessTranslator.js" />
-      <jump line="167" column="36" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/drupal_translators/LessonsInFlawlessTranslator.js" />
       <jump line="115" column="21" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/drupal_translators/LessonsInFlawlessTranslator.js" />
       <jump line="143" column="21" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/drupal_translators/LessonsInFlawlessTranslator.js" />
       <jump line="120" column="13" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-quiz.ctrl.js" />
@@ -926,6 +930,9 @@
       <jump line="259" column="12" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/full-fact.ctrl.js" />
       <jump line="249" column="8" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/full-fact.ctrl.js" />
       <jump line="73" column="6" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/fact.ctrl.js" />
+      <jump line="64" column="12" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/config.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/config.js" />
+      <jump line="1" column="70" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/routes.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2874,11 +2881,10 @@
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxzaG93UmVzdWx0c1w+</last-substitute>
       <last-dir>-1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>Parent</entry>
         <entry>current</entry>
         <entry>control</entry>
         <entry encoding="base64">XDxnZXROZXdEYXRhXD4=</entry>
