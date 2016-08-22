@@ -238,7 +238,7 @@
         <mark key="^" line="40" column="43" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/models/entities/MilestoneLog.php" timestamp="1471216741220">
-        <mark key="'" line="31" column="12" />
+        <mark key="'" line="30" column="12" />
         <mark key="[" line="17" column="12" />
         <mark key="]" line="17" column="23" />
         <mark key="." line="17" column="23" />
@@ -250,6 +250,13 @@
         <mark key="]" line="35" column="0" />
         <mark key="^" line="9" column="28" />
         <mark key="." line="35" column="0" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/controllers/groups.php" timestamp="1471881185870">
+        <mark key="'" line="72" column="35" />
+        <mark key="[" line="136" column="12" />
+        <mark key="]" line="136" column="12" />
+        <mark key="^" line="136" column="12" />
+        <mark key="." line="136" column="12" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_quest/src/main.js" timestamp="1471629936080">
         <mark key="'" line="353" column="21" />
@@ -271,13 +278,6 @@
         <mark key="]" line="0" column="33" />
         <mark key="." line="0" column="33" />
         <mark key="^" line="0" column="33" />
-      </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/controllers/milestones.php" timestamp="1471219971195">
-        <mark key="'" line="121" column="58" />
-        <mark key="[" line="75" column="0" />
-        <mark key="]" line="75" column="0" />
-        <mark key="." line="75" column="0" />
-        <mark key="^" line="75" column="18" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/survey-admin/resources/views/surveys/tracker.blade.php" timestamp="1468968514693">
         <mark key="'" line="132" column="36" />
@@ -366,13 +366,6 @@
         <mark key="." line="2" column="41" />
         <mark key="^" line="2" column="41" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/views/milestone/log.php" timestamp="1471216721351">
-        <mark key="'" line="89" column="42" />
-        <mark key="[" line="91" column="42" />
-        <mark key="]" line="92" column="41" />
-        <mark key="." line="92" column="41" />
-        <mark key="^" line="92" column="41" />
-      </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/lessons-in-flawless-intro.js" timestamp="1471713877000">
         <mark key="[" line="12" column="15" />
         <mark key="]" line="12" column="17" />
@@ -433,13 +426,6 @@
         <mark key="." line="5" column="56" />
         <mark key="^" line="5" column="56" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/libraries/MilestoneHelper.php" timestamp="1471239076216">
-        <mark key="'" line="383" column="53" />
-        <mark key="[" line="90" column="78" />
-        <mark key="]" line="90" column="78" />
-        <mark key="." line="90" column="78" />
-        <mark key="^" line="89" column="78" />
-      </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/events.less" timestamp="1469222216164">
         <mark key="'" line="255" column="26" />
         <mark key="[" line="9" column="0" />
@@ -496,21 +482,7 @@
         <mark key="^" line="39" column="12" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/libraries/MilestoneLib.php" timestamp="1471239375864">
-        <mark key="'" line="272" column="27" />
-        <mark key="[" line="275" column="28" />
-        <mark key="]" line="275" column="42" />
-        <mark key="." line="275" column="42" />
-        <mark key="^" line="275" column="42" />
-      </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/partials/quiz-section.php" timestamp="1471828783893" />
-      <file name="$USER_HOME$/Sites/Rescue/helix/sass/_head.scss" timestamp="1471240129138">
-        <mark key="'" line="1919" column="0" />
-        <mark key="[" line="1951" column="1" />
-        <mark key="]" line="1952" column="0" />
-        <mark key="." line="1952" column="0" />
-        <mark key="^" line="1952" column="0" />
-      </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-quiz.ctrl.js" timestamp="1471842316842">
         <mark key="[" line="111" column="0" />
         <mark key="]" line="111" column="0" />
@@ -611,6 +583,12 @@
         <mark key="^" line="1526" column="26" />
         <mark key="." line="1526" column="26" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/views/group/manage.php" timestamp="1471881231126">
+        <mark key="[" line="68" column="30" />
+        <mark key="]" line="63" column="18" />
+        <mark key="^" line="63" column="18" />
+        <mark key="." line="63" column="18" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/organization_repo.php" timestamp="1470170842783">
         <mark key="'" line="253" column="5" />
         <mark key="[" line="326" column="0" />
@@ -651,7 +629,7 @@
         <mark key="^" line="0" column="27" />
         <mark key="." line="0" column="27" />
       </file>
-      <file name="/Dummy.txt" timestamp="1471629707504">
+      <file name="/Dummy.txt" timestamp="1471881223582">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/surveys/app/Http/routes.php" timestamp="1471537049391">
@@ -713,9 +691,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="645" column="42" filename="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/fe_screen/src/main.js" />
-      <jump line="20" column="51" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/Gruntfile.js" />
-      <jump line="1245" column="49" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Http/Controllers/Api.php" />
       <jump line="1172" column="49" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Http/Controllers/Api.php" />
       <jump line="1051" column="48" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Http/Controllers/Api.php" />
       <jump line="903" column="24" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Http/Controllers/Api.php" />
@@ -813,6 +788,9 @@
       <jump line="88" column="13" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/LessonsInFlawless.js" />
       <jump line="83" column="32" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/LessonsInFlawless.js" />
       <jump line="135" column="8" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/LessonsInFlawless.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/groups.php" />
+      <jump line="97" column="0" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/groups.php" />
+      <jump line="78" column="35" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/groups.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2658,7 +2636,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>getcore</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -2712,55 +2690,55 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>getcore</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZXRMZXNzb25Db21wbGV0ZVw+</text>
+        <text>function profile</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHBhZGRpbmctbGVmdDogMTBweDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDx0aD48L3RoPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxodD48L2h0Pgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gISFsZXNzb25Db21wbGV0aW9uc1tnZXRMZXNzb25LZXkoKV07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhsb2NhbFN0b3JhZ2UpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gISFsZXNzb25Db21wbGV0aW9uc1tnZXRMZXNzb25LZXkoKV07Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoaGFzTG9jYWxTdG9yYWdlKCkpIHsKICAgICAgICAgICAgbGVzc29uQ29tcGxldGlvbnMgPSBtYXliZVBhcnNlSnNvbihsb2NhbFN0b3JhZ2UuZ2V0SXRlbSgnbGVzc29uQ29tcGxldGlvbnMnKSwge30pOwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhsb2NhbFN0b3JhZ2UpOwo=</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vYmFja2dyb3VuZC1jb2xvcjogdHJhbnNwYXJlbnQ7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoaGFzTG9jYWxTdG9yYWdlKCkpIHsKICAgICAgICAgICAgbGVzc29uQ29tcGxldGlvbnMgPSBtYXliZVBhcnNlSnNvbihsb2NhbFN0b3JhZ2UuZ2V0SXRlbSgnbGVzc29uQ29tcGxldGlvbnMnKSwge30pOwo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbG9yOiB3aGl0ZTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyhsb2NhbFN0b3JhZ2UpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZXRMZXNzb25Db21wbGV0ZVw+</last-search>
+      <last-search>function profile</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZXRMZXNzb25Db21wbGV0ZVw+</last-pattern>
+      <last-pattern>function profile</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxzaG93UmVzdWx0c1w+</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -2806,6 +2784,8 @@
         <entry>h1</entry>
         <entry encoding="base64">XDxnZXRTY29yZVw+</entry>
         <entry encoding="base64">XDxzZXRMZXNzb25Db21wbGV0ZVw+</entry>
+        <entry>function manage</entry>
+        <entry>function profile</entry>
       </history-search>
       <history-cmd>
         <entry>h tag-blocks</entry>
