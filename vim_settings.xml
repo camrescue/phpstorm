@@ -2710,7 +2710,7 @@
         <text />
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtYXhPZmZzZXRcPg==</text>
+        <text>view-he</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
@@ -2750,12 +2750,12 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtYXhPZmZzZXRcPg==</last-search>
+      <last-search>view-he</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtYXhPZmZzZXRcPg==</last-pattern>
+      <last-pattern>view-he</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxzaG93UmVzdWx0c1w+</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -2796,6 +2796,7 @@
         <entry encoding="base64">XDxkZWJ1Z1w+</entry>
         <entry encoding="base64">XDxvZmZzZXRcPg==</entry>
         <entry encoding="base64">XDxtYXhPZmZzZXRcPg==</entry>
+        <entry>view-he</entry>
       </history-search>
       <history-cmd>
         <entry>g help</entry>
