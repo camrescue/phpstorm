@@ -24,7 +24,7 @@
         <mark key="^" line="38" column="26" />
         <mark key="." line="38" column="26" />
       </file>
-      <file name="/a.dummy" timestamp="1471882263280">
+      <file name="/a.dummy" timestamp="1471989283249">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Mine/udacity/meetup-planner/gulpfile.js" timestamp="1471406004537">
@@ -61,9 +61,6 @@
         <mark key="]" line="4" column="20" />
         <mark key="." line="4" column="20" />
         <mark key="^" line="4" column="20" />
-      </file>
-      <file name="$USER_HOME$/Sites/Rescue/shared-env/scripts/bash/buildEnv.sh" timestamp="1471890205484">
-        <mark key="'" line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/core/MY_Exceptions.php" timestamp="1470766842023">
         <mark key="'" line="7" column="15" />
@@ -461,19 +458,19 @@
         <mark key="^" line="26" column="33" />
         <mark key="." line="26" column="30" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" timestamp="1471385349194">
-        <mark key="'" line="215" column="33" />
+      <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" timestamp="1471989281946">
+        <mark key="'" line="357" column="20" />
         <mark key="[" line="315" column="0" />
         <mark key="]" line="315" column="0" />
         <mark key="." line="315" column="0" />
         <mark key="^" line="316" column="36" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/templates/views-view--events.tpl.php" timestamp="1470436327116">
+      <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/templates/views-view--events.tpl.php" timestamp="1471989245191">
         <mark key="'" line="28" column="1" />
-        <mark key="[" line="124" column="14" />
-        <mark key="]" line="124" column="15" />
+        <mark key="[" line="124" column="28" />
+        <mark key="]" line="124" column="28" />
         <mark key="^" line="124" column="25" />
-        <mark key="." line="124" column="15" />
+        <mark key="." line="124" column="28" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/ripple-button.js" timestamp="1471556399529">
         <mark key="'" line="56" column="25" />
@@ -649,12 +646,19 @@
       <file name="/Dummy.txt" timestamp="1471987329204">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/templates/node.tpl.php" timestamp="1471989101513" />
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/config.js" timestamp="1471664299978">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="46" column="57" />
         <mark key="]" line="46" column="59" />
         <mark key="." line="46" column="59" />
         <mark key="^" line="46" column="59" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/templates/views-view--past-event-block.tpl.php" timestamp="1471989423730">
+        <mark key="[" line="102" column="58" />
+        <mark key="]" line="102" column="58" />
+        <mark key="." line="102" column="58" />
+        <mark key="^" line="102" column="56" />
       </file>
       <file name="$USER_HOME$/Sites/Mine/udacity/meetup-planner/src/js/partials/login.js" timestamp="1470618839588">
         <mark key="'" line="35" column="8" />
@@ -698,9 +702,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="6" column="8" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/LessonsInFlawless.js" />
-      <jump line="58" column="4" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/LessonsInFlawless.js" />
-      <jump line="84" column="4" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-quiz.ctrl.js" />
       <jump line="26" column="4" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/LessonsInFlawless.js" />
       <jump line="78" column="8" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/LessonsInFlawless.js" />
       <jump line="75" column="41" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-quiz.ctrl.js" />
@@ -798,6 +799,9 @@
       <jump line="213" column="39" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/drupal_translators/LessonsInFlawlessTranslator.js" />
       <jump line="1474" column="8" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/Http/Controllers/Api.php" />
       <jump line="85" column="29" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-quiz.ctrl.js" />
+      <jump line="354" column="12" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" />
+      <jump line="192" column="12" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" />
+      <jump line="357" column="20" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2643,7 +2647,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>Active</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -2697,10 +2701,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Active</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>debugg</text>
+        <text encoding="base64">XDxnZXRBbGJ1bXNcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGNvdXJzZXNbY291cnNlTnVtXVtsZXNzb25OdW1dLmxhdW5jaERhdGUgPSBsYXVuY2hEYXRlOwo=</text>
@@ -2740,12 +2744,12 @@
       </register>
     </registers>
     <search>
-      <last-search>debugg</last-search>
+      <last-search encoding="base64">XDxnZXRBbGJ1bXNcPg==</last-search>
       <last-offset />
-      <last-pattern>debugg</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRBbGJ1bXNcPg==</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxzaG93UmVzdWx0c1w+</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -2800,6 +2804,8 @@
         <entry encoding="base64">XDxwYXJzZUFuc3dlclw+</entry>
         <entry encoding="base64">XDxwYXJzZVF1aXpcPg==</entry>
         <entry>debugg</entry>
+        <entry encoding="base64">XDxhbGJ1bXNcPg==</entry>
+        <entry encoding="base64">XDxnZXRBbGJ1bXNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>g help</entry>
