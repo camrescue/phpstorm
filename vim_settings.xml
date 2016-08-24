@@ -555,12 +555,11 @@
         <mark key="." line="138" column="27" />
         <mark key="^" line="138" column="27" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/providers/FacebookApp.js" timestamp="1471454804109">
-        <mark key="'" line="20" column="89" />
-        <mark key="[" line="20" column="62" />
-        <mark key="]" line="20" column="70" />
-        <mark key="^" line="20" column="70" />
-        <mark key="." line="20" column="70" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/providers/FacebookApp.js" timestamp="1472062317908">
+        <mark key="[" line="85" column="9" />
+        <mark key="]" line="85" column="9" />
+        <mark key="." line="85" column="9" />
+        <mark key="^" line="85" column="9" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/models/services/UserEdit.php" timestamp="1470873624513">
         <mark key="'" line="51" column="27" />
@@ -644,14 +643,14 @@
         <mark key="^" line="108" column="36" />
         <mark key="." line="108" column="36" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/lessons-in-flawless-landing.php" timestamp="1472060830026">
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/lessons-in-flawless-landing.php" timestamp="1472061566833">
         <mark key="'" line="18" column="72" />
-        <mark key="[" line="27" column="114" />
-        <mark key="]" line="27" column="116" />
-        <mark key="." line="27" column="116" />
-        <mark key="^" line="27" column="116" />
+        <mark key="[" line="16" column="58" />
+        <mark key="]" line="16" column="70" />
+        <mark key="." line="16" column="70" />
+        <mark key="^" line="16" column="70" />
       </file>
-      <file name="/Dummy.txt" timestamp="1471997977642">
+      <file name="/Dummy.txt" timestamp="1472061896780">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/templates/node.tpl.php" timestamp="1471989101513" />
@@ -2654,8 +2653,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>Id</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgdG9rZW5VcmwgPSB3aW5kb3cubG9jYXRpb24ucHJvdG9jb2wgKyAnLy8nICsgd2luZG93LmxvY2F0aW9uLmhvc3RuYW1lICsgdGhpcy50b2tlblBhdGgsCg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -2709,7 +2708,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Id</text>
+        <text>enabled</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YWxpZGF0ZUNvdXJzZUxlc3Nvblw+</text>
@@ -2718,25 +2717,25 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKCFsZXNzb25zW2NvdXJzZU51bV0pIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxlc3NvbnNbY291cnNlTnVtXSA9IHt9OwogICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGN1cnJlbnRMZXNzb24uaWQgPSBjb3Vyc2VOdW07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgdG9rZW5VcmwgPSB3aW5kb3cubG9jYXRpb24ucHJvdG9jb2wgKyAnLy8nICsgd2luZG93LmxvY2F0aW9uLmhvc3RuYW1lICsgdGhpcy50b2tlblBhdGgsCg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGN1cnJlbnRMZXNzb24uaWQgPSBjb3Vyc2VOdW07Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsZXNzb25zOiBsZXNzb25zCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsZXNzb25zOiBsZXNzb25zCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
@@ -2745,7 +2744,7 @@
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
