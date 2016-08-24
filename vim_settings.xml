@@ -542,12 +542,12 @@
         <mark key="." line="85" column="60" />
         <mark key="^" line="85" column="60" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/drupal_translators/LessonsInFlawlessTranslator.js" timestamp="1472069506809">
-        <mark key="'" line="162" column="21" />
-        <mark key="[" line="262" column="73" />
-        <mark key="]" line="262" column="74" />
-        <mark key="." line="262" column="74" />
-        <mark key="^" line="262" column="74" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/drupal_translators/LessonsInFlawlessTranslator.js" timestamp="1472076404890">
+        <mark key="'" line="218" column="65" />
+        <mark key="[" line="2" column="52" />
+        <mark key="]" line="3" column="32" />
+        <mark key="." line="3" column="32" />
+        <mark key="^" line="3" column="32" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/project_instance_repo.php" timestamp="1470929227308">
         <mark key="'" line="199" column="0" />
@@ -711,10 +711,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="329" column="34" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" />
-      <jump line="278" column="34" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" />
-      <jump line="293" column="26" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/smashup.js" />
-      <jump line="326" column="48" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/smashup.js" />
       <jump line="78" column="39" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/smashup.js" />
       <jump line="86" column="22" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/smashup.js" />
       <jump line="215" column="76" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/smashup.js" />
@@ -811,6 +807,10 @@
       <jump line="14" column="4" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/lessons-in-flawless-landing.less" />
       <jump line="213" column="22" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/lessons-in-flawless-landing.less" />
       <jump line="9" column="31" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/lessons-in-flawless-landing.less" />
+      <jump line="244" column="47" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/drupal_translators/LessonsInFlawlessTranslator.js" />
+      <jump line="216" column="32" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/drupal_translators/LessonsInFlawlessTranslator.js" />
+      <jump line="2" column="22" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/drupal_translators/LessonsInFlawlessTranslator.js" />
+      <jump line="217" column="65" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/drupal_translators/LessonsInFlawlessTranslator.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2656,7 +2656,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>-</text>
+        <text>13</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -2710,10 +2710,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>-</text>
+        <text>13</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwYXJzZUxhbmRpbmdcPg==</text>
+        <text encoding="base64">XDxjdXJyZW50RGF0ZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYmFja2dyb3VuZC1yZXBlYXQ6IG5vLXJlcGVhdDsK</text>
@@ -2753,9 +2753,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwYXJzZUxhbmRpbmdcPg==</last-search>
+      <last-search encoding="base64">XDxjdXJyZW50RGF0ZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwYXJzZUxhbmRpbmdcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxjdXJyZW50RGF0ZVw+</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxzaG93UmVzdWx0c1w+</last-substitute>
       <last-dir>-1</last-dir>
@@ -2839,6 +2839,8 @@
         <entry encoding="base64">XDx1cGNvbWluZ0V2ZW50c1w+</entry>
         <entry encoding="base64">XDxsYW5kaW5nRGF0YVw+</entry>
         <entry encoding="base64">XDxwYXJzZUxhbmRpbmdcPg==</entry>
+        <entry>new Date</entry>
+        <entry encoding="base64">XDxjdXJyZW50RGF0ZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>g help</entry>
