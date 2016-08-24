@@ -528,12 +528,12 @@
         <mark key="." line="85" column="60" />
         <mark key="^" line="85" column="60" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/drupal_translators/LessonsInFlawlessTranslator.js" timestamp="1472056456527">
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/drupal_translators/LessonsInFlawlessTranslator.js" timestamp="1472060776534">
         <mark key="'" line="218" column="28" />
-        <mark key="[" line="219" column="70" />
-        <mark key="]" line="219" column="70" />
-        <mark key="." line="219" column="70" />
-        <mark key="^" line="219" column="70" />
+        <mark key="[" line="219" column="71" />
+        <mark key="]" line="220" column="56" />
+        <mark key="." line="220" column="56" />
+        <mark key="^" line="220" column="56" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/Survey.php" timestamp="1471903328299">
         <mark key="'" line="655" column="20" />
@@ -644,12 +644,12 @@
         <mark key="^" line="108" column="36" />
         <mark key="." line="108" column="36" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/lessons-in-flawless-landing.php" timestamp="1472056570737">
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/lessons-in-flawless-landing.php" timestamp="1472060830026">
         <mark key="'" line="18" column="72" />
-        <mark key="[" line="27" column="106" />
-        <mark key="]" line="27" column="106" />
-        <mark key="." line="27" column="106" />
-        <mark key="^" line="27" column="106" />
+        <mark key="[" line="27" column="114" />
+        <mark key="]" line="27" column="116" />
+        <mark key="." line="27" column="116" />
+        <mark key="^" line="27" column="116" />
       </file>
       <file name="/Dummy.txt" timestamp="1471997977642">
         <mark key="[" line="0" column="0" />
@@ -2655,7 +2655,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text>Id</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -2709,7 +2709,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>Id</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDx2YWxpZGF0ZUNvdXJzZUxlc3Nvblw+</text>
@@ -2718,34 +2718,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgaWYgKCFsZXNzb25zW2NvdXJzZU51bV0pIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIGxlc3NvbnNbY291cnNlTnVtXSA9IHt9OwogICAgICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGN1cnJlbnRMZXNzb24uaWQgPSBjb3Vyc2VOdW07Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsZXNzb25zOiBsZXNzb25zCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsZXNzb25zOiBsZXNzb25zCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
