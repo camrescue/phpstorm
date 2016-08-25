@@ -24,7 +24,7 @@
         <mark key="^" line="38" column="26" />
         <mark key="." line="38" column="26" />
       </file>
-      <file name="/a.dummy" timestamp="1471989283249">
+      <file name="/a.dummy" timestamp="1472160265798">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Mine/udacity/meetup-planner/gulpfile.js" timestamp="1471406004537">
@@ -54,6 +54,12 @@
         <mark key="]" line="153" column="38" />
         <mark key="." line="153" column="38" />
         <mark key="^" line="153" column="38" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/helix/js/app/modal.js" timestamp="1472163592465">
+        <mark key="'" line="278" column="4" />
+        <mark key="[" line="217" column="0" />
+        <mark key="]" line="217" column="0" />
+        <mark key="." line="217" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/libraries/MilestoneMopTwo.php" timestamp="1471130856245">
         <mark key="'" line="4" column="26" />
@@ -94,6 +100,13 @@
         <mark key="]" line="2" column="26" />
         <mark key="." line="2" column="26" />
         <mark key="^" line="2" column="26" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/views/user/application/edit.php" timestamp="1472162597138">
+        <mark key="'" line="193" column="71" />
+        <mark key="[" line="4" column="65" />
+        <mark key="]" line="4" column="65" />
+        <mark key="^" line="4" column="37" />
+        <mark key="." line="4" column="65" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/LessonsInFlawless.js" timestamp="1472081263374">
         <mark key="'" line="55" column="26" />
@@ -207,6 +220,19 @@
         <mark key="." line="50" column="28" />
         <mark key="^" line="50" column="28" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/user_repo.php" timestamp="1472161235134">
+        <mark key="'" line="209" column="4" />
+        <mark key="[" line="102" column="0" />
+        <mark key="]" line="102" column="0" />
+        <mark key="." line="102" column="0" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/helix/js/app/user_apply.js" timestamp="1472163899935">
+        <mark key="'" line="121" column="23" />
+        <mark key="[" line="235" column="72" />
+        <mark key="]" line="235" column="76" />
+        <mark key="^" line="235" column="76" />
+        <mark key="." line="235" column="76" />
+      </file>
       <file name="$USER_HOME$/Sites/Mine/udacity/meetup-planner/src/js/controllers/signup.js" timestamp="1470636856141">
         <mark key="'" line="17" column="22" />
         <mark key="[" line="8" column="37" />
@@ -298,8 +324,8 @@
         <mark key="." line="204" column="71" />
         <mark key="^" line="204" column="71" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/core/base_repo.php" timestamp="1470170645560">
-        <mark key="'" line="1711" column="23" />
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/core/base_repo.php" timestamp="1472161116901">
+        <mark key="'" line="220" column="31" />
         <mark key="[" line="1723" column="0" />
         <mark key="]" line="1723" column="0" />
         <mark key="^" line="1721" column="4" />
@@ -420,11 +446,12 @@
         <mark key="." line="14" column="48" />
         <mark key="^" line="14" column="48" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/controllers/users.php" timestamp="1472157634826">
-        <mark key="'" line="1065" column="34" />
-        <mark key="[" line="1028" column="0" />
-        <mark key="]" line="1028" column="0" />
-        <mark key="." line="1028" column="0" />
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/controllers/users.php" timestamp="1472163941743">
+        <mark key="'" line="1391" column="13" />
+        <mark key="[" line="1351" column="76" />
+        <mark key="]" line="1352" column="7" />
+        <mark key="^" line="1352" column="7" />
+        <mark key="." line="1352" column="7" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/lessons-in-flawless-landing.less" timestamp="1472091299605">
         <mark key="'" line="96" column="19" />
@@ -598,7 +625,7 @@
         <mark key="." line="23" column="61" />
         <mark key="^" line="23" column="61" />
       </file>
-      <file name="/Dummy.txt" timestamp="1472157058125">
+      <file name="/Dummy.txt" timestamp="1472163979775">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/surveys/app/Http/routes.php" timestamp="1472078672997">
@@ -649,108 +676,114 @@
         <mark key="." line="86" column="29" />
         <mark key="^" line="86" column="29" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/models/core/adminrole_m.php" timestamp="1472160032618">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="311" column="0" />
+        <mark key="]" line="311" column="0" />
+        <mark key="." line="311" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="26" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/drupal_translators/LessonsInFlawlessTranslator.js" />
-      <jump line="10" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/drupal_translators/LessonsInFlawlessTranslator.js" />
-      <jump line="202" column="59" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/drupal_translators/LessonsInFlawlessTranslator.js" />
-      <jump line="220" column="28" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/drupal_translators/LessonsInFlawlessTranslator.js" />
-      <jump line="210" column="32" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/drupal_translators/LessonsInFlawlessTranslator.js" />
-      <jump line="215" column="28" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/drupal_translators/LessonsInFlawlessTranslator.js" />
-      <jump line="11" column="8" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/events.ctrl.js" />
-      <jump line="170" column="24" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/events.ctrl.js" />
-      <jump line="168" column="13" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/events.ctrl.js" />
-      <jump line="190" column="19" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/events.ctrl.js" />
-      <jump line="101" column="13" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/events.ctrl.js" />
-      <jump line="98" column="27" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/events.ctrl.js" />
-      <jump line="97" column="13" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/events.ctrl.js" />
-      <jump line="12" column="15" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/events.ctrl.js" />
-      <jump line="11" column="13" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-landing.ctrl.js" />
-      <jump line="8" column="12" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-landing.ctrl.js" />
-      <jump line="162" column="21" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/drupal_translators/LessonsInFlawlessTranslator.js" />
-      <jump line="38" column="8" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/lessons-in-flawless-complete.less" />
-      <jump line="249" column="12" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/lessons-in-flawless.less" />
-      <jump line="19" column="35" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/lessons-in-flawless-landing.less" />
-      <jump line="116" column="34" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/lessons-in-flawless-landing.less" />
-      <jump line="7" column="45" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/lessons-in-flawless-landing.less" />
-      <jump line="11" column="30" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/lessons-in-flawless-landing.less" />
-      <jump line="121" column="40" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/lessons-in-flawless-landing.less" />
-      <jump line="14" column="4" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/lessons-in-flawless-landing.less" />
-      <jump line="213" column="22" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/lessons-in-flawless-landing.less" />
-      <jump line="9" column="31" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/lessons-in-flawless-landing.less" />
-      <jump line="244" column="47" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/drupal_translators/LessonsInFlawlessTranslator.js" />
-      <jump line="216" column="32" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/drupal_translators/LessonsInFlawlessTranslator.js" />
-      <jump line="2" column="22" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/drupal_translators/LessonsInFlawlessTranslator.js" />
-      <jump line="217" column="65" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/drupal_translators/LessonsInFlawlessTranslator.js" />
-      <jump line="21" column="4" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/lessons-in-flawless-landing.less" />
-      <jump line="134" column="14" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/lessons-in-flawless-landing.less" />
-      <jump line="135" column="16" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/lessons-in-flawless-landing.less" />
-      <jump line="110" column="46" filename="$USER_HOME$/Sites/Rescue/surveys/app/Libraries/Survey.php" />
-      <jump line="55" column="28" filename="$USER_HOME$/Sites/Rescue/surveys/app/Http/routes.php" />
-      <jump line="18" column="10" filename="$USER_HOME$/Sites/Rescue/surveys/app/Libraries/Survey.php" />
-      <jump line="30" column="13" filename="$USER_HOME$/Sites/Rescue/surveys/app/Libraries/Survey.php" />
-      <jump line="37" column="13" filename="$USER_HOME$/Sites/Rescue/surveys/app/Libraries/Survey.php" />
-      <jump line="44" column="13" filename="$USER_HOME$/Sites/Rescue/surveys/app/Libraries/Survey.php" />
-      <jump line="51" column="13" filename="$USER_HOME$/Sites/Rescue/surveys/app/Libraries/Survey.php" />
-      <jump line="58" column="13" filename="$USER_HOME$/Sites/Rescue/surveys/app/Libraries/Survey.php" />
-      <jump line="66" column="13" filename="$USER_HOME$/Sites/Rescue/surveys/app/Libraries/Survey.php" />
-      <jump line="73" column="13" filename="$USER_HOME$/Sites/Rescue/surveys/app/Libraries/Survey.php" />
-      <jump line="80" column="13" filename="$USER_HOME$/Sites/Rescue/surveys/app/Libraries/Survey.php" />
-      <jump line="89" column="13" filename="$USER_HOME$/Sites/Rescue/surveys/app/Libraries/Survey.php" />
-      <jump line="98" column="13" filename="$USER_HOME$/Sites/Rescue/surveys/app/Libraries/Survey.php" />
-      <jump line="107" column="13" filename="$USER_HOME$/Sites/Rescue/surveys/app/Libraries/Survey.php" />
-      <jump line="115" column="13" filename="$USER_HOME$/Sites/Rescue/surveys/app/Libraries/Survey.php" />
-      <jump line="123" column="13" filename="$USER_HOME$/Sites/Rescue/surveys/app/Libraries/Survey.php" />
-      <jump line="131" column="13" filename="$USER_HOME$/Sites/Rescue/surveys/app/Libraries/Survey.php" />
-      <jump line="138" column="13" filename="$USER_HOME$/Sites/Rescue/surveys/app/Libraries/Survey.php" />
-      <jump line="165" column="8" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/LessonsInFlawless.js" />
-      <jump line="5" column="31" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-intro.ctrl.js" />
-      <jump line="4" column="13" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-intro.ctrl.js" />
-      <jump line="55" column="26" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/LessonsInFlawless.js" />
-      <jump line="135" column="16" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-quiz.ctrl.js" />
-      <jump line="84" column="13" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-quiz.ctrl.js" />
-      <jump line="42" column="12" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-complete.ctrl.js" />
-      <jump line="183" column="21" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/drupal_translators/LessonsInFlawlessTranslator.js" />
-      <jump line="145" column="16" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/lessons-in-flawless-landing.less" />
-      <jump line="69" column="26" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/lessons-in-flawless-landing.less" />
-      <jump line="128" column="9" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/lessons-in-flawless-landing.less" />
-      <jump line="90" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/lessons-in-flawless-landing.less" />
-      <jump line="18" column="29" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/lessons-in-flawless-landing.less" />
-      <jump line="70" column="8" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/lessons-in-flawless-landing.less" />
-      <jump line="67" column="7" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/lessons-in-flawless-landing.less" />
-      <jump line="78" column="8" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/lessons-in-flawless-landing.less" />
-      <jump line="228" column="8" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/lessons-in-flawless-landing.less" />
-      <jump line="0" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/lessons-in-flawless-landing.less" />
-      <jump line="124" column="9" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/lessons-in-flawless-landing.less" />
-      <jump line="263" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/lessons-in-flawless-landing.less" />
-      <jump line="119" column="35" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/lessons-in-flawless-landing.less" />
-      <jump line="150" column="24" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/lessons-in-flawless-landing.less" />
-      <jump line="259" column="24" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/lessons-in-flawless-landing.less" />
-      <jump line="15" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/lessons-in-flawless-landing.less" />
-      <jump line="173" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/lessons-in-flawless-landing.less" />
-      <jump line="6" column="21" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/Gruntfile.js" />
-      <jump line="177" column="16" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/lessons-in-flawless-landing.less" />
-      <jump line="93" column="26" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/lessons-in-flawless-landing.less" />
-      <jump line="293" column="29" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/lessons-in-flawless-landing.less" />
-      <jump line="23" column="18" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/lessons-in-flawless-landing.less" />
-      <jump line="48" column="16" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/lessons-in-flawless-landing.less" />
-      <jump line="103" column="29" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/lessons-in-flawless-landing.less" />
-      <jump line="318" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/lessons-in-flawless-landing.less" />
-      <jump line="96" column="19" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/lessons-in-flawless-landing.less" />
-      <jump line="185" column="26" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/drupal_translators/LessonsInFlawlessTranslator.js" />
-      <jump line="22" column="20" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/lessons-in-flawless-quiz.less" />
-      <jump line="156" column="25" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/lessons-in-flawless.less" />
-      <jump line="6" column="7" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/lessons-in-flawless-quiz.less" />
-      <jump line="168" column="8" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/lessons-in-flawless-quiz.less" />
-      <jump line="28" column="54" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/lessons-in-flawless-quiz.less" />
-      <jump line="181" column="29" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/lessons-in-flawless-quiz.less" />
-      <jump line="67" column="26" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/lessons-in-flawless-quiz.less" />
-      <jump line="23" column="4" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/lessons-in-flawless-quiz.less" />
-      <jump line="42" column="12" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/lessons-in-flawless-quiz.less" />
-      <jump line="23" column="43" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/users.php" />
-      <jump line="999" column="4" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/users.php" />
-      <jump line="1068" column="4" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/users.php" />
-      <jump line="1061" column="34" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/users.php" />
+      <jump line="127" column="25" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/core/base_repo.php" />
+      <jump line="132" column="46" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/core/base_repo.php" />
+      <jump line="141" column="27" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/core/base_repo.php" />
+      <jump line="146" column="36" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/core/base_repo.php" />
+      <jump line="151" column="42" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/core/base_repo.php" />
+      <jump line="176" column="9" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/core/base_repo.php" />
+      <jump line="177" column="16" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/core/base_repo.php" />
+      <jump line="220" column="31" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/core/base_repo.php" />
+      <jump line="105" column="26" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/user_repo.php" />
+      <jump line="22" column="40" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/user_repo.php" />
+      <jump line="160" column="15" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/user_repo.php" />
+      <jump line="164" column="23" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/user_repo.php" />
+      <jump line="167" column="27" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/user_repo.php" />
+      <jump line="170" column="54" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/user_repo.php" />
+      <jump line="187" column="46" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/user_repo.php" />
+      <jump line="189" column="29" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/user_repo.php" />
+      <jump line="194" column="44" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/user_repo.php" />
+      <jump line="203" column="9" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/user_repo.php" />
+      <jump line="205" column="29" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/user_repo.php" />
+      <jump line="210" column="22" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/user_repo.php" />
+      <jump line="215" column="22" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/user_repo.php" />
+      <jump line="209" column="4" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/user_repo.php" />
+      <jump line="1401" column="11" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/users.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/users.php" />
+      <jump line="258" column="4" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_apply.js" />
+      <jump line="351" column="4" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_apply.js" />
+      <jump line="483" column="43" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_apply.js" />
+      <jump line="502" column="38" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_apply.js" />
+      <jump line="505" column="36" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_apply.js" />
+      <jump line="261" column="5" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_apply.js" />
+      <jump line="305" column="42" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_apply.js" />
+      <jump line="1354" column="15" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/users.php" />
+      <jump line="1393" column="13" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/users.php" />
+      <jump line="1379" column="31" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/users.php" />
+      <jump line="8" column="32" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_apply.js" />
+      <jump line="235" column="12" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_apply.js" />
+      <jump line="951" column="12" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_apply.js" />
+      <jump line="1388" column="13" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/users.php" />
+      <jump line="33" column="37" filename="$USER_HOME$/Sites/Rescue/helix/js/app/modal.js" />
+      <jump line="915" column="40" filename="$USER_HOME$/Sites/Rescue/helix/js/app/modal.js" />
+      <jump line="907" column="38" filename="$USER_HOME$/Sites/Rescue/helix/js/app/modal.js" />
+      <jump line="768" column="0" filename="$USER_HOME$/Sites/Rescue/helix/js/app/modal.js" />
+      <jump line="908" column="14" filename="$USER_HOME$/Sites/Rescue/helix/js/app/modal.js" />
+      <jump line="906" column="8" filename="$USER_HOME$/Sites/Rescue/helix/js/app/modal.js" />
+      <jump line="700" column="16" filename="$USER_HOME$/Sites/Rescue/helix/js/app/modal.js" />
+      <jump line="692" column="24" filename="$USER_HOME$/Sites/Rescue/helix/js/app/modal.js" />
+      <jump line="687" column="24" filename="$USER_HOME$/Sites/Rescue/helix/js/app/modal.js" />
+      <jump line="627" column="20" filename="$USER_HOME$/Sites/Rescue/helix/js/app/modal.js" />
+      <jump line="238" column="28" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_apply.js" />
+      <jump line="260" column="9" filename="$USER_HOME$/Sites/Rescue/helix/js/app/modal.js" />
+      <jump line="946" column="8" filename="$USER_HOME$/Sites/Rescue/helix/js/app/modal.js" />
+      <jump line="504" column="15" filename="$USER_HOME$/Sites/Rescue/helix/js/app/modal.js" />
+      <jump line="403" column="19" filename="$USER_HOME$/Sites/Rescue/helix/js/app/modal.js" />
+      <jump line="943" column="8" filename="$USER_HOME$/Sites/Rescue/helix/js/app/modal.js" />
+      <jump line="544" column="15" filename="$USER_HOME$/Sites/Rescue/helix/js/app/modal.js" />
+      <jump line="909" column="8" filename="$USER_HOME$/Sites/Rescue/helix/js/app/modal.js" />
+      <jump line="418" column="16" filename="$USER_HOME$/Sites/Rescue/helix/js/app/modal.js" />
+      <jump line="417" column="41" filename="$USER_HOME$/Sites/Rescue/helix/js/app/modal.js" />
+      <jump line="416" column="16" filename="$USER_HOME$/Sites/Rescue/helix/js/app/modal.js" />
+      <jump line="415" column="14" filename="$USER_HOME$/Sites/Rescue/helix/js/app/modal.js" />
+      <jump line="412" column="12" filename="$USER_HOME$/Sites/Rescue/helix/js/app/modal.js" />
+      <jump line="410" column="31" filename="$USER_HOME$/Sites/Rescue/helix/js/app/modal.js" />
+      <jump line="409" column="11" filename="$USER_HOME$/Sites/Rescue/helix/js/app/modal.js" />
+      <jump line="376" column="32" filename="$USER_HOME$/Sites/Rescue/helix/js/app/modal.js" />
+      <jump line="375" column="17" filename="$USER_HOME$/Sites/Rescue/helix/js/app/modal.js" />
+      <jump line="371" column="32" filename="$USER_HOME$/Sites/Rescue/helix/js/app/modal.js" />
+      <jump line="367" column="18" filename="$USER_HOME$/Sites/Rescue/helix/js/app/modal.js" />
+      <jump line="356" column="20" filename="$USER_HOME$/Sites/Rescue/helix/js/app/modal.js" />
+      <jump line="348" column="28" filename="$USER_HOME$/Sites/Rescue/helix/js/app/modal.js" />
+      <jump line="345" column="28" filename="$USER_HOME$/Sites/Rescue/helix/js/app/modal.js" />
+      <jump line="126" column="5" filename="$USER_HOME$/Sites/Rescue/helix/js/app/modal.js" />
+      <jump line="917" column="44" filename="$USER_HOME$/Sites/Rescue/helix/js/app/modal.js" />
+      <jump line="256" column="16" filename="$USER_HOME$/Sites/Rescue/helix/js/app/modal.js" />
+      <jump line="344" column="43" filename="$USER_HOME$/Sites/Rescue/helix/js/app/modal.js" />
+      <jump line="146" column="8" filename="$USER_HOME$/Sites/Rescue/helix/js/app/modal.js" />
+      <jump line="209" column="0" filename="$USER_HOME$/Sites/Rescue/helix/js/app/modal.js" />
+      <jump line="1052" column="27" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_apply.js" />
+      <jump line="928" column="30" filename="$USER_HOME$/Sites/Rescue/helix/js/app/modal.js" />
+      <jump line="938" column="12" filename="$USER_HOME$/Sites/Rescue/helix/js/app/modal.js" />
+      <jump line="257" column="23" filename="$USER_HOME$/Sites/Rescue/helix/js/app/modal.js" />
+      <jump line="301" column="12" filename="$USER_HOME$/Sites/Rescue/helix/js/app/modal.js" />
+      <jump line="305" column="12" filename="$USER_HOME$/Sites/Rescue/helix/js/app/modal.js" />
+      <jump line="340" column="16" filename="$USER_HOME$/Sites/Rescue/helix/js/app/modal.js" />
+      <jump line="951" column="23" filename="$USER_HOME$/Sites/Rescue/helix/js/app/modal.js" />
+      <jump line="147" column="0" filename="$USER_HOME$/Sites/Rescue/helix/js/app/modal.js" />
+      <jump line="211" column="14" filename="$USER_HOME$/Sites/Rescue/helix/js/app/modal.js" />
+      <jump line="5" column="8" filename="$USER_HOME$/Sites/Rescue/helix/js/app/modal.js" />
+      <jump line="27" column="8" filename="$USER_HOME$/Sites/Rescue/helix/js/app/modal.js" />
+      <jump line="30" column="12" filename="$USER_HOME$/Sites/Rescue/helix/js/app/modal.js" />
+      <jump line="31" column="14" filename="$USER_HOME$/Sites/Rescue/helix/js/app/modal.js" />
+      <jump line="32" column="12" filename="$USER_HOME$/Sites/Rescue/helix/js/app/modal.js" />
+      <jump line="153" column="14" filename="$USER_HOME$/Sites/Rescue/helix/js/app/modal.js" />
+      <jump line="159" column="14" filename="$USER_HOME$/Sites/Rescue/helix/js/app/modal.js" />
+      <jump line="220" column="10" filename="$USER_HOME$/Sites/Rescue/helix/js/app/modal.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Sites/Rescue/helix/js/app/modal.js" />
+      <jump line="278" column="4" filename="$USER_HOME$/Sites/Rescue/helix/js/app/modal.js" />
+      <jump line="236" column="35" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_apply.js" />
+      <jump line="233" column="12" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_apply.js" />
+      <jump line="313" column="21" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_apply.js" />
+      <jump line="121" column="23" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_apply.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2595,8 +2628,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJpc19hY3RpdmUiICAgID0+IDEsCg==</text>
+      <register name="&quot;" type="4">
+        <text>impleAlert</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -2650,52 +2683,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>projectInstanceRepo</text>
+        <text>impleAlert</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwcm9qZWN0c1w+</text>
+        <text encoding="base64">XDxzaW5nbGVSZXNwb25zZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAvKiBAdmFyIFByb2plY3RfSW5zdGFuY2VfUmVwbyAkcHJvamVjdEluc3RhbmNlUmVwbyAqLwo=</text>
+        <text encoding="base64">ICAgICAgICBzaG93X2pzb25fc3VjY2VzcyhbJ2FwcGxpY2F0aW9uc19jb21wbGV0ZScgPT4gdHJ1ZV0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJpc19hY3RpdmUiICAgID0+IDEsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbW9kYWwub25DbG9zZShmdW5jdGlvbiAoKSB7CiAgICAgICAgICAgICAgICB3aW5kb3cubG9jYXRpb24ucmVsb2FkKHRydWUpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAvKiBAdmFyIFByb2plY3RfSW5zdGFuY2VfUmVwbyAkcHJvamVjdEluc3RhbmNlUmVwbyAqLwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8qIEB2YXIgUHJvamVjdF9JbnN0YW5jZV9SZXBvICRwcm9qZWN0SW5zdGFuY2VSZXBvICovCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgd2luZG93LmxvY2F0aW9uID0gcmVzcG9uc2UucmVkaXJlY3Q7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvKiBAdmFyIFByb2plY3RfSW5zdGFuY2VfUmVwbyAkcHJvamVjdEluc3RhbmNlUmVwbyAqLwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvKiBAdmFyIFByb2plY3RfSW5zdGFuY2VfUmVwbyAkcHJvamVjdEluc3RhbmNlUmVwbyAqLwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmFja2dyb3VuZDogdXJsKCIvaW1hZ2VzL2FsbHktdGVzdCIpIG5vLXJlcGVhdDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmFja2dyb3VuZDogdXJsKCIvaW1hZ2VzL2FsbHktdGVzdCIpIG5vLXJlcGVhdDsK</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJi5jb3Vyc2UtMS0xLAogICAgICAgICAgICAmLmNvdXJzZS0xLTIsCiAgICAgICAgICAgICYuY291cnNlLTEtMywKICAgICAgICAgICAgJi5jb3Vyc2UtMS00IHsKCiAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgbW9kYWwuc3RpCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwcm9qZWN0c1w+</last-search>
+      <last-search encoding="base64">XDxzaW5nbGVSZXNwb25zZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwcm9qZWN0c1w+</last-pattern>
+      <last-pattern encoding="base64">XDxzaW5nbGVSZXNwb25zZVw+</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxzaG93UmVzdWx0c1w+</last-substitute>
       <last-dir>-1</last-dir>
@@ -2729,7 +2762,44 @@
         <entry>ally</entry>
         <entry>background-color</entry>
         <entry>function application</entry>
+        <entry encoding="base64">XDxyZXF1aXJlbWVudHNDb21wbGV0ZVw+</entry>
         <entry encoding="base64">XDxwcm9qZWN0c1w+</entry>
+        <entry>Training</entry>
+        <entry encoding="base64">XDxfYXBwbGljYXRpb25fcG9zdFw+</entry>
+        <entry encoding="base64">XDxmcm9tR3JvdXBcPg==</entry>
+        <entry>convertN</entry>
+        <entry>save-member</entry>
+        <entry encoding="base64">XDxzYXZlTWVtYmVyXD4=</entry>
+        <entry>json_make_me</entry>
+        <entry>json_make</entry>
+        <entry encoding="base64">XDxpc01ha2VNZW1iZXJcPg==</entry>
+        <entry encoding="base64">XDxmcm9tXD4=</entry>
+        <entry>function query</entry>
+        <entry>query</entry>
+        <entry encoding="base64">XDxldmVudHNcPg==</entry>
+        <entry>events.member</entry>
+        <entry>events.update</entry>
+        <entry encoding="base64">XDxsb2NhdGlvblw+</entry>
+        <entry encoding="base64">XDxfbmV4dF90cmFpbmluZ19hcHBsaWNhdGlvblw+</entry>
+        <entry encoding="base64">XDxzaG93Tm90aWZ5XD4=</entry>
+        <entry>alert</entry>
+        <entry encoding="base64">XDxhbGVydFw+</entry>
+        <entry encoding="base64">XDxvbkNsb3NlXD4=</entry>
+        <entry encoding="base64">XDxhZGRIb29rXD4=</entry>
+        <entry>configm</entry>
+        <entry>confirm</entry>
+        <entry>action.confirm</entry>
+        <entry>modal</entry>
+        <entry>get.alert</entry>
+        <entry encoding="base64">XDxjYWxsYmFja1w+</entry>
+        <entry>close</entry>
+        <entry>alert =</entry>
+        <entry>action.close</entry>
+        <entry>modal =</entry>
+        <entry encoding="base64">YWxlcnQgPSA=</entry>
+        <entry>closeModal</entry>
+        <entry>Make Mem</entry>
+        <entry encoding="base64">XDxzaW5nbGVSZXNwb25zZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>g help</entry>
