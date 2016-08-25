@@ -205,12 +205,12 @@
         <mark key="^" line="289" column="97" />
         <mark key="." line="289" column="97" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-intro.ctrl.js" timestamp="1472081397737">
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-intro.ctrl.js" timestamp="1472086172456">
         <mark key="'" line="4" column="13" />
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="^" line="34" column="55" />
-        <mark key="." line="39" column="0" />
+        <mark key="[" line="27" column="36" />
+        <mark key="]" line="27" column="36" />
+        <mark key="^" line="27" column="62" />
+        <mark key="." line="27" column="36" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/libraries/MilestoneTraining.php" timestamp="1471215239993">
         <mark key="'" line="38" column="106" />
@@ -485,20 +485,6 @@
         <mark key="^" line="26" column="33" />
         <mark key="." line="26" column="30" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" timestamp="1471994080956">
-        <mark key="'" line="278" column="34" />
-        <mark key="[" line="324" column="43" />
-        <mark key="]" line="324" column="32" />
-        <mark key="." line="324" column="32" />
-        <mark key="^" line="324" column="32" />
-      </file>
-      <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/templates/views-view--events.tpl.php" timestamp="1471993891678">
-        <mark key="'" line="28" column="1" />
-        <mark key="[" line="177" column="0" />
-        <mark key="]" line="177" column="0" />
-        <mark key="^" line="124" column="25" />
-        <mark key="." line="177" column="0" />
-      </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/ripple-button.js" timestamp="1471556399529">
         <mark key="'" line="56" column="25" />
         <mark key="[" line="78" column="0" />
@@ -520,11 +506,11 @@
         <mark key="." line="24" column="11" />
         <mark key="^" line="24" column="11" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/lessons-in-flawless.less" timestamp="1472073360443">
-        <mark key="[" line="163" column="5" />
-        <mark key="]" line="163" column="5" />
-        <mark key="^" line="4" column="54" />
-        <mark key="." line="163" column="5" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/lessons-in-flawless.less" timestamp="1472086795360">
+        <mark key="[" line="149" column="27" />
+        <mark key="]" line="149" column="28" />
+        <mark key="^" line="153" column="29" />
+        <mark key="." line="149" column="28" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-quiz.ctrl.js" timestamp="1472081721326">
         <mark key="'" line="84" column="13" />
@@ -667,7 +653,7 @@
         <mark key="." line="23" column="61" />
         <mark key="^" line="23" column="61" />
       </file>
-      <file name="/Dummy.txt" timestamp="1472078741126">
+      <file name="/Dummy.txt" timestamp="1472087174764">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/surveys/app/Http/routes.php" timestamp="1472078672997">
@@ -682,12 +668,6 @@
         <mark key="]" line="46" column="59" />
         <mark key="." line="46" column="59" />
         <mark key="^" line="46" column="59" />
-      </file>
-      <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/templates/views-view--past-event-block.tpl.php" timestamp="1471989423730">
-        <mark key="[" line="102" column="58" />
-        <mark key="]" line="102" column="58" />
-        <mark key="." line="102" column="58" />
-        <mark key="^" line="102" column="56" />
       </file>
       <file name="$USER_HOME$/Sites/Mine/udacity/meetup-planner/src/js/partials/login.js" timestamp="1470618839588">
         <mark key="'" line="35" column="8" />
@@ -2676,8 +2656,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>100%;</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -2731,7 +2711,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text />
+        <text>100%;</text>
       </register>
       <register name="/" type="4">
         <text>card-title</text>
