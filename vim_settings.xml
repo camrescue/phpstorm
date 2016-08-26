@@ -68,6 +68,13 @@
         <mark key="." line="4" column="20" />
         <mark key="^" line="4" column="20" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/weightofthestateva.com/html/.gitignore" timestamp="1472202656274">
+        <mark key="'" line="75" column="4" />
+        <mark key="[" line="103" column="19" />
+        <mark key="]" line="103" column="37" />
+        <mark key="^" line="103" column="37" />
+        <mark key="." line="103" column="37" />
+      </file>
       <file name="$USER_HOME$/Documents/ServerBackup/backup/home/117164/domains/weightofthestateva.com/html/404.ini.php" timestamp="1472193750063">
         <mark key="'" line="12" column="51" />
       </file>
@@ -347,6 +354,11 @@
         <mark key="]" line="0" column="33" />
         <mark key="." line="0" column="33" />
         <mark key="^" line="0" column="33" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/weightofthestateva.com/html/index.php" timestamp="1472203011766">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/survey-admin/resources/views/surveys/tracker.blade.php" timestamp="1468968514693">
         <mark key="'" line="132" column="36" />
@@ -772,7 +784,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="8" filename="$USER_HOME$/Sites/Rescue/helix/js/app/modal.js" />
       <jump line="27" column="8" filename="$USER_HOME$/Sites/Rescue/helix/js/app/modal.js" />
       <jump line="30" column="12" filename="$USER_HOME$/Sites/Rescue/helix/js/app/modal.js" />
       <jump line="31" column="14" filename="$USER_HOME$/Sites/Rescue/helix/js/app/modal.js" />
@@ -872,6 +883,7 @@
       <jump line="29" column="56" filename="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/filter.php" />
       <jump line="10" column="34" filename="$USER_HOME$/Documents/ServerBackup/backup/home/117164/domains/weightofthestateva.com/html/wp-content/themes/Weight-of-the-State/style/js/tweetie.min.js" />
       <jump line="86" column="0" filename="$USER_HOME$/Documents/ServerBackup/backup/home/117164/domains/weightofthestateva.com/html/wp-content/themes/Weight-of-the-State/style/js/tweetie.min.js" />
+      <jump line="75" column="4" filename="$USER_HOME$/Sites/Rescue/weightofthestateva.com/html/.gitignore" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2717,7 +2729,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIGNsZWFyVGltZW91dCh0aWNrZXIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -2771,7 +2783,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>20</text>
+        <text>example-mu-plugin/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxGSUxURVJfREVGQVVMVFw+</text>
@@ -2780,34 +2792,34 @@
         <text encoding="base64">ICAgIDxzY3JpcHQgdHlwZT0idGV4dC9qYXZhc2NyaXB0IiBzcmM9Ijw/cGhwIGJsb2dpbmZvKCd0ZW1wbGF0ZV91cmwnKTsgPz4vc3R5bGUvanMvanF1ZXJ5LXRvb2xzLm1pbi5qcyI+PC9zY3JpcHQ+ICAgICAgIAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIGNsZWFyVGltZW91dCh0aWNrZXIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">cmVxdWlyZSAidmVuZG9yL2F1dG9sb2FkLnBocCI7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbWF4SXRlbXMgPSAkaXRlbXMubGVuZ3RoIHx8IDAsCg==</text>
+        <text encoding="base64">IXdwLWNvbnRlbnQvdGhlbWVzL2V4YW1wbGUtdGhlbWUvCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IXdwLWNvbnRlbnQvcGx1Z2lucy9leGFtcGxlLXBsdWdpbi8K</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIGNsZWFyVGltZW91dCh0aWNrZXIpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbWF4SXRlbXMgPSAkaXRlbXMubGVuZ3RoIHx8IDAsCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
