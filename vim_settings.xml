@@ -408,6 +408,12 @@
         <mark key="." line="49" column="28" />
         <mark key="^" line="49" column="28" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/wordpress-composer/.gitignore" timestamp="1472230802884">
+        <mark key="[" line="103" column="1" />
+        <mark key="]" line="103" column="1" />
+        <mark key="^" line="103" column="1" />
+        <mark key="." line="103" column="1" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/survey-admin/resources/views/dashboard/screener-goal-circle.blade.php" timestamp="1469050023347">
         <mark key="'" line="20" column="57" />
         <mark key="[" line="14" column="73" />
@@ -2728,8 +2734,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>/</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -2783,7 +2789,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>example-mu-plugin/</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxGSUxURVJfREVGQVVMVFw+</text>
