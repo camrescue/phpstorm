@@ -3,14 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Sites/Rescue/shared-env/scripts/bash/install.sh.sample" timestamp="1472252933256">
+        <mark key="'" line="104" column="0" />
+      </file>
       <file name="/a.dummy" timestamp="1472239658304">
         <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/js/app/modal.js" timestamp="1472163592465">
-        <mark key="'" line="278" column="4" />
-        <mark key="[" line="217" column="0" />
-        <mark key="]" line="217" column="0" />
-        <mark key="." line="217" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/weightofthestateva.com/html/.gitignore" timestamp="1472233727005">
         <mark key="'" line="75" column="4" />
@@ -111,12 +108,6 @@
         <mark key="." line="23" column="9" />
         <mark key="^" line="23" column="9" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/weightofthestateeva-composer/public/wp/wp-includes/widgets.php" timestamp="1472236994025">
-        <mark key="'" line="817" column="18" />
-        <mark key="[" line="847" column="0" />
-        <mark key="]" line="847" column="0" />
-        <mark key="." line="847" column="0" />
-      </file>
       <file name="$USER_HOME$/Sites/Rescue/wordpress-composer/public/index.php" timestamp="1472230957214">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="3" column="34" />
@@ -153,18 +144,6 @@
         <mark key="^" line="5" column="56" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/weightofthestateeva-composer/composer.json" timestamp="1472252023392" />
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/ripple-button.js" timestamp="1472172770454">
-        <mark key="'" line="56" column="25" />
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="82" column="0" />
-        <mark key="." line="82" column="0" />
-      </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-quiz.ctrl.js" timestamp="1472172536152">
-        <mark key="'" line="58" column="39" />
-        <mark key="[" line="74" column="0" />
-        <mark key="]" line="74" column="0" />
-        <mark key="." line="74" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/ServerBackup/backup/home/117164/domains/weightofthestateva.com/html/wp-content/themes/Weight-of-the-State/style/js/tweetie.min.js" timestamp="1472201244122">
         <mark key="'" line="86" column="0" />
       </file>
@@ -230,7 +209,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="8" column="38" filename="$USER_HOME$/Sites/Rescue/helix/application/views/user/application/edit.php" />
       <jump line="248" column="41" filename="$USER_HOME$/Sites/Rescue/helix/application/views/user/application/edit.php" />
       <jump line="295" column="107" filename="$USER_HOME$/Sites/Rescue/helix/application/views/user/application/edit.php" />
       <jump line="300" column="87" filename="$USER_HOME$/Sites/Rescue/helix/application/views/user/application/edit.php" />
@@ -330,6 +308,7 @@
       <jump line="570" column="9" filename="$USER_HOME$/Sites/Rescue/weightofthestateeva-composer/public/wp/wp-includes/general-template.php" />
       <jump line="3068" column="25" filename="$USER_HOME$/Sites/Rescue/weightofthestateeva-composer/public/wp/wp-includes/general-template.php" />
       <jump line="1758" column="25" filename="$USER_HOME$/Sites/Rescue/weightofthestateeva-composer/public/wp/wp-includes/functions.php" />
+      <jump line="104" column="0" filename="$USER_HOME$/Sites/Rescue/shared-env/scripts/bash/install.sh.sample" />
     </jumps>
     <registers>
       <register name="a" type="4">
