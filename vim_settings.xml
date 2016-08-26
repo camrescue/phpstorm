@@ -24,7 +24,7 @@
         <mark key="^" line="38" column="26" />
         <mark key="." line="38" column="26" />
       </file>
-      <file name="/a.dummy" timestamp="1472166268875">
+      <file name="/a.dummy" timestamp="1472191026947">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Mine/udacity/meetup-planner/gulpfile.js" timestamp="1471406004537">
@@ -87,7 +87,6 @@
         <mark key="." line="100" column="28" />
         <mark key="^" line="100" column="28" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/js/controllers/first_login_view.js" timestamp="1472166173906" />
       <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/Services/DashboardData.php" timestamp="1470325936271">
         <mark key="'" line="53" column="9" />
         <mark key="[" line="282" column="30" />
@@ -316,6 +315,12 @@
         <mark key="^" line="369" column="22" />
         <mark key="." line="369" column="22" />
       </file>
+      <file name="$USER_HOME$/Documents/ServerBackup/backup/home/117164/domains/weightofthestateva.com/html/wp-config.local.php" timestamp="1472191181330">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="4" />
+        <mark key="^" line="13" column="31" />
+        <mark key="." line="2" column="4" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/libraries/milestones/MilestoneTypeTraining.php" timestamp="1471047492804">
         <mark key="'" line="70" column="21" />
         <mark key="[" line="39" column="26" />
@@ -372,7 +377,6 @@
         <mark key="." line="49" column="28" />
         <mark key="^" line="49" column="28" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/models/core/import_m.php" timestamp="1472168465638" />
       <file name="$USER_HOME$/Sites/Rescue/survey-admin/resources/views/dashboard/screener-goal-circle.blade.php" timestamp="1469050023347">
         <mark key="'" line="20" column="57" />
         <mark key="[" line="14" column="73" />
@@ -589,6 +593,11 @@
         <mark key="]" line="378" column="0" />
         <mark key="^" line="378" column="28" />
         <mark key="." line="378" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/ServerBackup/backup/home/117164/domains/weightofthestateva.com/html/wp-config.php" timestamp="1472191470687">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/survey-admin/resources/views/dashboard/demographic-circle.blade.php" timestamp="1469208996916">
         <mark key="'" line="19" column="41" />
@@ -2670,7 +2679,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRhcmdldFNjb3BlLnF1ZXN0aW9uc1JlYWR5ID0gdHJ1ZTsK</text>
+        <text encoding="base64">ZGllKCdoZXJlJyk7Cg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -2724,7 +2733,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>destroy</text>
+        <text>dd</text>
       </register>
       <register name="/" type="4">
         <text>selected</text>
@@ -2733,34 +2742,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBzaG93UmVzdWx0cyh0YXJnZXRTY29wZSwgdHJ1ZSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHRhcmdldFNjb3BlLnF1ZXN0aW9uc1JlYWR5ID0gdHJ1ZTsK</text>
+        <text encoding="base64">ZGllKCdoZXJlJyk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIHJlc2V0U2VsZWN0ZWQodGFyZ2V0U2NvcGUpOwo=</text>
+        <text encoding="base64">ICAgIGRpZSgnaGVyZScpOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIC8qKiBEYXRhYmFzZSBDaGFyc2V0IHRvIHVzZSBpbiBjcmVhdGluZyBkYXRhYmFzZSB0YWJsZXMuICovCiAgICBkZWZpbmUoJ0RCX0NIQVJTRVQnLCAndXRmOCcpOwoKICAgIC8qKiBUaGUgRGF0YWJhc2UgQ29sbGF0ZSB0eXBlLiBEb24ndCBjaGFuZ2UgdGhpcyBpZiBpbiBkb3VidC4gKi8KICAgIGRlZmluZSgnREJfQ09MTEFURScsICcnKTsK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">Ci8qKiNAKwogKiBBdXRoZW50aWNhdGlvbiBVbmlxdWUgS2V5cyBhbmQgU2FsdHMuCiAqCiAqIENoYW5nZSB0aGVzZSB0byBkaWZmZXJlbnQgdW5pcXVlIHBocmFzZXMhCiAqIFlvdSBjYW4gZ2VuZXJhdGUgdGhlc2UgdXNpbmcgdGhlIHtAbGluayBodHRwczovL2FwaS53b3JkcHJlc3Mub3JnL3NlY3JldC1rZXkvMS4xL3NhbHQvIFdvcmRQcmVzcy5vcmcgc2VjcmV0LWtleSBzZXJ2aWNlfQogKiBZb3UgY2FuIGNoYW5nZSB0aGVzZSBhdCBhbnkgcG9pbnQgaW4gdGltZSB0byBpbnZhbGlkYXRlIGFsbCBleGlzdGluZyBjb29raWVzLiBUaGlzIHdpbGwgZm9yY2UgYWxsIHVzZXJzIHRvIGhhdmUgdG8gbG9nIGluIGFnYWluLgogKgogKiBAc2luY2UgMi42LjAKICovCmRlZmluZSgnQVVUSF9LRVknLCAnQUxqQEsrfUxfclkuYi0sO0JVd3JpT2FVWWBSdkcjejBdOnYwVWd3UWxQSjheNDYxJDlUfEovcWZ6az42LTk/SCcpOwpkZWZpbmUoJ1NFQ1VSRV9BVVRIX0tFWScsICcoNnw8MyhAMTpyfDVtVEI9Q2hBYSE9RnBjeTgyQS1FeWJ+RjdZXV5TOGNJNjZAcmo/Wk47Q3NGVkl7TytXaFtXJyk7CmRlZmluZSgnTE9HR0VEX0lOX0tFWScsICdbcyE6KjdEfXZeKz90KWpsfm9LXlY2VkdMVGRMTEhlNi8hNDVzQ0F8ICV2Vj5yby1bcm5hJHhvUUl5elNaMzsrJyk7CmRlZmluZSgnTk9OQ0VfS0VZJywgJ3htOWAmVTVMKDJya1FSWFgyPXQ8fDRocGNVPVd7L3VCWDo9OFYjLC1WRy0rNH4pTSF4NC53ckUsJjFAQElqViwnKTsKZGVmaW5lKCdBVVRIX1NBTFQnLCAnS1RMZVdMaENFNFJIZC1GbDpDbUJBYEZjN2J1fWpiUU5yMjRkeH4hKiAlO0xwKyVsYSNMc2FabnwpMm4xUzJBKCcpOwpkZWZpbmUoJ1NFQ1VSRV9BVVRIX1NBTFQnLCAnMmZFK3RTamAgWl5VI2R+Wk1AZUshOX5IRGJxPSYqfi11IWBaLjFqUDElJnc0YHVVTmA6M0Itez59c3Z0el4oLCcpOwpkZWZpbmUoJ0xPR0dFRF9JTl9TQUxUJywgJ2BrXiZjfUxQJTcxcUtdLjsyQm0tZls1dyojdlYtIS0rNkxmR2o5Sno4JUR8bn1fV2I+KEZNbEN+IGJfbTg+dHcnKTsKZGVmaW5lKCdOT05DRV9TQUxUJywgJ0t7dFJqeWl2P2s6Ons+Z1U7e0YkK0cxRSBATC13bEstSkk2fGZIQzomP2BraFY4JF1ibDNFWlpHR3kwPzA5L0UnKTsKCgovKiojQC0qLwoKLyoqCiAqIFdvcmRQcmVzcyBEYXRhYmFzZSBUYWJsZSBwcmVmaXguCiAqCiAqIFlvdSBjYW4gaGF2ZSBtdWx0aXBsZSBpbnN0YWxsYXRpb25zIGluIG9uZSBkYXRhYmFzZSBpZiB5b3UgZ2l2ZSBlYWNoIGEgdW5pcXVlCiAqIHByZWZpeC4gT25seSBudW1iZXJzLCBsZXR0ZXJzLCBhbmQgdW5kZXJzY29yZXMgcGxlYXNlIQogKi8KJHRhYmxlX3ByZWZpeCA9ICd3b3RzXyc7CgovKioKICogV29yZFByZXNzIExvY2FsaXplZCBMYW5ndWFnZSwgZGVmYXVsdHMgdG8gRW5nbGlzaC4KICoKICogQ2hhbmdlIHRoaXMgdG8gbG9jYWxpemUgV29yZFByZXNzLiBBIGNvcnJlc3BvbmRpbmcgTU8gZmlsZSBmb3IgdGhlIGNob3NlbgogKiBsYW5ndWFnZSBtdXN0IGJlIGluc3RhbGxlZCB0byB3cC1jb250ZW50L2xhbmd1YWdlcy4gRm9yIGV4YW1wbGUsIGluc3RhbGwKICogZGVfREUubW8gdG8gd3AtY29udGVudC9sYW5ndWFnZXMgYW5kIHNldCBXUExBTkcgdG8gJ2RlX0RFJyB0byBlbmFibGUgR2VybWFuCiAqIGxhbmd1YWdlIHN1cHBvcnQuCiAqLwpkZWZpbmUoJ1dQTEFORycsICcnKTsKCi8qKgogKiBGb3IgZGV2ZWxvcGVyczogV29yZFByZXNzIGRlYnVnZ2luZyBtb2RlLgogKgogKiBDaGFuZ2UgdGhpcyB0byB0cnVlIHRvIGVuYWJsZSB0aGUgZGlzcGxheSBvZiBub3RpY2VzIGR1cmluZyBkZXZlbG9wbWVudC4KICogSXQgaXMgc3Ryb25nbHkgcmVjb21tZW5kZWQgdGhhdCBwbHVnaW4gYW5kIHRoZW1lIGRldmVsb3BlcnMgdXNlIFdQX0RFQlVHCiAqIGluIHRoZWlyIGRldmVsb3BtZW50IGVudmlyb25tZW50cy4KICovCmRlZmluZSgnV1BfREVCVUcnLCBmYWxzZSk7CgovKiBUaGF0J3MgYWxsLCBzdG9wIGVkaXRpbmchIEhhcHB5IGJsb2dnaW5nLiAqLwoKLyoqIEFic29sdXRlIHBhdGggdG8gdGhlIFdvcmRQcmVzcyBkaXJlY3RvcnkuICovCmlmICghZGVmaW5lZCgnQUJTUEFUSCcpKQogICAgZGVmaW5lKCdBQlNQQVRIJywgZGlybmFtZShfX0ZJTEVfXykgLiAnLycpOwoKLyoqIFNldHMgdXAgV29yZFByZXNzIHZhcnMgYW5kIGluY2x1ZGVkIGZpbGVzLiAqLwpyZXF1aXJlX29uY2UoQUJTUEFUSCAuICd3cC1zZXR0aW5ncy5waHAnKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -2773,82 +2782,10 @@
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxmb3JtVmFsaWRhdGlvblw+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxnZXRVcGNvbWluZ0V2ZW50c1w+</entry>
-        <entry encoding="base64">XDx1cGNvbWluZ0V2ZW50c1w+</entry>
-        <entry encoding="base64">XDxsYW5kaW5nRGF0YVw+</entry>
-        <entry encoding="base64">XDxwYXJzZUxhbmRpbmdcPg==</entry>
-        <entry>new Date</entry>
-        <entry encoding="base64">XDxjdXJyZW50RGF0ZVw+</entry>
-        <entry>w</entry>
-        <entry encoding="base64">XDx0ZXN0Q29udHJvbGxlclw+</entry>
-        <entry encoding="base64">XDxGRV9DT1BZX1RFU1RcPg==</entry>
-        <entry encoding="base64">XDxhY3RpdmVcPg==</entry>
-        <entry encoding="base64">XDx2YWxpZGF0ZUNvdXJzZVw+</entry>
-        <entry encoding="base64">XDx2YWxpZGF0ZUNvdXJzZUxlc3Nvblw+</entry>
-        <entry encoding="base64">XDxsb2FkUGFyYW1zXD4=</entry>
-        <entry encoding="base64">XDxwYWdlXD4=</entry>
-        <entry encoding="base64">XDxwYXJzZUNvdXJzZU5hbWVcPg==</entry>
-        <entry>card-cou</entry>
-        <entry>h2</entry>
-        <entry>card-title</entry>
-        <entry>launch</entry>
-        <entry>line</entry>
-        <entry>url</entry>
-        <entry>ally</entry>
-        <entry>background-color</entry>
-        <entry>function application</entry>
-        <entry encoding="base64">XDxyZXF1aXJlbWVudHNDb21wbGV0ZVw+</entry>
-        <entry encoding="base64">XDxwcm9qZWN0c1w+</entry>
-        <entry>Training</entry>
-        <entry encoding="base64">XDxfYXBwbGljYXRpb25fcG9zdFw+</entry>
-        <entry encoding="base64">XDxmcm9tR3JvdXBcPg==</entry>
-        <entry>convertN</entry>
-        <entry>save-member</entry>
-        <entry encoding="base64">XDxzYXZlTWVtYmVyXD4=</entry>
-        <entry>json_make_me</entry>
-        <entry>json_make</entry>
-        <entry encoding="base64">XDxpc01ha2VNZW1iZXJcPg==</entry>
-        <entry encoding="base64">XDxmcm9tXD4=</entry>
-        <entry>function query</entry>
-        <entry>query</entry>
-        <entry encoding="base64">XDxldmVudHNcPg==</entry>
-        <entry>events.member</entry>
-        <entry>events.update</entry>
-        <entry encoding="base64">XDxsb2NhdGlvblw+</entry>
-        <entry encoding="base64">XDxfbmV4dF90cmFpbmluZ19hcHBsaWNhdGlvblw+</entry>
-        <entry encoding="base64">XDxzaG93Tm90aWZ5XD4=</entry>
-        <entry>alert</entry>
-        <entry encoding="base64">XDxhbGVydFw+</entry>
-        <entry encoding="base64">XDxvbkNsb3NlXD4=</entry>
-        <entry encoding="base64">XDxhZGRIb29rXD4=</entry>
-        <entry>configm</entry>
-        <entry>confirm</entry>
-        <entry>action.confirm</entry>
-        <entry>modal</entry>
-        <entry>get.alert</entry>
-        <entry encoding="base64">XDxjYWxsYmFja1w+</entry>
-        <entry>close</entry>
-        <entry>alert =</entry>
-        <entry>action.close</entry>
-        <entry>modal =</entry>
-        <entry encoding="base64">YWxlcnQgPSA=</entry>
-        <entry>closeModal</entry>
-        <entry>Make Mem</entry>
-        <entry encoding="base64">XDxzaW5nbGVSZXNwb25zZVw+</entry>
-        <entry>Parental</entry>
-        <entry encoding="base64">XDxzYXZlXD4=</entry>
-        <entry encoding="base64">XDxzdWNjZXNzXD4=</entry>
-        <entry>debugg</entry>
-        <entry>first_login</entry>
-        <entry>first_log</entry>
-        <entry>teesh</entry>
-        <entry>apply_ex</entry>
-        <entry encoding="base64">XDx2YWxpZGF0aW9uRmllbGRzXD4=</entry>
-        <entry encoding="base64">XDxmb3JtVmFsaWRhdGlvblw+</entry>
         <entry>complete_</entry>
         <entry>field_lesson_number</entry>
         <entry encoding="base64">XDxsZXNzb25OdW1GaWVsZFw+</entry>
@@ -2871,7 +2808,6 @@
         <entry>selected</entry>
       </history-search>
       <history-cmd>
-        <entry>g help</entry>
         <entry>G help</entry>
         <entry>1051</entry>
         <entry>137</entry>
