@@ -2324,7 +2324,7 @@
         <text>ENV</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxTSEFSRURfRU5WX1NFVFVQXD4=</text>
+        <text>a2ensite</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">U0hBUkVEX0VOVj0ke1NIQVJFRF9QQVRIfS8ke1NIQVJFRF9FTlZfRElSfQo=</text>
@@ -2364,12 +2364,12 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxTSEFSRURfRU5WX1NFVFVQXD4=</last-search>
+      <last-search>a2ensite</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxTSEFSRURfRU5WX1NFVFVQXD4=</last-pattern>
+      <last-pattern>a2ensite</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxmb3JtVmFsaWRhdGlvblw+</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -2403,6 +2403,7 @@
         <entry encoding="base64">XDxBRERfU0hBUkVEX0RJUl9GSUxFXD4=</entry>
         <entry>gosites</entry>
         <entry encoding="base64">XDxTSEFSRURfRU5WX1NFVFVQXD4=</entry>
+        <entry>a2ensite</entry>
       </history-search>
       <history-cmd>
         <entry>G help</entry>
