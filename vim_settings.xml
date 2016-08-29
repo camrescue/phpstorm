@@ -124,11 +124,12 @@
         <mark key="." line="85" column="9" />
         <mark key="^" line="85" column="9" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/add-shared-dir.sh" timestamp="1472444037756">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="^" line="17" column="21" />
-        <mark key="." line="5" column="0" />
+      <file name="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/add-shared-dir.sh" timestamp="1472446040666">
+        <mark key="'" line="4" column="29" />
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+        <mark key="^" line="25" column="86" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/controllers/my.php" timestamp="1472166215877">
         <mark key="'" line="0" column="0" />
@@ -262,12 +263,12 @@
         <mark key="." line="2" column="62" />
         <mark key="^" line="2" column="62" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/ubuntu-setup.sh.sample" timestamp="1472445378021">
-        <mark key="'" line="70" column="18" />
-        <mark key="[" line="128" column="71" />
-        <mark key="]" line="128" column="71" />
-        <mark key="." line="128" column="71" />
-        <mark key="^" line="128" column="71" />
+      <file name="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/ubuntu-setup.sh.sample" timestamp="1472445904045">
+        <mark key="'" line="11" column="0" />
+        <mark key="[" line="119" column="43" />
+        <mark key="]" line="121" column="0" />
+        <mark key="^" line="119" column="38" />
+        <mark key="." line="121" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/ServerBackup/backup/home/117164/domains/weightofthestateva.com/html/twitter-api/config.php" timestamp="1472199634858">
         <mark key="[" line="11" column="29" />
@@ -289,12 +290,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="886" column="27" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/users.php" />
-      <jump line="140" column="0" filename="$USER_HOME$/Sites/Rescue/helix/application/models/core/import_m.php" />
-      <jump line="24" column="45" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/drupal_translators/LessonsInFlawlessTranslator.js" />
-      <jump line="52" column="21" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/drupal_translators/LessonsInFlawlessTranslator.js" />
-      <jump line="159" column="38" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/drupal_translators/LessonsInFlawlessTranslator.js" />
-      <jump line="209" column="53" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/drupal_translators/LessonsInFlawlessTranslator.js" />
       <jump line="163" column="12" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/drupal_translators/LessonsInFlawlessTranslator.js" />
       <jump line="238" column="51" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/drupal_translators/LessonsInFlawlessTranslator.js" />
       <jump line="240" column="54" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/drupal_translators/LessonsInFlawlessTranslator.js" />
@@ -374,21 +369,27 @@
       <jump line="16" column="0" filename="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/ubuntu-setup.sh.sample" />
       <jump line="89" column="31" filename="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/ubuntu-setup.sh.sample" />
       <jump line="57" column="12" filename="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/ubuntu-setup.sh.sample" />
-      <jump line="12" column="20" filename="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/ubuntu-setup.sh.sample" />
       <jump line="111" column="1" filename="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/ubuntu-setup.sh.sample" />
       <jump line="8" column="9" filename="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/ubuntu-setup.sh.sample" />
       <jump line="118" column="16" filename="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/ubuntu-setup.sh.sample" />
       <jump line="10" column="9" filename="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/ubuntu-setup.sh.sample" />
-      <jump line="11" column="21" filename="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/ubuntu-setup.sh.sample" />
       <jump line="108" column="26" filename="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/ubuntu-setup.sh.sample" />
       <jump line="67" column="5" filename="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/buildEnv.sh" />
       <jump line="7" column="0" filename="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/buildEnv.sh" />
       <jump line="10" column="11" filename="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/buildEnv.sh" />
       <jump line="85" column="0" filename="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/buildEnv.sh" />
       <jump line="114" column="14" filename="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/ubuntu-setup.sh.sample" />
-      <jump line="106" column="29" filename="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/ubuntu-setup.sh.sample" />
-      <jump line="0" column="0" filename="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/ubuntu-setup.sh.sample" />
       <jump line="70" column="18" filename="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/ubuntu-setup.sh.sample" />
+      <jump line="123" column="29" filename="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/ubuntu-setup.sh.sample" />
+      <jump line="19" column="27" filename="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/ubuntu-setup.sh.sample" />
+      <jump line="127" column="6" filename="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/ubuntu-setup.sh.sample" />
+      <jump line="0" column="0" filename="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/ubuntu-setup.sh.sample" />
+      <jump line="106" column="11" filename="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/ubuntu-setup.sh.sample" />
+      <jump line="12" column="36" filename="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/ubuntu-setup.sh.sample" />
+      <jump line="109" column="21" filename="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/ubuntu-setup.sh.sample" />
+      <jump line="9" column="0" filename="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/ubuntu-setup.sh.sample" />
+      <jump line="11" column="0" filename="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/ubuntu-setup.sh.sample" />
+      <jump line="4" column="29" filename="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/add-shared-dir.sh" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2233,8 +2234,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>1</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -2288,52 +2289,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>clone</text>
+        <text encoding="base64">XDxBRERfU0hBUkVEX0RJUl9GSUxFXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">aWYgWyAhIC1lICIkQUREX1NTSF9GSUxFIiBdOyB0aGVuCg==</text>
+        <text encoding="base64">U0hBUkVEX1NJVEVTPSIke1NIQVJFRF9QQVRIfS9zaXRlcyIK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">U0hBUkVEX0VOVj0iJHtTSEFSRURfUEFUSH0vIgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">I3N1ZG8gYXB0LWdldCBpbnN0YWxsIC15IHBocDUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">I2VjaG8gIi0tLSBJbnN0YWxsaW5nIFBIUC1zcGVjaWZpYyBwYWNrYWdlcyAtLS0iCiNzdWRvIGFwdC1nZXQgaW5zdGFsbCAteSBwaHA1IHBocDUtY3VybCBwaHA1LWdkIHBocDUtbWNyeXB0IG15c3FsLXNlcnZlci01LjUgcGhwNS1teXNxbCBnaXQtY29yZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ZWNobyAiLS0tIFVwZGF0aW5nIHBhY2thZ2VzIGxpc3QgLS0tIgpzdWRvIGFwdC1nZXQgdXBkYXRlCg==</text>
+        <text encoding="base64">U0hBUkVEX1BBVEg9Jy9ob21lL3NoYXJlZCcK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGdpdCBjbG9uZSBodHRwczovL3Jlc2N1ZXNjZy5naXQuYmVhbnN0YWxrYXBwLmNvbS9zaGFyZWQtZW52aXJvbm1lbnQuZ2l0Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">I3N1ZG8gYWRkLWFwdC1yZXBvc2l0b3J5IC15IHBwYTpjaHJpcy1sZWEvbm9kZS5qcwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">I2VjaG8gIi0tLSBXZSB3YW50IHRoZSBibGVlZGluZyBlZGdlIG9mIFBIUCwgcmlnaHQgbWFzdGVyPyAtLS0iCiNzdWRvIGFkZC1hcHQtcmVwb3NpdG9yeSAteSBwcGE6b25kcmVqL3BocDUtNS42Cg==</text>
+        <text encoding="base64">ZmkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>clone</last-search>
+      <last-search encoding="base64">XDxBRERfU0hBUkVEX0RJUl9GSUxFXD4=</last-search>
       <last-offset />
-      <last-pattern>clone</last-pattern>
+      <last-pattern encoding="base64">XDxBRERfU0hBUkVEX0RJUl9GSUxFXD4=</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxmb3JtVmFsaWRhdGlvblw+</last-substitute>
       <last-dir>1</last-dir>
@@ -2366,6 +2367,8 @@
         <entry encoding="base64">XDxVU0VSTkFNRV9IRVJFXD4=</entry>
         <entry encoding="base64">XDxHSVRfVVNFUlw+</entry>
         <entry>clone</entry>
+        <entry encoding="base64">XDxTSEFSRURfUEFUSFw+</entry>
+        <entry encoding="base64">XDxBRERfU0hBUkVEX0RJUl9GSUxFXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>G help</entry>
