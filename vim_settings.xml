@@ -71,7 +71,6 @@
         <mark key="." line="5" column="56" />
         <mark key="^" line="5" column="56" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/fetch-helpers.sh" timestamp="1472438327873" />
       <file name="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/setup-user.sh" timestamp="1472444351256">
         <mark key="[" line="14" column="17" />
         <mark key="]" line="14" column="18" />
@@ -85,11 +84,11 @@
         <mark key="^" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/shared-environment/scripts/shared-env-setup.sh" timestamp="1472452767272">
-        <mark key="[" line="43" column="0" />
-        <mark key="]" line="43" column="0" />
-        <mark key="." line="43" column="0" />
-        <mark key="^" line="42" column="14" />
+      <file name="$USER_HOME$/Sites/Rescue/shared-environment/scripts/shared-env-setup.sh" timestamp="1472455049108">
+        <mark key="[" line="11" column="29" />
+        <mark key="]" line="11" column="35" />
+        <mark key="." line="11" column="35" />
+        <mark key="^" line="11" column="35" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/main.less" timestamp="1472072314411">
         <mark key="[" line="108" column="29" />
@@ -193,18 +192,18 @@
       <file name="$USER_HOME$/Sites/Rescue/wordpress-composer/public/wp/wp-settings.php" timestamp="1472231695232">
         <mark key="'" line="36" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/shared-environment/scripts/ubuntu-setup.sh.sample" timestamp="1472449811931">
-        <mark key="'" line="99" column="9" />
-        <mark key="[" line="100" column="9" />
-        <mark key="]" line="100" column="25" />
-        <mark key="." line="100" column="25" />
-        <mark key="^" line="100" column="25" />
+      <file name="$USER_HOME$/Sites/Rescue/shared-environment/scripts/ubuntu-setup.sh.sample" timestamp="1472453977410">
+        <mark key="'" line="11" column="7" />
+        <mark key="[" line="100" column="8" />
+        <mark key="]" line="100" column="8" />
+        <mark key="." line="100" column="8" />
+        <mark key="^" line="100" column="9" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/add-ssh.sh" timestamp="1472448199853">
-        <mark key="[" line="6" column="24" />
-        <mark key="]" line="7" column="1" />
-        <mark key="^" line="7" column="1" />
-        <mark key="." line="7" column="1" />
+      <file name="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/add-ssh.sh" timestamp="1472454235775">
+        <mark key="[" line="6" column="16" />
+        <mark key="]" line="6" column="16" />
+        <mark key="^" line="5" column="8" />
+        <mark key="." line="6" column="16" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/weightofthestateeva-composer/public/.htaccess" timestamp="1472240572500">
         <mark key="[" line="6" column="0" />
@@ -212,7 +211,7 @@
         <mark key="." line="7" column="36" />
         <mark key="^" line="7" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1472452615883">
+      <file name="/Dummy.txt" timestamp="1472455127647">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/setup-root.sh" timestamp="1472449895919">
@@ -227,10 +226,16 @@
         <mark key="^" line="140" column="9" />
         <mark key="." line="140" column="9" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/add-shared-env.sh" timestamp="1472450595610">
+      <file name="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/add-shared-env.sh" timestamp="1472454240395">
         <mark key="]" line="1" column="0" />
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/shared-environment/scripts/setup-git.sh" timestamp="1472455083285">
+        <mark key="[" line="25" column="13" />
+        <mark key="]" line="25" column="19" />
+        <mark key="^" line="25" column="19" />
+        <mark key="." line="25" column="19" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/addssh.sh" timestamp="1472440366047">
         <mark key="'" line="9" column="25" />
@@ -265,6 +270,12 @@
       </file>
       <file name="$USER_HOME$/Sites/Rescue/shared-environment/config/.bash_aliases" timestamp="1472449215587">
         <mark key="'" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/shared-environment/scripts/setup-root.sh" timestamp="1472455061012">
+        <mark key="[" line="20" column="13" />
+        <mark key="]" line="20" column="19" />
+        <mark key="^" line="20" column="19" />
+        <mark key="." line="20" column="19" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/setup-git.sh" timestamp="1472450590406">
         <mark key="[" line="30" column="4" />
@@ -311,7 +322,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="50" column="26" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-quiz.ctrl.js" />
       <jump line="56" column="56" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-quiz.ctrl.js" />
       <jump line="54" column="15" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-quiz.ctrl.js" />
       <jump line="60" column="19" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-quiz.ctrl.js" />
@@ -405,12 +415,13 @@
       <jump line="0" column="0" filename="$USER_HOME$/Sites/Rescue/shared-environment/config/.bash_aliases" />
       <jump line="13" column="19" filename="$USER_HOME$/Sites/Rescue/shared-environment/scripts/ubuntu-setup.sh.sample" />
       <jump line="9" column="0" filename="$USER_HOME$/Sites/Rescue/shared-environment/scripts/ubuntu-setup.sh.sample" />
-      <jump line="100" column="10" filename="$USER_HOME$/Sites/Rescue/shared-environment/scripts/ubuntu-setup.sh.sample" />
-      <jump line="99" column="9" filename="$USER_HOME$/Sites/Rescue/shared-environment/scripts/ubuntu-setup.sh.sample" />
       <jump line="27" column="26" filename="$USER_HOME$/Sites/Rescue/shared-environment/scripts/shared-env-setup.sh" />
       <jump line="8" column="10" filename="$USER_HOME$/Sites/Rescue/shared-environment/scripts/shared-env-setup.sh" />
       <jump line="35" column="0" filename="$USER_HOME$/Sites/Rescue/shared-environment/scripts/shared-env-setup.sh" />
       <jump line="28" column="1" filename="$USER_HOME$/Sites/Rescue/shared-environment/scripts/shared-env-setup.sh" />
+      <jump line="100" column="10" filename="$USER_HOME$/Sites/Rescue/shared-environment/scripts/ubuntu-setup.sh.sample" />
+      <jump line="99" column="9" filename="$USER_HOME$/Sites/Rescue/shared-environment/scripts/ubuntu-setup.sh.sample" />
+      <jump line="11" column="7" filename="$USER_HOME$/Sites/Rescue/shared-environment/scripts/ubuntu-setup.sh.sample" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2255,8 +2266,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHByaW50ZiAiXG4iCg==</text>
+      <register name="&quot;" type="4">
+        <text>ENV</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -2310,34 +2321,34 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>printf</text>
+        <text>ENV</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTSEFSRURfRU5WX1NFVFVQXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGVjaG8gJyoqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqJwo=</text>
+        <text encoding="base64">U0hBUkVEX0VOVj0ke1NIQVJFRF9QQVRIfS8ke1NIQVJFRF9FTlZfRElSfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50ZiAiXG4iCg==</text>
+        <text encoding="base64">RElSPSIkKCBjZCAiJCggZGlybmFtZSAiJHtCQVNIX1NPVVJDRVswXX0iICkiICYmIHB3ZCApIgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">R1JFUF9SRVM9JChncmVwICJzaGFyZWQvc2l0ZXMiICRBUEFDSEVfQ09ORikK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">R1JFUF9SRVM9JChncmVwICJzaGFyZWQvc2l0ZXMiICRBUEFDSEVfQ09ORikK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIG1rZGlyICRTSEFSRURfRU5WICYmIGxuIC1zIGJhc2ggJFNIQVJFRF9FTlYvYmFzaCAmJiBsbiAtcyBiYXNoICRTSEFSRURfRU5WL3B5dGhvbmcK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ZmkK</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGdpdCBjbG9uZSBodHRwczovL3Jlc2N1ZXNjZy5naXQuYmVhbnN0YWxrYXBwLmNvbS9zaGFyZWQtZW52aXJvbm1lbnQuZ2l0ICRTSEFSRURfRU5WX0RJUgo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG1rZGlyICRTSEFSRURfU0lURVMK</text>
+        <text encoding="base64">aWYgWyAhIC1kICIkU0hBUkVEX0VOViIgXTsgdGhlbgogICAgY2QgJFNIQVJFRF9QQVRIICYmCg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgIHByaW50ZiAiXG4iCg==</text>
@@ -2346,7 +2357,7 @@
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">aWYgWyAhIC1kICIkU0hBUkVEX0VOViIgXTsgdGhlbgogICAgcHJpbnRmICJbK10gc2hhcmVkIHNpdGVzIGFkZGVkLiIK</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -2414,6 +2425,7 @@
         <entry encoding="base64">JzwsJz53</entry>
         <entry>w:w</entry>
         <entry>wq</entry>
+        <entry>ww;</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
