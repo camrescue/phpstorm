@@ -85,11 +85,11 @@
         <mark key="^" line="11" column="0" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/shared-environment/scripts/shared-env-setup.sh" timestamp="1472451715035">
-        <mark key="[" line="27" column="3" />
-        <mark key="]" line="27" column="4" />
-        <mark key="^" line="27" column="4" />
-        <mark key="." line="27" column="4" />
+      <file name="$USER_HOME$/Sites/Rescue/shared-environment/scripts/shared-env-setup.sh" timestamp="1472452767272">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+        <mark key="^" line="42" column="14" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/main.less" timestamp="1472072314411">
         <mark key="[" line="108" column="29" />
@@ -212,7 +212,7 @@
         <mark key="." line="7" column="36" />
         <mark key="^" line="7" column="36" />
       </file>
-      <file name="/Dummy.txt" timestamp="1472451800476">
+      <file name="/Dummy.txt" timestamp="1472452615883">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/setup-root.sh" timestamp="1472449895919">
@@ -2256,7 +2256,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">R1JFUF9SRVM9JChncmVwICJzaGFyZWQvc2l0ZXMiICRBUEFDSEVfQ09ORikK</text>
+        <text encoding="base64">ICAgIHByaW50ZiAiXG4iCg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -2310,7 +2310,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>[ &quot;$GREP_RES&quot; != '' ]; then</text>
+        <text>printf</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxTSEFSRURfRU5WX1NFVFVQXD4=</text>
@@ -2319,34 +2319,34 @@
         <text encoding="base64">ICAgIGVjaG8gJyoqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqKioqJwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">R1JFUF9SRVM9JChncmVwICJzaGFyZWQvc2l0ZXMiICRBUEFDSEVfQ09ORikK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ZmkK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIG1rZGlyICRTSEFSRURfU0lURVMK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">ICAgIHByaW50ZiAiXG4iCg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">aWYgWyAhIC1kICIkU0hBUkVEX0VOViIgXTsgdGhlbgogICAgcHJpbnRmICJbK10gc2hhcmVkIHNpdGVzIGFkZGVkLiIK</text>
+      <register name="2" type="2">
+        <text encoding="base64">IAo=</text>
       </register>
-      <register name="7" type="2">
+      <register name="3" type="2">
+        <text encoding="base64">R1JFUF9SRVM9JChncmVwICJzaGFyZWQvc2l0ZXMiICRBUEFDSEVfQ09ORikK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">R1JFUF9SRVM9JChncmVwICJzaGFyZWQvc2l0ZXMiICRBUEFDSEVfQ09ORikK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZmkK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIG1rZGlyICRTSEFSRURfU0lURVMK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ZXhwb3J0IFNIQVJFRF9TQ1JJUFRTPSRTSEFSRURfRU5WL3NjcmlwdHMK</text>
+        <text encoding="base64">ICAgIHByaW50ZiAiXG4iCg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZXhwb3J0IFNIQVJFRF9TQ1JJUFRTPSRTSEFSRURfRU5WL3NjcmlwdHMK</text>
+        <text encoding="base64">aWYgWyAhIC1kICIkU0hBUkVEX0VOViIgXTsgdGhlbgogICAgcHJpbnRmICJbK10gc2hhcmVkIHNpdGVzIGFkZGVkLiIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
