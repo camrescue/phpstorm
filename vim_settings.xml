@@ -317,6 +317,12 @@
         <mark key="." line="33" column="24" />
         <mark key="^" line="33" column="24" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/weightofthestateva/public/.htaccess" timestamp="1472488680185">
+        <mark key="[" line="11" column="13" />
+        <mark key="]" line="11" column="13" />
+        <mark key="^" line="11" column="13" />
+        <mark key="." line="11" column="13" />
+      </file>
       <file name="$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/filter.php" timestamp="1472201201297">
         <mark key="'" line="29" column="56" />
       </file>
@@ -2267,7 +2273,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>ENV</text>
+        <text>/</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -2321,7 +2327,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ENV</text>
+        <text>/</text>
       </register>
       <register name="/" type="4">
         <text>a2ensite</text>
