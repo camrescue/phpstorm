@@ -88,6 +88,7 @@
         <mark key="." line="14" column="18" />
         <mark key="^" line="14" column="18" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/bower.json" timestamp="1472585961155" />
       <file name="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/buildEnv.sh" timestamp="1472444892545">
         <mark key="'" line="85" column="0" />
         <mark key="[" line="6" column="21" />
@@ -159,12 +160,12 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="25" column="86" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/variables.less" timestamp="1472584389501">
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/variables.less" timestamp="1472586061763">
         <mark key="'" line="59" column="0" />
-        <mark key="[" line="363" column="0" />
-        <mark key="]" line="364" column="0" />
-        <mark key="^" line="364" column="0" />
-        <mark key="." line="364" column="0" />
+        <mark key="[" line="368" column="20" />
+        <mark key="]" line="368" column="34" />
+        <mark key="^" line="368" column="34" />
+        <mark key="." line="368" column="34" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/js/app.js" timestamp="1472583642472">
         <mark key="'" line="96" column="21" />
@@ -222,7 +223,9 @@
         <mark key="^" line="188" column="146" />
         <mark key="." line="188" column="146" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/bootstrap/variables.less" timestamp="1472584293020" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/bootstrap/variables.less" timestamp="1472585978591">
+        <mark key="'" line="38" column="0" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/shared-environment/scripts/ubuntu-setup.sh.sample" timestamp="1472499543925">
         <mark key="'" line="57" column="58" />
         <mark key="[" line="46" column="64" />
@@ -247,7 +250,7 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1472584859609">
+      <file name="/Dummy.txt" timestamp="1472586073947">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/setup-root.sh" timestamp="1472449895919">
@@ -360,7 +363,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="69" column="25" filename="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/ubuntu-setup.sh.sample" />
       <jump line="15" column="9" filename="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/ubuntu-setup.sh.sample" />
       <jump line="16" column="0" filename="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/ubuntu-setup.sh.sample" />
       <jump line="89" column="31" filename="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/ubuntu-setup.sh.sample" />
@@ -460,6 +462,7 @@
       <jump line="95" column="37" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/js/app.js" />
       <jump line="96" column="21" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/js/app.js" />
       <jump line="59" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/variables.less" />
+      <jump line="38" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/bootstrap/variables.less" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2305,7 +2308,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>primary</text>
+        <text>r</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -2359,7 +2362,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>primary</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>pagin</text>
@@ -2374,28 +2377,28 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CQkJbWFyZ2luLWJvdHRvbTogMTVweDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJbWFyZ2luLWJvdHRvbTogMTVweDsK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Ly8gUGFnaW5hdGlvbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gUGFnaW5hdGlvbgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
