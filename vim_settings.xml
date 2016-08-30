@@ -82,9 +82,6 @@
         <mark key="^" line="10" column="56" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/events.php" timestamp="1472580547418">
-        <mark key="'" line="25" column="53" />
-      </file>
       <file name="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/setup-user.sh" timestamp="1472444351256">
         <mark key="[" line="14" column="17" />
         <mark key="]" line="14" column="18" />
@@ -162,18 +159,14 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="25" column="86" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/Gruntfile.js" timestamp="1472578677442">
-        <mark key="'" line="90" column="25" />
-        <mark key="[" line="49" column="38" />
-        <mark key="]" line="49" column="77" />
-        <mark key="." line="49" column="77" />
-        <mark key="^" line="49" column="77" />
-      </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/variables.less" timestamp="1472580859810">
         <mark key="[" line="364" column="0" />
         <mark key="]" line="364" column="0" />
         <mark key="^" line="363" column="33" />
         <mark key="." line="364" column="0" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/js/app.js" timestamp="1472583642472">
+        <mark key="'" line="96" column="21" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/weightofthestateeva-composer/public/wp-content/themes/Weight-of-the-State/header.php" timestamp="1472241357351">
         <mark key="'" line="160" column="62" />
@@ -253,7 +246,7 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1472577156656">
+      <file name="/Dummy.txt" timestamp="1472582844177">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/setup-root.sh" timestamp="1472449895919">
@@ -366,18 +359,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="570" column="9" filename="$USER_HOME$/Sites/Rescue/weightofthestateeva-composer/public/wp/wp-includes/general-template.php" />
-      <jump line="3068" column="25" filename="$USER_HOME$/Sites/Rescue/weightofthestateeva-composer/public/wp/wp-includes/general-template.php" />
-      <jump line="1758" column="25" filename="$USER_HOME$/Sites/Rescue/weightofthestateeva-composer/public/wp/wp-includes/functions.php" />
-      <jump line="104" column="0" filename="$USER_HOME$/Sites/Rescue/shared-env/scripts/bash/install.sh.sample" />
-      <jump line="12" column="6" filename="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/createuser.sh" />
-      <jump line="13" column="4" filename="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/adduser.sh" />
-      <jump line="12" column="2" filename="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/adduser.sh" />
-      <jump line="8" column="6" filename="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/adduser.sh" />
-      <jump line="12" column="25" filename="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/addssh.sh" />
-      <jump line="11" column="0" filename="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/buildEnv.sh" />
-      <jump line="4" column="0" filename="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/build-env.sh" />
-      <jump line="14" column="21" filename="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/build-env.sh" />
       <jump line="3" column="1" filename="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/ubuntu-setup.sh.sample" />
       <jump line="69" column="25" filename="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/ubuntu-setup.sh.sample" />
       <jump line="15" column="9" filename="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/ubuntu-setup.sh.sample" />
@@ -466,6 +447,18 @@
       <jump line="20" column="12" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/generic.less" />
       <jump line="65" column="19" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/generic.less" />
       <jump line="16" column="21" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/basic_elements.less" />
+      <jump line="20" column="31" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/events.less" />
+      <jump line="150" column="12" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/events.less" />
+      <jump line="153" column="5" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/events.less" />
+      <jump line="36" column="11" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/events.less" />
+      <jump line="397" column="21" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/events.less" />
+      <jump line="19" column="39" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/events.less" />
+      <jump line="396" column="19" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/events.less" />
+      <jump line="88" column="31" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/events.less" />
+      <jump line="22" column="18" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/js/app.js" />
+      <jump line="94" column="12" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/js/app.js" />
+      <jump line="95" column="37" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/js/app.js" />
+      <jump line="96" column="21" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/js/app.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2311,7 +2304,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJbWFyZ2luLWJvdHRvbTogMTVweDsK</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -2368,13 +2361,13 @@
         <text>LISTS</text>
       </register>
       <register name="/" type="4">
-        <text>pagination</text>
+        <text encoding="base64">XDxldmVudHNDb250cm9sbGVyXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnYm93ZXJfY29tcG9uZW50cy92aWRlb2d1bGFyLWFuZ3VsYXJ0aWNzL3ZnLWFuYWx5dGljcy5qcycsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJbWFyZ2luLWJvdHRvbTogMTVweDsK</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">Cg==</text>
@@ -2383,13 +2376,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gUGFnaW5hdGlvbgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Ly8gUGFnaW5hdGlvbgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -2408,9 +2401,9 @@
       </register>
     </registers>
     <search>
-      <last-search>pagination</last-search>
+      <last-search encoding="base64">XDxldmVudHNDb250cm9sbGVyXD4=</last-search>
       <last-offset />
-      <last-pattern>pagination</last-pattern>
+      <last-pattern encoding="base64">XDxldmVudHNDb250cm9sbGVyXD4=</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxmb3JtVmFsaWRhdGlvblw+</last-substitute>
       <last-dir>1</last-dir>
@@ -2440,6 +2433,9 @@
         <entry encoding="base64">XDxvbnNpdGVDb21wbGV0ZVw+</entry>
         <entry>ng-rep</entry>
         <entry>pagination</entry>
+        <entry>event-listing</entry>
+        <entry>events</entry>
+        <entry encoding="base64">XDxldmVudHNDb250cm9sbGVyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>137</entry>
@@ -2461,6 +2457,7 @@
         <entry>w:w</entry>
         <entry>ww;</entry>
         <entry>wq</entry>
+        <entry>357</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
