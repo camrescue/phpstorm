@@ -72,7 +72,6 @@
         <mark key="^" line="10" column="56" />
         <mark key="." line="11" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/fetch-helpers.sh" timestamp="1472438327873" />
       <file name="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/setup-user.sh" timestamp="1472444351256">
         <mark key="[" line="14" column="17" />
         <mark key="]" line="14" column="18" />
@@ -192,7 +191,6 @@
         <mark key="." line="46" column="72" />
         <mark key="^" line="46" column="72" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/weightofthestateva/public/twitter-api/config.php" timestamp="1472493425333" />
       <file name="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/add-ssh.sh" timestamp="1472454235775">
         <mark key="[" line="6" column="16" />
         <mark key="]" line="6" column="16" />
@@ -204,6 +202,11 @@
         <mark key="]" line="7" column="36" />
         <mark key="." line="7" column="36" />
         <mark key="^" line="7" column="36" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/.htaccess" timestamp="1472572705319">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="0" />
+        <mark key="." line="18" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/setup-root.sh" timestamp="1472449895919">
         <mark key="[" line="12" column="30" />
@@ -235,7 +238,6 @@
         <mark key="^" line="13" column="9" />
         <mark key="." line="13" column="9" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/weightofthestateva/composer.lock" timestamp="1472505099974" />
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/lessons-in-flawless-complete.php" timestamp="1471907225848">
         <mark key="[" line="8" column="28" />
         <mark key="]" line="8" column="37" />
@@ -2363,29 +2365,10 @@
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxmb3JtVmFsaWRhdGlvblw+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzZXRQYWdlRGF0YVw+</entry>
-        <entry>selectAnswer</entry>
-        <entry encoding="base64">XDxzZWxlY3RBbnN3ZXJcPg==</entry>
-        <entry encoding="base64">XDxhbnN3ZXJJZFw+</entry>
-        <entry>selected</entry>
-        <entry>twitter_ticker</entry>
-        <entry>connection</entry>
-        <entry>twitter</entry>
-        <entry encoding="base64">XDxsaXN0X3NsdWdcPg==</entry>
-        <entry>slug</entry>
-        <entry encoding="base64">XDxGSUxURVJfREVGQVVMVFw+</entry>
-        <entry>vend</entry>
-        <entry>ven</entry>
-        <entry>public</entry>
-        <entry>wp</entry>
-        <entry encoding="base64">XDx3cF9yZWdpc3RlcmVkX3NpZGViYXJzXD4=</entry>
-        <entry>upload</entry>
-        <entry encoding="base64">XDxVUExPQURTXD4=</entry>
-        <entry>UPLOADS</entry>
         <entry>htacces</entry>
         <entry encoding="base64">XDxDVVNUT01fUFMxX1RFU1RcPg==</entry>
         <entry encoding="base64">XDxERVZVU0VSXD4=</entry>
@@ -2408,8 +2391,6 @@
         <entry>sliderBg</entry>
       </history-search>
       <history-cmd>
-        <entry>G help</entry>
-        <entry>1051</entry>
         <entry>137</entry>
         <entry>260</entry>
         <entry>196</entry>
