@@ -50,6 +50,13 @@
         <mark key="^" line="12" column="17" />
         <mark key="." line="12" column="17" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/main.js" timestamp="1472578581630">
+        <mark key="'" line="18" column="0" />
+        <mark key="[" line="45" column="46" />
+        <mark key="]" line="45" column="46" />
+        <mark key="^" line="45" column="49" />
+        <mark key="." line="45" column="46" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/weightofthestateva/public/twitter-api/tweet.php" timestamp="1472495873567">
         <mark key="'" line="10" column="0" />
         <mark key="[" line="55" column="4" />
@@ -143,6 +150,13 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
         <mark key="^" line="25" column="86" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/Gruntfile.js" timestamp="1472578677442">
+        <mark key="'" line="90" column="25" />
+        <mark key="[" line="49" column="38" />
+        <mark key="]" line="49" column="77" />
+        <mark key="." line="49" column="77" />
+        <mark key="^" line="49" column="77" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/weightofthestateeva-composer/public/wp-content/themes/Weight-of-the-State/header.php" timestamp="1472241357351">
         <mark key="'" line="160" column="62" />
@@ -329,8 +343,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="75" column="4" filename="$USER_HOME$/Sites/Rescue/wordpress-composer/.gitignore" />
-      <jump line="24" column="0" filename="$USER_HOME$/Sites/Rescue/wordpress-composer/.gitignore" />
       <jump line="842" column="12" filename="$USER_HOME$/Sites/Rescue/weightofthestateeva-composer/public/wp/wp-includes/widgets.php" />
       <jump line="839" column="39" filename="$USER_HOME$/Sites/Rescue/weightofthestateeva-composer/public/wp/wp-includes/widgets.php" />
       <jump line="817" column="18" filename="$USER_HOME$/Sites/Rescue/weightofthestateeva-composer/public/wp/wp-includes/widgets.php" />
@@ -429,6 +441,8 @@
       <jump line="695" column="12" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/Variables.php" />
       <jump line="647" column="30" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/Variables.php" />
       <jump line="637" column="59" filename="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/Variables.php" />
+      <jump line="18" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/main.js" />
+      <jump line="89" column="25" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/Gruntfile.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2274,7 +2288,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>local</text>
+        <text>videogular-angulartics/vg-analytics.js',</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -2328,13 +2342,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>local</text>
+        <text>videogular-angulartics/vg-analytics.js',</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxvbnNpdGVDb21wbGV0ZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">U0hBUkVEX0VOVj0ke1NIQVJFRF9QQVRIfS8ke1NIQVJFRF9FTlZfRElSfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAnYm93ZXJfY29tcG9uZW50cy92aWRlb2d1bGFyLWFuZ3VsYXJ0aWNzL3ZnLWFuYWx5dGljcy5qcycsCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
