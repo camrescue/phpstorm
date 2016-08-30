@@ -225,11 +225,11 @@
         <mark key="^" line="155" column="3" />
         <mark key="." line="155" column="3" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/wordpress-composer/local-config-sample.php" timestamp="1472232427000">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="19" column="2" />
-        <mark key="." line="19" column="2" />
-        <mark key="^" line="19" column="2" />
+      <file name="$USER_HOME$/Sites/Rescue/wordpress-composer/local-config-sample.php" timestamp="1472595522168">
+        <mark key="[" line="20" column="35" />
+        <mark key="]" line="20" column="35" />
+        <mark key="." line="20" column="35" />
+        <mark key="^" line="20" column="35" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/weightofthestateeva-composer/.gitignore" timestamp="1472240775881">
         <mark key="[" line="23" column="10" />
@@ -270,7 +270,7 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1472594512800">
+      <file name="/Dummy.txt" timestamp="1472595525958">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/setup-root.sh" timestamp="1472449895919">
@@ -297,6 +297,12 @@
         <mark key="]" line="13" column="9" />
         <mark key="^" line="13" column="9" />
         <mark key="." line="13" column="9" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/wordpress-composer/production-config-sample.php" timestamp="1472595500330">
+        <mark key="[" line="27" column="22" />
+        <mark key="]" line="27" column="35" />
+        <mark key="." line="27" column="35" />
+        <mark key="^" line="27" column="35" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/lessons-in-flawless-complete.php" timestamp="1471907225848">
         <mark key="[" line="8" column="28" />
@@ -2328,7 +2334,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>FErEyDZFJRV94azdGF44DW</text>
+        <text encoding="base64">ZyRxUnA+c0BSdVVQODZ9PTlNRTctbU96YEVHciRrdnp4NWBELUMsP2p8I3xMUyQsYkNTTyZoO1VvSm16PnA5YA==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -2382,7 +2388,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>FErEyDZFJRV94azdGF44DW</text>
+        <text encoding="base64">ZyRxUnA+c0BSdVVQODZ9PTlNRTctbU96YEVHciRrdnp4NWBELUMsP2p8I3xMUyQsYkNTTyZoO1VvSm16PnA5YA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwcmludFw+</text>
