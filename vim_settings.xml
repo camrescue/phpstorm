@@ -284,18 +284,11 @@
         <mark key="^" line="188" column="146" />
         <mark key="." line="188" column="146" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/events.ctrl.js" timestamp="1472675774772">
-        <mark key="'" line="172" column="33" />
-        <mark key="[" line="172" column="37" />
-        <mark key="]" line="172" column="41" />
-        <mark key="^" line="172" column="41" />
-        <mark key="." line="172" column="41" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/bootstrap/variables.less" timestamp="1472585978591">
+        <mark key="'" line="38" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/event-detail.php" timestamp="1472675932535">
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/event-detail.php" timestamp="1472677861488">
         <mark key="'" line="110" column="49" />
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="21" column="0" />
-        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/shared-environment/scripts/ubuntu-setup.sh.sample" timestamp="1472499543925">
         <mark key="'" line="57" column="58" />
@@ -321,9 +314,6 @@
         <mark key="]" line="1" column="16" />
         <mark key="." line="1" column="16" />
         <mark key="^" line="1" column="16" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1472676661184">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/drupal_translators/EventTranslator.js" timestamp="1472674397852">
         <mark key="'" line="109" column="42" />
@@ -402,12 +392,6 @@
         <mark key="^" line="1" column="96" />
         <mark key="." line="1" column="96" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/basic_elements.less" timestamp="1472580510173">
-        <mark key="'" line="16" column="21" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Sites/Rescue/shared-environment/scripts/setup-root.sh" timestamp="1472455061012">
         <mark key="[" line="20" column="13" />
         <mark key="]" line="20" column="19" />
@@ -459,9 +443,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="280" column="39" filename="$USER_HOME$/Sites/Rescue/247nm-boilerplate/public/wp/license.txt" />
-      <jump line="281" column="12" filename="$USER_HOME$/Sites/Rescue/247nm-boilerplate/public/wp/license.txt" />
-      <jump line="282" column="6" filename="$USER_HOME$/Sites/Rescue/247nm-boilerplate/public/wp/license.txt" />
       <jump line="283" column="39" filename="$USER_HOME$/Sites/Rescue/247nm-boilerplate/public/wp/license.txt" />
       <jump line="284" column="56" filename="$USER_HOME$/Sites/Rescue/247nm-boilerplate/public/wp/license.txt" />
       <jump line="285" column="33" filename="$USER_HOME$/Sites/Rescue/247nm-boilerplate/public/wp/license.txt" />
@@ -559,6 +540,9 @@
       <jump line="111" column="4" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/event.ctrl.js" />
       <jump line="114" column="106" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/event.ctrl.js" />
       <jump line="24" column="29" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/event.ctrl.js" />
+      <jump line="178" column="45" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/events.ctrl.js" />
+      <jump line="184" column="15" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/events.ctrl.js" />
+      <jump line="103" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/events.ctrl.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2404,7 +2388,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>production</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -2458,55 +2442,55 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>production</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnb29nbGVNYXBTcmNcPg==</text>
+        <text>upcoming</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGltZT57e2V2ZW50LmRhdGVTdGFydCB8IGRhdGU6ICdNTU0gZCBoOm1tIGEnfX08L3RpbWU+IAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgdG9kYXkgPSBuZXcgRGF0ZShuZXcgRGF0ZSgpLnNldEhvdXJzKDAsIDAsIDAsIDApKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gdG9kYXkgPSBuZXcgRGF0ZShEYXRlLnBhcnNlKCdPY3RvYmVyIDksIDIwMTYnKSksCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGltZT57e2V2ZW50LmRhdGVFbmQgfCBkYXRlOiAnTU1NIGQnfX08L3RpbWU+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImRhdGUtbG9jYXRpb24iPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuPiAtIDwvc3Bhbj48dGltZT57e2V2ZW50LmRhdGVFbmQgfCBkYXRlOiAnTU1NIGQnfX08L3RpbWU+PHRpbWU+e3tldmVudC5kYXRlRW5kIHwgZGF0ZTogJ2g6bW0gYSd9fTwvdGltZT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGltZT57e2V2ZW50LmRhdGVFbmQgfCBkYXRlOiAnTU1NIGQnfX08L3RpbWU+Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvIDxzcGFuIGNsYXNzPSJldmVudC1sb2NhdGlvbiI+e3tldmVudC5sb2NhdGlvbn19PC9zcGFuPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImRhdGUtbG9jYXRpb24iPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuPiAtIDwvc3Bhbj48dGltZT57e2V2ZW50LmRhdGVFbmQgfCBkYXRlOiAnTU1NIGQnfX08L3RpbWU+PHRpbWU+e3tldmVudC5kYXRlRW5kIHwgZGF0ZTogJ2g6bW0gYSd9fTwvdGltZT4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnb29nbGVNYXBTcmNcPg==</last-search>
+      <last-search>upcoming</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnb29nbGVNYXBTcmNcPg==</last-pattern>
+      <last-pattern>upcoming</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxmb3JtVmFsaWRhdGlvblw+</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -2565,7 +2549,6 @@
         <entry encoding="base64">XDxkZWJ1Z2dlclw+</entry>
         <entry>debugg</entry>
         <entry encoding="base64">XDxldmVudFNsdWdcPg==</entry>
-        <entry>upcoming</entry>
         <entry encoding="base64">XDx1cGNvbWluZ0V2ZW50c1w+</entry>
         <entry encoding="base64">XDx0b2RheVw+</entry>
         <entry encoding="base64">XDxwYXJzZVVwY29taW5nRXZlbnRzXD4=</entry>
@@ -2573,6 +2556,7 @@
         <entry encoding="base64">XDxkYXRlX2ludGVnZXJcPg==</entry>
         <entry>googleMapSrc</entry>
         <entry encoding="base64">XDxnb29nbGVNYXBTcmNcPg==</entry>
+        <entry>upcoming</entry>
       </history-search>
       <history-cmd>
         <entry>137</entry>
