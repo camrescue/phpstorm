@@ -30,6 +30,12 @@
         <mark key="^" line="6" column="40" />
         <mark key="." line="6" column="40" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/247nm-boilerplate/composer.json" timestamp="1472606481677">
+        <mark key="[" line="12" column="51" />
+        <mark key="]" line="12" column="51" />
+        <mark key="^" line="12" column="51" />
+        <mark key="." line="12" column="51" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/drupal-deploy.sh" timestamp="1472438261599">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="18" />
@@ -72,9 +78,11 @@
         <mark key="." line="14" column="18" />
         <mark key="^" line="14" column="18" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/247nm/wp-config.php" timestamp="1472602723365">
-        <mark key="[" line="44" column="0" />
-        <mark key="]" line="45" column="59" />
+      <file name="$USER_HOME$/Sites/Rescue/247nm/wp-config.php" timestamp="1472605147897">
+        <mark key="[" line="45" column="58" />
+        <mark key="]" line="37" column="30" />
+        <mark key="." line="37" column="30" />
+        <mark key="^" line="37" column="30" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/generic.less" timestamp="1472580476472">
         <mark key="'" line="65" column="19" />
@@ -120,10 +128,10 @@
         <mark key="." line="46" column="24" />
         <mark key="^" line="46" column="24" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/247nm-boilerplate/public/.htaccess" timestamp="1472604705449">
-        <mark key="[" line="15" column="24" />
-        <mark key="]" line="15" column="28" />
-        <mark key="." line="15" column="28" />
+      <file name="$USER_HOME$/Sites/Rescue/247nm-boilerplate/public/.htaccess" timestamp="1472605644827">
+        <mark key="[" line="18" column="15" />
+        <mark key="]" line="18" column="15" />
+        <mark key="." line="18" column="15" />
         <mark key="^" line="15" column="28" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/weightofthestateeva-composer/public/wp-config.php" timestamp="1472240846901">
@@ -2261,8 +2269,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">UmVkaXJlY3QgMzAyIC8gaHR0cDovLzI0N25ld21leGljby5jb20K</text>
+      <register name="&quot;" type="4">
+        <text>mailchimp-for-wp</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -2316,43 +2324,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>http://www.</text>
+        <text>mailchimp-for-wp</text>
       </register>
       <register name="/" type="4">
         <text>wordpress</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CWRlZmluZSgnV1BfSE9NRScsJ2h0dHA6Ly8nIC4gJF9TRVJWRVJbJ0hUVFBfSE9TVCddKTsKCWRlZmluZSgnV1BfU0lURVVSTCcsJ2h0dHA6Ly8nIC4gJF9TRVJWRVJbJ0hUVFBfSE9TVCddKTsK</text>
+        <text encoding="base64">ICAgICAgICAid3BhY2thZ2lzdC1wbHVnaW4vbWFpbGNoaW1wLWZvci13cCI6ICI0LioiCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">UmVkaXJlY3QgMzAyIC8gaHR0cDovLzI0N25ld21leGljby5jb20K</text>
+      <register name="1" type="4">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UmVkaXJlY3QgMzAyIC8gaHR0cDovLzI0N25ld21leGljby5jb20K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">UmVkaXJlY3QgCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">PElmTW9kdWxlIG1vZF9yZXdyaXRlLmM+Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">UmV3cml0ZVJ1bGUgd3AtY29udGVudC91cGxvYWRzLyguKikkIGh0dHA6Ly8yNDduZXdtZXhpY28uY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8kMSBbUj0zMDEsTF0K</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">CQkJPD9waHAgZWNobyAnaGVyZSc7ID8+Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">UmVkaXJlY3QgCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">PElmTW9kdWxlIG1vZF9yZXdyaXRlLmM+Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">UmV3cml0ZVJ1bGUgd3AtY29udGVudC91cGxvYWRzLyguKikkIGh0dHA6Ly8yNDduZXdtZXhpY28uY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8kMSBbUj0zMDEsTF0K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CQkJPD9waHAgZWNobyAnaGVyZSc7ID8+Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ZGVmaW5lKCdXUF9IT01FJywgJ2h0dHA6Ly8nIC4gU1RBR0lOR19FTlYgLiAkc3RhZ2luZ19kaXIpOwpkZWZpbmUoJ1dQX1NJVEVVUkwnLCAnaHR0cDovLycgLiBTVEFHSU5HX0VOViAuICRzdGFnaW5nX2Rpcik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVmaW5lKCdBVVRIX0tFWScsICdQVVRfVkFMVUVfSEVSRScpOwpkZWZpbmUoJ1NFQ1VSRV9BVVRIX0tFWScsICdQVVRfVkFMVUVfSEVSRScpOwpkZWZpbmUoJ0xPR0dFRF9JTl9LRVknLCAnUFVUX1ZBTFVFX0hFUkUnKTsKZGVmaW5lKCdOT05DRV9LRVknLCAnUFVUX1ZBTFVFX0hFUkUnKTsKZGVmaW5lKCdBVVRIX1NBTFQnLCAnUFVUX1ZBTFVFX0hFUkUnKTsKZGVmaW5lKCdTRUNVUkVfQVVUSF9TQUxUJywgJ1BVVF9WQUxVRV9IRVJFJyk7CmRlZmluZSgnTE9HR0VEX0lOX1NBTFQnLCAnUFVUX1ZBTFVFX0hFUkUnKTsKZGVmaW5lKCdOT05DRV9TQUxUJywgJ1BVVF9WQUxVRV9IRVJFJyk7Cg==</text>
+        <text encoding="base64">ZGVmaW5lKCdXUF9IT01FJywgJ2h0dHA6Ly8nIC4gU1RBR0lOR19FTlYgLiAkc3RhZ2luZ19kaXIpOwpkZWZpbmUoJ1dQX1NJVEVVUkwnLCAnaHR0cDovLycgLiBTVEFHSU5HX0VOViAuICRzdGFnaW5nX2Rpcik7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
