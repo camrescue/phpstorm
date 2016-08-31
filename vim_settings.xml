@@ -27,6 +27,9 @@
         <mark key="^" line="6" column="40" />
         <mark key="." line="6" column="40" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/247nm-boilerplate/public/wp/wp-settings.php" timestamp="1472602620463">
+        <mark key="'" line="25" column="34" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/drupal-deploy.sh" timestamp="1472438261599">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="18" />
@@ -62,9 +65,6 @@
       </file>
       <file name="$USER_HOME$/Sites/Rescue/247nm-boilerplate/local-config-sample.php" timestamp="1472597186290">
         <mark key="[" line="19" column="3" />
-        <mark key="]" line="28" column="88" />
-        <mark key="^" line="28" column="88" />
-        <mark key="." line="28" column="88" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/setup-user.sh" timestamp="1472444351256">
         <mark key="[" line="14" column="17" />
@@ -72,7 +72,10 @@
         <mark key="." line="14" column="18" />
         <mark key="^" line="14" column="18" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/247nm/wp-config.php" timestamp="1472594604534" />
+      <file name="$USER_HOME$/Sites/Rescue/247nm/wp-config.php" timestamp="1472602723365">
+        <mark key="[" line="44" column="0" />
+        <mark key="]" line="45" column="59" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/bower.json" timestamp="1472585961155" />
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/generic.less" timestamp="1472580476472">
         <mark key="'" line="65" column="19" />
@@ -83,7 +86,7 @@
         <mark key="." line="11" column="35" />
         <mark key="^" line="11" column="35" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/247nm/custom-db-config.php" timestamp="1472594641222">
+      <file name="$USER_HOME$/Sites/Rescue/247nm/custom-db-config.php" timestamp="1472602484150">
         <mark key="[" line="6" column="23" />
         <mark key="]" line="6" column="22" />
         <mark key="^" line="6" column="22" />
@@ -106,11 +109,6 @@
         <mark key="]" line="36" column="24" />
         <mark key="^" line="36" column="24" />
         <mark key="." line="36" column="24" />
-      </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/pagination.less" timestamp="1472580644435">
-        <mark key="[" line="1" column="0" />
-        <mark key="]" line="1" column="0" />
-        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/lessons-in-flawless-quiz-questions.js" timestamp="1472172976722">
         <mark key="[" line="43" column="48" />
@@ -153,6 +151,12 @@
         <mark key="]" line="15" column="29" />
         <mark key="." line="15" column="29" />
         <mark key="^" line="15" column="29" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/247nm-boilerplate/local-config.php" timestamp="1472602752776">
+        <mark key="[" line="11" column="53" />
+        <mark key="]" line="11" column="59" />
+        <mark key="." line="11" column="59" />
+        <mark key="^" line="11" column="59" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/shared-environment/scripts/python/clone-site.py" timestamp="1472594475492">
         <mark key="'" line="163" column="4" />
@@ -201,12 +205,7 @@
         <mark key="." line="7" column="36" />
         <mark key="^" line="7" column="36" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/.htaccess" timestamp="1472579734090">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1472601706061">
+      <file name="/Dummy.txt" timestamp="1472602261326">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/setup-root.sh" timestamp="1472449895919">
@@ -233,6 +232,9 @@
         <mark key="." line="27" column="35" />
         <mark key="^" line="27" column="35" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/247nm-boilerplate/public/wp/license.txt" timestamp="1472602468059">
+        <mark key="'" line="275" column="65" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/lessons-in-flawless-complete.php" timestamp="1471907225848">
         <mark key="[" line="8" column="28" />
         <mark key="]" line="8" column="37" />
@@ -256,12 +258,6 @@
         <mark key="]" line="23" column="46" />
         <mark key="^" line="23" column="46" />
         <mark key="." line="23" column="46" />
-      </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/basic_elements.less" timestamp="1472580510173">
-        <mark key="'" line="16" column="21" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/shared-environment/scripts/setup-root.sh" timestamp="1472455061012">
         <mark key="[" line="20" column="13" />
@@ -304,25 +300,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="0" filename="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/ubuntu-setup.sh.sample" />
-      <jump line="4" column="29" filename="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/add-shared-dir.sh" />
-      <jump line="103" column="33" filename="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/ubuntu-setup.sh.sample" />
-      <jump line="9" column="0" filename="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/ubuntu-setup.sh.sample" />
-      <jump line="79" column="0" filename="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/ubuntu-setup.sh.sample" />
-      <jump line="77" column="20" filename="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/ubuntu-setup.sh.sample" />
-      <jump line="70" column="44" filename="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/ubuntu-setup.sh.sample" />
-      <jump line="87" column="7" filename="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/ubuntu-setup.sh.sample" />
-      <jump line="8" column="10" filename="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/ubuntu-setup.sh.sample" />
-      <jump line="97" column="31" filename="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/ubuntu-setup.sh.sample" />
-      <jump line="116" column="21" filename="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/ubuntu-setup.sh.sample" />
-      <jump line="26" column="0" filename="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/ubuntu-setup.sh.sample" />
-      <jump line="113" column="0" filename="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/ubuntu-setup.sh.sample" />
-      <jump line="0" column="0" filename="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/ubuntu-setup.sh.sample" />
-      <jump line="29" column="0" filename="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/ubuntu-setup.sh.sample" />
-      <jump line="98" column="0" filename="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/ubuntu-setup.sh.sample" />
-      <jump line="0" column="0" filename="$USER_HOME$/Sites/Rescue/shared-environment/config/.bash_aliases" />
-      <jump line="13" column="19" filename="$USER_HOME$/Sites/Rescue/shared-environment/scripts/ubuntu-setup.sh.sample" />
-      <jump line="9" column="0" filename="$USER_HOME$/Sites/Rescue/shared-environment/scripts/ubuntu-setup.sh.sample" />
       <jump line="27" column="26" filename="$USER_HOME$/Sites/Rescue/shared-environment/scripts/shared-env-setup.sh" />
       <jump line="8" column="10" filename="$USER_HOME$/Sites/Rescue/shared-environment/scripts/shared-env-setup.sh" />
       <jump line="35" column="0" filename="$USER_HOME$/Sites/Rescue/shared-environment/scripts/shared-env-setup.sh" />
@@ -404,6 +381,25 @@
       <jump line="23" column="34" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/events.ctrl.js" />
       <jump line="82" column="15" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/events.ctrl.js" />
       <jump line="77" column="13" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/events.ctrl.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Sites/Rescue/247nm-boilerplate/public/wp/license.txt" />
+      <jump line="384" column="4" filename="$USER_HOME$/Sites/Rescue/247nm-boilerplate/public/wp/license.txt" />
+      <jump line="359" column="27" filename="$USER_HOME$/Sites/Rescue/247nm-boilerplate/public/wp/license.txt" />
+      <jump line="276" column="59" filename="$USER_HOME$/Sites/Rescue/247nm-boilerplate/public/wp/license.txt" />
+      <jump line="277" column="36" filename="$USER_HOME$/Sites/Rescue/247nm-boilerplate/public/wp/license.txt" />
+      <jump line="280" column="39" filename="$USER_HOME$/Sites/Rescue/247nm-boilerplate/public/wp/license.txt" />
+      <jump line="281" column="12" filename="$USER_HOME$/Sites/Rescue/247nm-boilerplate/public/wp/license.txt" />
+      <jump line="282" column="6" filename="$USER_HOME$/Sites/Rescue/247nm-boilerplate/public/wp/license.txt" />
+      <jump line="283" column="39" filename="$USER_HOME$/Sites/Rescue/247nm-boilerplate/public/wp/license.txt" />
+      <jump line="284" column="56" filename="$USER_HOME$/Sites/Rescue/247nm-boilerplate/public/wp/license.txt" />
+      <jump line="285" column="33" filename="$USER_HOME$/Sites/Rescue/247nm-boilerplate/public/wp/license.txt" />
+      <jump line="336" column="41" filename="$USER_HOME$/Sites/Rescue/247nm-boilerplate/public/wp/license.txt" />
+      <jump line="337" column="31" filename="$USER_HOME$/Sites/Rescue/247nm-boilerplate/public/wp/license.txt" />
+      <jump line="353" column="16" filename="$USER_HOME$/Sites/Rescue/247nm-boilerplate/public/wp/license.txt" />
+      <jump line="6" column="37" filename="$USER_HOME$/Sites/Rescue/247nm-boilerplate/public/wp/license.txt" />
+      <jump line="7" column="27" filename="$USER_HOME$/Sites/Rescue/247nm-boilerplate/public/wp/license.txt" />
+      <jump line="40" column="23" filename="$USER_HOME$/Sites/Rescue/247nm-boilerplate/public/wp/license.txt" />
+      <jump line="275" column="65" filename="$USER_HOME$/Sites/Rescue/247nm-boilerplate/public/wp/license.txt" />
+      <jump line="25" column="34" filename="$USER_HOME$/Sites/Rescue/247nm-boilerplate/public/wp/wp-settings.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2248,8 +2244,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>all location</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -2303,34 +2299,34 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>all location</text>
+        <text>examplepassword</text>
       </register>
       <register name="/" type="4">
-        <text>debugg</text>
+        <text>WP_H</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">Y2xvbmUtc2l0ZS1sb2NhbC5qc29uCg==</text>
+        <text encoding="base64">CWRlZmluZSgnV1BfSE9NRScsJ2h0dHA6Ly8nIC4gJF9TRVJWRVJbJ0hUVFBfSE9TVCddKTsKCWRlZmluZSgnV1BfU0lURVVSTCcsJ2h0dHA6Ly8nIC4gJF9TRVJWRVJbJ0hUVFBfSE9TVCddKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">ZGVmaW5lKCdXUF9IT01FJywgJ2h0dHA6Ly8nIC4gU1RBR0lOR19FTlYgLiAkc3RhZ2luZ19kaXIpOwpkZWZpbmUoJ1dQX1NJVEVVUkwnLCAnaHR0cDovLycgLiBTVEFHSU5HX0VOViAuICRzdGFnaW5nX2Rpcik7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHJldHVybl9jb2RlID0gc3VicHJvY2Vzcy5jYWxsKGNvbW1hbmQsIHNoZWxsPVRydWUpCg==</text>
+        <text encoding="base64">ZGVmaW5lKCdBVVRIX0tFWScsICdQVVRfVkFMVUVfSEVSRScpOwpkZWZpbmUoJ1NFQ1VSRV9BVVRIX0tFWScsICdQVVRfVkFMVUVfSEVSRScpOwpkZWZpbmUoJ0xPR0dFRF9JTl9LRVknLCAnUFVUX1ZBTFVFX0hFUkUnKTsKZGVmaW5lKCdOT05DRV9LRVknLCAnUFVUX1ZBTFVFX0hFUkUnKTsKZGVmaW5lKCdBVVRIX1NBTFQnLCAnUFVUX1ZBTFVFX0hFUkUnKTsKZGVmaW5lKCdTRUNVUkVfQVVUSF9TQUxUJywgJ1BVVF9WQUxVRV9IRVJFJyk7CmRlZmluZSgnTE9HR0VEX0lOX1NBTFQnLCAnUFVUX1ZBTFVFX0hFUkUnKTsKZGVmaW5lKCdOT05DRV9TQUxUJywgJ1BVVF9WQUxVRV9IRVJFJyk7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG15c3FsQ3JlYXRlQ29tbWFuZCA9ICIK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHJldHVybl9jb2RlID0gc3VicHJvY2Vzcy5jYWxsKGNvbW1hbmQsIHNoZWxsPVRydWUpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG15c3FsQ3JlYXRlQ29tbWFuZCA9ICIK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -2339,16 +2335,16 @@
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CQkJbWFyZ2luLWJvdHRvbTogMTVweDsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>debugg</last-search>
+      <last-search>WP_H</last-search>
       <last-offset />
-      <last-pattern>debugg</last-pattern>
+      <last-pattern>WP_H</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxmb3JtVmFsaWRhdGlvblw+</last-substitute>
       <last-dir>1</last-dir>
@@ -2392,6 +2388,8 @@
         <entry>_.uniq</entry>
         <entry encoding="base64">XDxwYXJzZUxvY2F0aW9uc1w+</entry>
         <entry>debugg</entry>
+        <entry>version</entry>
+        <entry>WP_H</entry>
       </history-search>
       <history-cmd>
         <entry>137</entry>
@@ -2410,11 +2408,11 @@
         <entry>qw</entry>
         <entry>wr;:w</entry>
         <entry encoding="base64">JzwsJz53</entry>
-        <entry>w:w</entry>
         <entry>ww;</entry>
         <entry>wq</entry>
         <entry>357</entry>
         <entry>q</entry>
+        <entry>w:w</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
