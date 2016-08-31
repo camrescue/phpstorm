@@ -15,7 +15,7 @@
         <mark key="^" line="13" column="16" />
         <mark key="." line="13" column="16" />
       </file>
-      <file name="/a.dummy" timestamp="1472672099598">
+      <file name="/a.dummy" timestamp="1472676534899">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/wordpress-composer/public/index.php" timestamp="1472230957214">
@@ -75,12 +75,10 @@
         <mark key="^" line="45" column="49" />
         <mark key="." line="45" column="46" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/event.ctrl.js" timestamp="1472672710057">
-        <mark key="'" line="121" column="30" />
-        <mark key="[" line="143" column="30" />
-        <mark key="]" line="143" column="30" />
-        <mark key="." line="143" column="30" />
-        <mark key="^" line="106" column="11" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/event.ctrl.js" timestamp="1472676002284">
+        <mark key="[" line="9" column="30" />
+        <mark key="]" line="9" column="30" />
+        <mark key="." line="9" column="30" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/weightofthestateva/public/twitter-api/tweet.php" timestamp="1472495873567">
         <mark key="'" line="10" column="0" />
@@ -108,10 +106,10 @@
         <mark key="." line="11" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/events.php" timestamp="1472672872070">
-        <mark key="'" line="64" column="56" />
-        <mark key="[" line="64" column="44" />
-        <mark key="]" line="64" column="44" />
-        <mark key="." line="64" column="52" />
+        <mark key="'" line="45" column="56" />
+        <mark key="[" line="45" column="44" />
+        <mark key="]" line="45" column="44" />
+        <mark key="." line="45" column="52" />
         <mark key="^" line="45" column="56" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/setup-user.sh" timestamp="1472444351256">
@@ -126,6 +124,7 @@
         <mark key="." line="37" column="30" />
         <mark key="^" line="37" column="30" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/bower.json" timestamp="1472585961155" />
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/utils.js" timestamp="1472671983810">
         <mark key="[" line="24" column="5" />
         <mark key="]" line="24" column="5" />
@@ -196,6 +195,7 @@
         <mark key="." line="46" column="24" />
         <mark key="^" line="46" column="24" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/247nm-boilerplate/public/.htaccess" timestamp="1472675860818" />
       <file name="$USER_HOME$/Sites/Rescue/weightofthestateeva-composer/public/wp-config.php" timestamp="1472240846901">
         <mark key="[" line="18" column="25" />
         <mark key="]" line="18" column="25" />
@@ -284,18 +284,17 @@
         <mark key="^" line="188" column="146" />
         <mark key="." line="188" column="146" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/events.ctrl.js" timestamp="1472674596090">
-        <mark key="'" line="105" column="4" />
-        <mark key="[" line="4" column="49" />
-        <mark key="]" line="4" column="49" />
-        <mark key="^" line="4" column="49" />
-        <mark key="." line="4" column="49" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/events.ctrl.js" timestamp="1472675774772">
+        <mark key="'" line="172" column="33" />
+        <mark key="[" line="172" column="37" />
+        <mark key="]" line="172" column="41" />
+        <mark key="^" line="172" column="41" />
+        <mark key="." line="172" column="41" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/event-detail.php" timestamp="1472673532319">
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/event-detail.php" timestamp="1472675932535">
         <mark key="'" line="110" column="49" />
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
-        <mark key="^" line="18" column="52" />
         <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/shared-environment/scripts/ubuntu-setup.sh.sample" timestamp="1472499543925">
@@ -317,12 +316,13 @@
         <mark key="." line="7" column="36" />
         <mark key="^" line="7" column="36" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/.htaccess" timestamp="1472579734090">
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="18" column="0" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/.htaccess" timestamp="1472675870650">
+        <mark key="[" line="1" column="14" />
+        <mark key="]" line="1" column="16" />
+        <mark key="." line="1" column="16" />
+        <mark key="^" line="1" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1472665135189">
+      <file name="/Dummy.txt" timestamp="1472676661184">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/drupal_translators/EventTranslator.js" timestamp="1472674397852">
@@ -402,6 +402,12 @@
         <mark key="^" line="1" column="96" />
         <mark key="." line="1" column="96" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/basic_elements.less" timestamp="1472580510173">
+        <mark key="'" line="16" column="21" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/shared-environment/scripts/setup-root.sh" timestamp="1472455061012">
         <mark key="[" line="20" column="13" />
         <mark key="]" line="20" column="19" />
@@ -453,14 +459,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="34" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/events.ctrl.js" />
-      <jump line="82" column="15" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/events.ctrl.js" />
-      <jump line="77" column="13" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/events.ctrl.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Sites/Rescue/247nm-boilerplate/public/wp/license.txt" />
-      <jump line="384" column="4" filename="$USER_HOME$/Sites/Rescue/247nm-boilerplate/public/wp/license.txt" />
-      <jump line="359" column="27" filename="$USER_HOME$/Sites/Rescue/247nm-boilerplate/public/wp/license.txt" />
-      <jump line="276" column="59" filename="$USER_HOME$/Sites/Rescue/247nm-boilerplate/public/wp/license.txt" />
-      <jump line="277" column="36" filename="$USER_HOME$/Sites/Rescue/247nm-boilerplate/public/wp/license.txt" />
       <jump line="280" column="39" filename="$USER_HOME$/Sites/Rescue/247nm-boilerplate/public/wp/license.txt" />
       <jump line="281" column="12" filename="$USER_HOME$/Sites/Rescue/247nm-boilerplate/public/wp/license.txt" />
       <jump line="282" column="6" filename="$USER_HOME$/Sites/Rescue/247nm-boilerplate/public/wp/license.txt" />
@@ -550,9 +548,17 @@
       <jump line="196" column="60" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/events.ctrl.js" />
       <jump line="109" column="34" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/events.ctrl.js" />
       <jump line="96" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/events.ctrl.js" />
-      <jump line="4" column="12" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/events.ctrl.js" />
-      <jump line="93" column="36" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/events.ctrl.js" />
       <jump line="105" column="4" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/events.ctrl.js" />
+      <jump line="27" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/events.ctrl.js" />
+      <jump line="4" column="12" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/events.ctrl.js" />
+      <jump line="92" column="22" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/events.ctrl.js" />
+      <jump line="93" column="36" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/events.ctrl.js" />
+      <jump line="107" column="13" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/events.ctrl.js" />
+      <jump line="104" column="15" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/events.ctrl.js" />
+      <jump line="172" column="33" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/events.ctrl.js" />
+      <jump line="111" column="4" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/event.ctrl.js" />
+      <jump line="114" column="106" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/event.ctrl.js" />
+      <jump line="24" column="29" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/event.ctrl.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2398,7 +2404,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>999</text>
+        <text>production</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -2452,37 +2458,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>999</text>
+        <text>production</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx0b2RheVw+</text>
+        <text encoding="base64">XDxnb29nbGVNYXBTcmNcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGltZT57e2V2ZW50LmRhdGVTdGFydCB8IGRhdGU6ICdNTU0gZCBoOm1tIGEnfX08L3RpbWU+IAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZWJ1Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGltZT57e2V2ZW50LmRhdGVFbmQgfCBkYXRlOiAnTU1NIGQnfX08L3RpbWU+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImRhdGUtbG9jYXRpb24iPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuPiAtIDwvc3Bhbj48dGltZT57e2V2ZW50LmRhdGVFbmQgfCBkYXRlOiAnTU1NIGQnfX08L3RpbWU+PHRpbWU+e3tldmVudC5kYXRlRW5kIHwgZGF0ZTogJ2g6bW0gYSd9fTwvdGltZT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAvIDxzcGFuIGNsYXNzPSJldmVudC1sb2NhdGlvbiI+e3tldmVudC5sb2NhdGlvbn19PC9zcGFuPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8dGltZT57e2V2ZW50LmRhdGVFbmQgfCBkYXRlOiAnTU1NIGQnfX08L3RpbWU+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDx0aW1lPnt7ZXZlbnQuZGF0ZVN0YXJ0IHwgZGF0ZTogJ2g6bW0gYSd9fTwvdGltZT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImRhdGUtbG9jYXRpb24iPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxzcGFuPiAtIDwvc3Bhbj48dGltZT57e2V2ZW50LmRhdGVFbmQgfCBkYXRlOiAnTU1NIGQnfX08L3RpbWU+PHRpbWU+e3tldmVudC5kYXRlRW5kIHwgZGF0ZTogJ2g6bW0gYSd9fTwvdGltZT4K</text>
       </register>
       <register name="x" type="4">
         <text />
@@ -2495,12 +2501,12 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx0b2RheVw+</last-search>
+      <last-search encoding="base64">XDxnb29nbGVNYXBTcmNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx0b2RheVw+</last-pattern>
+      <last-pattern encoding="base64">XDxnb29nbGVNYXBTcmNcPg==</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxmb3JtVmFsaWRhdGlvblw+</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -2533,7 +2539,6 @@
         <entry encoding="base64">XDxnZXRMb2NhbENvbmZpZ1w+</entry>
         <entry encoding="base64">XDxwcmludFw+</entry>
         <entry encoding="base64">XDxmaWx0ZXJCeUxvY2F0aW9uXD4=</entry>
-        <entry encoding="base64">XDxwYXJzZVVwY29taW5nRXZlbnRzXD4=</entry>
         <entry>_.uniq</entry>
         <entry encoding="base64">XDxwYXJzZUxvY2F0aW9uc1w+</entry>
         <entry>version</entry>
@@ -2549,7 +2554,6 @@
         <entry>field_</entry>
         <entry encoding="base64">XDxwcm9jZXNzX2V2ZW50XD4=</entry>
         <entry encoding="base64">XDxnZXREYXRlU2x1Z1w+</entry>
-        <entry encoding="base64">XDxvcmRlckJ5RGF0ZVw+</entry>
         <entry>dateFull</entry>
         <entry>event.date</entry>
         <entry>getJsDate</entry>
@@ -2564,6 +2568,11 @@
         <entry>upcoming</entry>
         <entry encoding="base64">XDx1cGNvbWluZ0V2ZW50c1w+</entry>
         <entry encoding="base64">XDx0b2RheVw+</entry>
+        <entry encoding="base64">XDxwYXJzZVVwY29taW5nRXZlbnRzXD4=</entry>
+        <entry encoding="base64">XDxvcmRlckJ5RGF0ZVw+</entry>
+        <entry encoding="base64">XDxkYXRlX2ludGVnZXJcPg==</entry>
+        <entry>googleMapSrc</entry>
+        <entry encoding="base64">XDxnb29nbGVNYXBTcmNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>137</entry>
