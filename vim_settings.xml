@@ -170,13 +170,6 @@
         <mark key="." line="11" column="59" />
         <mark key="^" line="11" column="59" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/shared-environment/scripts/python/clone-site.py" timestamp="1472594475492">
-        <mark key="'" line="163" column="4" />
-        <mark key="[" line="154" column="41" />
-        <mark key="]" line="155" column="3" />
-        <mark key="^" line="155" column="3" />
-        <mark key="." line="155" column="3" />
-      </file>
       <file name="$USER_HOME$/Sites/Rescue/wordpress-composer/local-config-sample.php" timestamp="1472661866321">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="7" column="64" />
@@ -196,11 +189,10 @@
         <mark key="." line="188" column="146" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/events.ctrl.js" timestamp="1472601608636">
-        <mark key="'" line="77" column="13" />
-        <mark key="[" line="79" column="72" />
-        <mark key="]" line="79" column="81" />
-        <mark key="^" line="79" column="81" />
-        <mark key="." line="79" column="81" />
+        <mark key="[" line="57" column="72" />
+        <mark key="]" line="57" column="81" />
+        <mark key="^" line="57" column="81" />
+        <mark key="." line="57" column="81" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/add-ssh.sh" timestamp="1472454235775">
         <mark key="[" line="6" column="16" />
@@ -284,6 +276,9 @@
         <mark key="^" line="20" column="19" />
         <mark key="." line="20" column="19" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/routes.js" timestamp="1472669831147">
+        <mark key="'" line="21" column="0" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/setup-git.sh" timestamp="1472450590406">
         <mark key="[" line="30" column="4" />
         <mark key="]" line="30" column="10" />
@@ -319,7 +314,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="11" column="7" filename="$USER_HOME$/Sites/Rescue/shared-environment/scripts/ubuntu-setup.sh.sample" />
       <jump line="12" column="22" filename="$USER_HOME$/Sites/Rescue/weightofthestateva/composer.lock" />
       <jump line="105" column="17" filename="$USER_HOME$/Sites/Rescue/weightofthestateva/composer.lock" />
       <jump line="95" column="41" filename="$USER_HOME$/Sites/Rescue/weightofthestateva/public/twitter-api/tweet.php" />
@@ -419,6 +413,7 @@
       <jump line="116" column="54" filename="$USER_HOME$/Sites/Rescue/247nm-boilerplate/composer.lock" />
       <jump line="121" column="64" filename="$USER_HOME$/Sites/Rescue/247nm-boilerplate/composer.lock" />
       <jump line="126" column="28" filename="$USER_HOME$/Sites/Rescue/247nm-boilerplate/composer.lock" />
+      <jump line="21" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/routes.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2321,7 +2316,7 @@
         <text>importer</text>
       </register>
       <register name="/" type="4">
-        <text>wordpress</text>
+        <text>events</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAid3BhY2thZ2lzdC1wbHVnaW4vd29yZHByZXNzLWltcG9ydGVyIjogIjAuKiIsCg==</text>
@@ -2361,9 +2356,9 @@
       </register>
     </registers>
     <search>
-      <last-search>wordpress</last-search>
+      <last-search>events</last-search>
       <last-offset />
-      <last-pattern>wordpress</last-pattern>
+      <last-pattern>events</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxmb3JtVmFsaWRhdGlvblw+</last-substitute>
       <last-dir>1</last-dir>
@@ -2393,7 +2388,6 @@
         <entry>ng-rep</entry>
         <entry>pagination</entry>
         <entry>event-listing</entry>
-        <entry>events</entry>
         <entry encoding="base64">XDxldmVudHNDb250cm9sbGVyXD4=</entry>
         <entry>pagin</entry>
         <entry encoding="base64">XDxjb21tYW5kXD4=</entry>
@@ -2409,6 +2403,7 @@
         <entry>version</entry>
         <entry>WP_H</entry>
         <entry>wordpress</entry>
+        <entry>events</entry>
       </history-search>
       <history-cmd>
         <entry>137</entry>
