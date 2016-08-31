@@ -170,7 +170,7 @@
         <mark key="." line="15" column="29" />
         <mark key="^" line="15" column="29" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/247nm-boilerplate/local-config.php" timestamp="1472602752776">
+      <file name="$USER_HOME$/Sites/Rescue/247nm-boilerplate/local-config.php" timestamp="1472661958654">
         <mark key="[" line="11" column="53" />
         <mark key="]" line="11" column="59" />
         <mark key="." line="11" column="59" />
@@ -183,11 +183,11 @@
         <mark key="^" line="155" column="3" />
         <mark key="." line="155" column="3" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/wordpress-composer/local-config-sample.php" timestamp="1472595522168">
-        <mark key="[" line="20" column="35" />
-        <mark key="]" line="20" column="35" />
-        <mark key="." line="20" column="35" />
-        <mark key="^" line="20" column="35" />
+      <file name="$USER_HOME$/Sites/Rescue/wordpress-composer/local-config-sample.php" timestamp="1472661866321">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="7" column="64" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="5" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/weightofthestateeva-composer/.gitignore" timestamp="1472240775881">
         <mark key="[" line="23" column="10" />
@@ -225,7 +225,7 @@
         <mark key="]" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1472659880307">
+      <file name="/Dummy.txt" timestamp="1472661880012">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/setup-root.sh" timestamp="1472449895919">
@@ -246,11 +246,11 @@
         <mark key="^" line="25" column="19" />
         <mark key="." line="25" column="19" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/wordpress-composer/production-config-sample.php" timestamp="1472595500330">
-        <mark key="[" line="27" column="22" />
-        <mark key="]" line="27" column="35" />
-        <mark key="." line="27" column="35" />
-        <mark key="^" line="27" column="35" />
+      <file name="$USER_HOME$/Sites/Rescue/wordpress-composer/production-config-sample.php" timestamp="1472661874501">
+        <mark key="[" line="4" column="31" />
+        <mark key="]" line="7" column="63" />
+        <mark key="." line="7" column="63" />
+        <mark key="^" line="7" column="63" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/247nm-boilerplate/public/wp/license.txt" timestamp="1472602468059">
         <mark key="'" line="275" column="65" />
@@ -2269,8 +2269,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>mailchimp-for-wp</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZGVmaW5lKCdXUF9IT01FJywgJ2h0dHA6Ly8nIC4gJF9TRVJWRVJbJ0hUVFBfSE9TVCddKTsKZGVmaW5lKCdXUF9TSVRFVVJMJywgJ2h0dHA6Ly8nIC4gJF9TRVJWRVJbJ0hUVFBfSE9TVCddIC4gJy93cCcpOwo=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -2330,37 +2330,37 @@
         <text>wordpress</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAid3BhY2thZ2lzdC1wbHVnaW4vbWFpbGNoaW1wLWZvci13cCI6ICI0LioiCg==</text>
+        <text encoding="base64">ZGVmaW5lKCdXUF9IT01FJywgJ2h0dHA6Ly8nIC4gJF9TRVJWRVJbJ0hUVFBfSE9TVCddKTsKZGVmaW5lKCdXUF9TSVRFVVJMJywgJ2h0dHA6Ly8nIC4gJF9TRVJWRVJbJ0hUVFBfSE9TVCddIC4gJy93cCcpOwo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ZGVmaW5lKCdXUF9IT01FJywgJ2h0dHA6Ly8nIC4gJF9TRVJWRVJbJ0hUVFBfSE9TVCddKTsKZGVmaW5lKCdXUF9TSVRFVVJMJywgJ2h0dHA6Ly8nIC4gJF9TRVJWRVJbJ0hUVFBfSE9TVCddIC4gJy93cCcpOwo=</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">UmVkaXJlY3QgMzAyIC8gaHR0cDovLzI0N25ld21leGljby5jb20K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">UmVkaXJlY3QgMzAyIC8gaHR0cDovLzI0N25ld21leGljby5jb20K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">UmVkaXJlY3QgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PElmTW9kdWxlIG1vZF9yZXdyaXRlLmM+Cg==</text>
+        <text encoding="base64">UmVkaXJlY3QgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">UmV3cml0ZVJ1bGUgd3AtY29udGVudC91cGxvYWRzLyguKikkIGh0dHA6Ly8yNDduZXdtZXhpY28uY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8kMSBbUj0zMDEsTF0K</text>
+        <text encoding="base64">PElmTW9kdWxlIG1vZF9yZXdyaXRlLmM+Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CQkJPD9waHAgZWNobyAnaGVyZSc7ID8+Cg==</text>
+        <text encoding="base64">UmV3cml0ZVJ1bGUgd3AtY29udGVudC91cGxvYWRzLyguKikkIGh0dHA6Ly8yNDduZXdtZXhpY28uY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8kMSBbUj0zMDEsTF0K</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CQkJPD9waHAgZWNobyAnaGVyZSc7ID8+Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ZGVmaW5lKCdXUF9IT01FJywgJ2h0dHA6Ly8nIC4gU1RBR0lOR19FTlYgLiAkc3RhZ2luZ19kaXIpOwpkZWZpbmUoJ1dQX1NJVEVVUkwnLCAnaHR0cDovLycgLiBTVEFHSU5HX0VOViAuICRzdGFnaW5nX2Rpcik7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
