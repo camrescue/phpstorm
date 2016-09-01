@@ -131,7 +131,6 @@
         <mark key="." line="37" column="30" />
         <mark key="^" line="37" column="30" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/bower.json" timestamp="1472585961155" />
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/utils.js" timestamp="1472671983810">
         <mark key="[" line="24" column="5" />
         <mark key="]" line="24" column="5" />
@@ -211,7 +210,6 @@
         <mark key="." line="46" column="24" />
         <mark key="^" line="46" column="24" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/247nm-boilerplate/public/.htaccess" timestamp="1472675860818" />
       <file name="$USER_HOME$/Sites/Rescue/weightofthestateeva-composer/public/wp-config.php" timestamp="1472240846901">
         <mark key="[" line="18" column="25" />
         <mark key="]" line="18" column="25" />
@@ -275,12 +273,12 @@
         <mark key="." line="11" column="59" />
         <mark key="^" line="11" column="59" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/shared-environment/scripts/python/clone-site.py" timestamp="1472594475492">
-        <mark key="'" line="163" column="4" />
-        <mark key="[" line="154" column="41" />
-        <mark key="]" line="155" column="3" />
-        <mark key="^" line="155" column="3" />
-        <mark key="." line="155" column="3" />
+      <file name="$USER_HOME$/Sites/Rescue/shared-environment/scripts/python/clone-site.py" timestamp="1472696092647">
+        <mark key="'" line="169" column="37" />
+        <mark key="[" line="158" column="33" />
+        <mark key="]" line="158" column="37" />
+        <mark key="^" line="158" column="37" />
+        <mark key="." line="158" column="37" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/247nm-boilerplate/composer.lock" timestamp="1472682914440">
         <mark key="'" line="25" column="13" />
@@ -334,7 +332,7 @@
         <mark key="." line="1" column="16" />
         <mark key="^" line="1" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1472684151270">
+      <file name="/Dummy.txt" timestamp="1472696099690">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/drupal_translators/EventTranslator.js" timestamp="1472674397852">
@@ -471,7 +469,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="16" column="13" filename="$USER_HOME$/Sites/Rescue/247nm-boilerplate/composer.lock" />
       <jump line="105" column="17" filename="$USER_HOME$/Sites/Rescue/247nm-boilerplate/composer.lock" />
       <jump line="112" column="32" filename="$USER_HOME$/Sites/Rescue/247nm-boilerplate/composer.lock" />
       <jump line="116" column="54" filename="$USER_HOME$/Sites/Rescue/247nm-boilerplate/composer.lock" />
@@ -571,6 +568,7 @@
       <jump line="25" column="13" filename="$USER_HOME$/Sites/Rescue/247nm-boilerplate/composer.lock" />
       <jump line="659" column="20" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" />
       <jump line="20" column="14" filename="$USER_HOME$/Sites/Rescue/shared-environment/scripts/ubuntu-setup.sh.sample" />
+      <jump line="169" column="37" filename="$USER_HOME$/Sites/Rescue/shared-environment/scripts/python/clone-site.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2473,7 +2471,7 @@
         <text>true</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzY3JvbGxUb1w+</text>
+        <text encoding="base64">XDxwYXNzT3B0XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdG9kYXkgPSBuZXcgRGF0ZShuZXcgRGF0ZSgpLnNldEhvdXJzKDAsIDAsIDAsIDApKSwK</text>
@@ -2513,9 +2511,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzY3JvbGxUb1w+</last-search>
+      <last-search encoding="base64">XDxwYXNzT3B0XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzY3JvbGxUb1w+</last-pattern>
+      <last-pattern encoding="base64">XDxwYXNzT3B0XD4=</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxmb3JtVmFsaWRhdGlvblw+</last-substitute>
       <last-dir>-1</last-dir>
@@ -2523,54 +2521,6 @@
     </search>
     <history>
       <history-search>
-        <entry>clone</entry>
-        <entry encoding="base64">XDxTSEFSRURfUEFUSFw+</entry>
-        <entry encoding="base64">XDxBRERfU0hBUkVEX0RJUl9GSUxFXD4=</entry>
-        <entry>gosites</entry>
-        <entry encoding="base64">XDxTSEFSRURfRU5WX1NFVFVQXD4=</entry>
-        <entry>a2ensite</entry>
-        <entry encoding="base64">XDxjYWNoZV9wYXRoXD4=</entry>
-        <entry encoding="base64">XDx0b2tlblw+</entry>
-        <entry>curl</entry>
-        <entry>php-curl</entry>
-        <entry>php5</entry>
-        <entry>scroll</entry>
-        <entry encoding="base64">XDxzbGlkZXJcPg==</entry>
-        <entry>sliderBg</entry>
-        <entry>Email</entry>
-        <entry>single</entry>
-        <entry>getSingle</entry>
-        <entry encoding="base64">XDxjb21wbGV0ZVw+</entry>
-        <entry encoding="base64">XDxvbnNpdGVDb21wbGV0ZVw+</entry>
-        <entry>ng-rep</entry>
-        <entry>pagination</entry>
-        <entry>event-listing</entry>
-        <entry encoding="base64">XDxldmVudHNDb250cm9sbGVyXD4=</entry>
-        <entry>pagin</entry>
-        <entry encoding="base64">XDxjb21tYW5kXD4=</entry>
-        <entry encoding="base64">XDxnZXRMb2NhbENvbmZpZ1w+</entry>
-        <entry encoding="base64">XDxwcmludFw+</entry>
-        <entry encoding="base64">XDxmaWx0ZXJCeUxvY2F0aW9uXD4=</entry>
-        <entry>_.uniq</entry>
-        <entry encoding="base64">XDxwYXJzZUxvY2F0aW9uc1w+</entry>
-        <entry>version</entry>
-        <entry>WP_H</entry>
-        <entry>wordpress</entry>
-        <entry>events</entry>
-        <entry encoding="base64">XDxldmVudF9jb3VudGVyXD4=</entry>
-        <entry encoding="base64">XDxnZXREYXRlXD4=</entry>
-        <entry encoding="base64">XDxnZXRfZGF0ZTJcPg==</entry>
-        <entry encoding="base64">XDxpbml0aWFsRGF0YVw+</entry>
-        <entry>field_date</entry>
-        <entry encoding="base64">XDxldmVudERhdGVcPg==</entry>
-        <entry>field_</entry>
-        <entry encoding="base64">XDxwcm9jZXNzX2V2ZW50XD4=</entry>
-        <entry encoding="base64">XDxnZXREYXRlU2x1Z1w+</entry>
-        <entry>dateFull</entry>
-        <entry>event.date</entry>
-        <entry>getJsDate</entry>
-        <entry encoding="base64">XDxwYXJzZVBhc3RFdmVudHNcPg==</entry>
-        <entry>getJs</entry>
         <entry encoding="base64">XDxzZXREYXRlc1w+</entry>
         <entry>date</entry>
         <entry encoding="base64">XDxwYXJzZURhdGVcPg==</entry>
@@ -2591,10 +2541,9 @@
         <entry encoding="base64">XDxzdWJkaXJzXD4=</entry>
         <entry>font-awe</entry>
         <entry encoding="base64">XDxzY3JvbGxUb1w+</entry>
+        <entry encoding="base64">XDxwYXNzT3B0XD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>137</entry>
-        <entry>260</entry>
         <entry>196</entry>
         <entry>19</entry>
         <entry>87</entry>
