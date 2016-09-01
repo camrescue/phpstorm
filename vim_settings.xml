@@ -307,12 +307,12 @@
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/event-detail.php" timestamp="1472677861488">
         <mark key="'" line="110" column="49" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/shared-environment/scripts/ubuntu-setup.sh.sample" timestamp="1472683889016">
+      <file name="$USER_HOME$/Sites/Rescue/shared-environment/scripts/ubuntu-setup.sh.sample" timestamp="1472736962850">
         <mark key="'" line="20" column="14" />
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="40" />
-        <mark key="." line="50" column="40" />
-        <mark key="^" line="50" column="40" />
+        <mark key="[" line="50" column="42" />
+        <mark key="]" line="50" column="42" />
+        <mark key="." line="50" column="42" />
+        <mark key="^" line="50" column="65" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/add-ssh.sh" timestamp="1472454235775">
         <mark key="[" line="6" column="16" />
@@ -332,7 +332,7 @@
         <mark key="." line="1" column="16" />
         <mark key="^" line="1" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1472696099690">
+      <file name="/Dummy.txt" timestamp="1472736965814">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/drupal_translators/EventTranslator.js" timestamp="1472674397852">
@@ -2414,7 +2414,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>true</text>
+        <text encoding="base64">YXB0LWdldCBpbnN0YWxsIA==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -2468,7 +2468,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text encoding="base64">YXB0LWdldCBpbnN0YWxsIA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwYXNzT3B0XD4=</text>
