@@ -22,7 +22,7 @@
         <mark key="." line="61" column="17" />
         <mark key="^" line="61" column="17" />
       </file>
-      <file name="/a.dummy" timestamp="1472786039702">
+      <file name="/a.dummy" timestamp="1472789777920">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/wordpress-composer/public/index.php" timestamp="1472230957214">
@@ -79,6 +79,13 @@
         <mark key="]" line="12" column="17" />
         <mark key="^" line="12" column="17" />
         <mark key="." line="12" column="17" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/247nm-boilerplate/public/wp-content/themes/247nm/functions/data-manager.php" timestamp="1472790215724">
+        <mark key="'" line="19" column="9" />
+        <mark key="[" line="140" column="23" />
+        <mark key="]" line="140" column="24" />
+        <mark key="^" line="140" column="24" />
+        <mark key="." line="140" column="24" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/main.js" timestamp="1472578581630">
         <mark key="'" line="18" column="0" />
@@ -330,7 +337,7 @@
         <mark key="." line="1" column="16" />
         <mark key="^" line="1" column="16" />
       </file>
-      <file name="/Dummy.txt" timestamp="1472736965814">
+      <file name="/Dummy.txt" timestamp="1472788141581">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/setup-root.sh" timestamp="1472449895919">
@@ -390,11 +397,11 @@
         <mark key="]" line="111" column="0" />
         <mark key="." line="111" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/wordpress-composer/public/wp-config.php" timestamp="1472240870084">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="23" column="46" />
+      <file name="$USER_HOME$/Sites/Rescue/wordpress-composer/public/wp-config.php" timestamp="1472788139607">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
         <mark key="^" line="23" column="46" />
-        <mark key="." line="23" column="46" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/shared-environment/config/.bash_aliases" timestamp="1472509241069">
         <mark key="'" line="83" column="0" />
@@ -420,6 +427,11 @@
       </file>
       <file name="$USER_HOME$/Sites/Rescue/weightofthestateva/public/twitter-api/twitteroauth/twitteroauth.php" timestamp="1472494724004">
         <mark key="'" line="36" column="24" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/247nm-boilerplate/public/wp-config.php" timestamp="1472788116223">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/Documents/ServerBackup/backup/home/117164/domains/weightofthestateva.com/html/wp-content/themes/Weight-of-the-State/header.php" timestamp="1472202092486">
         <mark key="'" line="203" column="29" />
@@ -460,7 +472,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="105" column="17" filename="$USER_HOME$/Sites/Rescue/247nm-boilerplate/composer.lock" />
       <jump line="112" column="32" filename="$USER_HOME$/Sites/Rescue/247nm-boilerplate/composer.lock" />
       <jump line="116" column="54" filename="$USER_HOME$/Sites/Rescue/247nm-boilerplate/composer.lock" />
       <jump line="121" column="64" filename="$USER_HOME$/Sites/Rescue/247nm-boilerplate/composer.lock" />
@@ -560,6 +571,7 @@
       <jump line="659" column="20" filename="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/event.js" />
       <jump line="20" column="14" filename="$USER_HOME$/Sites/Rescue/shared-environment/scripts/ubuntu-setup.sh.sample" />
       <jump line="169" column="37" filename="$USER_HOME$/Sites/Rescue/shared-environment/scripts/python/clone-site.py" />
+      <jump line="19" column="9" filename="$USER_HOME$/Sites/Rescue/247nm-boilerplate/public/wp-content/themes/247nm/functions/data-manager.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2404,8 +2416,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Pz4K</text>
+      <register name="&quot;" type="4">
+        <text>get_query_var('db-migrate');</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -2459,37 +2471,37 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YXB0LWdldCBpbnN0YWxsIA==</text>
+        <text>get_query_var('db-migrate');</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwYXNzT3B0XD4=</text>
+        <text encoding="base64">XDxkYkluc3RhbGxcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgdG9kYXkgPSBuZXcgRGF0ZShuZXcgRGF0ZSgpLnNldEhvdXJzKDAsIDAsIDAsIDApKSwK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pz4K</text>
+        <text encoding="base64">ZWNobyAnaGVyZSc7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyEvYmluL2Jhc2gK</text>
+        <text encoding="base64">CQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gdG9kYXkgPSBuZXcgRGF0ZShEYXRlLnBhcnNlKCdPY3RvYmVyIDksIDIwMTYnKSksCg==</text>
+        <text encoding="base64">ZGJJbnN0YWxsKCk7CmRiVXBkYXRlcygpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
@@ -2502,12 +2514,12 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwYXNzT3B0XD4=</last-search>
+      <last-search encoding="base64">XDxkYkluc3RhbGxcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwYXNzT3B0XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxkYkluc3RhbGxcPg==</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxmb3JtVmFsaWRhdGlvblw+</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -2533,6 +2545,7 @@
         <entry>font-awe</entry>
         <entry encoding="base64">XDxzY3JvbGxUb1w+</entry>
         <entry encoding="base64">XDxwYXNzT3B0XD4=</entry>
+        <entry encoding="base64">XDxkYkluc3RhbGxcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>196</entry>
