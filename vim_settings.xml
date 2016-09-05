@@ -398,6 +398,9 @@
         <mark key="." line="5" column="0" />
         <mark key="^" line="5" column="0" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/247nm/public/wp-content/themes/247nm/header.php" timestamp="1473041302125">
+        <mark key="'" line="18" column="17" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/event-detail.php" timestamp="1472677861488">
         <mark key="'" line="102" column="49" />
       </file>
@@ -489,7 +492,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="129" column="38" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/drupal_translators/EventTranslator.js" />
       <jump line="130" column="38" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/drupal_translators/EventTranslator.js" />
       <jump line="142" column="42" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/drupal_translators/EventTranslator.js" />
       <jump line="17" column="43" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/drupal_translators/EventTranslator.js" />
@@ -589,6 +591,7 @@
       <jump line="13" column="33" filename="$USER_HOME$/Sites/Rescue/247nm-boilerplate/public/wp-content/themes/247nm/functions/data-manager/submit-contact.php" />
       <jump line="14" column="33" filename="$USER_HOME$/Sites/Rescue/247nm-boilerplate/public/wp-content/themes/247nm/functions/data-manager/submit-contact.php" />
       <jump line="15" column="37" filename="$USER_HOME$/Sites/Rescue/247nm-boilerplate/public/wp-content/themes/247nm/functions/data-manager/submit-contact.php" />
+      <jump line="18" column="17" filename="$USER_HOME$/Sites/Rescue/247nm/public/wp-content/themes/247nm/header.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2491,7 +2494,7 @@
         <text>$_POST</text>
       </register>
       <register name="/" type="4">
-        <text>]</text>
+        <text encoding="base64">XDxUZW1wbGF0ZURJUlw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CQkkbWVzc2FnZVtdID0gJy4gU3VjY2Vzcy4nOwo=</text>
@@ -2531,9 +2534,9 @@
       </register>
     </registers>
     <search>
-      <last-search>]</last-search>
+      <last-search encoding="base64">XDxUZW1wbGF0ZURJUlw+</last-search>
       <last-offset />
-      <last-pattern>]</last-pattern>
+      <last-pattern encoding="base64">XDxUZW1wbGF0ZURJUlw+</last-pattern>
       <last-replace>92101</last-replace>
       <last-substitute encoding="base64">XDxmb3JtVmFsaWRhdGlvblw+</last-substitute>
       <last-dir>1</last-dir>
@@ -2569,6 +2572,7 @@
         <entry>fwfw</entry>
         <entry>[</entry>
         <entry>]</entry>
+        <entry encoding="base64">XDxUZW1wbGF0ZURJUlw+</entry>
       </history-search>
       <history-cmd>
         <entry>196</entry>
