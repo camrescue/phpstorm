@@ -55,12 +55,12 @@
         <mark key="^" line="103" column="37" />
         <mark key="." line="103" column="37" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/247nm/public/wp-content/themes/247nm/functions/data-manager/submit-signage.php" timestamp="1473363021316">
-        <mark key="'" line="76" column="11" />
-        <mark key="[" line="18" column="0" />
-        <mark key="]" line="19" column="49" />
-        <mark key="^" line="10" column="12" />
-        <mark key="." line="18" column="0" />
+      <file name="$USER_HOME$/Sites/Rescue/247nm/public/wp-content/themes/247nm/functions/data-manager/submit-signage.php" timestamp="1473363214677">
+        <mark key="'" line="78" column="11" />
+        <mark key="[" line="25" column="14" />
+        <mark key="]" line="25" column="63" />
+        <mark key="^" line="25" column="63" />
+        <mark key="." line="25" column="63" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/main.js" timestamp="1472578581630">
         <mark key="'" line="18" column="0" />
@@ -2543,8 +2543,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">JHNpZ25hZ2VfbWFpbGluZyAgICAgICAgICAgPSBwb3N0KCdtYWlsaW5nX2FkZHJlc3MnKTsKJHNpZ25hZ2VfemlwICAgICAgICAgICAgICAgPSBwb3N0KCdtYWlsaW5nX3ppcCcpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>post('type')</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -2598,7 +2598,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>Your</text>
+        <text>post('type')</text>
       </register>
       <register name="/" type="4">
         <text>name=</text>
