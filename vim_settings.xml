@@ -533,12 +533,12 @@
         <mark key="." line="2" column="10" />
         <mark key="^" line="2" column="10" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/shared-environment/scripts/ubuntu-setup.sh.sample" timestamp="1472736962850">
+      <file name="$USER_HOME$/Sites/Rescue/shared-environment/scripts/ubuntu-setup.sh.sample" timestamp="1473460395710">
         <mark key="'" line="20" column="14" />
-        <mark key="[" line="50" column="42" />
-        <mark key="]" line="50" column="42" />
-        <mark key="." line="50" column="42" />
-        <mark key="^" line="50" column="65" />
+        <mark key="[" line="46" column="83" />
+        <mark key="]" line="46" column="84" />
+        <mark key="." line="46" column="84" />
+        <mark key="^" line="46" column="83" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/.htaccess" timestamp="1472675870650">
         <mark key="[" line="1" column="14" />
@@ -558,7 +558,7 @@
         <mark key="." line="136" column="63" />
         <mark key="^" line="136" column="63" />
       </file>
-      <file name="/Dummy.txt" timestamp="1473459540580">
+      <file name="/Dummy.txt" timestamp="1473460397955">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/views/user/signup_adults/extra_form.php" timestamp="1472168488773">
@@ -2641,7 +2641,7 @@
         <text>true</text>
       </register>
       <register name="/" type="4">
-        <text>ses</text>
+        <text>xml</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">QGltcG9ydCAic2lnbmFnZSI7Cg==</text>
@@ -2681,9 +2681,9 @@
       </register>
     </registers>
     <search>
-      <last-search>ses</last-search>
+      <last-search>xml</last-search>
       <last-offset />
-      <last-pattern>ses</last-pattern>
+      <last-pattern>xml</last-pattern>
       <last-replace>post(</last-replace>
       <last-substitute>\$_POST\[</last-substitute>
       <last-dir>1</last-dir>
@@ -2725,6 +2725,7 @@
         <entry encoding="base64">XDxjb250YWN0X2VtYWlsXD4=</entry>
         <entry>Contact</entry>
         <entry>ses</entry>
+        <entry>xml</entry>
       </history-search>
       <history-cmd>
         <entry>87</entry>
