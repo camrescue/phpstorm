@@ -29,12 +29,11 @@
         <mark key="." line="7" column="30" />
         <mark key="^" line="7" column="30" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/247nm/public/wp-content/themes/247nm/assets/js/custom.js" timestamp="1473788032235">
+      <file name="$USER_HOME$/Sites/Rescue/247nm/public/wp-content/themes/247nm/assets/js/custom.js" timestamp="1473788692339">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="297" column="0" />
-        <mark key="]" line="298" column="12" />
-        <mark key="." line="298" column="12" />
-        <mark key="^" line="298" column="12" />
+        <mark key="[" line="298" column="0" />
+        <mark key="]" line="298" column="0" />
+        <mark key="." line="298" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1473787759621">
         <mark key="[" line="0" column="0" />
@@ -188,11 +187,10 @@
         <mark key="." line="18" column="25" />
         <mark key="^" line="23" column="20" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/247nm/public/wp-content/themes/247nm/functions/enqueue-scripts.php" timestamp="1473787836882">
-        <mark key="[" line="15" column="44" />
-        <mark key="]" line="15" column="125" />
-        <mark key="." line="15" column="125" />
-        <mark key="^" line="15" column="125" />
+      <file name="$USER_HOME$/Sites/Rescue/247nm/public/wp-content/themes/247nm/functions/enqueue-scripts.php" timestamp="1473788676230">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/247nm/public/wp-content/themes/247nm/templates/signage.php" timestamp="1473787888753">
         <mark key="'" line="119" column="53" />
@@ -325,11 +323,11 @@
         <mark key="^" line="20" column="19" />
         <mark key="." line="20" column="19" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/247nm/public/wp-content/themes/247nm/Gruntfile.js" timestamp="1473371791204">
-        <mark key="[" line="32" column="60" />
-        <mark key="]" line="32" column="67" />
-        <mark key="." line="32" column="67" />
-        <mark key="^" line="32" column="67" />
+      <file name="$USER_HOME$/Sites/Rescue/247nm/public/wp-content/themes/247nm/Gruntfile.js" timestamp="1473788591752">
+        <mark key="[" line="33" column="68" />
+        <mark key="]" line="33" column="73" />
+        <mark key="^" line="33" column="73" />
+        <mark key="." line="33" column="73" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/setup-git.sh" timestamp="1472450590406">
         <mark key="[" line="30" column="4" />
@@ -2737,7 +2735,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIChmdW5jdGlvbiAoJCkgewoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -2791,34 +2789,34 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>get_template_directory_uri() . '/assets/js/pattern.js'</text>
+        <text>validate</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxuZXdUaW1lbGluZVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">CQl3cF9lbnF1ZXVlX3NjcmlwdCggJ3BhdHRlcm4tanMnLCBnZXRfdGVtcGxhdGVfZGlyZWN0b3J5X3VyaSgpIC4gJy9hc3NldHMvanMvcGF0dGVybi5qcycsIGFycmF5KCksICcxLjAuMCcsIHRydWUgKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICcuL2Jvd2VyX2NvbXBvbmVudHMvanF1ZXJ5LXZhbGlkYXRpb24vZGlzdC9qcXVlcnkudmFsaWRhdGUuanMnLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIChmdW5jdGlvbiAoJCkgewoK</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIH0oalF1ZXJ5KSk7Cg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIDwvc2NyaXB0Pgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIDxzY3JpcHQ+CiAgICAgICAK</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICB3cF9lbnF1ZXVlX3NjcmlwdCggJ3R5cGVhaGVhZC1qcycsICdodHRwczovL2NkbmpzLmNsb3VkZmxhcmUuY29tL2FqYXgvbGlicy90eXBlYWhlYWQuanMvMC4xMS4xL3R5cGVhaGVhZC5idW5kbGUubWluLmpzJywgYXJyYXkoKSwgJzEuMC4wJywgdHJ1ZSApOwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICcuL2Fzc2V0cy9qcy9jdXN0b20uanMnLAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIChmdW5jdGlvbiAoJCkgewoK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIH0oalF1ZXJ5KSk7Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA8c2NyaXB0IHNyYz0iaHR0cHM6Ly9jZG5qcy5jbG91ZGZsYXJlLmNvbS9hamF4L2xpYnMvdHlwZWFoZWFkLmpzLzAuMTEuMS90eXBlYWhlYWQuYnVuZGxlLm1pbi5qcyI+PC9zY3JpcHQ+Cg==</text>
+        <text encoding="base64">ICAgIDwvc2NyaXB0Pgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB9KTsK</text>
+        <text encoding="base64">ICAgIDxzY3JpcHQ+CiAgICAgICAK</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">Cg==</text>
@@ -2827,7 +2825,7 @@
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8c2NyaXB0IHNyYz0iaHR0cHM6Ly9jZG5qcy5jbG91ZGZsYXJlLmNvbS9hamF4L2xpYnMvdHlwZWFoZWFkLmpzLzAuMTEuMS90eXBlYWhlYWQuYnVuZGxlLm1pbi5qcyI+PC9zY3JpcHQ+Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
