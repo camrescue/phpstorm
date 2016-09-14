@@ -21,7 +21,7 @@
         <mark key="^" line="272" column="37" />
         <mark key="." line="267" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1473831789992">
+      <file name="/a.dummy" timestamp="1473833402291">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -92,6 +92,12 @@
         <mark key="." line="11" column="35" />
         <mark key="^" line="11" column="35" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/index.php" timestamp="1473835202061">
+        <mark key="[" line="140" column="84" />
+        <mark key="]" line="140" column="93" />
+        <mark key="." line="140" column="84" />
+        <mark key="^" line="140" column="83" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/247nm/custom-db-config.php" timestamp="1472602484150">
         <mark key="[" line="6" column="23" />
         <mark key="]" line="6" column="22" />
@@ -150,6 +156,12 @@
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/lessons-in-flawless-landing.js" timestamp="1473833567445">
+        <mark key="[" line="15" column="40" />
+        <mark key="]" line="15" column="45" />
+        <mark key="." line="15" column="45" />
+        <mark key="^" line="15" column="45" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/247nm/public/wp-content/themes/247nm/templates/signage.php" timestamp="1473829642983">
         <mark key="'" line="124" column="28" />
@@ -369,17 +381,30 @@
         <mark key="." line="0" column="18" />
         <mark key="^" line="0" column="18" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-landing.ctrl.js" timestamp="1473833584524">
+        <mark key="'" line="4" column="8" />
+        <mark key="[" line="2" column="99" />
+        <mark key="]" line="3" column="74" />
+        <mark key="." line="3" column="74" />
+        <mark key="^" line="3" column="74" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/.jshintrc" timestamp="1472670393360">
         <mark key="[" line="39" column="15" />
         <mark key="]" line="39" column="19" />
         <mark key="." line="39" column="19" />
         <mark key="^" line="39" column="19" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/lessons-in-flawless-intro.js" timestamp="1471713877000">
-        <mark key="[" line="12" column="15" />
-        <mark key="]" line="12" column="17" />
-        <mark key="^" line="12" column="17" />
-        <mark key="." line="12" column="17" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/lessons-in-flawless-intro.js" timestamp="1473833639423">
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/lessons-in-flawless-quiz.less" timestamp="1473837077866">
+        <mark key="'" line="298" column="0" />
+        <mark key="[" line="115" column="81" />
+        <mark key="]" line="115" column="82" />
+        <mark key="." line="115" column="82" />
+        <mark key="^" line="122" column="16" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/lessons-in-flawless-quiz.php" timestamp="1473769738722">
         <mark key="[" line="14" column="26" />
@@ -422,12 +447,12 @@
         <mark key="^" line="16" column="8" />
         <mark key="." line="16" column="8" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/lessons-in-flawless.less" timestamp="1473831780384">
-        <mark key="'" line="4" column="1" />
-        <mark key="[" line="5" column="58" />
-        <mark key="]" line="5" column="64" />
-        <mark key="." line="5" column="64" />
-        <mark key="^" line="5" column="64" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/lessons-in-flawless.less" timestamp="1473836390190">
+        <mark key="'" line="221" column="24" />
+        <mark key="[" line="47" column="0" />
+        <mark key="]" line="47" column="0" />
+        <mark key="^" line="46" column="36" />
+        <mark key="." line="47" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/247nm/public/wp-content/themes/247nm/functions/data-manager/export-contact.php" timestamp="1473456457343">
         <mark key="[" line="16" column="0" />
@@ -567,6 +592,9 @@
         <mark key="." line="58" column="25" />
         <mark key="^" line="57" column="22" />
       </file>
+      <file name="/Dummy.txt" timestamp="1473837167042">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/views/user/signup_adults/extra_form.php" timestamp="1472168488773">
         <mark key="[" line="131" column="10" />
         <mark key="]" line="140" column="9" />
@@ -630,8 +658,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="133" column="25" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/lessons-in-flawless-quiz-questions.js" />
-      <jump line="134" column="25" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/lessons-in-flawless-quiz-questions.js" />
       <jump line="12" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-quiz.ctrl.js" />
       <jump line="122" column="37" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-quiz.ctrl.js" />
       <jump line="89" column="15" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-quiz.ctrl.js" />
@@ -730,6 +756,8 @@
       <jump line="120" column="31" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/lessons-in-flawless-complete.less" />
       <jump line="153" column="8" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/lessons-in-flawless-complete.less" />
       <jump line="203" column="17" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/lessons-in-flawless-complete.less" />
+      <jump line="12" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/lessons-in-flawless.less" />
+      <jump line="192" column="24" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/lessons-in-flawless.less" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2575,7 +2603,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmFja2dyb3VuZC1jb2xvcjogI2NjYzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -2629,43 +2657,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>obTragic</text>
+        <text>cover</text>
       </register>
       <register name="/" type="4">
         <text>height</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgW2RhdGEtYW5zd2VyLWlkPScxJ10gewoKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYmFja2dyb3VuZC1jb2xvcjogI2NjYzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgd2lkdGg6IDEwMCU7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgdGV4dC1pbmRlbnQ6IC05OTk5cHg7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJhY2tncm91bmQtaW1hZ2U6dXJsKCJAe2xlc3NvbnNJbkZsYXdsZXNzTW9iaWxlUGF0aH0vQmVuVHJhZ2ljLmdpZiIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJhY2tncm91bmQtaW1hZ2U6dXJsKCJAe2xlc3NvbnNJbkZsYXdsZXNzTW9iaWxlUGF0aH0vQm9iVHJhZ2ljLmdpZiIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJhY2tncm91bmQtaW1hZ2U6dXJsKCJAe2xlc3NvbnNJbkZsYXdsZXNzTW9iaWxlUGF0aH0vQm9iVHJhZ2ljLmdpZiIpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJhY2tncm91bmQtaW1hZ2U6dXJsKCJAe2xlc3NvbnNJbkZsYXdsZXNzTW9iaWxlUGF0aH0vQm9iVHJhZ2ljLmdpZiIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
