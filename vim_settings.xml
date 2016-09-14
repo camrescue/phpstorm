@@ -135,7 +135,7 @@
         <mark key="^" line="24" column="5" />
         <mark key="." line="24" column="5" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/LessonsInFlawless.js" timestamp="1473770524578">
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/LessonsInFlawless.js" timestamp="1473880771650">
         <mark key="'" line="81" column="26" />
         <mark key="[" line="137" column="0" />
         <mark key="]" line="137" column="0" />
@@ -799,8 +799,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="44" column="59" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/lessons-in-flawless-quiz-questions.js" />
-      <jump line="46" column="52" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/lessons-in-flawless-quiz-questions.js" />
       <jump line="47" column="78" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/lessons-in-flawless-quiz-questions.js" />
       <jump line="48" column="12" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/lessons-in-flawless-quiz-questions.js" />
       <jump line="21" column="9" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/lessons-in-flawless-quiz-questions.js" />
@@ -899,6 +897,8 @@
       <jump line="193" column="21" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/lessons-in-flawless-quiz.less" />
       <jump line="222" column="30" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/lessons-in-flawless-quiz.less" />
       <jump line="0" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/lessons-in-flawless-quiz.less" />
+      <jump line="97" column="8" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/LessonsInFlawless.js" />
+      <jump line="81" column="26" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/LessonsInFlawless.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2801,7 +2801,7 @@
         <text>0 5px;</text>
       </register>
       <register name="/" type="4">
-        <text>question-w</text>
+        <text encoding="base64">XDxnZXRMZXNzb25Db21wbGV0aW9uc1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaGlkZVN2ZzogIkAiCg==</text>
@@ -2841,12 +2841,12 @@
       </register>
     </registers>
     <search>
-      <last-search>question-w</last-search>
+      <last-search encoding="base64">XDxnZXRMZXNzb25Db21wbGV0aW9uc1w+</last-search>
       <last-offset />
-      <last-pattern>question-w</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRMZXNzb25Db21wbGV0aW9uc1w+</last-pattern>
       <last-replace>post(</last-replace>
       <last-substitute encoding="base64">XDx2YWxpZGF0ZUNvdXJzZUxlc3Nvblw+</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -2954,7 +2954,6 @@
         <entry>lessonCompl</entry>
         <entry>getLesson</entry>
         <entry encoding="base64">XDxnZXRMZXNzb25zQ29tcGxldGlvbnNcPg==</entry>
-        <entry encoding="base64">XDxnZXRMZXNzb25Db21wbGV0aW9uc1w+</entry>
         <entry encoding="base64">XDxpZFw+</entry>
         <entry encoding="base64">XDxjdXJyZW50RWxlbVw+</entry>
         <entry encoding="base64">XDxyZXN1bHRPZmZzZXRcPg==</entry>
@@ -2993,6 +2992,8 @@
         <entry>mobile-he</entry>
         <entry>bread</entry>
         <entry>question-w</entry>
+        <entry>getCompleteSC</entry>
+        <entry encoding="base64">XDxnZXRMZXNzb25Db21wbGV0aW9uc1w+</entry>
       </history-search>
       <history-cmd>
         <entry>157</entry>
