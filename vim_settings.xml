@@ -650,7 +650,7 @@
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/Gruntfile.js" timestamp="1473955577123">
         <mark key="'" line="14" column="44" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/config/config.php" timestamp="1473955812480">
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/config/config.php" timestamp="1473957613499">
         <mark key="[" line="48" column="27" />
         <mark key="]" line="48" column="58" />
         <mark key="." line="48" column="58" />
@@ -769,7 +769,7 @@
         <mark key="." line="58" column="25" />
         <mark key="^" line="57" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1473928534237">
+      <file name="/Dummy.txt" timestamp="1473958110932">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/views/user/signup_adults/extra_form.php" timestamp="1472168488773">
@@ -803,6 +803,13 @@
         <mark key="]" line="11" column="23" />
         <mark key="." line="11" column="23" />
         <mark key="^" line="11" column="23" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-complete.ctrl.js" timestamp="1473958087640">
+        <mark key="'" line="111" column="69" />
+        <mark key="[" line="107" column="21" />
+        <mark key="]" line="108" column="80" />
+        <mark key="^" line="108" column="80" />
+        <mark key="." line="108" column="80" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/247nm/public/wp-content/themes/247nm/assets/less/main.less" timestamp="1473459141081">
         <mark key="'" line="3" column="10" />
@@ -857,7 +864,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="292" column="22" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/lessons-in-flawless-quiz.less" />
       <jump line="260" column="8" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/lessons-in-flawless-quiz.less" />
       <jump line="256" column="24" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/lessons-in-flawless-quiz.less" />
       <jump line="0" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/lessons-in-flawless-quiz.less" />
@@ -957,6 +963,7 @@
       <jump line="23" column="39" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/share-button.js" />
       <jump line="17" column="49" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/lessons-in-flawless-quiz.php" />
       <jump line="14" column="44" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/Gruntfile.js" />
+      <jump line="110" column="69" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-complete.ctrl.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2802,7 +2809,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>ca36ad0d7b30b9cc5066a484734b6428</text>
+        <text>706d92971550dc30ac7d56f553987899</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -2856,10 +2863,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>ca36ad0d7b30b9cc5066a484734b6428</text>
+        <text>706d92971550dc30ac7d56f553987899</text>
       </register>
       <register name="/" type="4">
-        <text>bind</text>
+        <text encoding="base64">XDxuZXh0TGVzc29uTnVtXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">JFRGTF9DT05GSUdbImZiU2VjcmV0Il0gPSAnY2EzNmFkMGQ3YjMwYjljYzUwNjZhNDg0NzM0YjY0MjgnOwo=</text>
@@ -2899,12 +2906,12 @@
       </register>
     </registers>
     <search>
-      <last-search>bind</last-search>
+      <last-search encoding="base64">XDxuZXh0TGVzc29uTnVtXD4=</last-search>
       <last-offset />
-      <last-pattern>bind</last-pattern>
+      <last-pattern encoding="base64">XDxuZXh0TGVzc29uTnVtXD4=</last-pattern>
       <last-replace>post(</last-replace>
       <last-substitute encoding="base64">XDx2YWxpZGF0ZUNvdXJzZUxlc3Nvblw+</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -3105,6 +3112,7 @@
         <entry encoding="base64">XDxiYXNlVXJsXD4=</entry>
         <entry>debugg</entry>
         <entry>bind</entry>
+        <entry encoding="base64">XDxuZXh0TGVzc29uTnVtXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>157</entry>
