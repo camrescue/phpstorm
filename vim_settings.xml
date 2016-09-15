@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Sites/Rescue/shared-environment/.gitignore" timestamp="1472594440253">
+        <mark key="[" line="13" column="15" />
+        <mark key="]" line="13" column="16" />
+        <mark key="^" line="13" column="16" />
+        <mark key="." line="13" column="16" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/survey-data-merge/ctp/fe/index.php" timestamp="1473353210914">
         <mark key="'" line="278" column="21" />
         <mark key="[" line="224" column="46" />
@@ -17,10 +23,34 @@
         <mark key="." line="61" column="17" />
         <mark key="^" line="61" column="17" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/247nm/local-config.php" timestamp="1473443121488">
+        <mark key="[" line="7" column="27" />
+        <mark key="]" line="7" column="30" />
+        <mark key="." line="7" column="30" />
+        <mark key="^" line="7" column="30" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/247nm/public/wp-content/themes/247nm/assets/js/custom.js" timestamp="1473830076076">
+        <mark key="[" line="267" column="0" />
+        <mark key="]" line="267" column="0" />
+        <mark key="^" line="272" column="37" />
+        <mark key="." line="267" column="0" />
+      </file>
       <file name="/a.dummy" timestamp="1473954620958">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/247nm/public/wp-content/themes/247nm/functions/data-manager/export-signage.php" timestamp="1473451044870">
+        <mark key="[" line="4" column="35" />
+        <mark key="]" line="6" column="12" />
+        <mark key="^" line="6" column="12" />
+        <mark key="." line="6" column="12" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/views/user/application/table.php" timestamp="1473791044285">
+        <mark key="[" line="61" column="52" />
+        <mark key="]" line="61" column="52" />
+        <mark key="." line="61" column="52" />
+        <mark key="^" line="61" column="52" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/createuser.sh" timestamp="1472439299931">
         <mark key="'" line="9" column="6" />
@@ -28,6 +58,12 @@
         <mark key="]" line="3" column="0" />
         <mark key="^" line="19" column="11" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/247nm-boilerplate/composer.json" timestamp="1472665010875">
+        <mark key="[" line="14" column="46" />
+        <mark key="]" line="14" column="45" />
+        <mark key="^" line="14" column="45" />
+        <mark key="." line="14" column="45" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/247nm/public/wp-content/themes/247nm/functions/my-helpers.php" timestamp="1473444495970">
         <mark key="'" line="28" column="10" />
@@ -41,6 +77,12 @@
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
         <mark key="." line="33" column="0" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/247nm/public/wp-content/themes/247nm/assets/files/nm-districts.js" timestamp="1473796519523">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="3" column="10" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/weightofthestateva.com/html/.gitignore" timestamp="1472233727005">
         <mark key="'" line="75" column="4" />
@@ -81,15 +123,42 @@
         <mark key="." line="56" column="3" />
         <mark key="^" line="56" column="3" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/247nm/production-config-sample.php" timestamp="1473459506276">
+        <mark key="[" line="11" column="19" />
+        <mark key="]" line="9" column="32" />
+        <mark key="." line="9" column="32" />
+        <mark key="^" line="9" column="32" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/surveys/resources/views/lgbtmn/splash.blade.php" timestamp="1473464227474" />
+      <file name="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/setup-user.sh" timestamp="1472681022267">
+        <mark key="[" line="14" column="17" />
+        <mark key="]" line="14" column="18" />
+        <mark key="." line="14" column="18" />
+        <mark key="^" line="14" column="18" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/utils.js" timestamp="1472671983810">
+        <mark key="[" line="24" column="5" />
+        <mark key="]" line="24" column="5" />
+        <mark key="^" line="24" column="5" />
+        <mark key="." line="24" column="5" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/surveys/resources/assets/lgbtmn/sass/style.scss" timestamp="1473462447593">
         <mark key="'" line="18" column="19" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/views/user/application/edit.php" timestamp="1473791387721">
+        <mark key="'" line="260" column="119" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/LessonsInFlawless.js" timestamp="1473919803154">
         <mark key="'" line="187" column="8" />
         <mark key="[" line="127" column="0" />
         <mark key="]" line="127" column="0" />
         <mark key="." line="127" column="0" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/shared-environment/scripts/shared-env-setup.sh" timestamp="1472455049108">
+        <mark key="[" line="11" column="29" />
+        <mark key="]" line="11" column="35" />
+        <mark key="." line="11" column="35" />
+        <mark key="^" line="11" column="35" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/surveys/resources/assets/sass/_survey.scss" timestamp="1473463429195" />
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/index.php" timestamp="1473914895056">
@@ -98,10 +167,46 @@
         <mark key="^" line="146" column="40" />
         <mark key="." line="147" column="19" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/247nm/custom-db-config.php" timestamp="1472602484150">
+        <mark key="[" line="6" column="23" />
+        <mark key="]" line="6" column="22" />
+        <mark key="^" line="6" column="22" />
+        <mark key="." line="6" column="22" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/247nm/public/nm-schools.json" timestamp="1473829884432">
+        <mark key="[" line="0" column="2026" />
+        <mark key="]" line="0" column="6680" />
+        <mark key="." line="0" column="6680" />
+        <mark key="^" line="0" column="6680" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/main.less" timestamp="1473630785840">
+        <mark key="[" line="108" column="29" />
+        <mark key="]" line="108" column="33" />
+        <mark key="." line="108" column="33" />
+        <mark key="^" line="108" column="33" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/add-user.sh" timestamp="1472442027660">
+        <mark key="[" line="13" column="7" />
+        <mark key="]" line="15" column="7" />
+        <mark key="." line="15" column="7" />
+        <mark key="^" line="15" column="7" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/247nm/public/wp-content/themes/247nm/assets/less/signage.less" timestamp="1473448042149">
+        <mark key="[" line="13" column="23" />
+        <mark key="]" line="13" column="27" />
+        <mark key="^" line="13" column="27" />
+        <mark key="." line="13" column="27" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/247nm/public/wp-content/themes/247nm/templates/blog.php" timestamp="1473043875024">
         <mark key="[" line="74" column="0" />
         <mark key="]" line="74" column="0" />
         <mark key="." line="74" column="0" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/build-env.sh" timestamp="1472444885200">
+        <mark key="[" line="30" column="2" />
+        <mark key="]" line="36" column="24" />
+        <mark key="^" line="36" column="24" />
+        <mark key="." line="36" column="24" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/surveys/resources/views/teenculture/splash.blade.php" timestamp="1473462995215" />
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/lessons-in-flawless-quiz-questions.js" timestamp="1473772231099">
@@ -110,6 +215,12 @@
         <mark key="]" line="151" column="35" />
         <mark key="^" line="151" column="35" />
         <mark key="." line="151" column="35" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/weightofthestateeva-composer/public/wp-config.php" timestamp="1472240846901">
+        <mark key="[" line="18" column="25" />
+        <mark key="]" line="18" column="25" />
+        <mark key="." line="18" column="25" />
+        <mark key="^" line="23" column="20" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/247nm/public/wp-content/themes/247nm/functions/enqueue-scripts.php" timestamp="1473788676230">
         <mark key="[" line="15" column="0" />
@@ -146,14 +257,68 @@
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/surveys/resources/views/survey.blade.php" timestamp="1473463236331">
+        <mark key="[" line="9" column="122" />
+        <mark key="]" line="10" column="95" />
+        <mark key="^" line="10" column="95" />
+        <mark key="." line="10" column="95" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/wordpress-composer/public/.htaccess" timestamp="1472659878440">
+        <mark key="[" line="1" column="17" />
+        <mark key="]" line="3" column="16" />
+        <mark key="^" line="3" column="16" />
+        <mark key="." line="3" column="16" />
+      </file>
+      <file name="$USER_HOME$/Documents/ServerBackup/backup/home/117164/domains/weightofthestateva.com/html/index.php" timestamp="1472196797335">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="15" column="29" />
+        <mark key="." line="15" column="29" />
+        <mark key="^" line="15" column="29" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/mixins.less" timestamp="1473912111749">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
         <mark key="^" line="30" column="65" />
         <mark key="." line="23" column="0" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/weightofthestateeva-composer/.gitignore" timestamp="1472240775881">
+        <mark key="[" line="23" column="10" />
+        <mark key="]" line="24" column="9" />
+        <mark key="^" line="24" column="9" />
+        <mark key="." line="24" column="9" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/views/user/signup/extra_form.php" timestamp="1472168480051">
+        <mark key="[" line="188" column="139" />
+        <mark key="]" line="188" column="146" />
+        <mark key="^" line="188" column="146" />
+        <mark key="." line="188" column="146" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/bootstrap/variables.less" timestamp="1473893477946" />
+      <file name="$USER_HOME$/Sites/Rescue/weightofthestateva/composer.json" timestamp="1473193631520">
+        <mark key="[" line="12" column="46" />
+        <mark key="]" line="12" column="46" />
+        <mark key="." line="12" column="46" />
+        <mark key="^" line="12" column="46" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/surveys/resources/views/lgbtculture/splash.blade.php" timestamp="1473464551903">
+        <mark key="[" line="36" column="16" />
+        <mark key="]" line="36" column="52" />
+        <mark key="." line="36" column="52" />
+        <mark key="^" line="36" column="52" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/facebook-app.js" timestamp="1473894079160" />
+      <file name="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/add-ssh.sh" timestamp="1472454235775">
+        <mark key="[" line="6" column="16" />
+        <mark key="]" line="6" column="16" />
+        <mark key="^" line="5" column="8" />
+        <mark key="." line="6" column="16" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/weightofthestateeva-composer/public/.htaccess" timestamp="1472240572500">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="7" column="36" />
+        <mark key="." line="7" column="36" />
+        <mark key="^" line="7" column="36" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" timestamp="1473928221566">
         <mark key="'" line="142" column="24" />
       </file>
@@ -164,26 +329,62 @@
         <mark key="^" line="223" column="43" />
         <mark key="." line="223" column="43" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/setup-root.sh" timestamp="1472449895919">
+        <mark key="[" line="12" column="30" />
+        <mark key="]" line="12" column="33" />
+        <mark key="^" line="12" column="33" />
+        <mark key="." line="12" column="33" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/controllers/groups.php" timestamp="1473791518521">
         <mark key="[" line="139" column="0" />
         <mark key="]" line="139" column="0" />
         <mark key="." line="139" column="0" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/setup-ssh.sh" timestamp="1472439847371">
+        <mark key="[" line="2" column="26" />
+        <mark key="]" line="2" column="28" />
+        <mark key="^" line="2" column="28" />
+        <mark key="." line="2" column="28" />
+      </file>
+      <file name="$USER_HOME$/Documents/ServerBackup/backup/home/117164/domains/weightofthestateva.com/html/wp-config.local.php" timestamp="1472191181330">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="4" />
+        <mark key="^" line="13" column="31" />
+        <mark key="." line="2" column="4" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/247nm-boilerplate/public/wp-content/themes/247nm/templates/homepage.php" timestamp="1472603627725">
         <mark key="[" line="111" column="0" />
         <mark key="]" line="111" column="0" />
         <mark key="." line="111" column="0" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/wordpress-composer/public/wp-config.php" timestamp="1472788139607">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="^" line="23" column="46" />
+        <mark key="." line="37" column="0" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/lessons-in-flawless-intro.php" timestamp="1473875373219">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/shared-environment/scripts/setup-root.sh" timestamp="1472455061012">
+        <mark key="[" line="20" column="13" />
+        <mark key="]" line="20" column="19" />
+        <mark key="^" line="20" column="19" />
+        <mark key="." line="20" column="19" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/247nm/public/wp-content/themes/247nm/Gruntfile.js" timestamp="1473796553634">
         <mark key="'" line="38" column="26" />
         <mark key="[" line="101" column="0" />
         <mark key="]" line="101" column="0" />
         <mark key="." line="101" column="0" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/setup-git.sh" timestamp="1472450590406">
+        <mark key="[" line="30" column="4" />
+        <mark key="]" line="30" column="10" />
+        <mark key="^" line="30" column="10" />
+        <mark key="." line="30" column="10" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/247nm-boilerplate/public/wp-config.php" timestamp="1472788116223">
         <mark key="[" line="37" column="0" />
@@ -197,18 +398,90 @@
         <mark key="." line="10" column="39" />
         <mark key="^" line="10" column="39" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/web-permission-reset.sh" timestamp="1472681025501">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="18" />
+        <mark key="." line="0" column="18" />
+        <mark key="^" line="0" column="18" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/weightofthestateeva-composer/public/wp-content/themes/Weight-of-the-State/functions.php" timestamp="1472237095023">
+        <mark key="[" line="2" column="21" />
+        <mark key="]" line="2" column="62" />
+        <mark key="." line="2" column="62" />
+        <mark key="^" line="2" column="62" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/247nm/public/wp-content/themes/247nm/functions/data-manager/submit-spirit.php" timestamp="1473451077103">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="4" column="34" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/ServerBackup/backup/home/117164/domains/weightofthestateva.com/html/twitter-api/config.php" timestamp="1472199634858">
+        <mark key="[" line="11" column="29" />
+        <mark key="]" line="11" column="73" />
+        <mark key="." line="11" column="73" />
+        <mark key="^" line="11" column="73" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/flawless.less" timestamp="1473540075872">
+        <mark key="'" line="15" column="2" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/weightofthestateva/public/.htaccess" timestamp="1472604781155">
+        <mark key="[" line="15" column="20" />
+        <mark key="]" line="15" column="26" />
+        <mark key="^" line="15" column="26" />
+        <mark key="." line="15" column="26" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/247nm/composer.lock" timestamp="1473459681728">
+        <mark key="'" line="323" column="9" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/wordpress-composer/.gitignore" timestamp="1472240856752">
+        <mark key="[" line="22" column="10" />
+        <mark key="]" line="23" column="9" />
+        <mark key="." line="23" column="9" />
+        <mark key="^" line="23" column="9" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/lessons-in-flawless-intro.less" timestamp="1473897790887">
         <mark key="'" line="8" column="0" />
         <mark key="[" line="45" column="0" />
         <mark key="]" line="45" column="0" />
         <mark key="." line="45" column="0" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/wordpress-composer/public/index.php" timestamp="1472230957214">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="3" column="34" />
+        <mark key="^" line="3" column="34" />
+        <mark key="." line="3" column="34" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/weightofthestateeva-composer/public/twitter-api/config.sample.php" timestamp="1472237842537">
+        <mark key="[" line="6" column="36" />
+        <mark key="]" line="6" column="40" />
+        <mark key="^" line="6" column="40" />
+        <mark key="." line="6" column="40" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/247nm-boilerplate/public/wp-content/themes/247nm/functions.php" timestamp="1472821927873">
+        <mark key="[" line="39" column="0" />
+        <mark key="]" line="39" column="0" />
+        <mark key="^" line="23" column="29" />
+        <mark key="." line="39" column="0" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/partials/tfl-button.php" timestamp="1473630113066" />
+      <file name="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/drupal-deploy.sh" timestamp="1472438261599">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="18" />
+        <mark key="." line="0" column="18" />
+        <mark key="^" line="0" column="18" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-landing.ctrl.js" timestamp="1473918623645">
         <mark key="'" line="61" column="31" />
         <mark key="[" line="15" column="0" />
         <mark key="]" line="15" column="0" />
         <mark key="." line="15" column="0" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/.jshintrc" timestamp="1472670393360">
+        <mark key="[" line="39" column="15" />
+        <mark key="]" line="39" column="19" />
+        <mark key="." line="39" column="19" />
+        <mark key="^" line="39" column="19" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/emoji-splash.js" timestamp="1473714897355">
         <mark key="'" line="77" column="20" />
@@ -224,6 +497,12 @@
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/lessons-in-flawless-complete.js" timestamp="1473870905210">
+        <mark key="[" line="1" column="79" />
+        <mark key="]" line="1" column="90" />
+        <mark key="." line="1" column="90" />
+        <mark key="^" line="1" column="90" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/weightofthestateva/public/wp-content/themes/Weight-of-the-State/functions.php" timestamp="1472504718168">
         <mark key="[" line="4" column="0" />
@@ -243,8 +522,17 @@
         <mark key="." line="44" column="52" />
         <mark key="^" line="11" column="32" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/247nm/public/wp-content/themes/247nm/assets/files/nm-schools.json" timestamp="1473797211449">
+        <mark key="'" line="0" column="4710" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/drupal_translators/EmojiChallengeTranslator.js" timestamp="1473919906741">
         <mark key="'" line="155" column="40" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/247nm/public/wp-content/themes/247nm/functions/data-manager/export-spirit.php" timestamp="1473451048918">
+        <mark key="[" line="4" column="35" />
+        <mark key="]" line="6" column="12" />
+        <mark key="^" line="6" column="12" />
+        <mark key="." line="6" column="12" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/lessons-in-flawless-landing.less" timestamp="1473923539156">
         <mark key="[" line="1" column="0" />
@@ -270,6 +558,12 @@
         <mark key="]" line="310" column="0" />
         <mark key="." line="310" column="0" />
         <mark key="^" line="305" column="10" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/247nm-boilerplate/public/wp-content/themes/247nm/functions/my-helpers.php" timestamp="1472791004065">
+        <mark key="[" line="15" column="19" />
+        <mark key="]" line="16" column="8" />
+        <mark key="^" line="16" column="8" />
+        <mark key="." line="16" column="8" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/lessons-in-flawless.less" timestamp="1473917512484">
         <mark key="'" line="209" column="22" />
@@ -304,6 +598,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/partials/event-list-item.php" timestamp="1472673240794">
+        <mark key="[" line="3" column="114" />
+        <mark key="]" line="3" column="116" />
+        <mark key="^" line="3" column="116" />
+        <mark key="." line="3" column="116" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/drupal_translators/LessonsInFlawlessTranslator.js" timestamp="1473926433076" />
       <file name="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/project_instance_repo.php" timestamp="1473790997553">
         <mark key="'" line="149" column="0" />
@@ -325,6 +625,18 @@
         <mark key="." line="28" column="15" />
         <mark key="^" line="28" column="15" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/247nm/composer.json" timestamp="1473441048672">
+        <mark key="[" line="17" column="37" />
+        <mark key="]" line="17" column="37" />
+        <mark key="." line="17" column="37" />
+        <mark key="^" line="17" column="37" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/providers/FacebookApp.js" timestamp="1472062317908">
+        <mark key="[" line="85" column="9" />
+        <mark key="]" line="85" column="9" />
+        <mark key="." line="85" column="9" />
+        <mark key="^" line="85" column="9" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/add-shared-dir.sh" timestamp="1472446329172">
         <mark key="'" line="4" column="29" />
         <mark key="[" line="24" column="0" />
@@ -335,6 +647,39 @@
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/variables.less" timestamp="1473914132418">
         <mark key="'" line="162" column="1" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/Gruntfile.js" timestamp="1473955577123">
+        <mark key="'" line="14" column="44" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/config/config.php" timestamp="1473955812480">
+        <mark key="[" line="48" column="27" />
+        <mark key="]" line="48" column="58" />
+        <mark key="." line="48" column="58" />
+        <mark key="^" line="48" column="58" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/lessons-quiz-answers.js" timestamp="1471668909371">
+        <mark key="[" line="3" column="38" />
+        <mark key="]" line="3" column="34" />
+        <mark key="." line="3" column="34" />
+        <mark key="^" line="3" column="34" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/weightofthestateva/local-config-sample.php" timestamp="1473193861062">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+        <mark key="^" line="8" column="22" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/247nm/public/wp-content/themes/247nm/functions/data-manager/submit-toolkit.php" timestamp="1473451038510">
+        <mark key="[" line="4" column="35" />
+        <mark key="]" line="6" column="12" />
+        <mark key="." line="6" column="12" />
+        <mark key="^" line="6" column="12" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/Http/Controllers/Api.php" timestamp="1473443760198">
+        <mark key="[" line="1390" column="32" />
+        <mark key="]" line="1390" column="31" />
+        <mark key="." line="1390" column="31" />
+        <mark key="^" line="1390" column="31" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/Variables.php" timestamp="1472790257181">
         <mark key="'" line="640" column="27" />
         <mark key="[" line="694" column="0" />
@@ -342,12 +687,36 @@
         <mark key="^" line="695" column="21" />
         <mark key="." line="695" column="21" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/247nm-boilerplate/local-config.php" timestamp="1472661958654">
+        <mark key="[" line="11" column="53" />
+        <mark key="]" line="11" column="59" />
+        <mark key="." line="11" column="59" />
+        <mark key="^" line="11" column="59" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/shared-environment/scripts/python/clone-site.py" timestamp="1472696092647">
         <mark key="'" line="169" column="37" />
         <mark key="[" line="158" column="33" />
         <mark key="]" line="158" column="37" />
         <mark key="^" line="158" column="37" />
         <mark key="." line="158" column="37" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/wordpress-composer/local-config-sample.php" timestamp="1472661866321">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="7" column="64" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/247nm/public/wp-content/themes/247nm/assets/less/contact.less" timestamp="1473459121045">
+        <mark key="[" line="2" column="4" />
+        <mark key="]" line="2" column="10" />
+        <mark key="." line="2" column="10" />
+        <mark key="^" line="2" column="10" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/views/project/includes/instance_item.php" timestamp="1473790276574">
+        <mark key="[" line="0" column="46" />
+        <mark key="]" line="0" column="17" />
+        <mark key="^" line="0" column="17" />
+        <mark key="." line="0" column="17" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/247nm/public/wp-content/themes/247nm/assets/files/nm-districts.csv" timestamp="1473796369015" />
       <file name="$USER_HOME$/Sites/Rescue/shared-environment/scripts/ubuntu-setup.sh.sample" timestamp="1473460395710">
@@ -357,11 +726,41 @@
         <mark key="." line="46" column="84" />
         <mark key="^" line="46" column="83" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/root.ctrl.js" timestamp="1473895869663">
+        <mark key="[" line="223" column="0" />
+        <mark key="]" line="223" column="0" />
+        <mark key="." line="223" column="0" />
+        <mark key="^" line="242" column="10" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/247nm/public/wp-content/themes/247nm/assets/files/states.json" timestamp="1473792463933">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="51" column="0" />
+        <mark key="^" line="51" column="0" />
+        <mark key="." line="51" column="0" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/lessons-in-flawless-landing.php" timestamp="1473891651947">
         <mark key="[" line="23" column="187" />
         <mark key="]" line="23" column="195" />
         <mark key="." line="23" column="195" />
         <mark key="^" line="23" column="195" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/.htaccess" timestamp="1472675870650">
+        <mark key="[" line="1" column="14" />
+        <mark key="]" line="1" column="16" />
+        <mark key="." line="1" column="16" />
+        <mark key="^" line="1" column="16" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/weightofthestateva/local-config.php" timestamp="1473193724394">
+        <mark key="[" line="10" column="19" />
+        <mark key="]" line="10" column="23" />
+        <mark key="." line="10" column="23" />
+        <mark key="^" line="10" column="23" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/247nm/public/wp-content/plugins/wp-ses/wp-ses.php" timestamp="1473452341967">
+        <mark key="[" line="136" column="61" />
+        <mark key="]" line="136" column="63" />
+        <mark key="." line="136" column="63" />
+        <mark key="^" line="136" column="63" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/surveys/resources/assets/lgbt/sass/_splash.scss" timestamp="1473464408470">
         <mark key="'" line="18" column="10" />
@@ -373,12 +772,24 @@
       <file name="/Dummy.txt" timestamp="1473928534237">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/views/user/signup_adults/extra_form.php" timestamp="1472168488773">
+        <mark key="[" line="131" column="10" />
+        <mark key="]" line="140" column="9" />
+        <mark key="^" line="140" column="9" />
+        <mark key="." line="140" column="9" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/247nm-boilerplate/public/wp-content/themes/247nm/functions/data-manager/submit-contact.php" timestamp="1472869999139">
         <mark key="'" line="15" column="37" />
         <mark key="[" line="16" column="53" />
         <mark key="]" line="16" column="54" />
         <mark key="." line="16" column="54" />
         <mark key="^" line="11" column="19" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/shared-environment/scripts/setup-git.sh" timestamp="1472455083285">
+        <mark key="[" line="25" column="13" />
+        <mark key="]" line="25" column="19" />
+        <mark key="^" line="25" column="19" />
+        <mark key="." line="25" column="19" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/addssh.sh" timestamp="1472440366047">
         <mark key="'" line="9" column="25" />
@@ -387,12 +798,11 @@
         <mark key="^" line="13" column="9" />
         <mark key="." line="13" column="9" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-complete.ctrl.js" timestamp="1473928358930">
-        <mark key="'" line="4" column="8" />
-        <mark key="[" line="76" column="27" />
-        <mark key="]" line="76" column="35" />
-        <mark key="^" line="76" column="35" />
-        <mark key="." line="76" column="35" />
+      <file name="$USER_HOME$/Sites/Rescue/wordpress-composer/production-config-sample.php" timestamp="1472684099945">
+        <mark key="[" line="11" column="19" />
+        <mark key="]" line="11" column="23" />
+        <mark key="." line="11" column="23" />
+        <mark key="^" line="11" column="23" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/247nm/public/wp-content/themes/247nm/assets/less/main.less" timestamp="1473459141081">
         <mark key="'" line="3" column="10" />
@@ -422,6 +832,12 @@
         <mark key="^" line="145" column="19" />
         <mark key="." line="146" column="13" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/247nm-boilerplate/public/wp-content/themes/247nm/functions/common-utils.php" timestamp="1472790699111">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="^" line="3" column="11" />
+        <mark key="." line="11" column="0" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/247nm/public/wp-content/themes/247nm/functions/data-manager/export-toolkit.php" timestamp="1473450715209">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -433,9 +849,14 @@
         <mark key="^" line="36" column="51" />
         <mark key="." line="36" column="51" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/weightofthestateeva-composer/local-config.php" timestamp="1472237257846">
+        <mark key="[" line="31" column="89" />
+        <mark key="]" line="33" column="24" />
+        <mark key="." line="33" column="24" />
+        <mark key="^" line="33" column="24" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="261" column="24" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/lessons-in-flawless-quiz.less" />
       <jump line="292" column="22" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/lessons-in-flawless-quiz.less" />
       <jump line="260" column="8" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/lessons-in-flawless-quiz.less" />
       <jump line="256" column="24" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/lessons-in-flawless-quiz.less" />
@@ -535,6 +956,7 @@
       <jump line="4" column="8" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-complete.ctrl.js" />
       <jump line="23" column="39" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/share-button.js" />
       <jump line="17" column="49" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/lessons-in-flawless-quiz.php" />
+      <jump line="14" column="44" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/Gruntfile.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2379,8 +2801,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
+      <register name="&quot;" type="4">
+        <text>ca36ad0d7b30b9cc5066a484734b6428</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -2434,25 +2856,25 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>lessonsInFlawless.getIntroPath();</text>
+        <text>ca36ad0d7b30b9cc5066a484734b6428</text>
       </register>
       <register name="/" type="4">
         <text>bind</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAjdGZsTGVzc29uc1Byc2VudGVkQnkgewo=</text>
+        <text encoding="base64">JFRGTF9DT05GSUdbImZiU2VjcmV0Il0gPSAnY2EzNmFkMGQ3YjMwYjljYzUwNjZhNDg0NzM0YjY0MjgnOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">JzsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0dW1ibHJTaGFyZU9wdHMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codHVtYmxyU2hhcmVPcHRzKTsK</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0dW1ibHJTaGFyZU9wdHMpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codHVtYmxyU2hhcmVPcHRzKTsK</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
@@ -2464,13 +2886,13 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoJHNjb3BlLm1ldGEudHVtYmxyX2Rlc2NyaXB0aW9uKSB7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoJHNjb3BlLm1ldGEudHVtYmxyX2Rlc2NyaXB0aW9uKSB7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
