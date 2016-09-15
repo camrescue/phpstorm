@@ -503,12 +503,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/share-button.js" timestamp="1473959985749">
-        <mark key="'" line="0" column="66" />
-        <mark key="[" line="33" column="0" />
-        <mark key="]" line="35" column="19" />
-        <mark key="." line="33" column="0" />
-        <mark key="^" line="33" column="18" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/share-button.js" timestamp="1473960919978">
+        <mark key="'" line="40" column="21" />
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
+        <mark key="^" line="41" column="24" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/buildEnv.sh" timestamp="1472444892545">
         <mark key="'" line="85" column="0" />
@@ -590,12 +590,12 @@
         <mark key="." line="17" column="37" />
         <mark key="^" line="17" column="37" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/providers/FacebookApp.js" timestamp="1473959781350">
-        <mark key="'" line="32" column="41" />
-        <mark key="[" line="68" column="52" />
-        <mark key="]" line="69" column="28" />
-        <mark key="." line="69" column="28" />
-        <mark key="^" line="69" column="28" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/providers/FacebookApp.js" timestamp="1473961088376">
+        <mark key="'" line="49" column="12" />
+        <mark key="[" line="30" column="38" />
+        <mark key="]" line="31" column="28" />
+        <mark key="." line="31" column="28" />
+        <mark key="^" line="31" column="28" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/add-shared-dir.sh" timestamp="1472446329172">
         <mark key="'" line="4" column="29" />
@@ -812,10 +812,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="16" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/lessons-in-flawless-complete.less" />
-      <jump line="151" column="9" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/lessons-in-flawless-complete.less" />
-      <jump line="156" column="13" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/lessons-in-flawless-complete.less" />
-      <jump line="178" column="13" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/lessons-in-flawless-complete.less" />
       <jump line="235" column="13" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/lessons-in-flawless-complete.less" />
       <jump line="276" column="40" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/lessons-in-flawless-complete.less" />
       <jump line="220" column="28" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/lessons-in-flawless-complete.less" />
@@ -849,7 +845,6 @@
       <jump line="30" column="21" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/share-button.js" />
       <jump line="13" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/share-button.js" />
       <jump line="22" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
-      <jump line="49" column="20" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/share-button.js" />
       <jump line="75" column="16" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/share-button.js" />
       <jump line="68" column="13" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-complete.ctrl.js" />
       <jump line="54" column="12" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-complete.ctrl.js" />
@@ -912,6 +907,11 @@
       <jump line="27" column="16" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/providers/FacebookApp.js" />
       <jump line="22" column="12" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/providers/FacebookApp.js" />
       <jump line="32" column="41" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/providers/FacebookApp.js" />
+      <jump line="36" column="19" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/share-button.js" />
+      <jump line="49" column="21" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/share-button.js" />
+      <jump line="68" column="27" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/share-button.js" />
+      <jump line="40" column="21" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/share-button.js" />
+      <jump line="49" column="12" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/providers/FacebookApp.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2757,7 +2757,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEZCLmdldExvZ2luU3RhdHVzKGZ1bmN0aW9uIChyZXNwb25zZSkgewogICAgICAgICAgICAgICAgICAgIHN0YXR1c0NoYW5nZUNhbGxiYWNrKHJlc3BvbnNlKTsKICAgICAgICAgICAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -2811,55 +2811,55 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>706d92971550dc30ac7d56f553987899</text>
+        <text />
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmYlJlYWR5XD4=</text>
+        <text encoding="base64">XDxmZXRjaFRva2VuXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">JFRGTF9DT05GSUdbImZiU2VjcmV0Il0gPSAnY2EzNmFkMGQ3YjMwYjljYzUwNjZhNDg0NzM0YjY0MjgnOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEZCLmdldExvZ2luU3RhdHVzKGZ1bmN0aW9uIChyZXNwb25zZSkgewogICAgICAgICAgICAgICAgICAgIHN0YXR1c0NoYW5nZUNhbGxiYWNrKHJlc3BvbnNlKTsKICAgICAgICAgICAgICAgIH0pOwo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">JzsK</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBmYWxzZTsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0dW1ibHJTaGFyZU9wdHMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29uc29sZS5sb2codHVtYmxyU2hhcmVPcHRzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEZCLmdldExvZ2luU3RhdHVzKGZ1bmN0aW9uIChyZXNwb25zZSkgewogICAgICAgICAgICAgICAgICAgIHN0YXR1c0NoYW5nZUNhbGxiYWNrKHJlc3BvbnNlKTsKICAgICAgICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">JzsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0dW1ibHJTaGFyZU9wdHMpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmYlJlYWR5XD4=</last-search>
+      <last-search encoding="base64">XDxmZXRjaFRva2VuXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmYlJlYWR5XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxmZXRjaFRva2VuXD4=</last-pattern>
       <last-replace>post(</last-replace>
       <last-substitute encoding="base64">XDx2YWxpZGF0ZUNvdXJzZUxlc3Nvblw+</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -3066,6 +3066,9 @@
         <entry encoding="base64">XDxpbml0aWFsaXplZFw+</entry>
         <entry encoding="base64">XDxmYlJlYWR5RGVmZXJyZWRcPg==</entry>
         <entry encoding="base64">XDxmYlJlYWR5XD4=</entry>
+        <entry encoding="base64">XDxzaGFyZUZhY2Vib29rXD4=</entry>
+        <entry encoding="base64">XDxmYWNlYm9va1Jlc3BvbnNlXD4=</entry>
+        <entry encoding="base64">XDxmZXRjaFRva2VuXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>157</entry>
