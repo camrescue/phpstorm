@@ -503,11 +503,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/share-button.js" timestamp="1473960919978">
-        <mark key="'" line="40" column="21" />
-        <mark key="[" line="37" column="0" />
-        <mark key="]" line="37" column="0" />
-        <mark key="." line="37" column="0" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/share-button.js" timestamp="1473962001800">
+        <mark key="'" line="40" column="42" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
         <mark key="^" line="41" column="24" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/buildEnv.sh" timestamp="1472444892545">
@@ -590,11 +590,11 @@
         <mark key="." line="17" column="37" />
         <mark key="^" line="17" column="37" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/providers/FacebookApp.js" timestamp="1473961088376">
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/providers/FacebookApp.js" timestamp="1473961990733">
         <mark key="'" line="49" column="12" />
-        <mark key="[" line="30" column="38" />
-        <mark key="]" line="31" column="28" />
-        <mark key="." line="31" column="28" />
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="0" />
+        <mark key="." line="69" column="0" />
         <mark key="^" line="31" column="28" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/add-shared-dir.sh" timestamp="1472446329172">
@@ -910,8 +910,8 @@
       <jump line="36" column="19" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/share-button.js" />
       <jump line="49" column="21" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/share-button.js" />
       <jump line="68" column="27" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/share-button.js" />
-      <jump line="40" column="21" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/share-button.js" />
       <jump line="49" column="12" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/providers/FacebookApp.js" />
+      <jump line="40" column="42" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/share-button.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2814,7 +2814,7 @@
         <text />
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmZXRjaFRva2VuXD4=</text>
+        <text>debugg</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">JFRGTF9DT05GSUdbImZiU2VjcmV0Il0gPSAnY2EzNmFkMGQ3YjMwYjljYzUwNjZhNDg0NzM0YjY0MjgnOwo=</text>
@@ -2823,43 +2823,43 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBmYWxzZTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBmYWxzZTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEZCLmdldExvZ2luU3RhdHVzKGZ1bmN0aW9uIChyZXNwb25zZSkgewogICAgICAgICAgICAgICAgICAgIHN0YXR1c0NoYW5nZUNhbGxiYWNrKHJlc3BvbnNlKTsKICAgICAgICAgICAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">JzsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEZCLmdldExvZ2luU3RhdHVzKGZ1bmN0aW9uIChyZXNwb25zZSkgewogICAgICAgICAgICAgICAgICAgIHN0YXR1c0NoYW5nZUNhbGxiYWNrKHJlc3BvbnNlKTsKICAgICAgICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBjb25zb2xlLmxvZyh0dW1ibHJTaGFyZU9wdHMpOwo=</text>
+        <text encoding="base64">JzsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmZXRjaFRva2VuXD4=</last-search>
+      <last-search>debugg</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmZXRjaFRva2VuXD4=</last-pattern>
+      <last-pattern>debugg</last-pattern>
       <last-replace>post(</last-replace>
       <last-substitute encoding="base64">XDx2YWxpZGF0ZUNvdXJzZUxlc3Nvblw+</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -3058,7 +3058,6 @@
         <entry encoding="base64">XDxzZXRDYWNoZVw+</entry>
         <entry>share</entry>
         <entry encoding="base64">XDxiYXNlVXJsXD4=</entry>
-        <entry>debugg</entry>
         <entry>bind</entry>
         <entry encoding="base64">XDxuZXh0TGVzc29uTnVtXD4=</entry>
         <entry encoding="base64">XDxpbml0T3B0c1w+</entry>
@@ -3069,6 +3068,7 @@
         <entry encoding="base64">XDxzaGFyZUZhY2Vib29rXD4=</entry>
         <entry encoding="base64">XDxmYWNlYm9va1Jlc3BvbnNlXD4=</entry>
         <entry encoding="base64">XDxmZXRjaFRva2VuXD4=</entry>
+        <entry>debugg</entry>
       </history-search>
       <history-cmd>
         <entry>157</entry>
