@@ -299,11 +299,11 @@
         <mark key="." line="12" column="46" />
         <mark key="^" line="12" column="46" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/surveys/resources/views/lgbtculture/splash.blade.php" timestamp="1473464551903">
-        <mark key="[" line="36" column="16" />
-        <mark key="]" line="36" column="52" />
-        <mark key="." line="36" column="52" />
-        <mark key="^" line="36" column="52" />
+      <file name="$USER_HOME$/Sites/Rescue/surveys/resources/views/lgbtculture/splash.blade.php" timestamp="1474043250910">
+        <mark key="[" line="10" column="36" />
+        <mark key="]" line="10" column="37" />
+        <mark key="." line="10" column="37" />
+        <mark key="^" line="10" column="37" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/add-ssh.sh" timestamp="1472454235775">
         <mark key="[" line="6" column="16" />
@@ -511,6 +511,7 @@
       <file name="$USER_HOME$/Sites/Rescue/helix/application/controllers/users.php" timestamp="1473976147177">
         <mark key="'" line="977" column="32" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/surveys/resources/views/lgbtculture/splash-orig.blade.php" timestamp="1474042841396" />
       <file name="$USER_HOME$/Sites/Rescue/247nm/public/wp-content/themes/247nm/templates/contact.php" timestamp="1473459171428">
         <mark key="'" line="3" column="16" />
         <mark key="[" line="44" column="51" />
@@ -609,8 +610,8 @@
         <mark key="." line="148" column="68" />
         <mark key="^" line="148" column="68" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/surveys/app/Libraries/Survey.php" timestamp="1473460793421">
-        <mark key="'" line="18" column="10" />
+      <file name="$USER_HOME$/Sites/Rescue/surveys/app/Libraries/Survey.php" timestamp="1474042583247">
+        <mark key="'" line="12" column="10" />
         <mark key="[" line="58" column="31" />
         <mark key="]" line="58" column="34" />
         <mark key="." line="58" column="34" />
@@ -774,6 +775,9 @@
       <file name="/Dummy.txt" timestamp="1473985876058">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/surveys/app/Http/routes.php" timestamp="1474042541905">
+        <mark key="'" line="28" column="19" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/views/user/signup_adults/extra_form.php" timestamp="1472168488773">
         <mark key="[" line="131" column="10" />
         <mark key="]" line="140" column="9" />
@@ -871,8 +875,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="113" column="26" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-quiz.ctrl.js" />
-      <jump line="143" column="8" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-quiz.ctrl.js" />
       <jump line="105" column="13" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-quiz.ctrl.js" />
       <jump line="171" column="46" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/drupal_translators/LessonsInFlawlessTranslator.js" />
       <jump line="108" column="57" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/drupal_translators/LessonsInFlawlessTranslator.js" />
@@ -971,6 +973,8 @@
       <jump line="66" column="27" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/share-button.js" />
       <jump line="40" column="16" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/share-button.js" />
       <jump line="58" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/share-button.js" />
+      <jump line="28" column="19" filename="$USER_HOME$/Sites/Rescue/surveys/app/Http/routes.php" />
+      <jump line="12" column="10" filename="$USER_HOME$/Sites/Rescue/surveys/app/Libraries/Survey.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2816,7 +2820,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>http://r.ddmcdn.com/s_f/o_1/cx_633/cy_0/cw_1725/ch_1725/w_720/APL/uploads/2014/11/too-cute-doggone-it-video-playlist.jpg</text>
+        <text>.</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -2870,52 +2874,54 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>http://r.ddmcdn.com/s_f/o_1/cx_633/cy_0/cw_1725/ch_1725/w_720/APL/uploads/2014/11/too-cute-doggone-it-video-playlist.jpg</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkZWJ1Z2dlclw+</text>
+        <text encoding="base64">XDxMR0JUX09OTElORVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEZ1bGxQYWdlLmNyZWF0ZShlbGVtKTsK</text>
+        <text encoding="base64">ICAgICAgICA8bGk+CiAgICAgICAgICAgIDxzcGFuPkFuc3dlciBhIGZldyBxdWVzdGlvbnMgdG8gc2VlIGlmIHlvdSBxdWFsaWZ5IGZvciB0aGUgZnVsbCBzdXJ2ZXkuPC9zcGFuPgogICAgICAgIDwvbGk+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
+      <register name="2" type="4">
+        <text>.body {
+        background-color: transparent;
+    }</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkc2NvcGUuc2hhcmUuZmFjZWJvb2subWV0aG9kID0gJ2ZlZWQnOwo=</text>
+        <text encoding="base64">ICAgIDwvc3R5bGU+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">ICAgIDxzdHJ5bDwvc3RyeWw+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICAgICAgY29uc29sZS5sb2coJ2Fuc3dlcicsICRzY29wZS5hbnN3ZXIpCg==</text>
+        <text encoding="base64">ICAgIDxib2R5PjwvYm9keT4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAkc2NvcGUuc2hhcmUuZmFjZWJvb2subWV0aG9kID0gJ2ZlZWQnOwo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZWJ1Z2dlcjsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkZWJ1Z2dlclw+</last-search>
+      <last-search encoding="base64">XDxMR0JUX09OTElORVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkZWJ1Z2dlclw+</last-pattern>
+      <last-pattern encoding="base64">XDxMR0JUX09OTElORVw+</last-pattern>
       <last-replace>post(</last-replace>
       <last-substitute encoding="base64">XDx2YWxpZGF0ZUNvdXJzZUxlc3Nvblw+</last-substitute>
       <last-dir>1</last-dir>
@@ -2946,6 +2952,8 @@
         <entry>debu</entry>
         <entry>debuu</entry>
         <entry encoding="base64">XDxkZWJ1Z2dlclw+</entry>
+        <entry encoding="base64">XDxMZ2J0Q3VsdHVyZUNvbnRyb2xsZXJcPg==</entry>
+        <entry encoding="base64">XDxMR0JUX09OTElORVw+</entry>
       </history-search>
       <history-cmd>
         <entry>Lw</entry>
