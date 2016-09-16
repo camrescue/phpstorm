@@ -299,11 +299,11 @@
         <mark key="." line="12" column="46" />
         <mark key="^" line="12" column="46" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/surveys/resources/views/lgbtculture/splash.blade.php" timestamp="1474043250910">
-        <mark key="[" line="10" column="36" />
-        <mark key="]" line="10" column="37" />
-        <mark key="." line="10" column="37" />
-        <mark key="^" line="10" column="37" />
+      <file name="$USER_HOME$/Sites/Rescue/surveys/resources/views/lgbtculture/splash.blade.php" timestamp="1474046240591">
+        <mark key="[" line="51" column="28" />
+        <mark key="]" line="51" column="29" />
+        <mark key="^" line="48" column="31" />
+        <mark key="." line="51" column="29" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/add-ssh.sh" timestamp="1472454235775">
         <mark key="[" line="6" column="16" />
@@ -428,6 +428,12 @@
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/flawless.less" timestamp="1473540075872">
         <mark key="'" line="15" column="2" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/surveys/app/Http/Controllers/LgbtCultureController.php" timestamp="1474046306375">
+        <mark key="[" line="48" column="9" />
+        <mark key="]" line="50" column="34" />
+        <mark key="^" line="50" column="34" />
+        <mark key="." line="50" column="34" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/weightofthestateva/public/.htaccess" timestamp="1472604781155">
         <mark key="[" line="15" column="20" />
@@ -772,7 +778,7 @@
         <mark key="." line="58" column="25" />
         <mark key="^" line="57" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1473985876058">
+      <file name="/Dummy.txt" timestamp="1474046329624">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/surveys/app/Http/routes.php" timestamp="1474042541905">
@@ -2819,8 +2825,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxpbmUtaGVpZ2h0OiAxOwo=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -2874,45 +2880,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>2, body.splash.generic h3 {</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxMR0JUX09OTElORVw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8bGk+CiAgICAgICAgICAgIDxzcGFuPkFuc3dlciBhIGZldyBxdWVzdGlvbnMgdG8gc2VlIGlmIHlvdSBxdWFsaWZ5IGZvciB0aGUgZnVsbCBzdXJ2ZXkuPC9zcGFuPgogICAgICAgIDwvbGk+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYm9keS5zcGxhc2guZ2VuZXJpYyBoMiwgYm9keS5zcGxhc2guZ2VuZXJpYyBoMyB7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxpbmUtaGVpZ2h0OiAxOwo=</text>
       </register>
-      <register name="2" type="4">
-        <text>.body {
-        background-color: transparent;
-    }</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxpbmUtaGVpZ2h0OiAxOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDwvc3R5bGU+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIDxzdHJ5bDwvc3RyeWw+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIDxib2R5PjwvYm9keT4K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1hcmdpbi10b3A6IDUwcHg7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgaDMgewo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAkc2NvcGUuc2hhcmUuZmFjZWJvb2subWV0aG9kID0gJ2ZlZWQnOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxpbmUtaGVpZ2h0OiAxLjQ7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
