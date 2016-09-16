@@ -317,8 +317,12 @@
         <mark key="." line="7" column="36" />
         <mark key="^" line="7" column="36" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" timestamp="1473928221566">
-        <mark key="'" line="142" column="24" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" timestamp="1474054662367">
+        <mark key="'" line="20" column="31" />
+        <mark key="[" line="97" column="67" />
+        <mark key="]" line="97" column="67" />
+        <mark key="." line="97" column="67" />
+        <mark key="^" line="97" column="67" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/lessons-in-flawless-complete.less" timestamp="1473917490700">
         <mark key="'" line="205" column="12" />
@@ -821,12 +825,12 @@
         <mark key="." line="11" column="23" />
         <mark key="^" line="11" column="23" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-complete.ctrl.js" timestamp="1474054087637">
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-complete.ctrl.js" timestamp="1474054505549">
         <mark key="'" line="114" column="8" />
-        <mark key="[" line="133" column="25" />
-        <mark key="]" line="133" column="28" />
+        <mark key="[" line="135" column="0" />
+        <mark key="]" line="135" column="0" />
         <mark key="^" line="133" column="28" />
-        <mark key="." line="133" column="28" />
+        <mark key="." line="135" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/247nm/public/wp-content/themes/247nm/assets/less/main.less" timestamp="1473459141081">
         <mark key="'" line="3" column="10" />
@@ -886,7 +890,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="4" column="8" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-complete.ctrl.js" />
       <jump line="23" column="39" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/share-button.js" />
       <jump line="17" column="49" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/lessons-in-flawless-quiz.php" />
       <jump line="14" column="44" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/Gruntfile.js" />
@@ -986,6 +989,7 @@
       <jump line="48" column="20" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/share-button.js" />
       <jump line="30" column="21" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/share-button.js" />
       <jump line="112" column="8" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-complete.ctrl.js" />
+      <jump line="20" column="31" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2831,7 +2835,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>caption</text>
+        <text>;</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -2885,55 +2889,55 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>caption</text>
+        <text>;</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmYWNlYm9va1NoYXJlXD4=</text>
+        <text>facebook</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZmFjZWJvb2tPcHRzLmNhcHRpb24gPSBmYWNlYm9va09wdHMuZGVzY3JpcHRpb247Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNvdXJjZTogaW1nLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHNjb3BlLnNoYXJlLmZhY2Vib29rID0ge307Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1ldGhvZDogJ2ZlZWQnLAogICAgICAgICAgICAgICAgcGljdHVyZTogaW1nLAo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhvcHRzKTsK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgfQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAkc2NvcGUuc2hhcmUuZmFjZWJvb2sgPSBmYWNlYm9va09wdHM7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNvdXJjZTogaW1nLAo=</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1ldGhvZDogJ2ZlZWQnLAogICAgICAgICAgICAgICAgcGljdHVyZTogaW1nLAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZnVuY3Rpb24gZmFjZWJvb2tTaGFyZShvcHRzKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhvcHRzKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmYWNlYm9va1NoYXJlKCRzY29wZS5zaGFyZS5mYWNlYm9vayk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEZCLnVpKG9wdHMsIGZhY2Vib29rUmVzcG9uc2UpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmYWNlYm9va1NoYXJlXD4=</last-search>
+      <last-search>facebook</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmYWNlYm9va1NoYXJlXD4=</last-pattern>
+      <last-pattern>facebook</last-pattern>
       <last-replace>post(</last-replace>
       <last-substitute encoding="base64">XDx2YWxpZGF0ZUNvdXJzZUxlc3Nvblw+</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -2969,6 +2973,7 @@
         <entry encoding="base64">XDxnZXRNb2JpbGVTaGFyZUltYWdlXD4=</entry>
         <entry encoding="base64">XDxmYWNlYm9va09wdHNcPg==</entry>
         <entry encoding="base64">XDxmYWNlYm9va1NoYXJlXD4=</entry>
+        <entry>facebook</entry>
       </history-search>
       <history-cmd>
         <entry>Lw</entry>
