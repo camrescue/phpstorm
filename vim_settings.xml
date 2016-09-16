@@ -545,7 +545,7 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/share-button.js" timestamp="1474052128860">
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/share-button.js" timestamp="1474053941529">
         <mark key="[" line="44" column="54" />
         <mark key="]" line="45" column="37" />
         <mark key="." line="45" column="37" />
@@ -821,12 +821,12 @@
         <mark key="." line="11" column="23" />
         <mark key="^" line="11" column="23" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-complete.ctrl.js" timestamp="1474052423982">
-        <mark key="'" line="113" column="8" />
-        <mark key="[" line="6" column="88" />
-        <mark key="]" line="6" column="89" />
-        <mark key="." line="6" column="89" />
-        <mark key="^" line="6" column="51" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-complete.ctrl.js" timestamp="1474054087637">
+        <mark key="'" line="114" column="8" />
+        <mark key="[" line="133" column="25" />
+        <mark key="]" line="133" column="28" />
+        <mark key="^" line="133" column="28" />
+        <mark key="." line="133" column="28" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/247nm/public/wp-content/themes/247nm/assets/less/main.less" timestamp="1473459141081">
         <mark key="'" line="3" column="10" />
@@ -2831,7 +2831,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>baseUrl</text>
+        <text>caption</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -2885,43 +2885,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>baseUrl</text>
+        <text>caption</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmYWNlYm9va1NoYXJlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBpbWFnZUJhc2VVcmwgPSBiYXNlVXJsICsgJy9pbWFnZXMvTGVzc29ucy1Jbi1GbGF3bGVzcy9Nb2JpbGUnLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmFjZWJvb2tPcHRzLmNhcHRpb24gPSBmYWNlYm9va09wdHMuZGVzY3JpcHRpb247Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNvdXJjZTogaW1nLAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1ldGhvZDogJ2ZlZWQnLAogICAgICAgICAgICAgICAgcGljdHVyZTogaW1nLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZnVuY3Rpb24gZmFjZWJvb2tTaGFyZShvcHRzKSB7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhvcHRzKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmYWNlYm9va1NoYXJlKCRzY29wZS5zaGFyZS5mYWNlYm9vayk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIEZCLnVpKG9wdHMsIGZhY2Vib29rUmVzcG9uc2UpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvbnNvbGUubG9nKG9wdHMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH07Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZnVuY3Rpb24gZmFjZWJvb2tTaGFyZShvcHRzKSB7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBkZXNjcmlwdGlvbjogZGVzY3JpcHRpb24K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBmYWNlYm9va1NoYXJlKCRzY29wZS5zaGFyZS5mYWNlYm9vayk7Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBsaW5rOiB1cmwsCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIEZCLnVpKG9wdHMsIGZhY2Vib29rUmVzcG9uc2UpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
