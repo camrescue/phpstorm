@@ -825,12 +825,12 @@
         <mark key="." line="11" column="23" />
         <mark key="^" line="11" column="23" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-complete.ctrl.js" timestamp="1474054505549">
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-complete.ctrl.js" timestamp="1474057333827">
         <mark key="'" line="114" column="8" />
-        <mark key="[" line="135" column="0" />
-        <mark key="]" line="135" column="0" />
-        <mark key="^" line="133" column="28" />
-        <mark key="." line="135" column="0" />
+        <mark key="[" line="130" column="70" />
+        <mark key="]" line="130" column="70" />
+        <mark key="^" line="130" column="70" />
+        <mark key="." line="130" column="70" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/247nm/public/wp-content/themes/247nm/assets/less/main.less" timestamp="1473459141081">
         <mark key="'" line="3" column="10" />
@@ -2835,7 +2835,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>;</text>
+        <text encoding="base64">ICsgJzxhIGhyZWY9Imdvb2dsZS5jb20iPmdvb2dsZTwvYT4nOw==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -2889,55 +2889,55 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text encoding="base64">ICsgJzxhIGhyZWY9Imdvb2dsZS5jb20iPmdvb2dsZTwvYT4nOw==</text>
       </register>
       <register name="/" type="4">
-        <text>facebook</text>
+        <text>:w</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgZmFjZWJvb2tPcHRzLmNhcHRpb24gPSBmYWNlYm9va09wdHMuZGVzY3JpcHRpb247Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHNjb3BlLnNoYXJlLmZhY2Vib29rID0ge307Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxpbms6IHNoYXJlVXJsCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNvdXJjZTogaW1nCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkc2NvcGUuc2hhcmUuZmFjZWJvb2sgPSBmYWNlYm9va09wdHM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGhyZWY6IHNoYXJlVXJsLAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJHNjb3BlLnNoYXJlLmZhY2Vib29rID0ge307Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHNvdXJjZTogaW1nLAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1ldGhvZDogJ2ZlZWQnLAogICAgICAgICAgICAgICAgcGljdHVyZTogaW1nLAo=</text>
+        <text encoding="base64">ICAgICAgICAkc2NvcGUuc2hhcmUuZmFjZWJvb2sgPSBmYWNlYm9va09wdHM7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhvcHRzKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHNvdXJjZTogaW1nLAo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG1ldGhvZDogJ2ZlZWQnLAogICAgICAgICAgICAgICAgcGljdHVyZTogaW1nLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>facebook</last-search>
+      <last-search>:w</last-search>
       <last-offset />
-      <last-pattern>facebook</last-pattern>
+      <last-pattern>:w</last-pattern>
       <last-replace>post(</last-replace>
       <last-substitute encoding="base64">XDx2YWxpZGF0ZUNvdXJzZUxlc3Nvblw+</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -2974,6 +2974,7 @@
         <entry encoding="base64">XDxmYWNlYm9va09wdHNcPg==</entry>
         <entry encoding="base64">XDxmYWNlYm9va1NoYXJlXD4=</entry>
         <entry>facebook</entry>
+        <entry>:w</entry>
       </history-search>
       <history-cmd>
         <entry>Lw</entry>
