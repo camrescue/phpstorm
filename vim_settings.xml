@@ -115,12 +115,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/share-button.js" timestamp="1474141388677">
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/share-button.js" timestamp="1474148912119">
         <mark key="'" line="101" column="27" />
-        <mark key="[" line="52" column="25" />
-        <mark key="]" line="52" column="25" />
-        <mark key="^" line="52" column="25" />
-        <mark key="." line="48" column="31" />
+        <mark key="[" line="61" column="35" />
+        <mark key="]" line="61" column="41" />
+        <mark key="^" line="61" column="41" />
+        <mark key="." line="61" column="41" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/surveys/resources/assets/lgbtmn/sass/style.scss" timestamp="1473462447593">
         <mark key="'" line="18" column="19" />
@@ -2390,8 +2390,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkZWJ1Z2dlcjsK</text>
+      <register name="&quot;" type="4">
+        <text>img</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -2445,7 +2445,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text>img</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzaGFyZUZhY2Vib29rXD4=</text>
