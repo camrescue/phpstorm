@@ -115,11 +115,12 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/share-button.js" timestamp="1474070719208">
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="0" />
-        <mark key="^" line="67" column="40" />
-        <mark key="." line="67" column="0" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/share-button.js" timestamp="1474140625701">
+        <mark key="'" line="77" column="28" />
+        <mark key="[" line="60" column="23" />
+        <mark key="]" line="60" column="24" />
+        <mark key="^" line="60" column="24" />
+        <mark key="." line="60" column="24" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/surveys/resources/assets/lgbtmn/sass/style.scss" timestamp="1473462447593">
         <mark key="'" line="18" column="19" />
@@ -445,11 +446,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="19" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/share-button.js" />
-      <jump line="49" column="21" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/share-button.js" />
-      <jump line="68" column="27" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/share-button.js" />
-      <jump line="49" column="12" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/providers/FacebookApp.js" />
-      <jump line="13" column="20" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/lessons-in-flawless.less" />
       <jump line="206" column="4" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/lessons-in-flawless.less" />
       <jump line="0" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/lessons-in-flawless.less" />
       <jump line="22" column="5" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/lessons-in-flawless.less" />
@@ -545,6 +541,11 @@
       <jump line="144" column="20" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/lessons-in-flawless-quiz-questions.js" />
       <jump line="101" column="13" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/lessons-in-flawless-quiz-questions.js" />
       <jump line="105" column="12" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-complete.ctrl.js" />
+      <jump line="63" column="34" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/share-button.js" />
+      <jump line="68" column="38" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/share-button.js" />
+      <jump line="45" column="31" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/share-button.js" />
+      <jump line="82" column="32" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/share-button.js" />
+      <jump line="77" column="28" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/share-button.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2389,8 +2390,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>api</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -2444,10 +2445,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>e</text>
+        <text>api</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmYWNlYm9va09wdHNcPg==</text>
+        <text encoding="base64">XDxhcGlQb3N0XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBwb3N0TWUoKTsK</text>
@@ -2487,13 +2488,13 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmYWNlYm9va09wdHNcPg==</last-search>
+      <last-search encoding="base64">XDxhcGlQb3N0XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmYWNlYm9va09wdHNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxhcGlQb3N0XD4=</last-pattern>
       <last-replace>post(</last-replace>
       <last-substitute encoding="base64">XDx2YWxpZGF0ZUNvdXJzZUxlc3Nvblw+</last-substitute>
-      <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <last-dir>-1</last-dir>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -2517,6 +2518,9 @@
         <entry encoding="base64">XDxyZXNldExheW91dFw+</entry>
         <entry encoding="base64">XDxhbnN3ZXJTZWxlY3RlZEFuaW1hdGlvblw+</entry>
         <entry encoding="base64">XDxmYWNlYm9va09wdHNcPg==</entry>
+        <entry encoding="base64">XDxwb3N0TWVcPg==</entry>
+        <entry>postApi</entry>
+        <entry encoding="base64">XDxhcGlQb3N0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>Lw</entry>
@@ -2538,6 +2542,7 @@
         <entry>w:w</entry>
         <entry>923</entry>
         <entry encoding="base64">JzwsJz53</entry>
+        <entry>.,.+3w</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
