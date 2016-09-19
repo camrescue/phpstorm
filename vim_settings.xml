@@ -118,13 +118,6 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/share-button.js" timestamp="1474308901960">
-        <mark key="'" line="0" column="66" />
-        <mark key="[" line="62" column="24" />
-        <mark key="]" line="62" column="27" />
-        <mark key="." line="62" column="27" />
-        <mark key="^" line="62" column="27" />
-      </file>
       <file name="$USER_HOME$/Sites/Rescue/surveys/resources/assets/lgbtmn/sass/style.scss" timestamp="1473462447593">
         <mark key="'" line="18" column="19" />
       </file>
@@ -206,10 +199,6 @@
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/lessons-in-flawless-quiz-questions.js" timestamp="1474067505840">
         <mark key="'" line="101" column="13" />
-        <mark key="[" line="111" column="31" />
-        <mark key="]" line="111" column="45" />
-        <mark key="." line="111" column="45" />
-        <mark key="^" line="111" column="45" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/providers/FacebookApp.js" timestamp="1473987396865">
         <mark key="'" line="21" column="0" />
@@ -253,6 +242,7 @@
         <mark key="]" line="11224" column="0" />
         <mark key="." line="11224" column="0" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/config/config.php" timestamp="1474322904264" />
       <file name="$USER_HOME$/Sites/Rescue/weightofthestateeva-composer/public/wp-content/themes/Weight-of-the-State/header.php" timestamp="1472241357351">
         <mark key="'" line="160" column="62" />
         <mark key="[" line="0" column="0" />
@@ -304,8 +294,8 @@
         <mark key="." line="234" column="0" />
         <mark key="^" line="235" column="33" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" timestamp="1474054662367">
-        <mark key="'" line="20" column="31" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" timestamp="1474321297635">
+        <mark key="'" line="76" column="15" />
         <mark key="[" line="97" column="67" />
         <mark key="]" line="97" column="67" />
         <mark key="." line="97" column="67" />
@@ -331,7 +321,7 @@
         <mark key="]" line="122" column="0" />
         <mark key="." line="122" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1474046329624">
+      <file name="/Dummy.txt" timestamp="1474322971127">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/surveys/app/Http/routes.php" timestamp="1474042541905">
@@ -362,12 +352,14 @@
         <mark key="^" line="13" column="9" />
         <mark key="." line="13" column="9" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-complete.ctrl.js" timestamp="1474068601771">
-        <mark key="'" line="105" column="12" />
-        <mark key="[" line="112" column="0" />
-        <mark key="]" line="112" column="0" />
-        <mark key="^" line="116" column="32" />
-        <mark key="." line="112" column="0" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-complete.ctrl.js" timestamp="1474323273885">
+        <mark key="r" line="5" column="62" />
+        <mark key="'" line="22" column="15" />
+        <mark key="[" line="109" column="16" />
+        <mark key="]" line="109" column="22" />
+        <mark key="m" line="5" column="62" />
+        <mark key="." line="109" column="22" />
+        <mark key="^" line="109" column="22" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/247nm/public/wp-content/themes/247nm/assets/less/main.less" timestamp="1473459141081">
         <mark key="'" line="3" column="10" />
@@ -449,29 +441,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="181" column="21" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/drupal_translators/LessonsInFlawlessTranslator.js" />
-      <jump line="145" column="33" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/drupal_translators/LessonsInFlawlessTranslator.js" />
-      <jump line="241" column="13" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/root.ctrl.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/root.ctrl.js" />
-      <jump line="31" column="4" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/lessons-in-flawless-intro.less" />
-      <jump line="211" column="25" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/lessons-in-flawless.less" />
-      <jump line="1041" column="58" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/users.php" />
-      <jump line="1638" column="21" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/users.php" />
-      <jump line="1692" column="21" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/users.php" />
-      <jump line="977" column="32" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/users.php" />
-      <jump line="253" column="8" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/project_instance_repo.php" />
-      <jump line="145" column="12" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/project_instance_repo.php" />
-      <jump line="308" column="9" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/project_instance_repo.php" />
-      <jump line="255" column="31" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/project_instance_repo.php" />
-      <jump line="212" column="13" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/root.ctrl.js" />
-      <jump line="19" column="49" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/bower_components/fullpage.js/pure javascript (Alpha)/javascript.fullPage.js" />
-      <jump line="218" column="19" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/bower_components/fullpage.js/pure javascript (Alpha)/javascript.fullPage.js" />
-      <jump line="7657" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/js/app.js" />
-      <jump line="8156" column="16" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/js/app.js" />
-      <jump line="8214" column="14" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/js/app.js" />
-      <jump line="8523" column="14" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/js/app.js" />
-      <jump line="8853" column="18" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/js/app.js" />
-      <jump line="9053" column="22" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/js/app.js" />
       <jump line="9094" column="36" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/js/app.js" />
       <jump line="9310" column="14" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/js/app.js" />
       <jump line="10241" column="22" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/js/app.js" />
@@ -500,7 +469,6 @@
       <jump line="2" column="118" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-quiz.ctrl.js" />
       <jump line="21" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/providers/FacebookApp.js" />
       <jump line="47" column="21" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/share-button.js" />
-      <jump line="66" column="27" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/share-button.js" />
       <jump line="40" column="16" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/share-button.js" />
       <jump line="58" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/share-button.js" />
       <jump line="28" column="19" filename="$USER_HOME$/Sites/Rescue/surveys/app/Http/routes.php" />
@@ -520,9 +488,7 @@
       <jump line="97" column="56" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-complete.ctrl.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-complete.ctrl.js" />
       <jump line="93" column="56" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-complete.ctrl.js" />
-      <jump line="24" column="32" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-complete.ctrl.js" />
       <jump line="95" column="13" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-complete.ctrl.js" />
-      <jump line="128" column="12" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-complete.ctrl.js" />
       <jump line="48" column="20" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/share-button.js" />
       <jump line="30" column="21" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/share-button.js" />
       <jump line="112" column="8" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-complete.ctrl.js" />
@@ -544,11 +510,37 @@
       <jump line="38" column="21" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/share-button.js" />
       <jump line="101" column="27" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/share-button.js" />
       <jump line="57" column="25" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/share-button.js" />
-      <jump line="45" column="25" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/share-button.js" />
       <jump line="70" column="16" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/share-button.js" />
-      <jump line="0" column="66" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/share-button.js" />
       <jump line="93" column="115" filename="$USER_HOME$/Sites/Rescue/helix/application/models/core/import_m.php" />
       <jump line="130" column="89" filename="$USER_HOME$/Sites/Rescue/helix/application/models/core/import_m.php" />
+      <jump line="132" column="52" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-complete.ctrl.js" />
+      <jump line="128" column="32" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-complete.ctrl.js" />
+      <jump line="66" column="32" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/share-button.js" />
+      <jump line="45" column="22" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/share-button.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/share-button.js" />
+      <jump line="110" column="49" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-complete.ctrl.js" />
+      <jump line="4" column="23" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-complete.ctrl.js" />
+      <jump line="9" column="40" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-complete.ctrl.js" />
+      <jump line="10" column="40" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-complete.ctrl.js" />
+      <jump line="11" column="40" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-complete.ctrl.js" />
+      <jump line="12" column="40" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-complete.ctrl.js" />
+      <jump line="13" column="42" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-complete.ctrl.js" />
+      <jump line="16" column="37" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-complete.ctrl.js" />
+      <jump line="17" column="37" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-complete.ctrl.js" />
+      <jump line="18" column="37" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-complete.ctrl.js" />
+      <jump line="19" column="37" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-complete.ctrl.js" />
+      <jump line="20" column="39" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-complete.ctrl.js" />
+      <jump line="23" column="37" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-complete.ctrl.js" />
+      <jump line="24" column="37" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-complete.ctrl.js" />
+      <jump line="25" column="37" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-complete.ctrl.js" />
+      <jump line="26" column="37" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-complete.ctrl.js" />
+      <jump line="418" column="5" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
+      <jump line="2" column="93" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
+      <jump line="72" column="25" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
+      <jump line="76" column="15" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
+      <jump line="92" column="20" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/share-button.js" />
+      <jump line="22" column="15" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-complete.ctrl.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2394,7 +2386,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>picture</text>
+        <text>opts</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -2448,55 +2440,55 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>picture</text>
+        <text>opts</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxncmFkc1RvQWx1bW5pTWlncmF0ZVw+</text>
+        <text encoding="base64">XDx1aUZlZWRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHVpRmVlZCgpOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhvcHRzKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbGluazogb3B0cy5saW5rLAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGRlYnVnZ2VyOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhvcHRzKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB2YXIgbWV0aG9kID0gb3B0cy5tZXRob2QgfHwgJ3NoYXJlJzsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGZ1bmN0aW9uIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRlc2NyaXB0aW9uOiBkZXNjcmkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBjb25zb2xlLmxvZyhvcHRzKTsK</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbGluazogb3B0cy5saW5rLAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxncmFkc1RvQWx1bW5pTWlncmF0ZVw+</last-search>
+      <last-search encoding="base64">XDx1aUZlZWRcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxncmFkc1RvQWx1bW5pTWlncmF0ZVw+</last-pattern>
+      <last-pattern encoding="base64">XDx1aUZlZWRcPg==</last-pattern>
       <last-replace>post(</last-replace>
       <last-substitute encoding="base64">XDx2YWxpZGF0ZUNvdXJzZUxlc3Nvblw+</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -2515,15 +2507,20 @@
         <entry encoding="base64">XDxzaG93UmVzdWx0c1w+</entry>
         <entry encoding="base64">XDxyZXNldExheW91dFw+</entry>
         <entry encoding="base64">XDxhbnN3ZXJTZWxlY3RlZEFuaW1hdGlvblw+</entry>
-        <entry encoding="base64">XDxmYWNlYm9va09wdHNcPg==</entry>
         <entry encoding="base64">XDxwb3N0TWVcPg==</entry>
         <entry>postApi</entry>
         <entry encoding="base64">XDxzaGFyZUZhY2Vib29rXD4=</entry>
-        <entry encoding="base64">XDx1aUZlZWRcPg==</entry>
         <entry encoding="base64">XDxhcGlQb3N0XD4=</entry>
         <entry encoding="base64">XDxGYWNlYm9va0FwcFw+</entry>
         <entry>gradsTo</entry>
         <entry encoding="base64">XDxncmFkc1RvQWx1bW5pTWlncmF0ZVw+</entry>
+        <entry encoding="base64">XDxmYWNlYm9va19kZXNjcmlwdGlvblw+</entry>
+        <entry encoding="base64">XDxmYWNlYm9va09wdHNcPg==</entry>
+        <entry encoding="base64">XDxmZWVkT3B0c1w+</entry>
+        <entry>fig</entry>
+        <entry>gif</entry>
+        <entry>share</entry>
+        <entry encoding="base64">XDx1aUZlZWRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>set hlsearch</entry>
@@ -2545,6 +2542,7 @@
         <entry>923</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>.,.+3w</entry>
+        <entry>460</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
