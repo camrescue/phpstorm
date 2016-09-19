@@ -20,7 +20,7 @@
         <mark key="." line="61" column="17" />
         <mark key="^" line="61" column="17" />
       </file>
-      <file name="/a.dummy" timestamp="1474311472930">
+      <file name="/a.dummy" timestamp="1474326662529">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -59,6 +59,9 @@
         <mark key="]" line="6" column="12" />
         <mark key="^" line="6" column="12" />
         <mark key="." line="6" column="12" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/project_repo.php" timestamp="1474326740463">
+        <mark key="'" line="106" column="18" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/emoji-splash.js" timestamp="1473714897355">
         <mark key="'" line="77" column="20" />
@@ -144,6 +147,7 @@
         <mark key="." line="310" column="0" />
         <mark key="^" line="305" column="10" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/models/services/ProjectSrv.php" timestamp="1474326683076" />
       <file name="$USER_HOME$/Sites/Rescue/247nm/public/wp-content/themes/247nm/functions/data-manager/export-contact.php" timestamp="1473456457343">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -223,6 +227,9 @@
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/Gruntfile.js" timestamp="1473955577123">
         <mark key="'" line="14" column="44" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/controllers/my.php" timestamp="1474326561812">
+        <mark key="'" line="610" column="19" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/247nm/public/wp-content/themes/247nm/templates/signage.php" timestamp="1473829642983">
         <mark key="'" line="124" column="28" />
@@ -440,20 +447,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10323" column="14" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/js/app.js" />
-      <jump line="10347" column="16" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/js/app.js" />
-      <jump line="10618" column="24" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/js/app.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/drupal_translators/EventTranslator.js" />
-      <jump line="10605" column="36" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/js/app.js" />
-      <jump line="10619" column="20" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/js/app.js" />
-      <jump line="10667" column="14" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/js/app.js" />
-      <jump line="10817" column="18" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/js/app.js" />
-      <jump line="10883" column="14" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/js/app.js" />
-      <jump line="11411" column="14" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/js/app.js" />
-      <jump line="11221" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/js/app.js" />
-      <jump line="11410" column="14" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/js/app.js" />
-      <jump line="11539" column="14" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/js/app.js" />
-      <jump line="11792" column="14" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/js/app.js" />
       <jump line="11938" column="18" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/js/app.js" />
       <jump line="11941" column="14" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/js/app.js" />
       <jump line="12183" column="14" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/js/app.js" />
@@ -540,6 +533,20 @@
       <jump line="97" column="32" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-complete.ctrl.js" />
       <jump line="41" column="34" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-complete.ctrl.js" />
       <jump line="125" column="4" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-complete.ctrl.js" />
+      <jump line="212" column="9" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/my.php" />
+      <jump line="589" column="14" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/my.php" />
+      <jump line="593" column="41" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/my.php" />
+      <jump line="606" column="49" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/my.php" />
+      <jump line="609" column="51" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/my.php" />
+      <jump line="610" column="19" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/my.php" />
+      <jump line="309" column="8" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/project_repo.php" />
+      <jump line="437" column="0" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/project_repo.php" />
+      <jump line="103" column="20" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/project_repo.php" />
+      <jump line="1069" column="22" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/project_repo.php" />
+      <jump line="27" column="10" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/project_repo.php" />
+      <jump line="48" column="14" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/project_repo.php" />
+      <jump line="62" column="14" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/project_repo.php" />
+      <jump line="106" column="18" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/project_repo.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2442,7 +2449,7 @@
         <text>lessonsShareStaticImagesImages</text>
       </register>
       <register name="/" type="4">
-        <text>debugg</text>
+        <text encoding="base64">XDxFVkVOVF9UWVBFX1RSQUlOSU5HXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgc3RhdGljSW1nID0gZ2V0TW9iaWxlU3RhdGljU2hhcmVJbWFnZShsZXNzb25zSW5GbGF3bGVzcy5nZXRDb3Vyc2UoKSwgY29ycmVjdCksCg==</text>
@@ -2482,9 +2489,9 @@
       </register>
     </registers>
     <search>
-      <last-search>debugg</last-search>
+      <last-search encoding="base64">XDxFVkVOVF9UWVBFX1RSQUlOSU5HXD4=</last-search>
       <last-offset />
-      <last-pattern>debugg</last-pattern>
+      <last-pattern encoding="base64">XDxFVkVOVF9UWVBFX1RSQUlOSU5HXD4=</last-pattern>
       <last-replace>post(</last-replace>
       <last-substitute encoding="base64">XDx2YWxpZGF0ZUNvdXJzZUxlc3Nvblw+</last-substitute>
       <last-dir>1</last-dir>
@@ -2516,6 +2523,10 @@
         <entry encoding="base64">XDxzY29wZVw+</entry>
         <entry encoding="base64">XDxpbWFnZVBhdGhcPg==</entry>
         <entry>debugg</entry>
+        <entry>dashboard</entry>
+        <entry>youth_event_available</entry>
+        <entry encoding="base64">XDx0cmFpbmluZ1Byb2plY3RUeXBlc1w+</entry>
+        <entry encoding="base64">XDxFVkVOVF9UWVBFX1RSQUlOSU5HXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>qw</entry>
