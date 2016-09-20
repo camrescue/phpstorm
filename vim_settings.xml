@@ -17,7 +17,7 @@
         <mark key="." line="61" column="17" />
         <mark key="^" line="61" column="17" />
       </file>
-      <file name="/a.dummy" timestamp="1474406795893">
+      <file name="/a.dummy" timestamp="1474411554156">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -28,11 +28,11 @@
         <mark key="." line="6" column="26" />
         <mark key="^" line="6" column="26" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/views/project/create_proposal.php" timestamp="1474409865108">
-        <mark key="[" line="6" column="34" />
-        <mark key="]" line="6" column="34" />
-        <mark key="^" line="6" column="31" />
-        <mark key="." line="6" column="34" />
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/views/project/create_proposal.php" timestamp="1474411890330">
+        <mark key="[" line="7" column="34" />
+        <mark key="]" line="7" column="35" />
+        <mark key="^" line="7" column="72" />
+        <mark key="." line="7" column="35" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/createuser.sh" timestamp="1472439299931">
         <mark key="'" line="9" column="6" />
@@ -159,13 +159,13 @@
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/controllers/projects.php" timestamp="1474410962671">
-        <mark key="a" line="2686" column="43" />
-        <mark key="'" line="22" column="38" />
-        <mark key="[" line="2684" column="0" />
-        <mark key="]" line="2685" column="54" />
-        <mark key="." line="2685" column="54" />
-        <mark key="^" line="2685" column="54" />
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/controllers/projects.php" timestamp="1474412362796">
+        <mark key="a" line="2690" column="43" />
+        <mark key="'" line="74" column="4" />
+        <mark key="[" line="2707" column="11" />
+        <mark key="]" line="2707" column="23" />
+        <mark key="^" line="2707" column="23" />
+        <mark key="." line="2707" column="23" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/surveys/resources/views/lgbtculture/splash.blade.php" timestamp="1474046240591">
         <mark key="[" line="51" column="28" />
@@ -207,10 +207,10 @@
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/js/app/project.js" timestamp="1474408280351">
+      <file name="$USER_HOME$/Sites/Rescue/helix/js/app/project.js" timestamp="1474411587129">
         <mark key="a" line="786" column="4" />
         <mark key="b" line="592" column="11" />
-        <mark key="'" line="124" column="18" />
+        <mark key="'" line="724" column="27" />
         <mark key="[" line="602" column="40" />
         <mark key="]" line="602" column="43" />
         <mark key="." line="602" column="43" />
@@ -481,8 +481,8 @@
         <mark key="]" line="5" column="0" />
         <mark key="." line="5" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/views/project/create.php" timestamp="1474404812211">
-        <mark key="'" line="0" column="0" />
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/views/project/create.php" timestamp="1474411553073">
+        <mark key="'" line="120" column="30" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/views/project/create_event_details.php" timestamp="1474404918670" />
       <file name="$USER_HOME$/Sites/Rescue/helix/js/app/utils.js" timestamp="1474399973863">
@@ -490,18 +490,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="120" column="38" filename="$USER_HOME$/Sites/Rescue/helix/js/app/project_user.js" />
-      <jump line="260" column="24" filename="$USER_HOME$/Sites/Rescue/helix/js/app/project_user.js" />
-      <jump line="21" column="12" filename="$USER_HOME$/Sites/Rescue/helix/js/app/project_user.js" />
-      <jump line="1700" column="48" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/projects.php" />
-      <jump line="61" column="32" filename="$USER_HOME$/Sites/Rescue/helix/js/app/project_user.js" />
-      <jump line="140" column="26" filename="$USER_HOME$/Sites/Rescue/helix/js/app/project_user.js" />
-      <jump line="143" column="66" filename="$USER_HOME$/Sites/Rescue/helix/js/app/project_user.js" />
-      <jump line="164" column="13" filename="$USER_HOME$/Sites/Rescue/helix/js/app/project_user.js" />
-      <jump line="157" column="15" filename="$USER_HOME$/Sites/Rescue/helix/js/app/project_user.js" />
-      <jump line="189" column="16" filename="$USER_HOME$/Sites/Rescue/helix/js/app/project_user.js" />
-      <jump line="175" column="24" filename="$USER_HOME$/Sites/Rescue/helix/js/app/project_user.js" />
-      <jump line="621" column="20" filename="$USER_HOME$/Sites/Rescue/helix/js/app/utils.js" />
       <jump line="87" column="21" filename="$USER_HOME$/Sites/Rescue/helix/js/app/utils.js" />
       <jump line="592" column="4" filename="$USER_HOME$/Sites/Rescue/helix/js/app/utils.js" />
       <jump line="1117" column="16" filename="$USER_HOME$/Sites/Rescue/helix/js/app/utils.js" />
@@ -590,6 +578,18 @@
       <jump line="568" column="0" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/projects.php" />
       <jump line="22" column="38" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/projects.php" />
       <jump line="138" column="23" filename="$USER_HOME$/Sites/Rescue/helix/application/models/core/import_m.php" />
+      <jump line="75" column="13" filename="$USER_HOME$/Sites/Rescue/helix/application/views/project/create.php" />
+      <jump line="120" column="30" filename="$USER_HOME$/Sites/Rescue/helix/application/views/project/create.php" />
+      <jump line="731" column="27" filename="$USER_HOME$/Sites/Rescue/helix/js/app/project.js" />
+      <jump line="45" column="13" filename="$USER_HOME$/Sites/Rescue/helix/js/app/project.js" />
+      <jump line="724" column="27" filename="$USER_HOME$/Sites/Rescue/helix/js/app/project.js" />
+      <jump line="2772" column="32" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/projects.php" />
+      <jump line="2540" column="37" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/projects.php" />
+      <jump line="86" column="29" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/projects.php" />
+      <jump line="2708" column="4" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/projects.php" />
+      <jump line="2536" column="9" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/projects.php" />
+      <jump line="2551" column="26" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/projects.php" />
+      <jump line="74" column="4" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/projects.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2489,10 +2489,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>'</text>
+        <text>project</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxldmVudFByb3Bvc2FsVXBkYXRlXD4=</text>
+        <text>save_pro</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByb3RlY3RlZCBmdW5jdGlvbiB0ZWVTaGlydFNpemUoKQo=</text>
@@ -2501,25 +2501,25 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmV2ZW50RGVmYXVsdCgpOwo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZS5wcmV2ZW50RGVmYXVsdCgpOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgIAo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAkZXJyCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoKQo=</text>
       </register>
       <register name="x" type="4">
         <text />
@@ -2532,12 +2532,12 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxldmVudFByb3Bvc2FsVXBkYXRlXD4=</last-search>
+      <last-search>save_pro</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxldmVudFByb3Bvc2FsVXBkYXRlXD4=</last-pattern>
+      <last-pattern>save_pro</last-pattern>
       <last-replace>post(</last-replace>
       <last-substitute encoding="base64">XDx2YWxpZGF0ZUNvdXJzZUxlc3Nvblw+</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -2582,7 +2582,6 @@
         <entry encoding="base64">XDxsb2FkUHJvcG9zYWxUeXBlXD4=</entry>
         <entry encoding="base64">XDxsb2FkRXZlbnRcPg==</entry>
         <entry>json_load</entry>
-        <entry encoding="base64">XDxzdWJtaXRCdXR0b25cPg==</entry>
         <entry encoding="base64">XDxwcm9qZWN0U3VibWl0XD4=</entry>
         <entry>insert</entry>
         <entry>createProjectForm</entry>
@@ -2606,7 +2605,6 @@
         <entry encoding="base64">XDxpc19ldmVudFw+</entry>
         <entry encoding="base64">XDxwcm9qZWN0c1w+</entry>
         <entry encoding="base64">XDxhcHBseVVzZXJQZXJtaXNzaW9uc1w+</entry>
-        <entry encoding="base64">XDxkYXRhXD4=</entry>
         <entry encoding="base64">XDxpc19kYXNoYm9hcmRcPg==</entry>
         <entry>dd</entry>
         <entry encoding="base64">XDxkZFw+</entry>
@@ -2678,6 +2676,13 @@
         <entry encoding="base64">XDxzZXNzaW9uXD4=</entry>
         <entry>function create</entry>
         <entry encoding="base64">XDxldmVudFByb3Bvc2FsVXBkYXRlXD4=</entry>
+        <entry encoding="base64">XDxzdWJtaXRCdXR0b25cPg==</entry>
+        <entry>submit(</entry>
+        <entry>json_create</entry>
+        <entry>create_p</entry>
+        <entry>json_cr</entry>
+        <entry encoding="base64">XDxkYXRhXD4=</entry>
+        <entry>save_pro</entry>
       </history-search>
       <history-cmd>
         <entry>qw</entry>
