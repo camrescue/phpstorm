@@ -1,0 +1,2 @@
+# phpstorm
+phpstorm shared settings
