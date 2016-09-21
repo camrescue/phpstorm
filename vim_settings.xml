@@ -282,13 +282,13 @@
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/controllers/projects.php" timestamp="1474475239688">
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/controllers/projects.php" timestamp="1474476008513">
         <mark key="a" line="2686" column="43" />
-        <mark key="'" line="2700" column="4" />
-        <mark key="[" line="2565" column="5" />
-        <mark key="]" line="2565" column="4" />
-        <mark key="." line="2565" column="4" />
-        <mark key="^" line="2565" column="4" />
+        <mark key="'" line="2639" column="41" />
+        <mark key="[" line="2567" column="0" />
+        <mark key="]" line="2567" column="0" />
+        <mark key="." line="2567" column="0" />
+        <mark key="^" line="2641" column="46" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/views/project/view.php" timestamp="1474409796661">
         <mark key="'" line="84" column="9" />
@@ -484,7 +484,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="204" column="21" filename="$USER_HOME$/Sites/Rescue/helix/js/app/project.js" />
       <jump line="223" column="18" filename="$USER_HOME$/Sites/Rescue/helix/js/app/project.js" />
       <jump line="2704" column="39" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/projects.php" />
       <jump line="2699" column="13" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/projects.php" />
@@ -584,6 +583,7 @@
       <jump line="2533" column="21" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/projects.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/projects.php" />
       <jump line="2700" column="4" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/projects.php" />
+      <jump line="2639" column="41" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/projects.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2429,7 +2429,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZ1bmN0aW9uIAoK</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -2486,52 +2486,52 @@
         <text />
       </register>
       <register name="/" type="4">
-        <text>json_crea</text>
+        <text encoding="base64">XDxuZXdTdGF0dXNcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkcHJvamVjdC0+YXZhaWxhYmlsaXR5ID0gJHByb2plY3REYXRhWydhdmFpbGFiaWxpdHknXTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGZ1bmN0aW9uIAoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcG9zdFZhbHVlcywgJHByb2plY3QpOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkcHJvamVjdCA9IG5ldyBQcm9qZWN0KCR0ZW1wbGF0ZVByb2plY3QtPmRhdGEoKSk7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGZ1bmN0aW9uIF9zYXZlX3Byb3Bvc2FsKCR0ZW1wbGF0ZVByb2plY3QpCiAgICB7Cg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBkZCgkcG9zdFZhbHVlcywgJHByb2plY3QpOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAkcHJvamVjdCA9IG5ldyBQcm9qZWN0KCR0ZW1wbGF0ZVByb2plY3QtPmRhdGEoKSk7Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGZ1bmN0aW9uIF9zYXZlX3Byb3Bvc2FsKCR0ZW1wbGF0ZVByb2plY3QpCiAgICB7Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>json_crea</last-search>
+      <last-search encoding="base64">XDxuZXdTdGF0dXNcPg==</last-search>
       <last-offset />
-      <last-pattern>json_crea</last-pattern>
+      <last-pattern encoding="base64">XDxuZXdTdGF0dXNcPg==</last-pattern>
       <last-replace>post(</last-replace>
       <last-substitute encoding="base64">XDx2YWxpZGF0ZUNvdXJzZUxlc3Nvblw+</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -2583,11 +2583,11 @@
         <entry>event</entry>
         <entry>json_cr</entry>
         <entry encoding="base64">XDxfcHJvamVjdF9wZXJtaXNzaW9uc1w+</entry>
-        <entry encoding="base64">XDxuZXdTdGF0dXNcPg==</entry>
         <entry>json_create</entry>
         <entry encoding="base64">XDxhcHByb3ZhbFw+</entry>
         <entry>json_save</entry>
         <entry>json_crea</entry>
+        <entry encoding="base64">XDxuZXdTdGF0dXNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>qw</entry>
