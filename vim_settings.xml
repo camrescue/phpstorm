@@ -78,12 +78,12 @@
         <mark key="^" line="6" column="12" />
         <mark key="." line="6" column="12" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/project_repo.php" timestamp="1474484115148">
-        <mark key="'" line="308" column="0" />
-        <mark key="[" line="441" column="39" />
-        <mark key="]" line="441" column="49" />
-        <mark key="." line="441" column="49" />
-        <mark key="^" line="441" column="49" />
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/project_repo.php" timestamp="1474486078887">
+        <mark key="'" line="463" column="27" />
+        <mark key="[" line="463" column="0" />
+        <mark key="]" line="463" column="0" />
+        <mark key="." line="463" column="0" />
+        <mark key="^" line="526" column="41" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/js/app/event_user.js" timestamp="1474474517440">
         <mark key="'" line="146" column="16" />
@@ -150,11 +150,11 @@
         <mark key="^" line="305" column="10" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/lessons-in-flawless.less" timestamp="1474478113776" />
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/models/services/ProjectSrv.php" timestamp="1474484025706">
-        <mark key="[" line="124" column="13" />
-        <mark key="]" line="124" column="23" />
-        <mark key="." line="124" column="23" />
-        <mark key="^" line="124" column="23" />
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/models/services/ProjectSrv.php" timestamp="1474486009548">
+        <mark key="[" line="135" column="0" />
+        <mark key="]" line="135" column="0" />
+        <mark key="." line="135" column="0" />
+        <mark key="^" line="131" column="47" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/247nm/public/wp-content/themes/247nm/functions/data-manager/export-contact.php" timestamp="1473456457343">
         <mark key="[" line="16" column="0" />
@@ -250,13 +250,13 @@
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/controllers/projects.php" timestamp="1474484226742">
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/controllers/projects.php" timestamp="1474485543560">
         <mark key="a" line="2686" column="43" />
-        <mark key="'" line="2557" column="39" />
-        <mark key="[" line="2741" column="0" />
-        <mark key="]" line="2741" column="0" />
-        <mark key="." line="2741" column="0" />
-        <mark key="^" line="2547" column="28" />
+        <mark key="'" line="2741" column="34" />
+        <mark key="[" line="2741" column="78" />
+        <mark key="]" line="2742" column="15" />
+        <mark key="." line="2742" column="15" />
+        <mark key="^" line="2742" column="15" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/views/project/view.php" timestamp="1474482145954">
         <mark key="'" line="250" column="48" />
@@ -432,13 +432,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="796" column="15" filename="$USER_HOME$/Sites/Rescue/helix/js/app/project.js" />
-      <jump line="1849" column="61" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/projects.php" />
-      <jump line="32" column="33" filename="$USER_HOME$/Sites/Rescue/helix/js/app/project.js" />
-      <jump line="56" column="18" filename="$USER_HOME$/Sites/Rescue/helix/js/app/project.js" />
-      <jump line="93" column="13" filename="$USER_HOME$/Sites/Rescue/helix/js/app/event_user.js" />
-      <jump line="53" column="13" filename="$USER_HOME$/Sites/Rescue/helix/js/app/event_user.js" />
-      <jump line="746" column="8" filename="$USER_HOME$/Sites/Rescue/helix/js/app/multi_select.js" />
       <jump line="723" column="4" filename="$USER_HOME$/Sites/Rescue/helix/js/app/multi_select.js" />
       <jump line="108" column="74" filename="$USER_HOME$/Sites/Rescue/helix/js/app/multi_select.js" />
       <jump line="141" column="8" filename="$USER_HOME$/Sites/Rescue/helix/js/app/event_user.js" />
@@ -527,11 +520,18 @@
       <jump line="21" column="58" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/projects.php" />
       <jump line="1555" column="28" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/projects.php" />
       <jump line="28" column="75" filename="$USER_HOME$/Sites/Rescue/helix/application/models/core/import_m.php" />
-      <jump line="441" column="9" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/project_repo.php" />
-      <jump line="442" column="26" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/project_repo.php" />
       <jump line="308" column="0" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/project_repo.php" />
       <jump line="2541" column="42" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/projects.php" />
       <jump line="2557" column="39" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/projects.php" />
+      <jump line="2741" column="34" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/projects.php" />
+      <jump line="437" column="21" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/project_repo.php" />
+      <jump line="228" column="23" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/project_repo.php" />
+      <jump line="227" column="0" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/project_repo.php" />
+      <jump line="441" column="9" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/project_repo.php" />
+      <jump line="447" column="8" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/project_repo.php" />
+      <jump line="527" column="23" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/project_repo.php" />
+      <jump line="442" column="26" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/project_repo.php" />
+      <jump line="463" column="27" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/project_repo.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2377,7 +2377,7 @@
         </keys>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcHJvamVjdFNydi0+ZmV0Y2hFdmVudFByb3Bvc2FscygpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGRhdGFbJ3Byb2plY3RfdHlwZSddID0gc2VsZjo6RVZFTlRfVFlQRV9QUk9QT1NBTDsK</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -2431,52 +2431,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>proposal_id</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>dd(</text>
+        <text>project_typ</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgT1IgKCBwYS50eXBlPTUgQU5EIHBhLml0ZW1faWQgSU4gIiAuIHNxbExpc3QoJHVzZXItPmlkKSAuICIpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcHJvamVjdFNydi0+ZmV0Y2hFdmVudFByb3Bvc2FscygpKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgJGRhdGFbJ3Byb2plY3RfdHlwZSddID0gc2VsZjo6RVZFTlRfVFlQRV9QUk9QT1NBTDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2lzX3Byb3Bvc2FsJyA9PiAxLAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAkdGhpcy0+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcHJvamVjdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBkYmcoaXNzZXQoJGRhdGFbImlzX3B1Ymxpc2hlZCJdKSk7Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PD9waHAgZGQoJHlvdXRoKSA/Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcHJvamVjdCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkY3VyclVzZXIgPSBnZXRDdXJyVXNlcigpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ293bmVyX2lkJyA9PiAkY3VyclVzZXItPmlkLAo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcHJvamVjdCk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>dd(</last-search>
+      <last-search>project_typ</last-search>
       <last-offset />
-      <last-pattern>dd(</last-pattern>
+      <last-pattern>project_typ</last-pattern>
       <last-replace>post(</last-replace>
       <last-substitute encoding="base64">XDx2YWxpZGF0ZUNvdXJzZUxlc3Nvblw+</last-substitute>
       <last-dir>1</last-dir>
@@ -2518,7 +2518,6 @@
         <entry encoding="base64">XDx0eXBlXD4=</entry>
         <entry encoding="base64">XDxnZXRBdmFpbGFiaWxpdHlMaXN0XD4=</entry>
         <entry>prop</entry>
-        <entry>type</entry>
         <entry>items</entry>
         <entry encoding="base64">XDxzZXREYXRlXD4=</entry>
         <entry encoding="base64">XDxwYXJzZUF2YWlsYWJpbGl0eVw+</entry>
@@ -2555,9 +2554,15 @@
         <entry>is_pro</entry>
         <entry encoding="base64">XDxpc19wcm9wb3NhbFw+</entry>
         <entry encoding="base64">XDxldmVudFByb3Bvc2FsVXBkYXRlXD4=</entry>
-        <entry encoding="base64">XDxpc1Byb3Bvc2FsXD4=</entry>
         <entry>dd</entry>
+        <entry encoding="base64">XDxmZXRjaEV2ZW50UHJvcG9zYWxzXD4=</entry>
+        <entry encoding="base64">XDxkYXRhVG9XaGVyZUNsYXVzZVw+</entry>
+        <entry encoding="base64">XDxnZXRTZWFyY2hRdWVyeVw+</entry>
         <entry>dd(</entry>
+        <entry>type</entry>
+        <entry encoding="base64">XDxpc19wdWJsaXNoZWRcPg==</entry>
+        <entry encoding="base64">XDxpc1Byb3Bvc2FsXD4=</entry>
+        <entry>project_typ</entry>
       </history-search>
       <history-cmd>
         <entry>qw</entry>
