@@ -34,8 +34,8 @@
         <mark key="^" line="37" column="48" />
         <mark key="." line="37" column="48" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/controllers/questionnaires.php" timestamp="1474482247098">
-        <mark key="'" line="74" column="9" />
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/controllers/questionnaires.php" timestamp="1474563327007">
+        <mark key="'" line="321" column="33" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/createuser.sh" timestamp="1472439299931">
         <mark key="'" line="9" column="6" />
@@ -262,15 +262,15 @@
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/controllers/projects.php" timestamp="1474525907403">
-        <mark key="'" line="2508" column="33" />
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/controllers/projects.php" timestamp="1474563582347">
+        <mark key="'" line="2615" column="37" />
         <mark key="[" line="2607" column="68" />
         <mark key="]" line="2607" column="75" />
         <mark key="." line="2607" column="75" />
         <mark key="^" line="2607" column="75" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/views/project/view.php" timestamp="1474509894088">
-        <mark key="'" line="111" column="30" />
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/views/project/view.php" timestamp="1474563370391">
+        <mark key="'" line="247" column="49" />
         <mark key="[" line="250" column="36" />
         <mark key="]" line="199" column="16" />
         <mark key="^" line="199" column="16" />
@@ -449,11 +449,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="356" column="44" filename="$USER_HOME$/Sites/Rescue/helix/js/app/project.js" />
-      <jump line="539" column="68" filename="$USER_HOME$/Sites/Rescue/helix/js/app/project.js" />
-      <jump line="555" column="53" filename="$USER_HOME$/Sites/Rescue/helix/js/app/project.js" />
-      <jump line="633" column="52" filename="$USER_HOME$/Sites/Rescue/helix/js/app/project.js" />
-      <jump line="636" column="53" filename="$USER_HOME$/Sites/Rescue/helix/js/app/project.js" />
       <jump line="66" column="12" filename="$USER_HOME$/Sites/Rescue/helix/js/app/project.js" />
       <jump line="29" column="6" filename="$USER_HOME$/Sites/Rescue/helix/application/views/project/create_basic.php" />
       <jump line="174" column="56" filename="$USER_HOME$/Sites/Rescue/helix/js/app/project.js" />
@@ -549,6 +544,11 @@
       <jump line="60" column="39" filename="$USER_HOME$/Sites/Rescue/helix/js/app/project.js" />
       <jump line="2508" column="33" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/projects.php" />
       <jump line="108" column="52" filename="$USER_HOME$/Sites/Rescue/helix/files/surveys/2016_nutrition_task_force_app.json" />
+      <jump line="71" column="13" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/questionnaires.php" />
+      <jump line="46" column="13" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/questionnaires.php" />
+      <jump line="321" column="33" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/questionnaires.php" />
+      <jump line="247" column="49" filename="$USER_HOME$/Sites/Rescue/helix/application/views/project/view.php" />
+      <jump line="2615" column="37" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/projects.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2451,7 +2451,7 @@
         <text>contactInfo</text>
       </register>
       <register name="/" type="4">
-        <text>json_crea</text>
+        <text>function view</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkcHJvamVjdC0+cHJvcG9zYWxfbWVzc2FnZSA9IG1heWJlVmFsdWUoJHByb2plY3QtPnByb3Bvc2FsX21lc3NhZ2UpOwo=</text>
@@ -2491,9 +2491,9 @@
       </register>
     </registers>
     <search>
-      <last-search>json_crea</last-search>
+      <last-search>function view</last-search>
       <last-offset />
-      <last-pattern>json_crea</last-pattern>
+      <last-pattern>function view</last-pattern>
       <last-replace>post(</last-replace>
       <last-substitute encoding="base64">XDx2YWxpZGF0ZUNvdXJzZUxlc3Nvblw+</last-substitute>
       <last-dir>1</last-dir>
@@ -2545,6 +2545,9 @@
         <entry encoding="base64">XDxwcm9wb3NhbF9tZXNzYWdlXD4=</entry>
         <entry>debugg</entry>
         <entry>json_crea</entry>
+        <entry encoding="base64">XDxfMjAxNl9sZWFkZXJzaGlwXD4=</entry>
+        <entry encoding="base64">XDxsZWFkZXJzaGlwXD4=</entry>
+        <entry>function view</entry>
       </history-search>
       <history-cmd>
         <entry>qw</entry>
