@@ -86,8 +86,12 @@
         <mark key="." line="122" column="0" />
         <mark key="^" line="32" column="25" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/project_repo.php" timestamp="1474510309620">
-        <mark key="'" line="1015" column="19" />
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/project_repo.php" timestamp="1474518571518">
+        <mark key="'" line="1025" column="19" />
+        <mark key="[" line="203" column="8" />
+        <mark key="]" line="203" column="14" />
+        <mark key="." line="203" column="14" />
+        <mark key="^" line="203" column="14" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/main.js" timestamp="1472578581630">
         <mark key="'" line="18" column="0" />
@@ -252,8 +256,8 @@
         <mark key="]" line="40" column="0" />
         <mark key="." line="40" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/controllers/projects.php" timestamp="1474512295744">
-        <mark key="'" line="386" column="43" />
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/controllers/projects.php" timestamp="1474518274980">
+        <mark key="'" line="2556" column="46" />
         <mark key="[" line="2557" column="59" />
         <mark key="]" line="2557" column="59" />
         <mark key="." line="2557" column="59" />
@@ -440,7 +444,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="288" column="33" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/projects.php" />
       <jump line="91" column="47" filename="$USER_HOME$/Sites/Rescue/helix/js/app/event_user.js" />
       <jump line="142" column="12" filename="$USER_HOME$/Sites/Rescue/helix/js/app/event_user.js" />
       <jump line="140" column="16" filename="$USER_HOME$/Sites/Rescue/helix/js/app/event_user.js" />
@@ -540,6 +543,7 @@
       <jump line="24" column="13" filename="$USER_HOME$/Sites/Rescue/helix/js/app/event_user.js" />
       <jump line="151" column="12" filename="$USER_HOME$/Sites/Rescue/helix/js/app/event_user.js" />
       <jump line="44" column="37" filename="$USER_HOME$/Sites/Rescue/helix/js/app/event_user.js" />
+      <jump line="2556" column="46" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/projects.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2384,8 +2388,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">JHJlcyA9IA==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -2439,43 +2443,43 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IC4gJzxicj48YnI+JyAuICRwcm9qZWN0LT5kZXNjcmlwdGlvbjs=</text>
+        <text encoding="base64">JHJlcyA9IA==</text>
       </register>
       <register name="/" type="4">
         <text>debugg</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkKHNlbGVjdG9ycy5wcm9wb3NhbE1lc3NhZ2VCbG9jaykuYWRkQ2xhc3MoJ2hpZGUnKTsK</text>
+        <text encoding="base64">ICAgICAgICAkcHJvcG9zYWxzID0gYXJyYXlfZmlsdGVyKCRldmVudHMsIGZ1bmN0aW9uICgkbikgewogICAgICAgICAgICByZXR1cm4gISBlbXB0eSgkbi0+cHJvcG9zYWxfaWQpOwogICAgICAgIH0pOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gJGV2ZW50czsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcHJvamVjdERhdGEpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXNldEVycm9ycygpOwo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcmVzKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcXVlcnlBcnJheSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkcmVzID0gJHByb3Bvc2FscyArICRzdGFuZGFyZGwK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcXVlcnlBcnJheSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBhCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcXVlcnlBcnJheSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkcmVzCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJGxlYWRJZCA9ICRsZWFkCg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkZXZlbnRzKTsK</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIGRkKCRwcm9qZWN0LT5wcm9wb3NhbF9pZCwgJGxlYWQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
