@@ -9,12 +9,12 @@
         <mark key="^" line="139" column="45" />
         <mark key="." line="139" column="45" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/views/project/create_proposal.php" timestamp="1474524552868">
-        <mark key="'" line="54" column="24" />
-        <mark key="[" line="37" column="45" />
-        <mark key="]" line="37" column="48" />
-        <mark key="^" line="37" column="48" />
-        <mark key="." line="37" column="48" />
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/views/project/create_proposal.php" timestamp="1474656991319">
+        <mark key="'" line="51" column="24" />
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="^" line="33" column="48" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/helpers/utils_helper.php" timestamp="1474568897916">
         <mark key="[" line="615" column="25" />
@@ -175,7 +175,6 @@
         <mark key="." line="25" column="24" />
         <mark key="^" line="25" column="24" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/helpers/image_helper.php" timestamp="1474581679666" />
       <file name="$USER_HOME$/Sites/Rescue/helix/application/views/project/create.php" timestamp="1474523834553">
         <mark key="'" line="95" column="10" />
         <mark key="[" line="66" column="29" />
@@ -2138,8 +2137,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text>Email:</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICA8L2Rpdj4KICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -2202,34 +2201,34 @@
         <text encoding="base64">ICAgIHB1YmxpYyAkZnVsbF9uYW1lOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8YnIvPgo=</text>
+        <text encoding="base64">ICAgICAgICA8L2Rpdj4KICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAkZGF0YQo=</text>
+        <text encoding="base64">ICAgIDxkaXYgY2xhc3M9InJvdyI+CiAgICAgICAgPGRpdiBjbGFzcz0ic21hbGwtMTIgY29sdW1ucwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRyZXNwb25zZS0+YXBwTmFtZSA9ICRhbGxBcHBOYW1lc1skcXVlc3Rpb25uYWlyZS0+bmFtZV07Cg==</text>
+        <text encoding="base64">ICAgICAgICA8YnIvPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCRyZXNwb25zZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAkZGF0YQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCRhbGxBcHBOYW1lcyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRyZXNwb25zZS0+YXBwTmFtZSA9ICRhbGxBcHBOYW1lc1skcXVlc3Rpb25uYWlyZS0+bmFtZV07Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCRyZXNwb25zZSk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcXVlc3Rpb25uYWlyZU1hcCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCRhbGxBcHBOYW1lcyk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkcXVlc3Rpb25uYWlyZXMpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCRyZXNwb25zZSk7Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJGFsbFBhZ2VEYXRhKTsK</text>
+        <text encoding="base64">ICAgICAgICBkZCgkcXVlc3Rpb25uYWlyZU1hcCk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
