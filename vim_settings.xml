@@ -29,7 +29,7 @@
         <mark key="]" line="202" column="0" />
         <mark key="." line="202" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1475173583945">
+      <file name="/a.dummy" timestamp="1475179925114">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -128,12 +128,6 @@
         <mark key="]" line="108" column="21" />
         <mark key="." line="108" column="21" />
         <mark key="^" line="108" column="21" />
-      </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/models/core/authenticate_m.php" timestamp="1474933843981">
-        <mark key="'" line="56" column="15" />
-        <mark key="[" line="477" column="0" />
-        <mark key="]" line="477" column="0" />
-        <mark key="." line="477" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/models/services/ProjectSrv.php" timestamp="1475178393899">
         <mark key="'" line="189" column="63" />
@@ -241,7 +235,7 @@
         <mark key="." line="293" column="0" />
         <mark key="^" line="292" column="44" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/js/app/user_apply.js" timestamp="1474931729582">
+      <file name="$USER_HOME$/Sites/Rescue/helix/js/app/user_apply.js" timestamp="1475179836329">
         <mark key="'" line="968" column="60" />
         <mark key="[" line="944" column="43" />
         <mark key="]" line="945" column="16" />
@@ -256,12 +250,6 @@
         <mark key="]" line="24" column="40" />
         <mark key="." line="24" column="40" />
         <mark key="^" line="24" column="40" />
-      </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/js/app/user_signup.js" timestamp="1474932042365">
-        <mark key="'" line="65" column="0" />
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/lessons-in-flawless-complete.less" timestamp="1473917490700">
         <mark key="'" line="205" column="12" />
@@ -315,12 +303,6 @@
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/core/base_repo.php" timestamp="1474930759157">
-        <mark key="'" line="507" column="23" />
-        <mark key="[" line="1281" column="0" />
-        <mark key="]" line="1281" column="0" />
-        <mark key="." line="1281" column="0" />
-      </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/js/app/project.js" timestamp="1474568425234">
         <mark key="'" line="62" column="32" />
         <mark key="[" line="174" column="70" />
@@ -353,6 +335,12 @@
         <mark key="]" line="214" column="17" />
         <mark key="^" line="214" column="20" />
         <mark key="." line="214" column="17" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/helpers/user_helper.php" timestamp="1475179737259">
+        <mark key="[" line="1555" column="87" />
+        <mark key="]" line="1555" column="94" />
+        <mark key="." line="1555" column="94" />
+        <mark key="^" line="1555" column="94" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/models/core/import_m.php" timestamp="1474929436960">
         <mark key="'" line="1579" column="45" />
@@ -402,18 +390,20 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/controllers/users.php" timestamp="1475179954331">
+        <mark key="e" line="567" column="23" />
+        <mark key="'" line="836" column="4" />
+        <mark key="[" line="834" column="16" />
+        <mark key="]" line="834" column="30" />
+        <mark key="." line="834" column="30" />
+        <mark key="^" line="834" column="30" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/247nm/public/wp-content/themes/247nm/templates/contact.php" timestamp="1473459171428">
         <mark key="'" line="3" column="16" />
         <mark key="[" line="44" column="51" />
         <mark key="]" line="44" column="52" />
         <mark key="." line="44" column="52" />
         <mark key="^" line="11" column="32" />
-      </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/libraries/SurveyManifest.php" timestamp="1474580873343">
-        <mark key="'" line="506" column="21" />
-        <mark key="[" line="248" column="0" />
-        <mark key="]" line="248" column="0" />
-        <mark key="." line="248" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/libraries/facades/QuestionnaireResponseFacade.php" timestamp="1474652837441">
         <mark key="[" line="19" column="75" />
@@ -488,12 +478,12 @@
         <mark key="." line="24" column="0" />
         <mark key="^" line="25" column="86" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/controllers/my.php" timestamp="1474931417998">
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/controllers/my.php" timestamp="1475179582101">
         <mark key="'" line="149" column="28" />
-        <mark key="[" line="46" column="12" />
-        <mark key="]" line="46" column="29" />
-        <mark key="." line="46" column="29" />
-        <mark key="^" line="46" column="29" />
+        <mark key="[" line="210" column="31" />
+        <mark key="]" line="210" column="46" />
+        <mark key="." line="210" column="46" />
+        <mark key="^" line="210" column="46" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/questionnaire_repo.php" timestamp="1474566638100">
         <mark key="[" line="24" column="0" />
@@ -530,12 +520,6 @@
         <mark key="]" line="27" column="20" />
         <mark key="." line="27" column="20" />
         <mark key="^" line="27" column="20" />
-      </file>
-      <file name="$USER_HOME$/Sites/Rescue/247nm/public/wp-content/themes/247nm/assets/files/nm-districts.csv" timestamp="1474991286673">
-        <mark key="'" line="841" column="9" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/shared-environment/scripts/ubuntu-setup.sh.sample" timestamp="1473460395710">
         <mark key="'" line="20" column="14" />
@@ -574,6 +558,12 @@
         <mark key="]" line="13" column="9" />
         <mark key="^" line="13" column="9" />
         <mark key="." line="13" column="9" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/helpers/core_helper.php" timestamp="1475179781423">
+        <mark key="[" line="120" column="0" />
+        <mark key="]" line="120" column="0" />
+        <mark key="." line="120" column="0" />
+        <mark key="^" line="38" column="16" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/247nm/public/wp-content/themes/247nm/assets/less/main.less" timestamp="1473459141081">
         <mark key="'" line="3" column="10" />
@@ -652,8 +642,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="302" column="10" filename="$USER_HOME$/Sites/Rescue/247nm/public/wp-content/themes/247nm/functions/data-manager/display-signage.php" />
-      <jump line="287" column="42" filename="$USER_HOME$/Sites/Rescue/247nm/public/wp-content/themes/247nm/functions/data-manager/display-signage.php" />
       <jump line="63" column="30" filename="$USER_HOME$/Sites/Rescue/247nm/public/wp-content/themes/247nm/functions/data-manager/display-signage.php" />
       <jump line="162" column="29" filename="$USER_HOME$/Sites/Rescue/247nm/public/wp-content/themes/247nm/functions/data-manager/display-signage.php" />
       <jump line="188" column="58" filename="$USER_HOME$/Sites/Rescue/247nm/public/wp-content/themes/247nm/functions/data-manager/display-signage.php" />
@@ -752,6 +740,8 @@
       <jump line="95" column="102" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/questionnaires.php" />
       <jump line="97" column="103" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/questionnaires.php" />
       <jump line="1670" column="49" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/projects.php" />
+      <jump line="831" column="13" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/users.php" />
+      <jump line="836" column="4" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/users.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2596,8 +2586,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJGNvbXBsZXRlZExlYWRlcnNoaXBBcHApOwogICAgICAgICAgICBkZCgkY29tcGxldGVkTGVhZGVyc2hpcEFwcC0+bWVtYmVyVHlwZVN0YXR1cyk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>(isAdultSystem())</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -2651,55 +2641,55 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>$</text>
+        <text>(isAdultSystem())</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb21wbGV0ZWRMZWFkZXJzaGlwQXBwXD4=</text>
+        <text>edit</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkcHJvZmlsZUxpbmsgPSAnPGEgaHJlZj0iJyAuIHVybF9wcm9maWxlKCR1c2VyLT5pZCkgLiAnIj4nIC4gJHVzZXItPmZ1bGxOYW1lIC4gJzwvYT4nOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJGNvbXBsZXRlZExlYWRlcnNoaXBBcHApOwogICAgICAgICAgICBkZCgkY29tcGxldGVkTGVhZGVyc2hpcEFwcC0+bWVtYmVyVHlwZVN0YXR1cyk7Cg==</text>
+        <text encoding="base64">ICAgICRzeXN0ZW1bJ2FkdWx0X3N5c3RlbSddID0gaXNBZHVsdFN5c3RlbSgkc3lzdGVtWydpZCddKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJGNvbXBsZXRlZExlYWRlcnNoaXBBcHApOwogICAgICAgICAgICBkZCgkY29tcGxldGVkTGVhZGVyc2hpcEFwcC0+bWVtYmVyVHlwZVN0YXR1cyk7Cg==</text>
+        <text encoding="base64">Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBocG8+PC9waHBvPgo=</text>
+        <text encoding="base64">ICAgICR1c2VyID0gZ2V0Q3VyclVzZXIoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGhwbz48L3BocG8+ICAgIAo=</text>
+        <text encoding="base64">ICAgIHJldHVybiBpc0ZyZWVUaGVOaWdodCgkaWQpIHx8IGlzQ291bnRlckJhbGFuY2UoJGlkKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPD9waHAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJGNvbXBsZXRlZExlYWRlcnNoaXBBcHApOwogICAgICAgICAgICBkZCgkY29tcGxldGVkTGVhZGVyc2hpcEFwcC0+bWVtYmVyVHlwZVN0YXR1cyk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAkbGVhZGVyc2hpcENvbXBsZXRlID0gZmFsc2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJGNvbXBsZXRlZExlYWRlcnNoaXBBcHApOwogICAgICAgICAgICBkZCgkY29tcGxldGVkTGVhZGVyc2hpcEFwcC0+bWVtYmVyVHlwZVN0YXR1cyk7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBocG8+PC9waHBvPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGhwbz48L3BocG8+ICAgIAo=</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPD9waHAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb21wbGV0ZWRMZWFkZXJzaGlwQXBwXD4=</last-search>
+      <last-search>edit</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb21wbGV0ZWRMZWFkZXJzaGlwQXBwXD4=</last-pattern>
+      <last-pattern>edit</last-pattern>
       <last-replace>post(</last-replace>
       <last-substitute encoding="base64">XDx2YWxpZGF0ZUNvdXJzZUxlc3Nvblw+</last-substitute>
-      <last-dir>-1</last-dir>
+      <last-dir>1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -2732,6 +2722,8 @@
         <entry>getAppr</entry>
         <entry encoding="base64">XDxsZWFkZXJzaGlwQXBwXD4=</entry>
         <entry encoding="base64">XDxjb21wbGV0ZWRMZWFkZXJzaGlwQXBwXD4=</entry>
+        <entry encoding="base64">XDxhcHBseV9leHRyYVw+</entry>
+        <entry>edit</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
