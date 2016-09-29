@@ -135,7 +135,7 @@
         <mark key="]" line="477" column="0" />
         <mark key="." line="477" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/models/services/ProjectSrv.php" timestamp="1475093929119">
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/models/services/ProjectSrv.php" timestamp="1475178393899">
         <mark key="'" line="189" column="63" />
         <mark key="[" line="130" column="0" />
         <mark key="]" line="130" column="0" />
@@ -228,10 +228,11 @@
         <mark key="." line="64" column="62" />
         <mark key="^" line="64" column="62" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/controllers/projects.php" timestamp="1475176710345">
-        <mark key="[" line="1669" column="0" />
-        <mark key="]" line="1669" column="0" />
-        <mark key="." line="1669" column="0" />
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/controllers/projects.php" timestamp="1475178847204">
+        <mark key="[" line="1670" column="73" />
+        <mark key="]" line="1670" column="73" />
+        <mark key="." line="1670" column="73" />
+        <mark key="^" line="1670" column="73" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/user_repo.php" timestamp="1474930767454">
         <mark key="'" line="94" column="29" />
@@ -401,10 +402,6 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/controllers/users.php" timestamp="1474933790361">
-        <mark key="e" line="567" column="23" />
-        <mark key="'" line="983" column="45" />
-      </file>
       <file name="$USER_HOME$/Sites/Rescue/247nm/public/wp-content/themes/247nm/templates/contact.php" timestamp="1473459171428">
         <mark key="'" line="3" column="16" />
         <mark key="[" line="44" column="51" />
@@ -503,6 +500,12 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/views/project/view.php" timestamp="1475178680704">
+        <mark key="[" line="296" column="45" />
+        <mark key="]" line="296" column="68" />
+        <mark key="." line="296" column="68" />
+        <mark key="^" line="296" column="68" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/FeWaveTwo/Variables.php" timestamp="1472790257181">
         <mark key="'" line="640" column="27" />
         <mark key="[" line="694" column="0" />
@@ -555,10 +558,8 @@
         <mark key="." line="58" column="25" />
         <mark key="^" line="57" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1475177591443">
-        <mark key="[" line="0" column="33" />
-        <mark key="]" line="0" column="46" />
-        <mark key="." line="0" column="46" />
+      <file name="/Dummy.txt" timestamp="1475178969225">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/247nm-boilerplate/public/wp-content/themes/247nm/functions/data-manager/submit-contact.php" timestamp="1472869999139">
         <mark key="'" line="15" column="37" />
@@ -651,7 +652,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="310" column="19" filename="$USER_HOME$/Sites/Rescue/247nm/public/wp-content/themes/247nm/functions/data-manager/display-signage.php" />
       <jump line="302" column="10" filename="$USER_HOME$/Sites/Rescue/247nm/public/wp-content/themes/247nm/functions/data-manager/display-signage.php" />
       <jump line="287" column="42" filename="$USER_HOME$/Sites/Rescue/247nm/public/wp-content/themes/247nm/functions/data-manager/display-signage.php" />
       <jump line="63" column="30" filename="$USER_HOME$/Sites/Rescue/247nm/public/wp-content/themes/247nm/functions/data-manager/display-signage.php" />
@@ -751,6 +751,7 @@
       <jump line="102" column="49" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/questionnaires.php" />
       <jump line="95" column="102" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/questionnaires.php" />
       <jump line="97" column="103" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/questionnaires.php" />
+      <jump line="1670" column="49" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/projects.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2595,8 +2596,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">YWRtaW4tPmZ1bGxOYW1l</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJGNvbXBsZXRlZExlYWRlcnNoaXBBcHApOwogICAgICAgICAgICBkZCgkY29tcGxldGVkTGVhZGVyc2hpcEFwcC0+bWVtYmVyVHlwZVN0YXR1cyk7Cg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -2650,52 +2651,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YWRtaW4tPmZ1bGxOYW1l</text>
+        <text>$</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsZWFkZXJzaGlwQXBwXD4=</text>
+        <text encoding="base64">XDxjb21wbGV0ZWRMZWFkZXJzaGlwQXBwXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAkcHJvZmlsZUxpbmsgPSAnPGEgaHJlZj0iJyAuIHVybF9wcm9maWxlKCR1c2VyLT5pZCkgLiAnIj4nIC4gJHVzZXItPmZ1bGxOYW1lIC4gJzwvYT4nOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJGNvbXBsZXRlZExlYWRlcnNoaXBBcHApOwogICAgICAgICAgICBkZCgkY29tcGxldGVkTGVhZGVyc2hpcEFwcC0+bWVtYmVyVHlwZVN0YXR1cyk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgZGQoJGNvbXBsZXRlZExlYWRlcnNoaXBBcHApOwogICAgICAgICAgICBkZCgkY29tcGxldGVkTGVhZGVyc2hpcEFwcC0+bWVtYmVyVHlwZVN0YXR1cyk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICRsZWFkZXJzaGlwQXBwLT5kaXNwbGF5TmFtZQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPHBocG8+PC9waHBvPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJGNvbXBsZXRlZExlYWRlcnNoaXBBcHApOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICA8cGhwbz48L3BocG8+ICAgIAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAkbGluayAgICA9ICI8YSBocmVmPSciIC4gdXJsX2xlYWRlcnNoaXBfYXBwbGljYXRpb25fcmV2aWV3KCRpZCkgLiAiJz4oIiAuICRuYW1lIC4gIik8L2E+IjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgPD9waHAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gIllvdSBTdWJtaXR0ZWQgYSBMZWFkZXJzaGlwIEFwcGxpY2F0aW9uICgkbmFtZSkiOwo=</text>
+        <text encoding="base64">ICAgICAgICAkbGVhZGVyc2hpcENvbXBsZXRlID0gZmFsc2U7Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgJHByZXZpb3VzU3RhdHVzID0gJHJlc3BvbnNlLT5zdGF0dXM7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTGVhZGVyc2hpcEFwcGxpY2F0aW9uTGliOjoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBvTGFzdCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsZWFkZXJzaGlwQXBwXD4=</last-search>
+      <last-search encoding="base64">XDxjb21wbGV0ZWRMZWFkZXJzaGlwQXBwXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsZWFkZXJzaGlwQXBwXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxjb21wbGV0ZWRMZWFkZXJzaGlwQXBwXD4=</last-pattern>
       <last-replace>post(</last-replace>
       <last-substitute encoding="base64">XDx2YWxpZGF0ZUNvdXJzZUxlc3Nvblw+</last-substitute>
       <last-dir>-1</last-dir>
@@ -2730,6 +2731,7 @@
         <entry>getSubmissionMessageForMember</entry>
         <entry>getAppr</entry>
         <entry encoding="base64">XDxsZWFkZXJzaGlwQXBwXD4=</entry>
+        <entry encoding="base64">XDxjb21wbGV0ZWRMZWFkZXJzaGlwQXBwXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
