@@ -132,12 +132,6 @@
         <mark key="." line="108" column="21" />
         <mark key="^" line="108" column="21" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/models/core/authenticate_m.php" timestamp="1474933843981">
-        <mark key="'" line="56" column="15" />
-        <mark key="[" line="477" column="0" />
-        <mark key="]" line="477" column="0" />
-        <mark key="." line="477" column="0" />
-      </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/models/services/ProjectSrv.php" timestamp="1475178393899">
         <mark key="'" line="189" column="63" />
         <mark key="[" line="130" column="0" />
@@ -262,12 +256,6 @@
         <mark key="." line="13" column="77" />
         <mark key="^" line="13" column="77" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/js/app/user_signup.js" timestamp="1474932042365">
-        <mark key="'" line="65" column="0" />
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
-      </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/js/app/profile.js" timestamp="1475187542297">
         <mark key="'" line="289" column="38" />
         <mark key="[" line="357" column="31" />
@@ -326,12 +314,6 @@
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="0" />
         <mark key="." line="37" column="0" />
-      </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/core/base_repo.php" timestamp="1474930759157">
-        <mark key="'" line="507" column="23" />
-        <mark key="[" line="1281" column="0" />
-        <mark key="]" line="1281" column="0" />
-        <mark key="." line="1281" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/js/app/project.js" timestamp="1474568425234">
         <mark key="'" line="62" column="32" />
@@ -431,12 +413,6 @@
         <mark key="]" line="44" column="52" />
         <mark key="." line="44" column="52" />
         <mark key="^" line="11" column="32" />
-      </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/libraries/SurveyManifest.php" timestamp="1474580873343">
-        <mark key="'" line="506" column="21" />
-        <mark key="[" line="248" column="0" />
-        <mark key="]" line="248" column="0" />
-        <mark key="." line="248" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/libraries/facades/QuestionnaireResponseFacade.php" timestamp="1474652837441">
         <mark key="[" line="19" column="75" />
@@ -543,11 +519,11 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/controllers/profiles.php" timestamp="1475188627095">
-        <mark key="'" line="121" column="13" />
-        <mark key="[" line="138" column="0" />
-        <mark key="]" line="138" column="0" />
-        <mark key="." line="138" column="0" />
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/controllers/profiles.php" timestamp="1475189538101">
+        <mark key="[" line="130" column="19" />
+        <mark key="]" line="130" column="62" />
+        <mark key="^" line="130" column="62" />
+        <mark key="." line="130" column="62" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/views/project/view.php" timestamp="1475178680704">
         <mark key="[" line="296" column="45" />
@@ -579,12 +555,6 @@
         <mark key="]" line="27" column="20" />
         <mark key="." line="27" column="20" />
         <mark key="^" line="27" column="20" />
-      </file>
-      <file name="$USER_HOME$/Sites/Rescue/247nm/public/wp-content/themes/247nm/assets/files/nm-districts.csv" timestamp="1474991286673">
-        <mark key="'" line="841" column="9" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/shared-environment/scripts/ubuntu-setup.sh.sample" timestamp="1473460395710">
         <mark key="'" line="20" column="14" />
@@ -2659,8 +2629,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkZGF0YSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">UmVzdHJpY3QgbWVzc2FnaW5nIGJldHdlZW4gYWR1bHQgJiYgbm9uLWFkdWx0IGFjY291bnRz</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -2714,7 +2684,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>isOwner</text>
+        <text encoding="base64">UmVzdHJpY3QgbWVzc2FnaW5nIGJldHdlZW4gYWR1bHQgJiYgbm9uLWFkdWx0IGFjY291bnRz</text>
       </register>
       <register name="/" type="4">
         <text>send-me</text>
@@ -2723,28 +2693,28 @@
         <text encoding="base64">ICAgICAgICAkbWVzc2FnaW5nRW5hYmxlZCA9IHRydWU7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkZGF0YSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgLy8gUmVzdHJpY3QgbWVzc2FnaW5nIGJldHdlZW4gYWR1bHQgJiYgbm9uLWFkdWx0IGFjY291bnRzCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkbWVzc2FnaW5nRW5hYmxlZCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvLyBSZXN0cmljdCBtZXNzYWdpbmcgYmV0d2VlbiBhZHVsdCAmJiBub24tYWR1bHQgYWNjb3VudHMK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkY3VycmVudFVzZXIpOwo=</text>
+        <text encoding="base64">Ly8gICAgICAgIGRkKCRpc093bmVyLCAkaXNBZG1pbiwgJGN1cnJlbnRVc2VyLCAkdXNlcik7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkbWVzc2FnaW5nRW5hYmxlZCwgJGN1cnJlbnRVc2VyLCAkdXNlcik7Cg==</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkaXNPd25lciwgJGlzQWRtaW4sICRjdXJyZW50VXNlci0+aXNfYWR1bHQgPT09ICR1c2VyLT5pc19hZHVsdCk7Cgo=</text>
+        <text encoding="base64">ICAgICAgICBpZiAoISRpc093bmVyICYmICEkaXNBZG1pbiAmJiAkY3VycmVudFVzZXItPmlzX2FkdWx0ICE9PSAkdXNlci0+aXNfYWR1bHQpIHsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgkaXNPd25lciwgJG1lc3NhZ2luZ0VuYWJsZWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJG1lc3NhZ2luZ0VuYWJsZWQgPSBmYWxzZTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
