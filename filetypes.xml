@@ -8,6 +8,7 @@
       <mapping pattern="basic-elements.less" type="PLAIN_TEXT" />
       <mapping pattern="survey_decorator" type="PLAIN_TEXT" />
       <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
+      <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="appcache" type="PLAIN_TEXT" />
       <mapping ext="py" type="PLAIN_TEXT" />
       <mapping ext="scssc" type="Sass" />
