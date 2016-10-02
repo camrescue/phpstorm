@@ -211,8 +211,8 @@
         <mark key="." line="56" column="77" />
         <mark key="^" line="56" column="77" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/models/entities/User.php" timestamp="1475185466624">
-        <mark key="'" line="221" column="0" />
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/models/entities/User.php" timestamp="1475368871900">
+        <mark key="'" line="0" column="0" />
         <mark key="[" line="423" column="12" />
         <mark key="]" line="423" column="29" />
         <mark key="." line="423" column="29" />
@@ -606,8 +606,8 @@
       <file name="$USER_HOME$/Sites/Rescue/helix/application/controllers/admins.php" timestamp="1475271908211">
         <mark key="'" line="15" column="19" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/controllers/my.php" timestamp="1475182937301">
-        <mark key="'" line="213" column="0" />
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/controllers/my.php" timestamp="1475368728291">
+        <mark key="'" line="144" column="14" />
         <mark key="[" line="210" column="31" />
         <mark key="]" line="210" column="46" />
         <mark key="." line="210" column="46" />
@@ -625,12 +625,11 @@
         <mark key="]" line="24" column="0" />
         <mark key="." line="24" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/controllers/profiles.php" timestamp="1475279337465">
-        <mark key="'" line="305" column="4" />
-        <mark key="[" line="130" column="19" />
-        <mark key="]" line="130" column="62" />
-        <mark key="^" line="130" column="62" />
-        <mark key="." line="130" column="62" />
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/controllers/profiles.php" timestamp="1475369419269">
+        <mark key="'" line="147" column="13" />
+        <mark key="[" line="148" column="0" />
+        <mark key="]" line="148" column="0" />
+        <mark key="." line="148" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/views/project/view.php" timestamp="1475178680704">
         <mark key="[" line="296" column="45" />
@@ -703,12 +702,12 @@
         <mark key="^" line="13" column="9" />
         <mark key="." line="13" column="9" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/views/profile/main.php" timestamp="1475188614844">
-        <mark key="'" line="36" column="44" />
-        <mark key="[" line="77" column="31" />
-        <mark key="]" line="77" column="46" />
-        <mark key="^" line="77" column="46" />
-        <mark key="." line="77" column="46" />
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/views/profile/main.php" timestamp="1475369518106">
+        <mark key="'" line="13" column="69" />
+        <mark key="[" line="104" column="115" />
+        <mark key="]" line="104" column="118" />
+        <mark key="^" line="104" column="118" />
+        <mark key="." line="104" column="118" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/helpers/core_helper.php" timestamp="1475187494244">
         <mark key="[" line="37" column="24" />
@@ -806,18 +805,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="360" column="90" filename="$USER_HOME$/Sites/Rescue/helix/application/models/core/import_m.php" />
-      <jump line="824" column="23" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/core/base_repo.php" />
-      <jump line="838" column="27" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/core/base_repo.php" />
-      <jump line="1631" column="36" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/core/base_repo.php" />
-      <jump line="45" column="15" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/core/base_repo.php" />
-      <jump line="1192" column="8" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/core/base_repo.php" />
-      <jump line="461" column="26" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/core/base_repo.php" />
-      <jump line="458" column="45" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/core/base_repo.php" />
-      <jump line="47" column="15" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/core/base_repo.php" />
-      <jump line="1188" column="23" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/core/base_repo.php" />
-      <jump line="1251" column="19" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/core/base_repo.php" />
-      <jump line="493" column="19" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/core/base_repo.php" />
       <jump line="1215" column="36" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/core/base_repo.php" />
       <jump line="1199" column="41" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/core/base_repo.php" />
       <jump line="43" column="16" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/core/base_repo.php" />
@@ -906,6 +893,18 @@
       <jump line="38" column="20" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/location_repo.php" />
       <jump line="334" column="21" filename="$USER_HOME$/Sites/Rescue/helix/application/models/core/import_m.php" />
       <jump line="28" column="83" filename="$USER_HOME$/Sites/Rescue/helix/application/models/core/import_m.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/my.php" />
+      <jump line="44" column="25" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/my.php" />
+      <jump line="54" column="11" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/my.php" />
+      <jump line="62" column="26" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/my.php" />
+      <jump line="63" column="66" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/my.php" />
+      <jump line="67" column="29" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/my.php" />
+      <jump line="144" column="14" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/my.php" />
+      <jump line="308" column="0" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/profiles.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Sites/Rescue/helix/application/models/entities/User.php" />
+      <jump line="47" column="74" filename="$USER_HOME$/Sites/Rescue/helix/application/views/profile/main.php" />
+      <jump line="148" column="13" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/profiles.php" />
+      <jump line="13" column="69" filename="$USER_HOME$/Sites/Rescue/helix/application/views/profile/main.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2751,7 +2750,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>r</text>
+        <text>'</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -2805,52 +2804,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>'</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxjb3VudHlNaWdyYXRpb25cPg==</text>
+        <text>Location</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICd6aXAnID0+ICRkYXRhWzBdLAo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgJ2NvdW50eScgPT4gISBlbXB0eSgkbG9jYXRpb24tPmNvdW50eSkgCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBkZCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkZGF0YSk7Cgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cj8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAkY291bnR5TmFtZSA9ICEgZW1wdHkoJGxvY2F0aW9uKSA/ICRsb2NhdGlvbi0+Y291bnR5IDogJyc7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cj8+Cg==</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdXNlci0+emlwLCAkbG9jYXRpb24pOwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgpCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJGxvYyk7Cg==</text>
+        <text encoding="base64">Cj8+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICI8YnI+IjsKICAgICAgICBlY2hvICJGaWxlIENsb3NlZCI7Cg==</text>
+        <text encoding="base64">Cj8+Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvICI8YnI+IjsKICAgICAgICBlY2hvICJDbG9zaW5nIGZpbGUiOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxjb3VudHlNaWdyYXRpb25cPg==</last-search>
+      <last-search>Location</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxjb3VudHlNaWdyYXRpb25cPg==</last-pattern>
+      <last-pattern>Location</last-pattern>
       <last-replace>post(</last-replace>
       <last-substitute encoding="base64">XDx2YWxpZGF0ZUNvdXJzZUxlc3Nvblw+</last-substitute>
       <last-dir>1</last-dir>
@@ -2965,7 +2964,6 @@
         <entry encoding="base64">XDxzeXN0ZW1aaXBcPg==</entry>
         <entry>dd(</entry>
         <entry>function json_one</entry>
-        <entry>Location</entry>
         <entry>location_zip</entry>
         <entry>insert</entry>
         <entry encoding="base64">XDxpbnNlcnRaaXBcPg==</entry>
@@ -2978,6 +2976,10 @@
         <entry encoding="base64">LT5zdGF0ZQ==</entry>
         <entry encoding="base64">XDxhbGxTdGF0ZVJlZ2lvbnNcPg==</entry>
         <entry encoding="base64">XDxjb3VudHlNaWdyYXRpb25cPg==</entry>
+        <entry>profile</entry>
+        <entry>fullLo</entry>
+        <entry encoding="base64">XDxsb2NhdGlvblw+</entry>
+        <entry>Location</entry>
       </history-search>
       <history-cmd>
         <entry>q</entry>
