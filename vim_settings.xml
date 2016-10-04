@@ -136,6 +136,12 @@
         <mark key="." line="108" column="21" />
         <mark key="^" line="108" column="21" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/havoc/composer.json" timestamp="1475616042302">
+        <mark key="[" line="12" column="55" />
+        <mark key="]" line="12" column="55" />
+        <mark key="." line="12" column="55" />
+        <mark key="^" line="12" column="46" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/views/developer/import.php" timestamp="1475274615090">
         <mark key="[" line="12" column="20" />
         <mark key="]" line="12" column="34" />
@@ -252,7 +258,6 @@
         <mark key="." line="142" column="33" />
         <mark key="^" line="142" column="33" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/views/dashboard/modules/events.php" timestamp="1475536506562" />
       <file name="$USER_HOME$/Sites/Rescue/247nm/public/wp-content/themes/247nm/functions/data-manager/require-config.php" timestamp="1473451085911">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -303,7 +308,6 @@
         <mark key="^" line="1093" column="44" />
         <mark key="." line="1093" column="44" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/models/entities/Mop.php" timestamp="1475276640514" />
       <file name="$USER_HOME$/Sites/Rescue/helix/application/libraries/Authenticate.php" timestamp="1474932932799">
         <mark key="'" line="0" column="0" />
       </file>
@@ -337,7 +341,6 @@
         <mark key="^" line="358" column="41" />
         <mark key="." line="357" column="32" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/files/regions/counterbalance_northern.csv" timestamp="1475553745990" />
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/lessons-in-flawless-complete.less" timestamp="1473917490700">
         <mark key="'" line="205" column="12" />
         <mark key="[" line="223" column="27" />
@@ -420,7 +423,6 @@
         <mark key="^" line="272" column="27" />
         <mark key="." line="272" column="27" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/models/services/PointSrv.php" timestamp="1475276771392" />
       <file name="$USER_HOME$/Sites/Mine/udacity/meetup-planner/src/templates/login.html" timestamp="1475454452808">
         <mark key="[" line="43" column="0" />
         <mark key="]" line="43" column="0" />
@@ -537,8 +539,6 @@
         <mark key="." line="44" column="52" />
         <mark key="^" line="11" column="32" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/files/regions/counterbalance_northern_zip.csv" timestamp="1475280888903" />
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/helpers/activity_helper.php" timestamp="1475540268756" />
       <file name="$USER_HOME$/Sites/Rescue/helix/application/libraries/facades/QuestionnaireResponseFacade.php" timestamp="1474652837441">
         <mark key="[" line="19" column="75" />
         <mark key="]" line="19" column="75" />
@@ -620,6 +620,10 @@
         <mark key="." line="58" column="34" />
         <mark key="^" line="58" column="34" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/247nm/composer.json" timestamp="1475615898083">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="47" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/add-shared-dir.sh" timestamp="1472446329172">
         <mark key="'" line="4" column="29" />
         <mark key="[" line="24" column="0" />
@@ -665,7 +669,6 @@
         <mark key="^" line="695" column="21" />
         <mark key="." line="695" column="21" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/organization_repo.php" timestamp="1475277725453" />
       <file name="$USER_HOME$/Sites/Rescue/shared-environment/scripts/python/clone-site.py" timestamp="1472696092647">
         <mark key="'" line="169" column="37" />
         <mark key="[" line="158" column="33" />
@@ -673,7 +676,6 @@
         <mark key="^" line="158" column="37" />
         <mark key="." line="158" column="37" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/socialpostlike_repo.php" timestamp="1475276877426" />
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/drupal_translators/WhatWeUpTranslator.js" timestamp="1473984612483">
         <mark key="[" line="262" column="0" />
         <mark key="]" line="262" column="0" />
@@ -2773,8 +2775,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>,</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -2828,13 +2830,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>,</text>
       </register>
       <register name="/" type="4">
         <text>mem</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPD9waHAgaWYgKCEgJHVzZXItPmlzX2FkdWx0KSA/Pgo=</text>
+        <text encoding="base64">ICAgICAgICAid3BhY2thZ2lzdC1wbHVnaW4vY29udGFjdC1mb3JtLTciOiAiNC4qIiwK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
@@ -2877,162 +2879,10 @@
       <last-replace>post(</last-replace>
       <last-substitute encoding="base64">XDx2YWxpZGF0ZUNvdXJzZUxlc3Nvblw+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>console</entry>
-        <entry>users</entry>
-        <entry>apply_extra</entry>
-        <entry>register</entry>
-        <entry encoding="base64">XDxmaWx0ZXJUYWJsZURhdGFcPg==</entry>
-        <entry encoding="base64">XDxhdXRoUm9sZUlkXD4=</entry>
-        <entry>SCHOOL</entry>
-        <entry>DISTRICT</entry>
-        <entry>pref</entry>
-        <entry>prefetch</entry>
-        <entry>school</entry>
-        <entry>nm-</entry>
-        <entry encoding="base64">XDxzY2hvb2xzXD4=</entry>
-        <entry>typeaheadn</entry>
-        <entry>debugg</entry>
-        <entry encoding="base64">XDxpc19wdWJsaXNoZWRcPg==</entry>
-        <entry encoding="base64">XDxpc1Byb3Bvc2FsVHlwZVw+</entry>
-        <entry encoding="base64">XDxza2lwQXZhaWxhYmxlXD4=</entry>
-        <entry>oLas</entry>
-        <entry>review</entry>
-        <entry>Message</entry>
-        <entry encoding="base64">XDxMZWFkZXJzaGlwQXBwbGljYXRpb25MaWJcPg==</entry>
-        <entry>getSubmissionMessageForMember</entry>
-        <entry>getAppr</entry>
-        <entry encoding="base64">XDxsZWFkZXJzaGlwQXBwXD4=</entry>
-        <entry encoding="base64">XDxjb21wbGV0ZWRMZWFkZXJzaGlwQXBwXD4=</entry>
-        <entry encoding="base64">XDxhcHBseV9leHRyYVw+</entry>
-        <entry>login</entry>
-        <entry>apply_ex</entry>
-        <entry encoding="base64">XDxqc0RhdGFcPg==</entry>
-        <entry encoding="base64">XDxzZWxlY3RcPg==</entry>
-        <entry encoding="base64">XDxpbnB1dFR5cGVcPg==</entry>
-        <entry encoding="base64">XDxjb250YWN0RWRpdFw+</entry>
-        <entry encoding="base64">XDxnZXRZZXNPck5vTGlzdFw+</entry>
-        <entry>api</entry>
-        <entry>is_a</entry>
-        <entry>app_edit</entry>
-        <entry encoding="base64">XDxpdGVtXD4=</entry>
-        <entry encoding="base64">XDxiaXJ0aGRheUVkaXRcPg==</entry>
-        <entry>message</entry>
-        <entry encoding="base64">XDxtZXNzYWdpbmdFbmFibGVkXD4=</entry>
-        <entry>send-me</entry>
-        <entry>region</entry>
-        <entry>regions</entry>
-        <entry encoding="base64">XDxhZGRSZWdpb25zXD4=</entry>
-        <entry>addRegions</entry>
-        <entry>regionMap</entry>
-        <entry>createR</entry>
-        <entry encoding="base64">XDxyZWdpb25NYXBcPg==</entry>
-        <entry encoding="base64">XDxjcmVhdGVSZWdpb25zXD4=</entry>
-        <entry>CounterBa</entry>
-        <entry encoding="base64">XDxjb3VudGVyQmFsYW5jZVppcEZpbGVcPg==</entry>
-        <entry>Counter</entry>
-        <entry encoding="base64">XDxteUNvdW50ZXJCYWxhbmNlU2V0dXBcPg==</entry>
-        <entry encoding="base64">XDxjb3VudGVyQmFsYW5jZVN5c3RlbVVwZGF0ZXMyMDE3XD4=</entry>
-        <entry encoding="base64">XDxkYXRhVG9DbGF1c2VzXD4=</entry>
-        <entry encoding="base64">XDxnZXRTZWFyY2hRdWVyeVw+</entry>
-        <entry encoding="base64">XDxyZWdpb25JZFw+</entry>
-        <entry>location_region</entry>
-        <entry>region_zip</entry>
-        <entry>persist</entry>
-        <entry>query(</entry>
-        <entry>Clause</entry>
-        <entry>searchDb</entry>
-        <entry encoding="base64">XDxzZWFyY2hEYlw+</entry>
-        <entry>all(</entry>
-        <entry encoding="base64">XDxyZWdpb25aaXBcPg==</entry>
-        <entry encoding="base64">XDx6aXBJZFw+</entry>
-        <entry>settings</entry>
-        <entry>function set</entry>
-        <entry>settings_admin</entry>
-        <entry encoding="base64">XDxoYW5kbGVcPg==</entry>
-        <entry encoding="base64">XDxpbXBsb2RlXD4=</entry>
-        <entry>Like</entry>
-        <entry>like</entry>
-        <entry encoding="base64">XDxmaWx0ZXJGaWVsZFw+</entry>
-        <entry encoding="base64">XDxsaWtlXD4=</entry>
-        <entry encoding="base64">XDx3aGVyZUZpZWxkc1w+</entry>
-        <entry>whereLike</entry>
-        <entry encoding="base64">XDx3aGVyZU5vdE51bGxGaWVsZHNcPg==</entry>
-        <entry encoding="base64">XDx3aGVyZU51bGxDbGF1c2VcPg==</entry>
-        <entry encoding="base64">XDxkYXRhXD4=</entry>
-        <entry>LikeFields</entry>
-        <entry encoding="base64">XDx3aGVyZUxpa2VDbGF1c2VcPg==</entry>
-        <entry encoding="base64">XDxsaWtlQ2xhdXNlXD4=</entry>
-        <entry encoding="base64">XDxpbnNlcnRcPg==</entry>
-        <entry encoding="base64">XDxzdGF0ZV9pZFw+</entry>
-        <entry>update(</entry>
-        <entry encoding="base64">XDx1cGRhdGVcPg==</entry>
-        <entry>location</entry>
-        <entry encoding="base64">XDxmZXRjaFppcFw+</entry>
-        <entry>dataToCl</entry>
-        <entry encoding="base64">XDxoYXZpbmdcPg==</entry>
-        <entry>getSearchQuery</entry>
-        <entry>function search</entry>
-        <entry>getFirst</entry>
-        <entry>searchQuer</entry>
-        <entry>searchClause</entry>
-        <entry>whereCla</entry>
-        <entry encoding="base64">XDx3aGVyZUNsYXVzZVw+</entry>
-        <entry>queryClause</entry>
-        <entry>searchCl</entry>
-        <entry encoding="base64">XDxzeXN0ZW1aaXBcPg==</entry>
-        <entry>dd(</entry>
-        <entry>function json_one</entry>
-        <entry>location_zip</entry>
-        <entry>insert</entry>
-        <entry encoding="base64">XDxpbnNlcnRaaXBcPg==</entry>
-        <entry encoding="base64">XDxnZXRTdGF0ZUlkXD4=</entry>
-        <entry encoding="base64">XDxnZXRDaXR5SWRcPg==</entry>
-        <entry>&quot;20189</entry>
-        <entry>Las C</entry>
-        <entry encoding="base64">XDxmZ2V0Y3N2XD4=</entry>
-        <entry encoding="base64">XDxhZGRaaXBGaWxlTWlncmF0aW9uXD4=</entry>
-        <entry encoding="base64">LT5zdGF0ZQ==</entry>
-        <entry encoding="base64">XDxhbGxTdGF0ZVJlZ2lvbnNcPg==</entry>
-        <entry>profile</entry>
-        <entry>fullLo</entry>
-        <entry>Location</entry>
-        <entry encoding="base64">XDxyb3V0ZXNcPg==</entry>
-        <entry encoding="base64">XDxJbnB1dFZhbGlkYXRvclw+</entry>
-        <entry encoding="base64">XDxlbWFpbFZhbGlkYXRlXD4=</entry>
-        <entry encoding="base64">XDxzZXRVc2VyXD4=</entry>
-        <entry encoding="base64">XDx1c2Vyc1w+</entry>
-        <entry encoding="base64">XDxzZWN0aW9uXD4=</entry>
-        <entry>data-pa</entry>
-        <entry encoding="base64">XDxmb3JtSGVscGVyXD4=</entry>
-        <entry>compl</entry>
-        <entry>getScoreSu</entry>
-        <entry encoding="base64">XDxsZXNzb25cPg==</entry>
-        <entry encoding="base64">XDxxdWl6UmVzdWx0VHh0XD4=</entry>
-        <entry encoding="base64">XDxnZXRTY29yZVN1bW1hcnlcPg==</entry>
-        <entry encoding="base64">XDxnZXRDb21wbGV0ZVNjb3JlXD4=</entry>
-        <entry>path(</entry>
-        <entry>$location.path</entry>
-        <entry encoding="base64">XDxsZXNzb25zSW5GbGF3bGVzc1w+</entry>
-        <entry>clear</entry>
-        <entry encoding="base64">XDxzY3JvbGxUb1w+</entry>
-        <entry encoding="base64">XDxicm9hZGNhc3RMYXlvdXRDaGFuZ2VcPg==</entry>
-        <entry encoding="base64">XDxzZXRTY3JlZW5yZWFkZXJGb2N1c1w+</entry>
-        <entry>search</entry>
-        <entry>has</entry>
-        <entry encoding="base64">XDxxdWVyeVw+</entry>
-        <entry encoding="base64">XDxjbGVhclF1ZXJ5XD4=</entry>
-        <entry encoding="base64">XDxwcmV2ZW50TG9jYXRpb25DaGFuZ2VcPg==</entry>
-        <entry>save_p</entry>
-        <entry encoding="base64">XDxyZWFkV3JpdGVTeW5jXD4=</entry>
-        <entry encoding="base64">XDx2ZXJzaW9uUGF0dGVyblw+</entry>
-        <entry encoding="base64">XDxjYWNoZUJ1c3RSZXF1aXJlSnNcPg==</entry>
-        <entry>panel</entry>
-        <entry>fontCol</entry>
-        <entry>font-colo</entry>
         <entry encoding="base64">XDxzdHlsZVw+</entry>
         <entry>alert</entry>
         <entry>alert-font-co</entry>
@@ -3055,7 +2905,6 @@
         <entry>mem</entry>
       </history-search>
       <history-cmd>
-        <entry>q</entry>
         <entry>%s+$_POST[+post(+g</entry>
         <entry>%s+\$_POST\[+post(+g</entry>
         <entry>476</entry>
