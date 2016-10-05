@@ -352,6 +352,9 @@
         <mark key="^" line="358" column="41" />
         <mark key="." line="357" column="32" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" timestamp="1475683089826">
+        <mark key="'" line="79" column="0" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/lessons-in-flawless-complete.less" timestamp="1473917490700">
         <mark key="'" line="205" column="12" />
         <mark key="[" line="223" column="27" />
@@ -498,8 +501,8 @@
         <mark key="." line="346" column="169" />
         <mark key="^" line="346" column="169" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-landing.ctrl.js" timestamp="1475519866831">
-        <mark key="'" line="78" column="12" />
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-landing.ctrl.js" timestamp="1475682976334">
+        <mark key="'" line="107" column="92" />
         <mark key="[" line="1" column="136" />
         <mark key="]" line="2" column="73" />
         <mark key="^" line="2" column="73" />
@@ -603,6 +606,9 @@
         <mark key="[" line="137" column="0" />
         <mark key="]" line="137" column="0" />
         <mark key="." line="137" column="0" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-quiz.ctrl.js" timestamp="1475683000142">
+        <mark key="'" line="72" column="36" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/pagination.less" timestamp="1472580644435">
         <mark key="[" line="1" column="0" />
@@ -840,9 +846,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="117" column="29" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-complete.ctrl.js" />
-      <jump line="94" column="13" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-complete.ctrl.js" />
-      <jump line="64" column="27" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-complete.ctrl.js" />
       <jump line="115" column="41" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-complete.ctrl.js" />
       <jump line="170" column="40" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-complete.ctrl.js" />
       <jump line="185" column="8" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/LessonsInFlawless.js" />
@@ -940,6 +943,9 @@
       <jump line="568" column="0" filename="$USER_HOME$/Sites/Rescue/helix/application/models/entities/User.php" />
       <jump line="98" column="56" filename="$USER_HOME$/Sites/Rescue/helix/application/views/profile/main.php" />
       <jump line="318" column="50" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/profiles.php" />
+      <jump line="107" column="92" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-landing.ctrl.js" />
+      <jump line="72" column="36" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-quiz.ctrl.js" />
+      <jump line="79" column="0" filename="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2842,7 +2848,7 @@
         <text>true</text>
       </register>
       <register name="/" type="4">
-        <text>mem</text>
+        <text>next</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAid3BhY2thZ2lzdC1wbHVnaW4vY29udGFjdC1mb3JtLTciOiAiNC4qIiwK</text>
@@ -2882,13 +2888,13 @@
       </register>
     </registers>
     <search>
-      <last-search>mem</last-search>
+      <last-search>next</last-search>
       <last-offset />
-      <last-pattern>mem</last-pattern>
+      <last-pattern>next</last-pattern>
       <last-replace>post(</last-replace>
       <last-substitute encoding="base64">XDx2YWxpZGF0ZUNvdXJzZUxlc3Nvblw+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>false</show-last>
+      <show-last>true</show-last>
     </search>
     <history>
       <history-search>
@@ -2912,6 +2918,8 @@
         <entry encoding="base64">XDxhZGROb3RpZmljYXRpb25cPg==</entry>
         <entry>Coord</entry>
         <entry>mem</entry>
+        <entry>next(</entry>
+        <entry>next</entry>
       </history-search>
       <history-cmd>
         <entry>%s+$_POST[+post(+g</entry>
