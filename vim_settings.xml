@@ -257,6 +257,12 @@
       <file name="$USER_HOME$/Sites/Rescue/helix/files/regions/evolvement_zip_to_county.csv" timestamp="1475281345921">
         <mark key="'" line="426" column="0" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/lessons-in-flawless-landing.js" timestamp="1475700226672">
+        <mark key="[" line="14" column="45" />
+        <mark key="]" line="15" column="46" />
+        <mark key="^" line="15" column="46" />
+        <mark key="." line="15" column="46" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/247nm/public/wp-content/themes/247nm/templates/signage.php" timestamp="1474993151657">
         <mark key="[" line="188" column="65" />
         <mark key="]" line="142" column="33" />
@@ -327,6 +333,12 @@
         <mark key="]" line="247" column="0" />
         <mark key="." line="247" column="0" />
         <mark key="^" line="144" column="39" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/views/user/signup/extra_form.php" timestamp="1475733665796">
+        <mark key="[" line="3" column="23" />
+        <mark key="]" line="3" column="25" />
+        <mark key="." line="3" column="25" />
+        <mark key="^" line="3" column="25" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/js/app/profile.js" timestamp="1475538926092">
         <mark key="'" line="26" column="25" />
@@ -418,6 +430,12 @@
         <mark key="^" line="214" column="20" />
         <mark key="." line="214" column="17" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/tfl-button.js" timestamp="1475688772721">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="9" column="27" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/models/core/import_m.php" timestamp="1475711422283">
         <mark key="'" line="29" column="81" />
         <mark key="[" line="334" column="0" />
@@ -498,6 +516,12 @@
         <mark key="^" line="19" column="75" />
         <mark key="." line="19" column="75" />
       </file>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/lessons-in-flawless-landing.less" timestamp="1475702933024">
+        <mark key="[" line="37" column="66" />
+        <mark key="]" line="37" column="66" />
+        <mark key="." line="37" column="66" />
+        <mark key="^" line="37" column="57" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/directives/share-button.js" timestamp="1475702839486">
         <mark key="'" line="24" column="16" />
         <mark key="[" line="80" column="97" />
@@ -543,6 +567,12 @@
         <mark key="]" line="6" column="66" />
         <mark key="." line="6" column="66" />
         <mark key="^" line="6" column="66" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/public/ng-templates/partials/tfl-link.php" timestamp="1475688439127">
+        <mark key="[" line="1" column="35" />
+        <mark key="]" line="4" column="9" />
+        <mark key="^" line="4" column="9" />
+        <mark key="." line="4" column="9" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-quiz.ctrl.js" timestamp="1475683000142">
         <mark key="'" line="72" column="36" />
@@ -667,12 +697,12 @@
         <mark key="." line="16" column="54" />
         <mark key="^" line="11" column="19" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/views/user/signup_adults/extra_form.php" timestamp="1475732577678">
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/views/user/signup_adults/extra_form.php" timestamp="1475733913882">
         <mark key="'" line="87" column="38" />
-        <mark key="[" line="85" column="40" />
-        <mark key="]" line="85" column="58" />
-        <mark key="^" line="85" column="58" />
-        <mark key="." line="85" column="58" />
+        <mark key="[" line="90" column="54" />
+        <mark key="]" line="90" column="54" />
+        <mark key="^" line="90" column="58" />
+        <mark key="." line="90" column="54" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/addssh.sh" timestamp="1472440366047">
         <mark key="'" line="9" column="25" />
@@ -2730,7 +2760,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>A training s</text>
+        <text>r</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -2784,7 +2814,7 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>A training s</text>
+        <text>r</text>
       </register>
       <register name="/" type="4">
         <text>adult</text>
@@ -2793,34 +2823,34 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkdHJhaW5pbmdTZWxlY3QuYWRkQ2xhc3MoJ2hpZGUnKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICB2YXJfZHVtcCh2YWxpZGF0aW9uX2Vycm9ycygpKTsKCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGJyPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPD9waHAgZWNobyBmb3JtX2Vycm9yKCdncm91cCcpOyA/Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvbGFiZWw+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImdyaWRfNTAgY29sdW1ucyBlbmQiPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImdyaWRfMzMgY29sdW1ucyI+CiAgICAgICAgICAgICAgICAgICAgPD9waHAgZWNobyBmb3JtX2xhYmVsKCdHZW5kZXInLCAnZ2VuZGVyJyk7ID8+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFyIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8P3BocCBlY2hvIGZvcm1fbGFiZWwoJ0dlbmRlcicsICdnZW5kZXInKTsgPz4K</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGVidWdnZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
