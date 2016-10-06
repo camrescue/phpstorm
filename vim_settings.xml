@@ -203,12 +203,12 @@
         <mark key="." line="26" column="0" />
         <mark key="^" line="25" column="29" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/js/app/user_signup.js" timestamp="1475717244988">
+      <file name="$USER_HOME$/Sites/Rescue/helix/js/app/user_signup.js" timestamp="1475727857415">
         <mark key="'" line="65" column="0" />
-        <mark key="[" line="250" column="0" />
-        <mark key="]" line="250" column="0" />
-        <mark key="." line="250" column="0" />
-        <mark key="^" line="247" column="72" />
+        <mark key="[" line="246" column="42" />
+        <mark key="]" line="246" column="46" />
+        <mark key="." line="246" column="46" />
+        <mark key="^" line="246" column="46" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/js/app/profile.js" timestamp="1475538926092">
         <mark key="'" line="26" column="25" />
@@ -488,12 +488,12 @@
         <mark key="." line="16" column="54" />
         <mark key="^" line="11" column="19" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/views/user/signup_adults/extra_form.php" timestamp="1475715600350">
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/views/user/signup_adults/extra_form.php" timestamp="1475727847460">
         <mark key="'" line="87" column="38" />
-        <mark key="[" line="101" column="0" />
-        <mark key="]" line="101" column="0" />
-        <mark key="^" line="101" column="23" />
-        <mark key="." line="101" column="0" />
+        <mark key="[" line="94" column="53" />
+        <mark key="]" line="94" column="57" />
+        <mark key="^" line="94" column="57" />
+        <mark key="." line="94" column="57" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/addssh.sh" timestamp="1472440366047">
         <mark key="'" line="9" column="25" />
@@ -2520,8 +2520,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJChlbGVtKS5yZW1vdmVDbGFzcygnaGlkZScpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>i don\'t know</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -2575,13 +2575,13 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>val('');</text>
+        <text>i don\'t know</text>
       </register>
       <register name="/" type="4">
         <text>getSignup</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkKCdzZWxlY3RbbmFtZT0iZ3JvdXAiXScpLnZhbCgnJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGJ1dHRvbiB0eXBlPSJidXR0b24iIHZhbHVlPSJ5ZXMiIGNsYXNzPSJidXR0b24gbGFyZ2UgcmFkaXVzIHRyYWluaW5nLXF1ZXN0aW9uIj5ZZXM8L2J1dHRvbj4K</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgJChlbGVtKS5yZW1vdmVDbGFzcygnaGlkZScpOwo=</text>
