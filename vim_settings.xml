@@ -96,8 +96,8 @@
       <file name="$USER_HOME$/Sites/Rescue/helix/application/controllers/zips.php" timestamp="1475363481607">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/project_repo.php" timestamp="1475093380312">
-        <mark key="'" line="452" column="9" />
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/project_repo.php" timestamp="1475779280056">
+        <mark key="'" line="110" column="18" />
         <mark key="[" line="203" column="8" />
         <mark key="]" line="203" column="14" />
         <mark key="." line="203" column="14" />
@@ -171,12 +171,12 @@
         <mark key="^" line="148" column="79" />
         <mark key="." line="148" column="79" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/models/services/ProjectSrv.php" timestamp="1475178393899">
-        <mark key="'" line="189" column="63" />
-        <mark key="[" line="130" column="0" />
-        <mark key="]" line="130" column="0" />
-        <mark key="." line="130" column="0" />
-        <mark key="^" line="182" column="78" />
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/models/services/ProjectSrv.php" timestamp="1475779651235">
+        <mark key="'" line="185" column="0" />
+        <mark key="[" line="386" column="60" />
+        <mark key="]" line="387" column="22" />
+        <mark key="^" line="387" column="22" />
+        <mark key="." line="387" column="22" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/sass/counterbalance/_settings.scss" timestamp="1475729138891">
         <mark key="'" line="395" column="0" />
@@ -233,12 +233,6 @@
         <mark key="." line="60" column="72" />
         <mark key="^" line="60" column="67" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/region_repo.php" timestamp="1475710599690">
-        <mark key="'" line="491" column="38" />
-        <mark key="[" line="243" column="0" />
-        <mark key="]" line="243" column="0" />
-        <mark key="." line="243" column="0" />
-      </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/js/app/multi_select.js" timestamp="1474416374945">
         <mark key="'" line="32" column="23" />
       </file>
@@ -294,8 +288,8 @@
         <mark key="." line="4" column="69" />
         <mark key="^" line="4" column="69" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/controllers/projects.php" timestamp="1475540255082">
-        <mark key="'" line="2659" column="12" />
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/controllers/projects.php" timestamp="1475778830594">
+        <mark key="'" line="2599" column="15" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/user_repo.php" timestamp="1475185598481">
         <mark key="'" line="580" column="46" />
@@ -327,12 +321,12 @@
         <mark key="." line="26" column="0" />
         <mark key="^" line="25" column="29" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/js/app/user_signup.js" timestamp="1475731440413">
-        <mark key="'" line="150" column="34" />
-        <mark key="[" line="247" column="0" />
-        <mark key="]" line="247" column="0" />
-        <mark key="." line="247" column="0" />
-        <mark key="^" line="144" column="39" />
+      <file name="$USER_HOME$/Sites/Rescue/helix/js/app/user_signup.js" timestamp="1475780449752">
+        <mark key="'" line="102" column="46" />
+        <mark key="[" line="252" column="22" />
+        <mark key="]" line="252" column="27" />
+        <mark key="." line="252" column="27" />
+        <mark key="^" line="252" column="27" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/views/user/signup/extra_form.php" timestamp="1475733665796">
         <mark key="[" line="3" column="23" />
@@ -380,12 +374,6 @@
       </file>
       <file name="$USER_HOME$/Sites/Rescue/survey-admin/resources/views/surveys/tracker.blade.php" timestamp="1475707939437">
         <mark key="'" line="304" column="49" />
-      </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/core/base_repo.php" timestamp="1475710335341">
-        <mark key="'" line="346" column="11" />
-        <mark key="[" line="483" column="0" />
-        <mark key="]" line="483" column="0" />
-        <mark key="." line="483" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/js/app/project.js" timestamp="1474568425234">
         <mark key="'" line="62" column="32" />
@@ -467,12 +455,6 @@
         <mark key="." line="346" column="169" />
         <mark key="^" line="346" column="169" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-landing.ctrl.js" timestamp="1475699220993">
-        <mark key="'" line="19" column="15" />
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
-      </file>
       <file name="$USER_HOME$/Sites/Rescue/fda-fresh-empire-dev/sites/all/themes/fresh_empire/js/chase-life.js" timestamp="1475263697905">
         <mark key="[" line="38" column="5" />
         <mark key="]" line="38" column="5" />
@@ -495,12 +477,12 @@
         <mark key="^" line="8" column="16" />
         <mark key="." line="8" column="16" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/controllers/users.php" timestamp="1475732568100">
-        <mark key="'" line="883" column="13" />
-        <mark key="[" line="993" column="22" />
-        <mark key="]" line="994" column="27" />
-        <mark key="." line="994" column="27" />
-        <mark key="^" line="994" column="27" />
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/controllers/users.php" timestamp="1475779673115">
+        <mark key="'" line="35" column="6" />
+        <mark key="[" line="1005" column="53" />
+        <mark key="]" line="1006" column="41" />
+        <mark key="." line="1006" column="41" />
+        <mark key="^" line="1006" column="41" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/247nm/public/wp-content/themes/247nm/templates/contact.php" timestamp="1473459171428">
         <mark key="'" line="3" column="16" />
@@ -577,11 +559,12 @@
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/lessons-in-flawless-quiz.ctrl.js" timestamp="1475683000142">
         <mark key="'" line="72" column="36" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/services/drupal_translators/LessonsInFlawlessTranslator.js" timestamp="1475695408343">
-        <mark key="'" line="3" column="8" />
-        <mark key="[" line="239" column="0" />
-        <mark key="]" line="239" column="0" />
-        <mark key="." line="239" column="0" />
+      <file name="$USER_HOME$/Sites/Rescue/helix/sass/_head.scss" timestamp="1475776517565">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="258" column="1" />
+        <mark key="]" line="262" column="23" />
+        <mark key="." line="262" column="23" />
+        <mark key="^" line="262" column="23" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/project_instance_repo.php" timestamp="1475538522648">
         <mark key="'" line="200" column="30" />
@@ -697,12 +680,19 @@
         <mark key="." line="16" column="54" />
         <mark key="^" line="11" column="19" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/views/user/signup_adults/extra_form.php" timestamp="1475733913882">
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/views/user/signup_adults/extra_form.php" timestamp="1475780294675">
         <mark key="'" line="87" column="38" />
-        <mark key="[" line="90" column="54" />
-        <mark key="]" line="90" column="54" />
-        <mark key="^" line="90" column="58" />
-        <mark key="." line="90" column="54" />
+        <mark key="[" line="81" column="59" />
+        <mark key="]" line="81" column="59" />
+        <mark key="^" line="81" column="59" />
+        <mark key="." line="81" column="59" />
+      </file>
+      <file name="$USER_HOME$/Sites/Rescue/helix/sass/_custom.scss" timestamp="1475777830730">
+        <mark key="'" line="182" column="17" />
+        <mark key="[" line="108" column="19" />
+        <mark key="]" line="108" column="19" />
+        <mark key="." line="108" column="19" />
+        <mark key="^" line="108" column="19" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/shared-environment/scripts/bash/addssh.sh" timestamp="1472440366047">
         <mark key="'" line="9" column="25" />
@@ -815,22 +805,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="176" column="4" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/region_repo.php" />
-      <jump line="186" column="35" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/region_repo.php" />
-      <jump line="187" column="28" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/region_repo.php" />
-      <jump line="253" column="30" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/region_repo.php" />
-      <jump line="410" column="0" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/core/base_repo.php" />
-      <jump line="1222" column="31" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/core/base_repo.php" />
-      <jump line="452" column="24" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/core/base_repo.php" />
-      <jump line="1188" column="14" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/core/base_repo.php" />
-      <jump line="1197" column="14" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/core/base_repo.php" />
-      <jump line="1206" column="14" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/core/base_repo.php" />
-      <jump line="1224" column="14" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/core/base_repo.php" />
-      <jump line="1701" column="11" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/core/base_repo.php" />
-      <jump line="1668" column="11" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/core/base_repo.php" />
-      <jump line="463" column="0" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/core/base_repo.php" />
-      <jump line="330" column="23" filename="$USER_HOME$/Sites/Rescue/helix/application/models/core/import_m.php" />
-      <jump line="362" column="15" filename="$USER_HOME$/Sites/Rescue/helix/application/models/core/import_m.php" />
       <jump line="385" column="32" filename="$USER_HOME$/Sites/Rescue/helix/application/models/core/import_m.php" />
       <jump line="229" column="55" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/region_repo.php" />
       <jump line="178" column="4" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/region_repo.php" />
@@ -904,8 +878,6 @@
       <jump line="24" column="42" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_signup.js" />
       <jump line="105" column="24" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_signup.js" />
       <jump line="200" column="60" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_signup.js" />
-      <jump line="246" column="38" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_signup.js" />
-      <jump line="86" column="36" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_signup.js" />
       <jump line="104" column="50" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_signup.js" />
       <jump line="238" column="14" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_signup.js" />
       <jump line="144" column="39" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_signup.js" />
@@ -915,6 +887,24 @@
       <jump line="0" column="0" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/users.php" />
       <jump line="883" column="13" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/users.php" />
       <jump line="0" column="0" filename="$USER_HOME$/Sites/Rescue/helix/application/config/form_validation.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/Sites/Rescue/helix/sass/_head.scss" />
+      <jump line="286" column="34" filename="$USER_HOME$/Sites/Rescue/helix/sass/_custom.scss" />
+      <jump line="830" column="13" filename="$USER_HOME$/Sites/Rescue/helix/sass/_custom.scss" />
+      <jump line="182" column="17" filename="$USER_HOME$/Sites/Rescue/helix/sass/_custom.scss" />
+      <jump line="28" column="10" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/project_repo.php" />
+      <jump line="50" column="14" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/project_repo.php" />
+      <jump line="65" column="14" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/project_repo.php" />
+      <jump line="110" column="18" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/project_repo.php" />
+      <jump line="185" column="0" filename="$USER_HOME$/Sites/Rescue/helix/application/models/services/ProjectSrv.php" />
+      <jump line="990" column="39" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/users.php" />
+      <jump line="2599" column="15" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/projects.php" />
+      <jump line="35" column="6" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/users.php" />
+      <jump line="246" column="17" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_signup.js" />
+      <jump line="247" column="24" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_signup.js" />
+      <jump line="86" column="36" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_signup.js" />
+      <jump line="106" column="8" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_signup.js" />
+      <jump line="242" column="12" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_signup.js" />
+      <jump line="102" column="46" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_signup.js" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2760,7 +2750,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>r</text>
+        <text>trainingSelect</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -2814,52 +2804,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>r</text>
+        <text>trainingSelect</text>
       </register>
       <register name="/" type="4">
-        <text>adult</text>
+        <text>zip-relate</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAkdHJhaW5pbmdTZWxlY3QuYWRkQ2xhc3MoJ2hpZGUnKTsK</text>
+        <text encoding="base64">ICAgICAgICAkKCcudHJhaW5pbmctZXZlbnQtc2VsZWN0JykuYWRkQ2xhc3MoJ2hpZGUnKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPGJyPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgJCgnLnRyYWluaW5nLXNlbGVjdCcpLnJlbW92ZUNsYXNzKCdoaWRlJyk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAkKCcudHJhaW5pbmctc2VsZWN0JykuYWRkQ2xhc3MoJ2hpZGUnKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxvcHRpb24gdmFsdWU9Ijw/cGhwIG8oJHRyYWluaW5nLT4pID8+Ij5UcmFpbmluZyBTYW1wbGUgMjwvb3B0aW9uPgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvbGFiZWw+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxvcHRpb24gdmFsdWU9IiI+PC9vcHRpb24+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImdyaWRfNTAgY29sdW1ucyBlbmQiPgo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkdHJhaW5pbmdzKTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDwvZGl2Pgo=</text>
+        <text encoding="base64">ICAgICAgICBkZCgkZXZlbnRzKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9ImdyaWRfMzMgY29sdW1ucyI+CiAgICAgICAgICAgICAgICAgICAgPD9waHAgZWNobyBmb3JtX2xhYmVsKCdHZW5kZXInLCAnZ2VuZGVyJyk7ID8+Cg==</text>
+        <text encoding="base64">ICAgICAgICBvTGFzdCgpOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8P3BocCBlY2hvIGZvcm1fbGFiZWwoJ0dlbmRlcicsICdnZW5kZXInKTsgPz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>adult</last-search>
+      <last-search>zip-relate</last-search>
       <last-offset />
-      <last-pattern>adult</last-pattern>
+      <last-pattern>zip-relate</last-pattern>
       <last-replace>post(</last-replace>
       <last-substitute encoding="base64">XDx2YWxpZGF0ZUNvdXJzZUxlc3Nvblw+</last-substitute>
       <last-dir>1</last-dir>
@@ -2959,12 +2949,17 @@
         <entry encoding="base64">XDxkZWZhdWx0R3JvdXBcPg==</entry>
         <entry>trainingS</entry>
         <entry encoding="base64">XDxncm91cFw+</entry>
-        <entry>training-select</entry>
         <entry>zip-re</entry>
         <entry>debug</entry>
         <entry>apply_ex</entry>
         <entry encoding="base64">XDx2YWxpZGF0aW9uRmllbGRzXD4=</entry>
         <entry>adult</entry>
+        <entry>signupEx</entry>
+        <entry>.block</entry>
+        <entry encoding="base64">XDxFVkVOVF9UWVBFX1RSQUlOSU5HXD4=</entry>
+        <entry encoding="base64">XDx0cmFpbmluZ1NlbGVjdFw+</entry>
+        <entry>training-select</entry>
+        <entry>zip-relate</entry>
       </history-search>
       <history-cmd>
         <entry>%s+$_POST[+post(+g</entry>
