@@ -385,13 +385,13 @@
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/lessons-in-flawless-quiz.less" timestamp="1475702974403">
         <mark key="'" line="139" column="45" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/controllers/users.php" timestamp="1475873407331">
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/controllers/users.php" timestamp="1475875344709">
         <mark key="a" line="1161" column="41" />
-        <mark key="'" line="1063" column="29" />
-        <mark key="[" line="1244" column="0" />
-        <mark key="]" line="1244" column="0" />
-        <mark key="^" line="1244" column="25" />
-        <mark key="." line="1244" column="0" />
+        <mark key="'" line="1001" column="39" />
+        <mark key="[" line="991" column="42" />
+        <mark key="]" line="991" column="71" />
+        <mark key="^" line="991" column="71" />
+        <mark key="." line="991" column="71" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/247nm/public/wp-content/themes/247nm/templates/contact.php" timestamp="1473459171428">
         <mark key="'" line="3" column="16" />
@@ -550,7 +550,7 @@
         <mark key="." line="58" column="25" />
         <mark key="^" line="57" column="22" />
       </file>
-      <file name="/Dummy.txt" timestamp="1475870124565">
+      <file name="/Dummy.txt" timestamp="1475874323619">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/config/form_validation.php" timestamp="1475797407977">
@@ -662,10 +662,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1229" column="5" filename="$USER_HOME$/Sites/Rescue/helix/application/helpers/MY_form_helper.php" />
-      <jump line="1241" column="9" filename="$USER_HOME$/Sites/Rescue/helix/application/helpers/MY_form_helper.php" />
-      <jump line="1331" column="9" filename="$USER_HOME$/Sites/Rescue/helix/application/helpers/MY_form_helper.php" />
-      <jump line="1428" column="21" filename="$USER_HOME$/Sites/Rescue/helix/application/helpers/MY_form_helper.php" />
       <jump line="738" column="11" filename="$USER_HOME$/Sites/Rescue/helix/application/helpers/MY_form_helper.php" />
       <jump line="612" column="4" filename="$USER_HOME$/Sites/Rescue/helix/application/helpers/MY_form_helper.php" />
       <jump line="1516" column="13" filename="$USER_HOME$/Sites/Rescue/helix/application/helpers/MY_form_helper.php" />
@@ -746,7 +742,6 @@
       <jump line="385" column="0" filename="$USER_HOME$/Sites/Rescue/helix/application/models/services/ProjectSrv.php" />
       <jump line="198" column="46" filename="$USER_HOME$/Sites/Rescue/helix/application/views/user/application/edit.php" />
       <jump line="1158" column="12" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/users.php" />
-      <jump line="453" column="14" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/users.php" />
       <jump line="465" column="18" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/users.php" />
       <jump line="487" column="74" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/users.php" />
       <jump line="542" column="42" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/users.php" />
@@ -762,6 +757,11 @@
       <jump line="1235" column="13" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/users.php" />
       <jump line="1063" column="29" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/users.php" />
       <jump line="324" column="66" filename="$USER_HOME$/Sites/Rescue/helix/application/views/user/application/edit.php" />
+      <jump line="1244" column="40" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/users.php" />
+      <jump line="453" column="14" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/users.php" />
+      <jump line="1031" column="50" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/users.php" />
+      <jump line="987" column="28" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/users.php" />
+      <jump line="1001" column="39" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/users.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2606,8 +2606,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IWVtcHR5KCR1c2VyLT5ldmVudF90cmFpbmluZ19pZCk=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCRleHRyYURhdGFbJ3NjaG9vbCddLCAkZ3JvdXBTZWxlY3RlZCk7Cg==</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -2661,55 +2661,55 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IWVtcHR5KCR1c2VyLT5ldmVudF90cmFpbmluZ19pZCk=</text>
+        <text>first()</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxfYXBwbGljYXRpb25fcG9zdFw+</text>
+        <text encoding="base64">XDxncm91cHNcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCRleHRyYURhdGFbJ3NjaG9vbCddLCAkZ3JvdXBTZWxlY3RlZCk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJHBvc3REYXRhKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFycmF5X2ZpcnN0KCkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCRtYXRjaGVkR3JvdXApOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAocG9zdFZhbHVlKCdldmVudF90cmFpbmluZ19pZCcpICE9PSBmYWxzZSkgewoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICRleHRyYURhdGFbJ3NjaG9vbCddID0gJGV4dHJhRGF0YVsnZ3JvdXAnXTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGRkKCRleHRyYURhdGFbJ2dyb3VwJ10sICRncm91cHMpOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBkZChwb3N0VmFsdWVzKCkpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGQoJHBvc3REYXRhKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICB9Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxfYXBwbGljYXRpb25fcG9zdFw+</last-search>
+      <last-search encoding="base64">XDxncm91cHNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxfYXBwbGljYXRpb25fcG9zdFw+</last-pattern>
+      <last-pattern encoding="base64">XDxncm91cHNcPg==</last-pattern>
       <last-replace>post(</last-replace>
       <last-substitute encoding="base64">XDx2YWxpZGF0ZUNvdXJzZUxlc3Nvblw+</last-substitute>
-      <last-dir>1</last-dir>
+      <last-dir>-1</last-dir>
       <show-last>true</show-last>
     </search>
     <history>
@@ -2754,10 +2754,12 @@
         <entry>application</entry>
         <entry encoding="base64">XDxzeXN0ZW1JZFw+</entry>
         <entry encoding="base64">XDx1c2Vyc1w+</entry>
-        <entry>extra</entry>
         <entry>function appli</entry>
         <entry>training</entry>
         <entry encoding="base64">XDxfYXBwbGljYXRpb25fcG9zdFw+</entry>
+        <entry>extra</entry>
+        <entry encoding="base64">XDxzY2hvb2xcPg==</entry>
+        <entry encoding="base64">XDxncm91cHNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>476</entry>
@@ -2776,9 +2778,9 @@
         <entry>278</entry>
         <entry>w::w</entry>
         <entry>:w</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>W</entry>
         <entry>e</entry>
+        <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
