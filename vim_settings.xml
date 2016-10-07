@@ -38,7 +38,6 @@
       <file name="/a.dummy" timestamp="1475788183957">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/EcmaScript.js" timestamp="1475730480413" />
       <file name="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/school_repo.php" timestamp="1475796854922">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
@@ -246,7 +245,6 @@
       <file name="$USER_HOME$/Sites/Rescue/survey-admin/app/Http/Controllers/SurveyController.php" timestamp="1475707853419">
         <mark key="'" line="1251" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/models/entities/Region.php" timestamp="1475709818248" />
       <file name="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/questionnaireresponse_repo.php" timestamp="1474652546099">
         <mark key="[" line="56" column="77" />
         <mark key="]" line="56" column="77" />
@@ -382,19 +380,19 @@
         <mark key="." line="26" column="0" />
         <mark key="^" line="25" column="29" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/js/app/user_signup.js" timestamp="1475799518472">
-        <mark key="'" line="166" column="12" />
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="105" column="0" />
-        <mark key="." line="105" column="0" />
-        <mark key="^" line="181" column="37" />
+      <file name="$USER_HOME$/Sites/Rescue/helix/js/app/user_signup.js" timestamp="1475800637181">
+        <mark key="'" line="291" column="46" />
+        <mark key="[" line="39" column="50" />
+        <mark key="]" line="39" column="50" />
+        <mark key="." line="39" column="50" />
+        <mark key="^" line="280" column="28" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/views/user/signup/extra_form.php" timestamp="1475798317112">
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/views/user/signup/extra_form.php" timestamp="1475856269205">
         <mark key="'" line="105" column="36" />
-        <mark key="[" line="149" column="0" />
-        <mark key="]" line="150" column="15" />
-        <mark key="^" line="150" column="15" />
-        <mark key="." line="150" column="15" />
+        <mark key="[" line="139" column="44" />
+        <mark key="]" line="139" column="46" />
+        <mark key="^" line="139" column="46" />
+        <mark key="." line="139" column="46" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/views/profile/basic.php" timestamp="1475540479047">
         <mark key="[" line="28" column="0" />
@@ -411,7 +409,6 @@
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/js/controllers/emoji-challenge.ctrl.js" timestamp="1475683089826">
         <mark key="'" line="79" column="0" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/files/regions/counterbalance_northern.csv" timestamp="1475715226683" />
       <file name="$USER_HOME$/Sites/Rescue/this-free-life-frontend/less/lessons-in-flawless-complete.less" timestamp="1473917490700">
         <mark key="'" line="205" column="12" />
         <mark key="[" line="223" column="27" />
@@ -632,7 +629,6 @@
         <mark key="." line="44" column="52" />
         <mark key="^" line="11" column="32" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/files/regions/counterbalance_northern_zip.csv" timestamp="1475712060922" />
       <file name="$USER_HOME$/Sites/Rescue/helix/application/libraries/facades/QuestionnaireResponseFacade.php" timestamp="1474652837441">
         <mark key="[" line="19" column="75" />
         <mark key="]" line="19" column="75" />
@@ -657,7 +653,6 @@
         <mark key="." line="80" column="98" />
         <mark key="^" line="80" column="98" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/group_repo.php" timestamp="1475713884532" />
       <file name="$USER_HOME$/Sites/Mine/udacity/meetup-planner/src/html/login.html" timestamp="1475453475234">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -862,12 +857,12 @@
         <mark key="." line="16" column="54" />
         <mark key="^" line="11" column="19" />
       </file>
-      <file name="$USER_HOME$/Sites/Rescue/helix/application/views/user/signup_adults/extra_form.php" timestamp="1475790406870">
-        <mark key="'" line="87" column="38" />
-        <mark key="[" line="93" column="0" />
-        <mark key="]" line="93" column="72" />
-        <mark key="^" line="81" column="75" />
-        <mark key="." line="93" column="0" />
+      <file name="$USER_HOME$/Sites/Rescue/helix/application/views/user/signup_adults/extra_form.php" timestamp="1475856280841">
+        <mark key="'" line="12" column="50" />
+        <mark key="[" line="136" column="45" />
+        <mark key="]" line="136" column="47" />
+        <mark key="^" line="136" column="47" />
+        <mark key="." line="136" column="47" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/sass/_custom.scss" timestamp="1475777830730">
         <mark key="'" line="182" column="17" />
@@ -996,33 +991,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="984" column="40" filename="$USER_HOME$/Sites/Rescue/helix/sass/counterbalance/_settings.scss" />
-      <jump line="995" column="35" filename="$USER_HOME$/Sites/Rescue/helix/sass/counterbalance/_settings.scss" />
-      <jump line="1009" column="31" filename="$USER_HOME$/Sites/Rescue/helix/sass/counterbalance/_settings.scss" />
-      <jump line="1083" column="27" filename="$USER_HOME$/Sites/Rescue/helix/sass/counterbalance/_settings.scss" />
-      <jump line="395" column="0" filename="$USER_HOME$/Sites/Rescue/helix/sass/counterbalance/_settings.scss" />
-      <jump line="225" column="14" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_signup.js" />
-      <jump line="228" column="27" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_signup.js" />
-      <jump line="229" column="34" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_signup.js" />
-      <jump line="222" column="3" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_signup.js" />
-      <jump line="233" column="33" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_signup.js" />
-      <jump line="27" column="15" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_signup.js" />
-      <jump line="226" column="33" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_signup.js" />
-      <jump line="29" column="16" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_signup.js" />
-      <jump line="259" column="58" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_signup.js" />
-      <jump line="263" column="21" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_signup.js" />
-      <jump line="24" column="42" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_signup.js" />
-      <jump line="200" column="60" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_signup.js" />
-      <jump line="104" column="50" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_signup.js" />
-      <jump line="238" column="14" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_signup.js" />
-      <jump line="144" column="39" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_signup.js" />
-      <jump line="96" column="12" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_signup.js" />
-      <jump line="150" column="34" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_signup.js" />
-      <jump line="1669" column="32" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/users.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/users.php" />
-      <jump line="883" column="13" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/users.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Sites/Rescue/helix/application/config/form_validation.php" />
-      <jump line="0" column="0" filename="$USER_HOME$/Sites/Rescue/helix/sass/_head.scss" />
       <jump line="286" column="34" filename="$USER_HOME$/Sites/Rescue/helix/sass/_custom.scss" />
       <jump line="830" column="13" filename="$USER_HOME$/Sites/Rescue/helix/sass/_custom.scss" />
       <jump line="182" column="17" filename="$USER_HOME$/Sites/Rescue/helix/sass/_custom.scss" />
@@ -1042,8 +1010,6 @@
       <jump line="243" column="55" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_signup.js" />
       <jump line="37" column="19" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_signup.js" />
       <jump line="1016" column="32" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/users.php" />
-      <jump line="258" column="44" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_signup.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_signup.js" />
       <jump line="57" column="11" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_signup.js" />
       <jump line="142" column="55" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_signup.js" />
       <jump line="142" column="36" filename="$USER_HOME$/Sites/Rescue/helix/application/views/user/signup/extra_form.php" />
@@ -1085,7 +1051,6 @@
       <jump line="230" column="22" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_signup.js" />
       <jump line="250" column="53" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_signup.js" />
       <jump line="86" column="12" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_signup.js" />
-      <jump line="105" column="27" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_signup.js" />
       <jump line="151" column="21" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_signup.js" />
       <jump line="176" column="49" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_signup.js" />
       <jump line="76" column="25" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_signup.js" />
@@ -1096,6 +1061,36 @@
       <jump line="84" column="11" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_signup.js" />
       <jump line="184" column="0" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_signup.js" />
       <jump line="167" column="12" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_signup.js" />
+      <jump line="93" column="0" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_signup.js" />
+      <jump line="105" column="21" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_signup.js" />
+      <jump line="149" column="28" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_signup.js" />
+      <jump line="256" column="12" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_signup.js" />
+      <jump line="16" column="29" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_signup.js" />
+      <jump line="145" column="37" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_signup.js" />
+      <jump line="269" column="41" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_signup.js" />
+      <jump line="313" column="0" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_signup.js" />
+      <jump line="66" column="32" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_signup.js" />
+      <jump line="98" column="18" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_signup.js" />
+      <jump line="132" column="27" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_signup.js" />
+      <jump line="18" column="29" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_signup.js" />
+      <jump line="283" column="0" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_signup.js" />
+      <jump line="19" column="28" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_signup.js" />
+      <jump line="21" column="40" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_signup.js" />
+      <jump line="27" column="42" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_signup.js" />
+      <jump line="292" column="37" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_signup.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_signup.js" />
+      <jump line="263" column="48" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_signup.js" />
+      <jump line="20" column="50" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_signup.js" />
+      <jump line="258" column="60" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_signup.js" />
+      <jump line="171" column="31" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_signup.js" />
+      <jump line="182" column="46" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_signup.js" />
+      <jump line="177" column="0" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_signup.js" />
+      <jump line="24" column="12" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_signup.js" />
+      <jump line="25" column="26" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_signup.js" />
+      <jump line="110" column="26" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_signup.js" />
+      <jump line="97" column="26" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_signup.js" />
+      <jump line="291" column="46" filename="$USER_HOME$/Sites/Rescue/helix/js/app/user_signup.js" />
+      <jump line="12" column="50" filename="$USER_HOME$/Sites/Rescue/helix/application/views/user/signup_adults/extra_form.php" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2940,8 +2935,8 @@
           <key char="65535" code="27" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBkZWJ1Z2dlcjsK</text>
+      <register name="&quot;" type="4">
+        <text>g</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -2995,10 +2990,10 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>replace</text>
+        <text>g</text>
       </register>
       <register name="/" type="4">
-        <text>debugg</text>
+        <text encoding="base64">XDxzY2hvb2xEcm9wXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgJGdyYWRZZWFyRHJvcCA9IGdyYWRZZWFyRHJvcChzZXRfdmFsdWUoJ2dyYWRfeWVhcicpKTsK</text>
@@ -3038,128 +3033,16 @@
       </register>
     </registers>
     <search>
-      <last-search>debugg</last-search>
+      <last-search encoding="base64">XDxzY2hvb2xEcm9wXD4=</last-search>
       <last-offset />
-      <last-pattern>debugg</last-pattern>
+      <last-pattern encoding="base64">XDxzY2hvb2xEcm9wXD4=</last-pattern>
       <last-replace>post(</last-replace>
       <last-substitute encoding="base64">XDx2YWxpZGF0ZUNvdXJzZUxlc3Nvblw+</last-substitute>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzdHlsZVw+</entry>
-        <entry>alert</entry>
-        <entry>alert-font-co</entry>
-        <entry encoding="base64">XDxsb2NhdGlvblw+</entry>
-        <entry encoding="base64">XDxjb3VudHlNaWdyYXRpb25cPg==</entry>
-        <entry>published your</entry>
-        <entry encoding="base64">XDxwcm9wb3NhbF9pZFw+</entry>
-        <entry>Grad</entry>
-        <entry>is_adult</entry>
-        <entry>getUserTrain</entry>
-        <entry>edit</entry>
-        <entry>is_admin</entry>
-        <entry>is_ad</entry>
-        <entry encoding="base64">XDxhZHVsdEFjY291bnRFZGl0XD4=</entry>
-        <entry>function coor</entry>
-        <entry encoding="base64">XDxnZXRDb29yZElkXD4=</entry>
-        <entry encoding="base64">XDxhZGROb3RpZmljYXRpb25cPg==</entry>
-        <entry>Coord</entry>
-        <entry>mem</entry>
-        <entry>share</entry>
-        <entry encoding="base64">XDxhcGlMb2dpblw+</entry>
-        <entry encoding="base64">XDxhcGlQb3N0XD4=</entry>
-        <entry encoding="base64">XDx1aUZlZWRcPg==</entry>
-        <entry encoding="base64">XDxzaGFyZUZhY2Vib29rXD4=</entry>
-        <entry encoding="base64">XDx1c2VTaGFyZUxpbmtzXD4=</entry>
-        <entry>next(</entry>
-        <entry>next</entry>
-        <entry>enabledCou</entry>
-        <entry encoding="base64">XDxjb3Vyc2VcPg==</entry>
-        <entry encoding="base64">XDxjb3Vyc2VzXD4=</entry>
-        <entry>enabled</entry>
-        <entry encoding="base64">XDxsYXVuY2hFbmFibGVkXD4=</entry>
-        <entry encoding="base64">XDxjdXJyZW50RGF0ZVw+</entry>
-        <entry encoding="base64">XDxwcmV2ZW50TG9jYXRpb25DaGFuZ2VcPg==</entry>
-        <entry>lessons</entry>
-        <entry encoding="base64">XDxSRU1JTkRFUl9PTkVfVElNRV9ERUxBWVw+</entry>
-        <entry>screener_rev</entry>
-        <entry>screener</entry>
-        <entry>screener_analysis</entry>
-        <entry encoding="base64">XDxGSUVMRF9TQ1JFRU5FUl9BTkFMWVNJU1w+</entry>
-        <entry encoding="base64">XDxzY3JlZW5lcl9hbmFseXNpc1w+</entry>
-        <entry encoding="base64">XDx1cGRhdGVSZXZpZXdlclw+</entry>
-        <entry encoding="base64">XDxzY3JlZW5lcl9kYXRlX3VwZGF0ZWRcPg==</entry>
-        <entry encoding="base64">XDxzY3JlZW5lckRhdGVVcGRhdGVkXD4=</entry>
-        <entry encoding="base64">XDx0aW1lc1w+</entry>
-        <entry>bounce_bak</entry>
-        <entry>bounce</entry>
-        <entry encoding="base64">XDxib3VuY2VfYmFja19zdGF0dXNcPg==</entry>
-        <entry encoding="base64">XDx1cGRhdGVCb3VuY2VzXD4=</entry>
-        <entry>Bounce</entry>
-        <entry>emailReminderOne</entry>
-        <entry>getTrac</entry>
-        <entry encoding="base64">XDxmaXJzdF9yZW1pbmRlcl9lbWFpbF9zdGF0dXNcPg==</entry>
-        <entry encoding="base64">XDxhZGRQYXJlbnRFbWFpbFN0YXR1c1w+</entry>
-        <entry encoding="base64">XDxhZGRUaW1lXD4=</entry>
-        <entry encoding="base64">XDxSRU1JTkRFUl9FTUFJTF9PTkVcPg==</entry>
-        <entry encoding="base64">XDxTVVJWRVlfTElOS19ET19OT1RfU0VORFw+</entry>
-        <entry encoding="base64">XDxTVVJWRVlfTElOS19QRU5ESU5HX1JFVklFV1w+</entry>
-        <entry>regions</entry>
-        <entry>whereCla</entry>
-        <entry>dataToCl</entry>
-        <entry encoding="base64">XDxkYXRhVG9DbGF1c2VzXD4=</entry>
-        <entry>name</entry>
-        <entry>whereClau</entry>
-        <entry>queryClause</entry>
-        <entry>function where</entry>
-        <entry>single</entry>
-        <entry encoding="base64">XDxOb3J0aHdlc3Rlcm5cPg==</entry>
-        <entry encoding="base64">XDxnZXRRdWVyeVw+</entry>
-        <entry>function query</entry>
-        <entry>search</entry>
-        <entry encoding="base64">XDxteUNvdW50ZXJCYWxhbmNlWmlwTWlncmF0aW9uMjAxN1w+</entry>
-        <entry encoding="base64">XDxjcmVhdGVSZWdpb25zXD4=</entry>
-        <entry encoding="base64">XDxjb3VudGVyQmFsYW5jZVN5c3RlbVVwZGF0ZXMyMDE3XD4=</entry>
-        <entry>apply_extr</entry>
-        <entry encoding="base64">XDx2aWV3UGF0aFw+</entry>
-        <entry>zip</entry>
-        <entry>radio</entry>
-        <entry>33</entry>
-        <entry encoding="base64">XDx6aXBcPg==</entry>
-        <entry>bind.zip</entry>
-        <entry encoding="base64">XDxzY2hvb2xTZWxlY3RlZFw+</entry>
-        <entry>primary-color</entry>
-        <entry encoding="base64">XDxkZWZhdWx0R3JvdXBSZWdleFw+</entry>
-        <entry encoding="base64">XDxkZWZhdWx0T3B0aW9uUmVnZXhEYVw+</entry>
-        <entry encoding="base64">XDxkZWZhdWx0R3JvdXBcPg==</entry>
-        <entry>trainingS</entry>
-        <entry encoding="base64">XDxncm91cFw+</entry>
-        <entry>zip-re</entry>
-        <entry>debug</entry>
-        <entry>apply_ex</entry>
-        <entry encoding="base64">XDx2YWxpZGF0aW9uRmllbGRzXD4=</entry>
-        <entry>adult</entry>
-        <entry>signupEx</entry>
-        <entry>.block</entry>
-        <entry encoding="base64">XDxFVkVOVF9UWVBFX1RSQUlOSU5HXD4=</entry>
-        <entry encoding="base64">XDx0cmFpbmluZ1NlbGVjdFw+</entry>
-        <entry>zip-relate</entry>
-        <entry encoding="base64">XDxmaWVsZEVycm9yXD4=</entry>
-        <entry>fieldErro</entry>
-        <entry>updateZip</entry>
-        <entry>zipFou</entry>
-        <entry encoding="base64">XDx6aXBGb3VuZFw+</entry>
-        <entry encoding="base64">XDxyb3dcPg==</entry>
-        <entry>function edit</entry>
-        <entry>getSignup</entry>
-        <entry encoding="base64">XDxzY2hvb2xEcm9wXD4=</entry>
-        <entry>_extra</entry>
-        <entry>schol</entry>
-        <entry>school</entry>
-        <entry>groupD</entry>
-        <entry encoding="base64">XDxzZWxlY3RlZFw+</entry>
         <entry encoding="base64">dGhpcy0+c2VsZWN0ZWQ=</entry>
         <entry encoding="base64">XDxpc1NlbGVjdGVkXD4=</entry>
         <entry>dd(</entry>
@@ -3173,10 +3056,15 @@
         <entry>training-select</entry>
         <entry encoding="base64">XDx1cGRhdGVGb3JtRm9yWmlwXD4=</entry>
         <entry>debugg</entry>
+        <entry>zip-re</entry>
+        <entry>training-question</entry>
+        <entry>zip-error</entry>
+        <entry encoding="base64">XDxzZWxlY3RcPg==</entry>
+        <entry>schoolDrop</entry>
+        <entry>citySelect</entry>
+        <entry encoding="base64">XDxzY2hvb2xEcm9wXD4=</entry>
       </history-search>
       <history-cmd>
-        <entry>%s+$_POST[+post(+g</entry>
-        <entry>%s+\$_POST\[+post(+g</entry>
         <entry>476</entry>
         <entry>137</entry>
         <entry>232</entry>
