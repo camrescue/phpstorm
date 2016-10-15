@@ -881,7 +881,6 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="JS.GLOBAL_FUNCTION" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="JS.GLOBAL_VARIABLE">
       <value>
         <option name="FOREGROUND" value="fda5ff" />
@@ -1225,9 +1224,21 @@
         <option name="FOREGROUND" value="c83730" />
       </value>
     </option>
+    <option name="PY.CLASS_DEFINITION">
+      <value>
+        <option name="FOREGROUND" value="913791" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="PY.DOC_COMMENT">
       <value>
         <option name="FOREGROUND" value="9933cc" />
+      </value>
+    </option>
+    <option name="PY.FUNC_DEFINITION">
+      <value>
+        <option name="FOREGROUND" value="ecfc10" />
+        <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="PY.INVALID_STRING_ESCAPE">
