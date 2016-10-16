@@ -394,6 +394,12 @@
         <mark key="]" line="26" column="0" />
         <mark key="." line="26" column="0" />
       </file>
+      <file name="$USER_HOME$/Shared/Config/environment/Scripts/python/settings-ssh-select.sample.json" timestamp="1476647054962">
+        <mark key="[" line="8" column="35" />
+        <mark key="]" line="8" column="42" />
+        <mark key="." line="8" column="42" />
+        <mark key="^" line="8" column="42" />
+      </file>
       <file name="$USER_HOME$/Sites/Rescue/helix/application/models/entities/LocationCounty.php" timestamp="1475360826518">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="0" />
@@ -615,12 +621,12 @@
         <mark key="." line="441" column="16" />
         <mark key="^" line="441" column="16" />
       </file>
-      <file name="$USER_HOME$/Shared/Config/environment/Scripts/python/ssh-select.py" timestamp="1476575943645">
-        <mark key="'" line="28" column="17" />
-        <mark key="[" line="62" column="41" />
-        <mark key="]" line="62" column="45" />
-        <mark key="." line="62" column="45" />
-        <mark key="^" line="62" column="45" />
+      <file name="$USER_HOME$/Shared/Config/environment/Scripts/python/ssh-select.py" timestamp="1476646964160">
+        <mark key="'" line="55" column="31" />
+        <mark key="[" line="9" column="24" />
+        <mark key="]" line="9" column="31" />
+        <mark key="." line="9" column="31" />
+        <mark key="^" line="9" column="31" />
       </file>
       <file name="$USER_HOME$/Sites/Rescue/survey-data-merge/frontends/lgbt/src/main.js" timestamp="1475523188395">
         <mark key="'" line="20" column="50" />
@@ -656,17 +662,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="586" column="31" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/user_repo.php" />
-      <jump line="642" column="23" filename="$USER_HOME$/Sites/Rescue/helix/application/models/repositories/user_repo.php" />
-      <jump line="995" column="44" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/users.php" />
-      <jump line="1015" column="40" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/users.php" />
-      <jump line="1033" column="50" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/users.php" />
-      <jump line="1044" column="13" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/users.php" />
-      <jump line="1164" column="31" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/users.php" />
-      <jump line="1165" column="13" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/users.php" />
-      <jump line="385" column="0" filename="$USER_HOME$/Sites/Rescue/helix/application/models/services/ProjectSrv.php" />
-      <jump line="198" column="46" filename="$USER_HOME$/Sites/Rescue/helix/application/views/user/application/edit.php" />
-      <jump line="1158" column="12" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/users.php" />
       <jump line="465" column="18" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/users.php" />
       <jump line="487" column="74" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/users.php" />
       <jump line="542" column="42" filename="$USER_HOME$/Sites/Rescue/helix/application/controllers/users.php" />
@@ -755,7 +750,18 @@
       <jump line="58" column="4" filename="$USER_HOME$/Shared/Config/environment/Scripts/python/ssh-select.py" />
       <jump line="51" column="17" filename="$USER_HOME$/Shared/Config/environment/Scripts/python/ssh-select.py" />
       <jump line="31" column="30" filename="$USER_HOME$/Shared/Config/environment/Scripts/python/ssh-select.py" />
-      <jump line="28" column="17" filename="$USER_HOME$/Shared/Config/environment/Scripts/python/ssh-select.py" />
+      <jump line="41" column="4" filename="$USER_HOME$/Shared/Config/environment/Scripts/python/ssh-select.py" />
+      <jump line="8" column="0" filename="$USER_HOME$/Shared/Config/environment/Scripts/python/ssh-select.py" />
+      <jump line="14" column="20" filename="$USER_HOME$/Shared/Config/environment/Scripts/python/ssh-select.py" />
+      <jump line="16" column="15" filename="$USER_HOME$/Shared/Config/environment/Scripts/python/ssh-select.py" />
+      <jump line="28" column="4" filename="$USER_HOME$/Shared/Config/environment/Scripts/python/ssh-select.py" />
+      <jump line="11" column="0" filename="$USER_HOME$/Shared/Config/environment/Scripts/python/ssh-select.py" />
+      <jump line="70" column="24" filename="$USER_HOME$/Shared/Config/environment/Scripts/python/ssh-select.py" />
+      <jump line="12" column="0" filename="$USER_HOME$/Shared/Config/environment/Scripts/python/ssh-select.py" />
+      <jump line="27" column="11" filename="$USER_HOME$/Shared/Config/environment/Scripts/python/ssh-select.py" />
+      <jump line="69" column="4" filename="$USER_HOME$/Shared/Config/environment/Scripts/python/ssh-select.py" />
+      <jump line="26" column="11" filename="$USER_HOME$/Shared/Config/environment/Scripts/python/ssh-select.py" />
+      <jump line="54" column="31" filename="$USER_HOME$/Shared/Config/environment/Scripts/python/ssh-select.py" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -2601,7 +2607,7 @@
         </keys>
       </register>
       <register name="&quot;" type="4">
-        <text>*</text>
+        <text>name</text>
       </register>
       <register name="e" type="4">
         <keys>
@@ -2655,52 +2661,52 @@
         </keys>
       </register>
       <register name="-" type="4">
-        <text>*</text>
+        <text>name</text>
       </register>
       <register name="/" type="4">
-        <text>server</text>
+        <text encoding="base64">XDxnZXRfanNvblw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICJyZXNjdWVkZXYiOiAic3NoIHJlc2N1ZWRldi5jb21AcmVzY3VlZGV2LmNvbSIsCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdTZXJ2ZXIgb3B0aW9uczonKQo=</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICJoYWwgKE1UIC0gZ3JpZCkiOiAic3NoIHJlc2N1ZXNjZy5jb21AcmVzY3Vlc2NnLmNvbSIsCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICJyZXNjdWVkZXYgKE1UIC0gZ3JpZCkiOiAic3NoIHJlc2N1ZWRldi5jb21AcmVzY3VlZGV2LmNvbSIsCiAgICAiZnJheCAoTVQgLSBncmlkKSI6ICJzc2ggeWRvdXRoaW5rLmNvbUB5ZG91dGhpbmsuY29tIgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHNldHRpbmdzCg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHBhdGggPQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ZGVmIAo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">YmFzZV9wYXRoID0K</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHByaW50KCdMb2dnaW5nIGluLi4uJykKICAgIHByaW50KCc9PT09PT09PT09PT09PT09PT09PT09PT0nKQo=</text>
+        <text encoding="base64">c2V0dGluZ3NfZmlsZSA9ICdzc2gtc2VsZWN0LW9wdGlvbnMuanNvbicK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcHJpbnQodmFsdWUpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KCdTZXJ2ZXIgb3B0aW9uczonKQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgdmFsdWUgLT0gMQo=</text>
+        <text encoding="base64">ICAgICJoYWwgKE1UIC0gZ3JpZCkiOiAic3NoIHJlc2N1ZXNjZy5jb21AcmVzY3Vlc2NnLmNvbSIsCg==</text>
       </register>
       <register name="x" type="4">
         <text />
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNlcnZlcl9udW0gPSBpbnQodmFsdWUpIC0gMQo=</text>
+        <text encoding="base64">ICAgICJyZXNjdWVkZXYgKE1UIC0gZ3JpZCkiOiAic3NoIHJlc2N1ZWRldi5jb21AcmVzY3VlZGV2LmNvbSIsCiAgICAiZnJheCAoTVQgLSBncmlkKSI6ICJzc2ggeWRvdXRoaW5rLmNvbUB5ZG91dGhpbmsuY29tIgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>server</last-search>
+      <last-search encoding="base64">XDxnZXRfanNvblw+</last-search>
       <last-offset />
-      <last-pattern>server</last-pattern>
+      <last-pattern encoding="base64">XDxnZXRfanNvblw+</last-pattern>
       <last-replace>post(</last-replace>
       <last-substitute encoding="base64">XDx2YWxpZGF0ZUNvdXJzZUxlc3Nvblw+</last-substitute>
       <last-dir>1</last-dir>
@@ -2736,9 +2742,15 @@
         <entry encoding="base64">XDxuaWNlX3ByaW50XD4=</entry>
         <entry encoding="base64">XDxyZW1vdGVDb25maWdGaWxlXD4=</entry>
         <entry>die_error</entry>
-        <entry encoding="base64">XDxnZXRfanNvblw+</entry>
         <entry>Serv</entry>
         <entry>server</entry>
+        <entry encoding="base64">XDxwcm9tcHRfdXNlclw+</entry>
+        <entry encoding="base64">XDxzZXR0aW5nc1w+</entry>
+        <entry>fwefwef</entry>
+        <entry>keys</entry>
+        <entry encoding="base64">XDxiYXNlX3BhdGhcPg==</entry>
+        <entry>base_path</entry>
+        <entry encoding="base64">XDxnZXRfanNvblw+</entry>
       </history-search>
       <history-cmd>
         <entry>137</entry>
